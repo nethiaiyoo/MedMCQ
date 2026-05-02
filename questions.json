@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "note": "Add questions under the relevant topic and subtopic. Each question needs: question, options (4 items), correct (0-3), explanation. To add a new subtopic, add a new key inside the topic's subtopics object.",
+  "version": "3.0",
+  "note": "Add questions under the relevant specialty and subtopic. Each question needs: question, options (4 items), correct (0-3 index), explanation. To add a new subtopic, add a new key inside the specialty's subtopics object with an empty array [].",
   "topics": {
     "surgery": {
       "label": "Surgery",
@@ -44,28 +44,9 @@
         ],
         "Breast": [],
         "Vascular": [],
-        "Endocrine Surgery": []
-      }
-    },
-    "obsgyn": {
-      "label": "Obs & Gynae",
-      "subtopics": {
-        "Gynaecology": [
-          {
-            "question": "A 28-year-old woman presents with heavy, irregular menstrual bleeding for 8 months. Examination and USS are normal. Endometrial biopsy shows no pathology. What is the most likely diagnosis?",
-            "options": [
-              "Endometrial carcinoma",
-              "Polycystic ovarian syndrome",
-              "Dysfunctional uterine bleeding",
-              "Submucous fibroid"
-            ],
-            "correct": 2,
-            "explanation": "Dysfunctional uterine bleeding (DUB) is a diagnosis of exclusion — abnormal uterine bleeding with no identifiable structural or systemic cause. Normal USS and biopsy with no pathology confirms DUB, most commonly due to anovulatory cycles."
-          }
-        ],
-        "Obstetrics": [],
-        "Reproductive Medicine": [],
-        "Oncology": []
+        "Endocrine Surgery": [],
+        "Colorectal": [],
+        "Upper GI": []
       }
     },
     "cardiology": {
@@ -87,72 +68,699 @@
         "Arrhythmias": [],
         "Coronary Artery Disease": [],
         "Heart Failure": [],
-        "ECG Interpretation": []
+        "ECG Interpretation": [],
+        "Valvular Disease": [],
+        "Hypertension": []
       }
     },
-    "pharmacology": {
-      "label": "Pharmacology",
+    "gastrohepatology": {
+      "label": "Gastro & Hepatology",
       "subtopics": {
-        "Anticoagulants": [],
-        "Antiarrhythmics": [],
-        "Antibiotics": [],
-        "Analgesics": [],
-        "Pharmacokinetics": []
-      }
-    },
-    "forensic": {
-      "label": "Forensic Medicine",
-      "subtopics": {
-        "Drowning": [
+        "Autoimmune Hepatitis": [
           {
-            "question": "A body is found in a river. Post-mortem examination reveals waterlogging of the lungs, fine froth from mouth and nostrils, and diatoms in the bone marrow. What is the most likely cause of death?",
+            "question": "What is the prevalence of autoimmune hepatitis in Europe?",
             "options": [
-              "Dead before entering water (post-mortem submersion)",
-              "Dry drowning",
-              "Ante-mortem drowning (wet drowning)",
-              "Vagal inhibition"
+              "5-8 cases per 100,000",
+              "16-18 cases per 100,000",
+              "30-35 cases per 100,000",
+              "50+ cases per 100,000"
+            ],
+            "correct": 1,
+            "explanation": "AIH prevalence ranges from 16 to 18 cases per 100,000 inhabitants in Europe. It is considered a rare disease."
+          },
+          {
+            "question": "Which of the following best describes the sex and age distribution of AIH?",
+            "options": [
+              "Males predominate; peaks at age 30 and 60",
+              "Females predominate (3:1); peaks at age 10-20 and 40-70",
+              "Equal sex distribution; affects mainly elderly",
+              "Females predominate; single peak at age 50"
+            ],
+            "correct": 1,
+            "explanation": "AIH has a female-to-male ratio of 3:1. There are two age peaks: one in adolescence (10-20 years) and one in middle age (4th-7th decade)."
+          },
+          {
+            "question": "What is the primary genetic mechanism underlying susceptibility to AIH?",
+            "options": [
+              "HLA-B27 gene mutation",
+              "Mutations in AIRE (autoimmune regulatory) genes",
+              "BRCA1 gene deletion",
+              "Mitochondrial DNA mutations"
+            ],
+            "correct": 1,
+            "explanation": "Mutations in AIRE genes suppress regulatory functions that control autoreactive processes, leading to both genetic predisposition and failure to suppress the autoimmune response."
+          },
+          {
+            "question": "Which of the following drugs is a known environmental trigger of AIH?",
+            "options": [
+              "Metformin",
+              "Amoxicillin",
+              "Nitrofurantoin",
+              "Omeprazole"
             ],
             "correct": 2,
-            "explanation": "Diatoms in the bone marrow are pathognomonic of ante-mortem drowning — they can only reach the marrow via circulation if the person was alive and inhaling water. Post-mortem submersion would not show diatom penetration beyond the lungs."
+            "explanation": "Known drug triggers of AIH include minocycline, statins, methyldopa, and nitrofurantoin. These cause hepatocyte damage and autoantigen exposure."
+          },
+          {
+            "question": "In AIH, immune-mediated liver damage is primarily carried out by:",
+            "options": [
+              "Neutrophils and eosinophils",
+              "Autoreactive T and B lymphocytes",
+              "Natural killer cells only",
+              "Mast cells and basophils"
+            ],
+            "correct": 1,
+            "explanation": "In AIH, autoreactive T and B lymphocytes mediate immune liver damage. B lymphocytes also produce autoantibodies that stimulate humoral immune response."
+          },
+          {
+            "question": "Autoimmune hepatitis Type 1 is characterized by which autoantibodies?",
+            "options": [
+              "Anti-LKM1 and Anti-LC1",
+              "ANA and Anti-SMA",
+              "Anti-SLA and Anti-LKM3",
+              "AMA and Anti-dsDNA"
+            ],
+            "correct": 1,
+            "explanation": "Type 1 AIH is defined by ANA (antinuclear antibodies) and Anti-SMA (anti-smooth muscle antibodies). It accounts for approximately 90% of AIH cases."
+          },
+          {
+            "question": "The target autoantigen in Type 2 AIH is:",
+            "options": [
+              "Asialoglycoprotein receptor",
+              "Smooth muscle actin",
+              "P-450 2D6 isoenzyme",
+              "Soluble liver antigen"
+            ],
+            "correct": 2,
+            "explanation": "In Type 2 AIH, the main target antigen is the P-450 2D6 isoenzyme, against which anti-LKM1 (liver-kidney microsomal antibody type 1) is produced."
+          },
+          {
+            "question": "Type 3 AIH is best described as:",
+            "options": [
+              "A separate disease from AIH Types 1 and 2",
+              "A subtype of Type 1 AIH, defined by anti-SLA/anti-LP antibodies",
+              "A subtype of Type 2 AIH, defined by anti-LKM3 antibodies",
+              "The most common form of AIH"
+            ],
+            "correct": 1,
+            "explanation": "Type 3 AIH is a subtype of Type 1 AIH, characterized by antibodies to soluble liver antigen (anti-SLA) and liver/pancreatic antigen (anti-LP)."
+          },
+          {
+            "question": "Compared to Type 1, Type 2 AIH is characterized by:",
+            "options": [
+              "Better response to treatment and lower relapse rates",
+              "Predominantly affecting elderly men",
+              "More aggressive course, higher relapse rates, and often needs long-term maintenance",
+              "Being the more common type overall"
+            ],
+            "correct": 2,
+            "explanation": "Type 2 AIH is more aggressive, has more frequent treatment failure and relapse after drug withdrawal, and commonly requires long-term maintenance therapy."
+          },
+          {
+            "question": "In what percentage of AIH patients does acute onset occur?",
+            "options": [
+              "5%",
+              "10%",
+              "25%",
+              "50%"
+            ],
+            "correct": 2,
+            "explanation": "Acute onset of AIH occurs in about 25% of patients, presenting with jaundice, pruritus, right upper quadrant pain, fever, and arthralgia."
+          },
+          {
+            "question": "A patient presents with their first symptoms of liver disease already showing ascites, variceal veins, and hepatic encephalopathy. This suggests:",
+            "options": [
+              "Acute fulminant AIH",
+              "First presentation at the stage of cirrhosis",
+              "Drug-induced liver injury",
+              "Primary biliary cholangitis"
+            ],
+            "correct": 1,
+            "explanation": "In one third of AIH patients, the first manifestations appear at the cirrhotic stage. AIH can silently progress to cirrhosis without overt symptoms."
+          },
+          {
+            "question": "Which autoimmune disease is most commonly associated with AIH?",
+            "options": [
+              "Multiple sclerosis",
+              "Autoimmune thyroiditis",
+              "Psoriatic arthritis",
+              "Ankylosing spondylitis"
+            ],
+            "correct": 1,
+            "explanation": "Autoimmune thyroiditis is among the most common autoimmune diseases associated with AIH. Others include Type 1 diabetes, IBD, SLE, rheumatoid arthritis, and celiac disease."
+          },
+          {
+            "question": "In the acute phase of AIH, which of the following is TRUE regarding laboratory findings?",
+            "options": [
+              "IgG is always markedly elevated",
+              "Autoantibodies are always positive",
+              "Both IgG and autoantibodies may be within normal range",
+              "ALP is always dramatically elevated"
+            ],
+            "correct": 2,
+            "explanation": "In the acute phase, autoantibodies can be negative and serum IgG may be within normal range. This is a key clinical pitfall — a biopsy may be needed in such cases."
+          },
+          {
+            "question": "What titer of ANA or SMA is considered positive in adults with suspected AIH?",
+            "options": [
+              "> 1:10",
+              "> 1:20",
+              "> 1:40",
+              "> 1:80"
+            ],
+            "correct": 2,
+            "explanation": "Titers of ANA and SMA greater than 1:40 are considered positive in adults. These are detected by indirect immunofluorescence."
+          },
+          {
+            "question": "Which biochemical pattern is typical in AIH?",
+            "options": [
+              "Predominantly cholestatic (high ALP, normal ALT)",
+              "Predominantly hepatocellular (high ALT/AST, normal or mildly elevated ALP)",
+              "Isolated hyperbilirubinemia with normal enzymes",
+              "Elevated ALP with low albumin"
+            ],
+            "correct": 1,
+            "explanation": "AIH typically shows a hepatocellular injury pattern: markedly elevated ALT/AST (up to 50x ULN), while ALP and GGT are normal or only slightly elevated."
+          },
+          {
+            "question": "Elevated gamma-globulins (particularly IgG) are found in what percentage of AIH cases?",
+            "options": [
+              "50%",
+              "65%",
+              "85%",
+              "100%"
+            ],
+            "correct": 2,
+            "explanation": "Elevated gamma-globulins (particularly IgG) are found in 85% of AIH cases. However, IgG may be normal in the acute phase, so a normal level does not rule out AIH."
+          },
+          {
+            "question": "Spontaneous biochemical remission in AIH means:",
+            "options": [
+              "The disease has resolved completely",
+              "The active inflammation has stopped at the histological level",
+              "Lab values normalize but histological inflammation may still be ongoing",
+              "Treatment can be safely stopped"
+            ],
+            "correct": 2,
+            "explanation": "Spontaneous biochemical remission (normalization of aminotransferases) does not indicate elimination of the inflammatory process — active inflammation continues histologically."
+          },
+          {
+            "question": "Which of the following histological findings is MOST characteristic of AIH?",
+            "options": [
+              "Caseating granulomas",
+              "Microvesicular steatosis",
+              "Emperipolesis and hepatocellular rosette formation",
+              "Cholestatic bile plugs"
+            ],
+            "correct": 2,
+            "explanation": "The hallmark histological features of AIH are: interface hepatitis, lymphoplasmocytic infiltration, hepatocellular rosette formation, emperipolesis, and hepatocyte swelling/pycnotic necrosis."
+          },
+          {
+            "question": "Emperipolesis is best defined as:",
+            "options": [
+              "Destruction of hepatocytes by macrophages",
+              "Active penetration of one cell into and through a larger cell without harming the latter",
+              "Rosette formation around bile canaliculi",
+              "Fibrosis of the portal tracts"
+            ],
+            "correct": 1,
+            "explanation": "Emperipolesis is the active penetration by one cell (lymphocyte) into and through a larger cell (hepatocyte) without harming the latter. It differs from phagocytosis in that the host cell survives."
+          },
+          {
+            "question": "The presence of fibrosis on liver biopsy in AIH indicates:",
+            "options": [
+              "A very recent, acute onset of disease",
+              "A prolonged, chronic course of inflammation",
+              "The disease is resolving",
+              "Treatment has been effective"
+            ],
+            "correct": 1,
+            "explanation": "Fibrosis at histological examination indicates a prolonged, chronic course of inflammation, even if the patient had no symptoms during that time."
+          },
+          {
+            "question": "What is the first-line induction therapy for AIH?",
+            "options": [
+              "Azathioprine monotherapy",
+              "Prednisolone monotherapy only",
+              "Prednisolone + azathioprine combination",
+              "Cyclosporine + tacrolimus combination"
+            ],
+            "correct": 2,
+            "explanation": "First-line induction therapy is prednisolone 0.5-1 mg/kg/day combined with azathioprine 1-2 mg/kg/day. Alternatively, prednisolone can be started alone with azathioprine added after two weeks."
+          },
+          {
+            "question": "What is the minimum total duration of AIH treatment before considering discontinuation?",
+            "options": [
+              "1 year",
+              "2 years",
+              "3 years",
+              "5 years"
+            ],
+            "correct": 2,
+            "explanation": "Treatment should be continued for at least 3 years, and for at least 24 months after complete biochemical remission (normalization of transaminases and IgG)."
+          },
+          {
+            "question": "Before stopping AIH treatment, which of the following is required?",
+            "options": [
+              "Normal IgG for 6 months",
+              "Normal ALT for 3 months",
+              "Liver biopsy confirming histological remission",
+              "Negative autoantibody titers"
+            ],
+            "correct": 2,
+            "explanation": "A liver biopsy is needed to confirm histological remission before stopping treatment. If the histological activity index (HAI) is >3, treatment must not be discontinued."
+          },
+          {
+            "question": "In the maintenance phase of AIH treatment, what is the preferred strategy?",
+            "options": [
+              "Continue prednisolone + azathioprine at the same induction doses indefinitely",
+              "Increase azathioprine to 2 mg/kg/day while tapering and withdrawing prednisolone",
+              "Switch to cyclosporine monotherapy",
+              "Stop all medications after biochemical remission"
+            ],
+            "correct": 1,
+            "explanation": "In maintenance, azathioprine is increased to 2 mg/kg/day as prednisolone is gradually withdrawn. Azathioprine monotherapy is then continued as maintenance."
+          },
+          {
+            "question": "A patient with severe acute AIH does not respond to intravenous high-dose steroids within a few days. What is the next step?",
+            "options": [
+              "Add azathioprine immediately",
+              "Switch to oral prednisolone",
+              "Consider liver transplantation",
+              "Start cyclosporine and wait 2 weeks"
+            ],
+            "correct": 2,
+            "explanation": "If there is no positive response to IV high-dose steroids (>1 mg/kg) within a few days in acute severe AIH, liver transplantation should be suggested."
+          },
+          {
+            "question": "Which of the following is an alternative maintenance therapy if azathioprine is contraindicated?",
+            "options": [
+              "High-dose prednisolone",
+              "Low-dose prednisolone monotherapy",
+              "Cyclosporine monotherapy",
+              "MMF + tacrolimus combination"
+            ],
+            "correct": 1,
+            "explanation": "If a patient has contraindications to azathioprine or develops side effects, low-dose prednisolone monotherapy is the alternative for maintenance treatment."
+          },
+          {
+            "question": "Mycophenolate mofetil (MMF) is used in AIH when:",
+            "options": [
+              "As first-line induction instead of prednisolone",
+              "As maintenance in all patients after remission",
+              "In cases resistant to prednisolone + azathioprine",
+              "In combination with cyclosporine for acute AIH"
+            ],
+            "correct": 2,
+            "explanation": "MMF, cyclosporine, and tacrolimus are alternative therapies used in cases of resistance to prednisolone plus azathioprine combined therapy."
           }
         ],
-        "Mechanical Injuries": [],
-        "Asphyxia": [],
-        "Toxicology": [],
-        "Forensic Ballistics": [],
-        "Death & Decomposition": [],
-        "Head Injuries": []
+        "Drug-Induced Liver Injury": [
+          {
+            "question": "What percentage of fulminant hepatic failure cases is attributed to drugs?",
+            "options": [
+              "5-10%",
+              "20-40%",
+              "50-60%",
+              "Over 80%"
+            ],
+            "correct": 1,
+            "explanation": "Drugs account for 20-40% of all instances of fulminant hepatic failure, and DILI is considered a cause for over 50% of total hepatic failure."
+          },
+          {
+            "question": "Drugs account for approximately what proportion of acute hepatitis cases?",
+            "options": [
+              "2-5%",
+              "~10%",
+              "20-25%",
+              "~50%"
+            ],
+            "correct": 1,
+            "explanation": "Drugs account for ~10% of all cases of acute hepatitis, and 2-5% of cases of patients hospitalised with jaundice."
+          },
+          {
+            "question": "Why are elderly patients at increased risk of drug-induced hepatotoxicity?",
+            "options": [
+              "Higher gastric acid production",
+              "Decreased clearance, reduced hepatic blood flow, and lower hepatic volume",
+              "Increased P-450 enzyme activity",
+              "More frequent use of herbal supplements"
+            ],
+            "correct": 1,
+            "explanation": "Elderly persons are at increased risk due to decreased clearance, drug-to-drug interactions, reduced hepatic blood flow, variation in drug binding, and lower hepatic volume."
+          },
+          {
+            "question": "How does chronic alcohol use increase susceptibility to DILI?",
+            "options": [
+              "By increasing cytochrome P-450 activity only",
+              "By depleting glutathione stores and inducing cirrhotic changes that alter drug metabolism",
+              "By increasing bile production",
+              "By reducing gastric absorption of drugs"
+            ],
+            "correct": 1,
+            "explanation": "Alcohol causes depletion of glutathione (a hepatoprotective antioxidant) and induces cirrhotic changes that alter drug metabolism, increasing susceptibility to hepatotoxicity."
+          },
+          {
+            "question": "Which method can be used to identify genetic differences in P-450 enzymes that predispose to idiosyncratic DILI?",
+            "options": [
+              "Liver biopsy",
+              "Western blot",
+              "PCR amplification of mutant genes",
+              "Serum ceruloplasmin"
+            ],
+            "correct": 2,
+            "explanation": "Genetic differences in P-450 enzymes can be identified by PCR amplification of mutant genes, which may enable future identification of at-risk individuals."
+          },
+          {
+            "question": "A drug's covalent binding to intracellular proteins leads to decreased ATP and disruption of the cytoskeleton. Which mechanism is this?",
+            "options": [
+              "Bile duct injury",
+              "Cytolytic T-cell activation",
+              "Disruption of the hepatocyte via actin fibril disassembly",
+              "Mitochondrial disruption"
+            ],
+            "correct": 2,
+            "explanation": "Covalent binding to intracellular proteins leads to decreased ATP, then actin fibril disassembly, then membrane blebs and rupture. This is direct hepatocyte disruption."
+          },
+          {
+            "question": "Which mechanism explains how certain drugs cause cholestasis by affecting the canalicular membrane?",
+            "options": [
+              "Apoptosis via the Fas pathway",
+              "Disruption of transport proteins such as MRP3, preventing bilirubin excretion",
+              "Mitochondrial inhibition of beta-oxidation",
+              "Cytolytic T-cell activation"
+            ],
+            "correct": 1,
+            "explanation": "Drugs affecting transport proteins at the canalicular membrane (e.g., MRP3) interrupt bile flow and prevent bilirubin excretion, causing cholestasis."
+          },
+          {
+            "question": "Phenytoin causes DILI with fever, rash, and eosinophilia within 1-4 weeks. This is an example of:",
+            "options": [
+              "Intrinsic/predictable hepatotoxicity",
+              "Metabolic-idiosyncratic reaction",
+              "Hypersensitivity/immunoallergic idiosyncratic reaction",
+              "Direct bile duct injury"
+            ],
+            "correct": 2,
+            "explanation": "Phenytoin is a classic example of a hypersensitivity (immunoallergic) idiosyncratic reaction: fever, rash, eosinophilia, short latency of 1-4 weeks — all hallmarks of an immune-mediated response."
+          },
+          {
+            "question": "Isoniazid (INH) hepatotoxicity is best classified as:",
+            "options": [
+              "Intrinsic/predictable hepatotoxicity",
+              "Hypersensitivity idiosyncratic reaction",
+              "Metabolic-idiosyncratic reaction",
+              "Direct mitochondrial toxin"
+            ],
+            "correct": 2,
+            "explanation": "INH causes a metabolic-idiosyncratic reaction: onset is variable (1 week to 1 year), occurs in a minority of patients, and no hypersensitivity features (fever, rash, eosinophilia) are present."
+          },
+          {
+            "question": "Acetaminophen at supertherapeutic doses is an example of which type of hepatotoxic reaction?",
+            "options": [
+              "Hypersensitivity idiosyncratic",
+              "Metabolic-idiosyncratic",
+              "Intrinsic/predictable",
+              "Immune-mediated"
+            ],
+            "correct": 2,
+            "explanation": "Acetaminophen is the classic intrinsic/predictable hepatotoxin — it causes reproducible, dose-dependent injury in animals and humans alike."
+          },
+          {
+            "question": "What percentage of DILI cases present as hepatocellular injury?",
+            "options": [
+              "50%",
+              "70%",
+              "90%",
+              "Nearly 100%"
+            ],
+            "correct": 2,
+            "explanation": "Hepatocellular injury occurs in approximately 90% of DILI cases, making it by far the most common pattern."
+          },
+          {
+            "question": "A patient on amoxicillin-clavulanate develops jaundice and pruritus. Labs show isolated ALP at 3x ULN with normal ALT. The R value is 1.5. What type of DILI is this?",
+            "options": [
+              "Hepatocellular injury",
+              "Cholestatic type 1 (pure)",
+              "Cholestatic type 2 (mixed)",
+              "Granulomatous hepatitis"
+            ],
+            "correct": 1,
+            "explanation": "R value of 1.5 (<=2) with isolated ALP elevation and no hepatocellular damage = Cholestatic type 1 (pure). Amoxicillin-clavulanate is a classic cause."
+          },
+          {
+            "question": "The R value in DILI is calculated as:",
+            "options": [
+              "AST/ALT ratio",
+              "(ALT/ALT-ULN) divided by (ALP/ALP-ULN)",
+              "ALP x bilirubin / albumin",
+              "(ALP/ALP-ULN) divided by (ALT/ALT-ULN)"
+            ],
+            "correct": 1,
+            "explanation": "R = (ALT / ALT-ULN) divided by (ALP / ALP-ULN). R >=5 = hepatocellular; 2-5 = mixed; <=2 = cholestatic."
+          },
+          {
+            "question": "Which of the following drugs is most associated with microvesicular steatosis?",
+            "options": [
+              "Methotrexate",
+              "Corticosteroids",
+              "Tetracycline (high dose)",
+              "Nifedipine"
+            ],
+            "correct": 2,
+            "explanation": "Tetracycline (high dose), along with aspirin, amiodarone, and piroxicam, causes microvesicular steatosis. Methotrexate, corticosteroids, and nifedipine cause macrovesicular steatosis."
+          },
+          {
+            "question": "Which statement best differentiates microvesicular from macrovesicular steatosis in DILI?",
+            "options": [
+              "Macrovesicular steatosis displaces the nucleus; microvesicular does not",
+              "Microvesicular steatosis reflects mitochondrial dysfunction and can cause acute liver failure; macrovesicular is generally milder",
+              "Macrovesicular steatosis only occurs with alcohol use",
+              "Microvesicular steatosis is more common than macrovesicular"
+            ],
+            "correct": 1,
+            "explanation": "Microvesicular steatosis reflects mitochondrial beta-oxidation failure, which can precipitate acute liver failure and is more severe. Macrovesicular is more common and typically milder, with the large lipid droplet displacing the nucleus."
+          },
+          {
+            "question": "Noncaseating epithelioid granulomas in periportal areas are the hallmark histology of which DILI pattern?",
+            "options": [
+              "Hepatocellular injury",
+              "Cholestatic type 2",
+              "Granulomatous hepatitis",
+              "Venoocclusive disease"
+            ],
+            "correct": 2,
+            "explanation": "Granulomatous hepatitis is characterised by noncaseating epithelioid granulomas located in periportal or portal areas. Causative drugs include sulfonamide, quinidine, and allopurinol."
+          },
+          {
+            "question": "Which drugs have been associated with hepatic venoocclusive disease?",
+            "options": [
+              "Acetaminophen and isoniazid",
+              "Azathioprine, oral contraceptives, and anabolic steroids",
+              "Methotrexate and enalapril",
+              "Sulfonamide and quinidine"
+            ],
+            "correct": 1,
+            "explanation": "Azathioprine, herbal teas, oral contraceptives, and anabolic steroids are associated with hepatic venoocclusive disease, which can injure sinusoids, hepatic veins, and hepatic arteries."
+          },
+          {
+            "question": "A patient on long-term methotrexate therapy develops slowly progressive liver disease. Biopsy shows collagen deposition with minimal necrosis or inflammation. This represents:",
+            "options": [
+              "Granulomatous hepatitis",
+              "Cholestatic type 1 injury",
+              "Hepatic fibrosis/cirrhosis",
+              "Microvesicular steatosis"
+            ],
+            "correct": 2,
+            "explanation": "Some agents — notably methotrexate and enalapril — produce increased collagen deposition with minimal necrosis, leading to hepatic fibrosis and cirrhosis."
+          },
+          {
+            "question": "Which of the following is NOT one of the four mechanisms by which drugs cause steatosis?",
+            "options": [
+              "Beta-oxidation suppression of fatty acids in mitochondria",
+              "Suppression of LDL secretion",
+              "Direct hepatocyte membrane lysis",
+              "Development of insulin resistance and hyperinsulinemia"
+            ],
+            "correct": 2,
+            "explanation": "The four mechanisms of drug-induced steatosis are: (1) beta-oxidation suppression, (2) activation of lipogenic transcription factors, (3) suppression of LDL secretion, (4) insulin resistance/hyperinsulinemia. Direct membrane lysis is not one of them."
+          },
+          {
+            "question": "DILI is considered a diagnosis of exclusion. Which of the following does NOT need to be excluded?",
+            "options": [
+              "Acute viral hepatitis",
+              "Wilson's disease",
+              "Hypothyroidism",
+              "Autoimmune hepatitis"
+            ],
+            "correct": 2,
+            "explanation": "Hypothyroidism is not on the DILI exclusion list. Required exclusions include: acute viral hepatitis, autoimmune hepatitis, ischemic liver damage, NAFLD, Wilson's disease, hemochromatosis, CMV, EBV, HEV, cholangitis, cholecystitis, ALD, and liver tumours."
+          },
+          {
+            "question": "For a patient with R value >=5 (hepatocellular pattern), what are the first-line investigations?",
+            "options": [
+              "Abdominal ultrasound only",
+              "Acute viral hepatitis serologics, HCV RNA, autoimmune hepatitis serologics, and imaging",
+              "Liver biopsy and ceruloplasmin",
+              "MRCP and ERCP"
+            ],
+            "correct": 1,
+            "explanation": "For hepatocellular pattern (R >=5): first-line tests are acute viral hepatitis serologics, HCV RNA, autoimmune hepatitis serologics, and imaging studies. Liver biopsy and ceruloplasmin are second-line."
+          },
+          {
+            "question": "In suspected cholestatic DILI, liver biopsy is indicated if ALP remains elevated after stopping the drug for how long?",
+            "options": [
+              "30 days",
+              "60 days",
+              "90 days",
+              "180 days"
+            ],
+            "correct": 3,
+            "explanation": "For cholestatic injury, liver biopsy is indicated if the ALP remains elevated 180 days after stopping the drug. For hepatocellular injury, the threshold is 30-60 days of persistent ALT elevation."
+          },
+          {
+            "question": "Which combination of findings carries the worst prognostic significance in hepatocellular DILI?",
+            "options": [
+              "Isolated ALP elevation",
+              "Elevated bilirubin combined with high aminotransferases",
+              "Mild ALT elevation with normal bilirubin",
+              "Isolated pruritus"
+            ],
+            "correct": 1,
+            "explanation": "The elevation of bilirubin combined with high aminotransferases (Hy's Law equivalent) has negative prognostic value and predicts fulminant necrosis."
+          },
+          {
+            "question": "Which autoimmune markers should be checked to help exclude autoimmune hepatitis in a DILI workup?",
+            "options": [
+              "AMA and pANCA",
+              "ANA, SMA, Anti-LKM1, and IgG (gamma-globulin)",
+              "HBsAg and anti-HCV",
+              "Ceruloplasmin and ferritin"
+            ],
+            "correct": 1,
+            "explanation": "To exclude autoimmune hepatitis: ANA, SMA (smooth muscle antibody), Anti-LKM1, and IgG (gamma-globulin). AMA and pANCA are for PBC and PSC respectively."
+          },
+          {
+            "question": "What is the most appropriate first imaging modality in the workup of suspected cholestatic DILI?",
+            "options": [
+              "MRI with contrast",
+              "CT scan",
+              "Abdominal ultrasound",
+              "ERCP"
+            ],
+            "correct": 2,
+            "explanation": "Abdominal ultrasound is the first-line imaging for suspected cholestatic injury — it is inexpensive, fast, and effective for evaluating the gallbladder, bile ducts, and hepatic tumours."
+          },
+          {
+            "question": "What is the primary and most critical intervention in all cases of DILI?",
+            "options": [
+              "Start N-acetylcysteine immediately",
+              "Administer corticosteroids",
+              "Immediately stop the implicated drug",
+              "Refer for liver transplantation"
+            ],
+            "correct": 2,
+            "explanation": "The main intervention in DILI is to immediately stop the implicated drug. This is the cornerstone of management regardless of severity or type."
+          },
+          {
+            "question": "N-acetylcysteine (NAC) is recommended in early acute liver failure from DILI. Within what timeframe is it most effective?",
+            "options": [
+              "Within 2-4 hours",
+              "Within 8-10 hours",
+              "Within 24 hours",
+              "Within 48 hours"
+            ],
+            "correct": 1,
+            "explanation": "NAC is safe and efficient when used during the first 8-10 hours of acute liver failure development. It replenishes glutathione stores and reduces oxidative damage."
+          },
+          {
+            "question": "A patient develops DILI with features resembling autoimmune hepatitis. What is the appropriate management?",
+            "options": [
+              "NAC only",
+              "Immediate liver transplantation",
+              "Management similar to autoimmune hepatitis (corticosteroids)",
+              "Broad-spectrum antibiotics"
+            ],
+            "correct": 2,
+            "explanation": "In cases of autoimmune-type DILI, management follows the same approach as autoimmune hepatitis — typically corticosteroids."
+          },
+          {
+            "question": "Which of the following correctly describes the prognosis of most minimal-to-moderate DILI cases after drug withdrawal?",
+            "options": [
+              "Most progress to cirrhosis",
+              "Most develop persistent cholestasis requiring transplant",
+              "Most recover with no significant fibrosis",
+              "Most require long-term corticosteroid therapy"
+            ],
+            "correct": 2,
+            "explanation": "Most hepatic drug reactions of minimal-to-moderate severity are followed by recovery with no significant fibrosis after drug withdrawal. Fibrosis/cirrhosis only occurs with certain drugs (e.g., methotrexate) or after massive hepatocellular injury."
+          }
+        ],
+        "Peptic Ulcer Disease": [],
+        "Inflammatory Bowel Disease": [],
+        "Cirrhosis": [],
+        "Viral Hepatitis": [],
+        "Pancreatitis": [],
+        "GI Bleeding": []
       }
     },
-    "pathology": {
-      "label": "Pathology",
+    "pulmonology": {
+      "label": "Pulmonology",
       "subtopics": {
-        "Inflammation": [],
-        "Neoplasia": [],
-        "Cardiovascular Pathology": [],
-        "Respiratory Pathology": [],
-        "GI Pathology": []
+        "Asthma": [],
+        "COPD": [],
+        "Pneumonia": [],
+        "Pleural Disease": [],
+        "Pulmonary Embolism": [],
+        "Interstitial Lung Disease": [],
+        "Lung Cancer": []
       }
     },
-    "anatomy": {
-      "label": "Anatomy",
+    "nephrology": {
+      "label": "Nephrology",
       "subtopics": {
-        "Abdomen": [],
-        "Thorax": [],
-        "Head & Neck": [],
-        "Upper Limb": [],
-        "Lower Limb": [],
-        "Neuroanatomy": []
+        "Acute Kidney Injury": [],
+        "Chronic Kidney Disease": [],
+        "Glomerulonephritis": [],
+        "Nephrotic Syndrome": [],
+        "Renal Calculi": [],
+        "Electrolyte Disorders": [],
+        "Renal Replacement Therapy": []
       }
     },
-    "physiology": {
-      "label": "Physiology",
+    "obstetrics": {
+      "label": "Obstetrics",
       "subtopics": {
-        "Cardiovascular": [],
-        "Respiratory": [],
-        "Renal": [],
-        "Endocrine": [],
-        "Neurophysiology": []
+        "Antenatal Care": [],
+        "Labour & Delivery": [],
+        "Obstetric Emergencies": [],
+        "Hypertensive Disorders": [],
+        "Postpartum Complications": [],
+        "Fetal Medicine": []
+      }
+    },
+    "gynaecology": {
+      "label": "Gynaecology",
+      "subtopics": {
+        "Menstrual Disorders": [
+          {
+            "question": "A 28-year-old woman presents with heavy, irregular menstrual bleeding for 8 months. Examination and USS are normal. Endometrial biopsy shows no pathology. What is the most likely diagnosis?",
+            "options": [
+              "Endometrial carcinoma",
+              "Polycystic ovarian syndrome",
+              "Dysfunctional uterine bleeding",
+              "Submucous fibroid"
+            ],
+            "correct": 2,
+            "explanation": "Dysfunctional uterine bleeding (DUB) is a diagnosis of exclusion — abnormal uterine bleeding with no identifiable structural or systemic cause. Normal USS and biopsy with no pathology confirms DUB, most commonly due to anovulatory cycles."
+          }
+        ],
+        "Gynaecological Oncology": [],
+        "Endometriosis": [],
+        "Reproductive Medicine": [],
+        "Pelvic Floor": [],
+        "Contraception": [],
+        "Infections": []
       }
     }
   }
