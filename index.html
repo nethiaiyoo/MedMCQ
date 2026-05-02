@@ -120,6 +120,13 @@
   .q-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
   .q-num { font-size: 11px; color: var(--text3); letter-spacing: 0.04em; }
   .q-subtopic-tag { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 20px; }
+  .past-paper-badge {
+    display: inline-flex; align-items: center; gap: 3px;
+    font-size: 10px; font-weight: 500;
+    background: #FBF0E0; color: #A0691A;
+    border: 1px solid rgba(160,105,26,0.25);
+    padding: 2px 8px; border-radius: 20px;
+  }
   .q-text { font-family: 'DM Serif Display', serif; font-size: 20px; line-height: 1.4; color: var(--text); }
 
   .options { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
@@ -385,6 +392,7 @@ function renderQuestion(idx) {
     <div class="q-card">
       <div class="q-meta">
         <div class="q-num">Question ${idx + 1} of ${total}</div>
+        ${q.past_paper ? '<span class="past-paper-badge">📋 Past paper</span>' : ''}
       </div>
       <div class="q-text">${q.question}</div>
     </div>
