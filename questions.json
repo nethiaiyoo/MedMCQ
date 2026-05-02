@@ -696,6 +696,254 @@
             "explanation": "Most hepatic drug reactions of minimal-to-moderate severity are followed by recovery with no significant fibrosis after drug withdrawal. Fibrosis/cirrhosis only occurs with certain drugs (e.g., methotrexate) or after massive hepatocellular injury."
           }
         ],
+        "Alcoholic Liver Disease": [
+          {
+            "question": "What percentage of all global deaths is attributable to alcohol abuse?",
+            "options": ["2.1%", "3.8%", "5.9%", "8.4%"],
+            "correct": 2,
+            "explanation": "Alcohol abuse accounts for 5.9% of total deaths worldwide, making alcoholic liver disease one of the major causes of liver-related mortality globally."
+          },
+          {
+            "question": "What is the male-to-female ratio specifically for alcoholic liver disease (ALD)?",
+            "options": ["10:1", "5:1", "3:1", "1:1"],
+            "correct": 2,
+            "explanation": "The male/female ratio for ALD is 3:1. Note that the ratio for chronic alcohol intake in general is 10:1, but liver disease is 3:1 because women are more susceptible per unit of alcohol consumed."
+          },
+          {
+            "question": "What is the prevalence of liver cirrhosis among heavy drinkers?",
+            "options": ["5%", "11%", "21%", "42%"],
+            "correct": 2,
+            "explanation": "Only 21% of heavy drinkers develop liver cirrhosis. This underlines that genetic, nutritional, and environmental co-factors determine who progresses beyond steatosis."
+          },
+          {
+            "question": "What proportion of heavy drinkers develop alcoholic steatosis?",
+            "options": ["20-40%", "50-60%", "70-80%", "Over 90%"],
+            "correct": 3,
+            "explanation": "Steatosis develops in over 90% of heavy drinkers consuming ≥60 g/day of pure ethanol — it is the earliest and most common hepatic response to excess alcohol."
+          },
+          {
+            "question": "Why are women more susceptible to alcoholic liver disease than men at equivalent alcohol intake?",
+            "options": ["Higher CYP2E1 activity", "Twice less gastric ADH activity, leading to greater ethanol bioavailability", "Lower estrogen levels reducing hepatoprotection", "More efficient ALDH2 enzyme activity"],
+            "correct": 1,
+            "explanation": "Women have twice less gastric alcohol dehydrogenase (ADH) activity, so less ethanol is metabolized in the stomach. More ethanol reaches the bloodstream and liver. High estrogen levels also amplify inflammatory cytokine responses."
+          },
+          {
+            "question": "The inactive ALDH2*2 (E487K) variant is associated with which clinical phenomenon?",
+            "options": ["Alcoholic hepatitis after minimal intake", "Alcohol flush reaction and decreased alcohol consumption", "Accelerated fibrosis progression", "Resistance to corticosteroid treatment"],
+            "correct": 1,
+            "explanation": "The ALDH2*2 variant is found in ~40% of East Asians and causes accumulation of acetaldehyde (flushing, tachycardia, nausea), which has led to decreased alcohol consumption in Eastern populations."
+          },
+          {
+            "question": "Above what daily ethanol intake does the risk of cirrhosis significantly increase in men, after 15-20 years of use?",
+            "options": ["20-30 g/day", "40-60 g/day", "70-90 g/day", "Over 100 g/day"],
+            "correct": 1,
+            "explanation": "Cirrhosis risk rises significantly when intake exceeds 40-60 g/day in men and 20 g/day in women after 15-20 years of chronic use. One standard unit = 10-15 g ethanol."
+          },
+          {
+            "question": "Which statement about age and ALD is correct?",
+            "options": ["Children are the most vulnerable group", "Elderly patients show greater ethanol-induced impairments than younger people", "Age has no independent effect on ALD progression", "Young adults progress to cirrhosis faster due to higher alcohol intake"],
+            "correct": 1,
+            "explanation": "Age is an independent predictor of ALD. Elderly patients are more vulnerable and show greater degrees of ethanol-induced impairment, though the exact mechanism is not fully established."
+          },
+          {
+            "question": "Where is the majority of ingested alcohol absorbed?",
+            "options": ["Stomach (80%)", "Proximal small intestine (80%)", "Distal small intestine", "Colon"],
+            "correct": 1,
+            "explanation": "Most alcohol absorption (about 80%) occurs in the proximal small intestine; only 20% is absorbed in the stomach. It is then metabolized primarily by hepatocytes."
+          },
+          {
+            "question": "Which enzyme is the most catalytically efficient for ethanol oxidation and reaches half-maximal velocity at 5-10 mg/dL ethanol?",
+            "options": ["CYP2E1", "Catalase", "Alcohol dehydrogenase (ADH)", "Aldehyde dehydrogenase (ALDH2)"],
+            "correct": 2,
+            "explanation": "ADH (located in the cytosol) is the most catalytically efficient ethanol-oxidizing enzyme, reaching half-maximal velocity at 5-10 mg/dL — well below intoxication levels."
+          },
+          {
+            "question": "CYP2E1 is located in which subcellular compartment?",
+            "options": ["Cytosol", "Mitochondria", "Smooth endoplasmic reticulum", "Peroxisomes"],
+            "correct": 2,
+            "explanation": "CYP2E1 resides in the smooth endoplasmic reticulum. In contrast, ADH is in the cytosol and catalase is in peroxisomes."
+          },
+          {
+            "question": "Why does CYP2E1 induction cause hepatotoxicity when an alcoholic takes a therapeutic drug dose?",
+            "options": ["CYP2E1 inhibits Phase 2 conjugation directly", "Induced CYP2E1 metabolizes co-substrates faster, generating more toxic intermediates while glutathione stores are already depleted", "CYP2E1 blocks ADH, causing acetaldehyde accumulation", "CYP2E1 reduces hepatic blood flow, slowing drug clearance"],
+            "correct": 1,
+            "explanation": "CYP2E1 metabolizes drugs and xenobiotics as well as ethanol. Induction means more toxic metabolites are produced from a normal drug dose, and glutathione — the main defense — is already depleted by chronic alcohol-driven ROS generation."
+          },
+          {
+            "question": "What is the toxic product of ADH-catalyzed ethanol oxidation, and what makes it dangerous?",
+            "options": ["Acetate; it inhibits mitochondria", "Acetaldehyde; it covalently binds proteins, lipids, and nucleic acids forming adducts", "NADH; it inhibits the urea cycle", "ROS; they activate Kupffer cells"],
+            "correct": 1,
+            "explanation": "Acetaldehyde is the toxic intermediate. It covalently binds macromolecules forming acetaldehyde adducts, disrupting their structure and function. It is rapidly oxidized to acetate by ALDH2 inside mitochondria to minimize toxicity."
+          },
+          {
+            "question": "What metabolic consequence results from both ADH and ALDH2 generating NADH?",
+            "options": ["Decreased cellular ATP", "Reduced NAD+/NADH ratio (cellular redox potential), promoting lipogenesis", "Increased beta-oxidation of fatty acids", "Upregulation of VLDL synthesis"],
+            "correct": 1,
+            "explanation": "Both ADH and ALDH2 consume NAD+ and generate NADH, decreasing the NAD+/NADH ratio. This shift in cellular redox potential inhibits beta-oxidation and promotes lipid synthesis, contributing to steatosis."
+          },
+          {
+            "question": "Which transcription factor, activated by ethanol in hepatocytes, upregulates lipogenic gene expression?",
+            "options": ["PPAR-alpha", "PPAR-gamma", "SREBP-1c", "NF-kB"],
+            "correct": 2,
+            "explanation": "Ethanol triggers translocation of SREBP-1c from the ER to the Golgi, where it undergoes proteolytic maturation and enters the nucleus to enhance lipogenic gene expression, converting the liver to a fat-storing organ."
+          },
+          {
+            "question": "Which transcription factor governing fatty acid transport and oxidation is inactivated by acetaldehyde?",
+            "options": ["SREBP-1c", "PPAR-alpha", "NF-kB", "Egr-1"],
+            "correct": 1,
+            "explanation": "Acetaldehyde inactivates PPAR-alpha, which normally governs genes regulating fatty acid transport and beta-oxidation. Its loss is one of three mechanisms slowing hepatic fat breakdown in alcoholics."
+          },
+          {
+            "question": "What is the major source of lipopolysaccharide (LPS) that triggers Kupffer cell activation in alcoholic hepatitis?",
+            "options": ["Hepatocyte necrosis", "Gram-negative bacteria translocating from the gut lumen into the portal circulation", "Activated hepatic stellate cells", "Adipose tissue lipolysis"],
+            "correct": 1,
+            "explanation": "Alcohol causes bacterial overgrowth and increases intestinal permeability, allowing LPS from gut Gram-negative bacteria to translocate into the portal circulation. In the liver, LPS is sensed by CD14 and TLR4 on Kupffer cells."
+          },
+          {
+            "question": "Kupffer cells activated by LPS adopt which functional phenotype to drive alcoholic hepatitis?",
+            "options": ["M2 (anti-inflammatory)", "M0 (resting)", "M1 (pro-inflammatory)", "Tolerogenic"],
+            "correct": 2,
+            "explanation": "LPS via TLR4 switches Kupffer cells to a proinflammatory M1 phenotype, producing TNF-alpha, IL-6, IL-1beta, and generating ROS via NADPH oxidase and CYP2E1. Normally, Kupffer cells have tolerogenic properties."
+          },
+          {
+            "question": "Hepatic stellate cells (HSCs) normally reside where and perform what function?",
+            "options": ["Kupffer space; phagocytosis", "Space of Disse; quiescent lipid-storing cells (vitamin A reservoir)", "Bile canaliculi; bile secretion", "Sinusoidal lumen; immune surveillance"],
+            "correct": 1,
+            "explanation": "HSCs normally reside as quiescent, lipid-storing cells in the space of Disse. They serve as the major retinoid (vitamin A) reservoir. Upon activation, they become myofibroblasts and are the principal source of hepatic fibrosis."
+          },
+          {
+            "question": "What structural change in the sinusoid characterizes early fibrogenesis and is called 'sinusoidal capillarization'?",
+            "options": ["Formation of regenerative nodules", "Loss of sinusoidal endothelial cell fenestrae and hepatocyte microvilli", "Replacement of portal veins by fibrous septa", "Accumulation of Mallory-Denk bodies in sinusoids"],
+            "correct": 1,
+            "explanation": "Sinusoidal capillarization refers to the loss of endothelial fenestrae and hepatocyte microvilli as normal low-density matrix in the space of Disse is replaced by dense interstitial ECM. This disrupts hepatocyte-sinusoid exchange and initiates portal hypertension."
+          },
+          {
+            "question": "What histological pattern is characteristic of alcoholic steatosis?",
+            "options": ["Microvesicular steatosis in zone 1", "Macrovesicular steatosis beginning in zone 3 (centrilobular)", "Periportal macrovesicular steatosis", "Mixed micro and macrovesicular steatosis throughout all zones"],
+            "correct": 1,
+            "explanation": "Alcoholic steatosis shows macrovesicular steatosis (large fat droplets displacing the nucleus), beginning in zone 3 (centrilobular, highest CYP2E1 expression) and extending toward zone 1 with continued drinking."
+          },
+          {
+            "question": "Which of the following is the hallmark histological feature that distinguishes alcoholic steatohepatitis from steatosis alone?",
+            "options": ["Macrovesicular fat droplets", "Mallory-Denk bodies, neutrophil infiltration, and hepatocyte ballooning", "Micronodular cirrhosis", "Perivenular collagen deposition only"],
+            "correct": 1,
+            "explanation": "The hallmarks of alcoholic steatohepatitis are Mallory-Denk bodies (cytokeratin aggregates from oxidative stress), neutrophil infiltration, hepatocyte ballooning, megamitochondria, and cholestatic changes — none of which appear in simple steatosis."
+          },
+          {
+            "question": "Approximately what proportion of heavy drinkers progress from steatosis to steatohepatitis and fibrosis?",
+            "options": ["5-10%", "20-40%", "50-60%", "70-80%"],
+            "correct": 1,
+            "explanation": "Approximately 20-40% of heavy drinkers progress from alcoholic steatosis to steatohepatitis. Only 10-35% ultimately develop fibrosis."
+          },
+          {
+            "question": "Which type of cirrhosis pattern is most characteristic of alcoholic liver disease?",
+            "options": ["Macronodular", "Micronodular", "Biliary", "Mixed biliary and macronodular"],
+            "correct": 1,
+            "explanation": "ALD cirrhosis is typically micronodular, though it can become mixed micro- and macronodular over time. Micronodular pattern reflects the uniform, repeated injury pattern from alcohol."
+          },
+          {
+            "question": "After how many weeks of complete abstinence can alcoholic steatosis fully reverse?",
+            "options": ["1 week", "2 weeks", "4 weeks", "3 months"],
+            "correct": 2,
+            "explanation": "Alcoholic steatosis is fully reversible after 4 weeks of complete abstinence. This is why it is the most important stage to intervene — fibrosis and cirrhosis cannot be fully reversed."
+          },
+          {
+            "question": "Acute alcoholic steatohepatitis is a classic example of which clinical syndrome?",
+            "options": ["Hepatorenal syndrome", "Hepatic hydrothorax", "Acute-on-chronic liver failure (ACLF)", "Budd-Chiari syndrome"],
+            "correct": 2,
+            "explanation": "Acute alcoholic steatohepatitis, typically appearing after binge drinking superimposed on any stage of ALD, is a classic example of acute-on-chronic liver failure (ACLF). It carries high short-term mortality."
+          },
+          {
+            "question": "What AST/ALT ratio pattern is characteristic of alcoholic liver disease?",
+            "options": ["ALT > AST", "AST/ALT > 1 (and typically >2 in steatosis, >1.5-2 in steatohepatitis)", "Equal AST and ALT", "Neither is elevated in ALD"],
+            "correct": 1,
+            "explanation": "ALD characteristically shows AST > ALT, giving an AST/ALT ratio >1. This occurs because ethanol inhibits pyridoxal-5-phosphate, a cofactor for ALT synthesis. In steatosis AST/ALT >2; in steatohepatitis >1.5-2."
+          },
+          {
+            "question": "Which liver enzyme is disproportionately elevated in ALD compared to other liver diseases, and is useful for detecting unreported alcohol use?",
+            "options": ["ALT", "ALP", "GGT (gamma-glutamyl transferase)", "LDH"],
+            "correct": 2,
+            "explanation": "GGT is markedly elevated in ALD — higher than in other liver diseases. GGT/ALP >5 is characteristic. GGT is elevated by alcohol even without overt liver disease, making it useful for detecting unreported alcohol consumption."
+          },
+          {
+            "question": "What is the minimum daily alcohol intake threshold used to diagnose ALD?",
+            "options": ["≥10 g/day for men and ≥5 g/day for women", "≥20 g/day for women and ≥30 g/day for men", "≥40 g/day for both sexes", "≥60 g/day for both sexes"],
+            "correct": 1,
+            "explanation": "ALD is suspected when regular consumption is >20 g/day in women and >30 g/day in men, combined with clinical/biological signs of liver injury."
+          },
+          {
+            "question": "What is the most reliable non-invasive method for detecting mild steatosis (5-10% of liver mass) in ALD?",
+            "options": ["Ultrasound", "CT scan", "MRI", "Liver biopsy"],
+            "correct": 2,
+            "explanation": "MRI is the most sensitive non-invasive method, detecting steatosis when it involves as little as 5-10% of total liver mass. Ultrasound has poor sensitivity below 20-30% steatosis."
+          },
+          {
+            "question": "The Maddrey Discrimination Factor (mDF) is calculated as:",
+            "options": ["MELD x bilirubin", "4.6 x (PT patient - PT control) + serum bilirubin", "AST/ALT x bilirubin x age", "PT/INR + creatinine + bilirubin"],
+            "correct": 1,
+            "explanation": "mDF = 4.6 x (PT patient - PT control) + serum bilirubin. Values ≥32 indicate high mortality risk; 28-day survival without treatment is only 50-65%."
+          },
+          {
+            "question": "The Lille score is used for what specific purpose in alcoholic hepatitis?",
+            "options": ["To diagnose ALD at initial presentation", "To assess corticosteroid treatment response at day 7; values ≥0.45 indicate treatment failure", "To predict 5-year survival in cirrhosis", "To determine liver transplant eligibility at admission"],
+            "correct": 1,
+            "explanation": "The Lille score is calculated at day 7 of corticosteroid therapy to assess response. A score ≥0.45 indicates corticosteroids are ineffective — stop treatment and assess for early liver transplantation in selected patients."
+          },
+          {
+            "question": "Which variables does the MELD score use?",
+            "options": ["Bilirubin + PT/INR only", "Bilirubin + PT/INR + creatinine", "Bilirubin + PT/INR + creatinine + WBC + age", "Bilirubin + PT/INR + albumin + WBC"],
+            "correct": 1,
+            "explanation": "The MELD score uses bilirubin, PT/INR, and creatinine. It differs from the Maddrey score (which omits creatinine) and from GAHS (which also adds WBC and age)."
+          },
+          {
+            "question": "What is the cornerstone of treatment at ALL stages of ALD?",
+            "options": ["Corticosteroids", "N-acetylcysteine", "Complete abstinence from alcohol", "Liver transplantation"],
+            "correct": 2,
+            "explanation": "Complete abstinence from alcohol is the single most important intervention across all stages of ALD. It can reverse steatosis, slow fibrosis, and reduce mortality — no pharmacological therapy can substitute for it."
+          },
+          {
+            "question": "For severe alcoholic hepatitis (mDF ≥32) without active infection, what is the first-line pharmacological treatment?",
+            "options": ["N-acetylcysteine alone", "Prednisolone 40 mg/day ± N-acetylcysteine", "Rifaximin + lactulose", "GCSF monotherapy"],
+            "correct": 1,
+            "explanation": "Prednisolone 40 mg/day (or methylprednisolone 32 mg/day IV) ± N-acetylcysteine is first-line for severe AH (mDF ≥32), given in the absence of active infection. Corticosteroids reduce short-term mortality but do not improve medium/long-term survival."
+          },
+          {
+            "question": "How does N-acetylcysteine (NAC) exert its hepatoprotective effect in alcoholic hepatitis?",
+            "options": ["It inhibits TLR4 signaling on Kupffer cells", "It restores glutathione stores, limiting oxidative stress", "It directly blocks CYP2E1 enzyme activity", "It promotes hepatocyte regeneration via stem cell activation"],
+            "correct": 1,
+            "explanation": "NAC is a glutathione precursor. It restores glutathione stores and thereby limits the oxidative stress that is a key mechanism in alcohol-mediated hepatotoxicity. It is given IV for 5 days in combination with corticosteroids."
+          },
+          {
+            "question": "What is the daily protein intake target in the nutritional management of ALD?",
+            "options": ["0.5-0.8 g/kg/day", "1.2-1.5 g/kg/day", "2.0-2.5 g/kg/day", "3.0 g/kg/day"],
+            "correct": 1,
+            "explanation": "Nutritional support in ALD targets 1.2-1.5 g/kg/day of protein and 35-40 kcal/kg/day total energy. The oral route is preferred; B-complex vitamins are mandatory to prevent Wernicke encephalopathy."
+          },
+          {
+            "question": "What is the threshold for considering liver transplantation in end-stage ALD cirrhosis?",
+            "options": ["Child-Pugh B and/or MELD ≥10", "Child-Pugh C and/or MELD ≥15", "Child-Pugh A with refractory ascites", "Any MELD score >12 in an alcoholic patient"],
+            "correct": 1,
+            "explanation": "Liver transplantation is indicated in Child-Pugh class C cirrhosis and/or a MELD score ≥15. Patients with severe AH are also at high risk of AKI — nephrotoxic drugs and diuretics should be avoided."
+          },
+          {
+            "question": "Why must infections be systematically screened for BEFORE starting corticosteroids in alcoholic hepatitis?",
+            "options": ["Infections alter the Lille score calculation", "Corticosteroids are immunosuppressive and can worsen active infections, leading to sepsis and death", "Infections directly contraindicate N-acetylcysteine", "Infection screening determines the Maddrey score threshold"],
+            "correct": 1,
+            "explanation": "Corticosteroids are immunosuppressive. Treating active infection with immunosuppressants can lead to uncontrolled sepsis. The management algorithm mandates infection screening before initiating prednisolone."
+          },
+          {
+            "question": "What is the mechanism of action of GCSF in alcoholic liver disease?",
+            "options": ["Inhibits Kupffer cell TLR4 signaling", "Stimulates the bone marrow to release neutrophils and CD34+ stem cells into the bloodstream", "Acts as an antioxidant by replenishing glutathione", "Directly inhibits hepatic stellate cell activation"],
+            "correct": 1,
+            "explanation": "GCSF (granulocyte colony stimulating factor) stimulates the bone marrow to produce and release neutrophils and CD34+ stem cells. A trial in ACLF showed significantly improved short-term survival and decreased AKI risk."
+          },
+          {
+            "question": "Which medications are used in the management of hepatic encephalopathy in ALD cirrhosis?",
+            "options": ["Prednisolone + N-acetylcysteine", "Rifaximin + lactulose", "NSBBs + EVL", "Diuretics + salt restriction"],
+            "correct": 1,
+            "explanation": "Hepatic encephalopathy is managed with rifaximin (a non-absorbable antibiotic reducing gut ammonia production) and lactulose (an osmotic laxative that acidifies the colon, trapping ammonia as NH4+)."
+          }
+        ],
         "Peptic Ulcer Disease": [],
         "Inflammatory Bowel Disease": [],
         "Cirrhosis": [],
