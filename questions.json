@@ -1149,7 +1149,7 @@
             "explanation": "Hepatic encephalopathy is managed with rifaximin (a non-absorbable antibiotic reducing gut ammonia production) and lactulose (an osmotic laxative that acidifies the colon, trapping ammonia as NH4+)."
           }
         ],
-        "GERD & Peptic Ulcer Disease": [
+        "GERD": [
           {
             "question": "What is the correct definition of gastroesophageal reflux disease?",
             "options": [
@@ -1159,7 +1159,8 @@
               "Replacement of healthy esophageal epithelium with metaplastic columnar cells"
             ],
             "correct": 0,
-            "explanation": "GERD is defined as a condition that develops when reflux of gastric contents into the esophagus causes troublesome symptoms and/or complications. Option b) describes achalasia, option c) is incorrect as GERD is not infectious, and option d) describes Barrett's esophagus, which is a complication of chronic GERD."
+            "explanation": "GERD is defined as a condition that develops when reflux of gastric contents into the esophagus causes troublesome symptoms and/or complications. Option b) describes achalasia, option c) is incorrect as GERD is not infectious, and option d) describes Barrett's esophagus, which is a complication of chronic GERD.",
+            "past_paper": true
           },
           {
             "question": "Mechanisms of gastroesophageal reflux disease include: 1. Transient LES relaxation 2. Side effects of PPI therapy 3. LES hypotension 4. Hiatus hernia. Which are correct?",
@@ -1170,7 +1171,8 @@
               "1 and 2 only"
             ],
             "correct": 1,
-            "explanation": "The three main pathogenic mechanisms of GERD are: transient LES relaxations (TLESRs) — the most common mechanism; LES hypotension — decreased basal LES pressure reduces the antireflux barrier; and hiatal hernia — impairs normal LES function. PPI therapy is a treatment, not a mechanism of GERD."
+            "explanation": "The three main pathogenic mechanisms of GERD are: transient LES relaxations (TLESRs) — the most common mechanism; LES hypotension — decreased basal LES pressure reduces the antireflux barrier; and hiatal hernia — impairs normal LES function. PPI therapy is a treatment, not a mechanism of GERD.",
+            "past_paper": true
           },
           {
             "question": "Which are risk factors of GERD? 1. Abdominal obesity 2. Pregnancy 3. Gastric hyposecretory states 4. Delayed gastric emptying",
@@ -1181,7 +1183,8 @@
               "2, 3, and 4"
             ],
             "correct": 0,
-            "explanation": "Abdominal obesity increases intra-abdominal pressure. Pregnancy causes elevated intra-abdominal pressure plus progesterone-mediated LES relaxation. Delayed gastric emptying prolongs gastric distension and increases reflux episodes. Gastric hyposecretory states are NOT a risk factor — GERD is about reflux volume, not acidity."
+            "explanation": "Abdominal obesity increases intra-abdominal pressure. Pregnancy causes elevated intra-abdominal pressure plus progesterone-mediated LES relaxation. Delayed gastric emptying prolongs gastric distension and increases reflux episodes. Gastric hyposecretory states are NOT a risk factor — GERD is about reflux volume, not acidity.",
+            "past_paper": true
           },
           {
             "question": "Which of the following are TYPICAL (esophageal) symptoms of GERD?",
@@ -1192,7 +1195,8 @@
               "Regurgitation and asthma"
             ],
             "correct": 2,
-            "explanation": "The two typical (esophageal) symptoms of GERD are heartburn (retrosternal burning) and regurgitation (passive return of gastric contents to the mouth). Asthma is an extra-esophageal manifestation. Back pain is not characteristic of GERD."
+            "explanation": "The two typical (esophageal) symptoms of GERD are heartburn (retrosternal burning) and regurgitation (passive return of gastric contents to the mouth). Asthma is an extra-esophageal manifestation. Back pain is not characteristic of GERD.",
+            "past_paper": true
           },
           {
             "question": "Extraesophageal manifestations of GERD include: 1. Chronic cough 2. Laryngitis 3. Asthma 4. Dental erosions. Which are correct?",
@@ -1203,7 +1207,8 @@
               "1, 2, and 4"
             ],
             "correct": 0,
-            "explanation": "All four are well-established extra-esophageal manifestations of GERD, resulting from microaspiration or vagally mediated reflexes: chronic cough, laryngitis (hoarseness), asthma exacerbations, and dental enamel erosions. Any of these can be the only presenting feature of GERD (silent GERD)."
+            "explanation": "All four are well-established extra-esophageal manifestations of GERD, resulting from microaspiration or vagally mediated reflexes: chronic cough, laryngitis (hoarseness), asthma exacerbations, and dental enamel erosions. Any of these can be the only presenting feature of GERD (silent GERD).",
+            "past_paper": true
           },
           {
             "question": "Which drug is used for first-line treatment of GERD?",
@@ -1214,7 +1219,8 @@
               "Antibiotics"
             ],
             "correct": 2,
-            "explanation": "Proton pump inhibitors (PPIs) are the first-line treatment for GERD. They block the H+/K+-ATPase (proton pump) on parietal cells, reducing acid secretion more effectively than H2-blockers. PPIs are superior to H2RAs for healing erosive esophagitis and maintaining remission."
+            "explanation": "Proton pump inhibitors (PPIs) are the first-line treatment for GERD. They block the H+/K+-ATPase (proton pump) on parietal cells, reducing acid secretion more effectively than H2-blockers. PPIs are superior to H2RAs for healing erosive esophagitis and maintaining remission.",
+            "past_paper": true
           },
           {
             "question": "The following drugs contribute to the development of GERD: 1. Calcium channel blockers 2. Theophylline 3. Nitrates 4. Alpha-adrenomimetics. Which are correct?",
@@ -1225,7 +1231,8 @@
               "1, 2, and 3"
             ],
             "correct": 1,
-            "explanation": "All listed drugs decrease LES pressure: calcium channel blockers relax smooth muscle, theophylline reduces LES pressure, nitrates relax smooth muscle including LES, and alpha-adrenomimetics can also affect LES tone. Other GERD-promoting drugs include anticholinergics, opioids, and progesterone."
+            "explanation": "All listed drugs decrease LES pressure: calcium channel blockers relax smooth muscle, theophylline reduces LES pressure, nitrates relax smooth muscle including LES, and alpha-adrenomimetics can also affect LES tone. Other GERD-promoting drugs include anticholinergics, opioids, and progesterone.",
+            "past_paper": true
           },
           {
             "question": "Regarding Barrett's esophagus and GERD, which statements are correct? 1. Antisecretory therapy prevents adenocarcinoma in Barrett's 2. Barrett's metaplasia can progress to adenocarcinoma 3. Zollinger-Ellison syndrome is associated with severe esophagitis 4. Heartburn and regurgitation are typical symptoms of GERD",
@@ -1236,7 +1243,8 @@
               "All four"
             ],
             "correct": 0,
-            "explanation": "Statement 1 is false: PPIs control symptoms but have NOT been definitively shown to prevent progression of Barrett's to adenocarcinoma. Statements 2, 3, 4 are all true. Barrett's esophagus (intestinal metaplasia of the distal esophagus) is a well-established precursor to esophageal adenocarcinoma, and ZES causes excess acid that can produce severe esophagitis."
+            "explanation": "Statement 1 is false: PPIs control symptoms but have NOT been definitively shown to prevent progression of Barrett's to adenocarcinoma. Statements 2, 3, 4 are all true. Barrett's esophagus (intestinal metaplasia of the distal esophagus) is a well-established precursor to esophageal adenocarcinoma, and ZES causes excess acid that can produce severe esophagitis.",
+            "past_paper": true
           },
           {
             "question": "All are risk factors for Barrett's esophagus, EXCEPT:",
@@ -1247,7 +1255,8 @@
               "Obesity"
             ],
             "correct": 1,
-            "explanation": "Barrett's esophagus is more common in males (male predominance ~2:1). Risk factors include: advanced age (>50), male sex, chronic GERD (>5 years), obesity (especially central), smoking, and white race. Female gender is actually protective relative to males."
+            "explanation": "Barrett's esophagus is more common in males (male predominance ~2:1). Risk factors include: advanced age (>50), male sex, chronic GERD (>5 years), obesity (especially central), smoking, and white race. Female gender is actually protective relative to males.",
+            "past_paper": true
           },
           {
             "question": "Which endoscopic classification system is used to assess the severity of reflux esophagitis?",
@@ -1258,8 +1267,11 @@
               "Montreal classification"
             ],
             "correct": 0,
-            "explanation": "The Los Angeles (LA) classification grades reflux esophagitis A-D based on mucosal breaks: Grade A (≤5mm), B (>5mm not extending between tops of mucosal folds), C (extending between tops of folds but <75% of circumference), D (≥75% of circumference). The Sydney system is for gastritis; Montreal defines GERD clinically."
-          },
+            "explanation": "The Los Angeles (LA) classification grades reflux esophagitis A-D based on mucosal breaks: Grade A (≤5mm), B (>5mm not extending between tops of mucosal folds), C (extending between tops of folds but <75% of circumference), D (≥75% of circumference). The Sydney system is for gastritis; Montreal defines GERD clinically.",
+            "past_paper": true
+          }
+        ],
+        "Peptic Ulcer Disease": [
           {
             "question": "All of the following are risk factors for PUD, EXCEPT:",
             "options": [
@@ -1269,7 +1281,8 @@
               "Chronic obstructive lung disease"
             ],
             "correct": 0,
-            "explanation": "PUD risk factors include H. pylori infection (most common), NSAIDs (second most common), smoking, chronic lung disease, hypercalcemia, and blood group O. Young age is NOT a risk factor — PUD prevalence increases with age. GU peak incidence is in the 6th decade."
+            "explanation": "PUD risk factors include H. pylori infection (most common), NSAIDs (second most common), smoking, chronic lung disease, hypercalcemia, and blood group O. Young age is NOT a risk factor — PUD prevalence increases with age. GU peak incidence is in the 6th decade.",
+            "past_paper": true
           },
           {
             "question": "Which are true about peptic ulcer symptoms? 1. NSAID-induced disease can present without symptoms 2. Epigastric pain described as burning/gnawing 3. Dysphagia is present 4. Pain can awaken patient from sleep",
@@ -1280,7 +1293,8 @@
               "1, 2, and 3"
             ],
             "correct": 0,
-            "explanation": "NSAID ulcers are often silent, first presenting with complications. Epigastric burning/gnawing pain is classic (typically relieved by food in DU). Nocturnal pain characteristically awakens DU patients at 1-3 AM. Dysphagia is NOT a PUD symptom — it suggests esophageal pathology and is an alarm feature."
+            "explanation": "NSAID ulcers are often silent, first presenting with complications. Epigastric burning/gnawing pain is classic (typically relieved by food in DU). Nocturnal pain characteristically awakens DU patients at 1-3 AM. Dysphagia is NOT a PUD symptom — it suggests esophageal pathology and is an alarm feature.",
+            "past_paper": true
           },
           {
             "question": "Which are complications of peptic ulcer disease? 1. Bleeding 2. Perforation 3. Penetration 4. Gastric outlet obstruction",
@@ -1291,7 +1305,8 @@
               "1 and 2 only"
             ],
             "correct": 0,
-            "explanation": "The four classic complications of PUD: bleeding (most common — hematemesis, melena), perforation (acute surgical emergency — sudden severe generalised abdominal pain), penetration (extends into adjacent organ, usually pancreas — pain radiating to back), and gastric outlet obstruction (due to edema or fibrosis at pylorus — vomiting of undigested food)."
+            "explanation": "The four classic complications of PUD: bleeding (most common — hematemesis, melena), perforation (acute surgical emergency — sudden severe generalised abdominal pain), penetration (extends into adjacent organ, usually pancreas — pain radiating to back), and gastric outlet obstruction (due to edema or fibrosis at pylorus — vomiting of undigested food).",
+            "past_paper": true
           },
           {
             "question": "Which drugs are used for treatment of peptic ulcers? 1. PPIs 2. Steroids 3. Antibiotics 4. Sucralfate",
@@ -1302,7 +1317,8 @@
               "1, 3, and 4"
             ],
             "correct": 3,
-            "explanation": "PPIs are first-line (suppress acid, allow healing); antibiotics are used for H. pylori eradication (e.g., amoxicillin + clarithromycin in triple therapy); sucralfate is a mucosal protective agent. Steroids are NOT used — glucocorticoids actually increase ulcer risk, especially combined with NSAIDs."
+            "explanation": "PPIs are first-line (suppress acid, allow healing); antibiotics are used for H. pylori eradication (e.g., amoxicillin + clarithromycin in triple therapy); sucralfate is a mucosal protective agent. Steroids are NOT used — glucocorticoids actually increase ulcer risk, especially combined with NSAIDs.",
+            "past_paper": true
           },
           {
             "question": "Which factor of H. pylori is essential in alkalinizing the surrounding pH to allow colonization of the gastric mucosa?",
@@ -1313,7 +1329,8 @@
               "Lipase"
             ],
             "correct": 1,
-            "explanation": "Urease hydrolyzes urea to ammonia (NH3) + CO2. Ammonia neutralizes gastric acid, creating a neutral microenvironment that allows H. pylori to colonize the gastric mucosa despite high acidity. Other virulence factors: catalase (protects against oxidative stress), adhesins (attachment to epithelium), CagA/VacA cytotoxins."
+            "explanation": "Urease hydrolyzes urea to ammonia (NH3) + CO2. Ammonia neutralizes gastric acid, creating a neutral microenvironment that allows H. pylori to colonize the gastric mucosa despite high acidity. Other virulence factors: catalase (protects against oxidative stress), adhesins (attachment to epithelium), CagA/VacA cytotoxins.",
+            "past_paper": true
           },
           {
             "question": "Which drugs are included in first-line triple therapy for H. pylori eradication? 1. Amoxicillin 2. Clarithromycin 3. Vancomycin 4. PPI",
@@ -1324,7 +1341,8 @@
               "All four"
             ],
             "correct": 0,
-            "explanation": "Standard first-line triple therapy: PPI + Amoxicillin + Clarithromycin for 10-14 days. The PPI is always essential — it raises gastric pH, which enhances antibiotic stability and efficacy. Vancomycin is not used for H. pylori eradication."
+            "explanation": "Standard first-line triple therapy: PPI + Amoxicillin + Clarithromycin for 10-14 days. The PPI is always essential — it raises gastric pH, which enhances antibiotic stability and efficacy. Vancomycin is not used for H. pylori eradication.",
+            "past_paper": true
           },
           {
             "question": "Which are risk factors for stress-related gastric mucosal injury? 1. Shock 2. Sepsis 3. NSAIDs 4. Massive burns",
@@ -1335,7 +1353,8 @@
               "1, 2, and 4"
             ],
             "correct": 3,
-            "explanation": "Stress ulcers occur in critically ill patients from mucosal ischemia. Risk factors include shock, sepsis, and massive burns (Curling ulcers). Head injury causes Cushing ulcers from high acid secretion. NSAIDs cause peptic ulcers by a different mechanism (COX-1 inhibition) — they are not typical stress ulcer risk factors in the ICU setting."
+            "explanation": "Stress ulcers occur in critically ill patients from mucosal ischemia. Risk factors include shock, sepsis, and massive burns (Curling ulcers). Head injury causes Cushing ulcers from high acid secretion. NSAIDs cause peptic ulcers by a different mechanism (COX-1 inhibition) — they are not typical stress ulcer risk factors in the ICU setting.",
+            "past_paper": true
           }
         ],
         "Gastritis": [
@@ -1348,7 +1367,8 @@
               "It is the antral-predominant form"
             ],
             "correct": 0,
-            "explanation": "Type A gastritis = autoimmune gastritis. Key features: corpus/fundus predominant (not antral); antibodies against parietal cells and intrinsic factor lead to loss of parietal cells, hypochlorhydria/achlorhydria, and elevated gastrin (secondary hypergastrinemia). Associated with pernicious anaemia (B12 deficiency) and other autoimmune diseases."
+            "explanation": "Type A gastritis = autoimmune gastritis. Key features: corpus/fundus predominant (not antral); antibodies against parietal cells and intrinsic factor lead to loss of parietal cells, hypochlorhydria/achlorhydria, and elevated gastrin (secondary hypergastrinemia). Associated with pernicious anaemia (B12 deficiency) and other autoimmune diseases.",
+            "past_paper": true
           },
           {
             "question": "Which are specific features of atrophic autoimmune gastritis? 1. Associated with other autoimmune disorders 2. Atrophy predominantly in gastric corpus 3. G-cell production of gastrin is decreased 4. Increased risk of gastric adenocarcinoma",
@@ -1359,7 +1379,8 @@
               "1, 2, and 4"
             ],
             "correct": 3,
-            "explanation": "Statement 3 is false: G-cell production of gastrin is increased, not decreased — loss of parietal cells causes hypochlorhydria, removing negative feedback on G cells, resulting in hypergastrinemia. Statements 1, 2, and 4 are true: autoimmune gastritis is associated with thyroiditis, T1DM, vitiligo; atrophy is corpus-predominant; long-standing atrophy with intestinal metaplasia raises cancer risk."
+            "explanation": "Statement 3 is false: G-cell production of gastrin is increased, not decreased — loss of parietal cells causes hypochlorhydria, removing negative feedback on G cells, resulting in hypergastrinemia. Statements 1, 2, and 4 are true: autoimmune gastritis is associated with thyroiditis, T1DM, vitiligo; atrophy is corpus-predominant; long-standing atrophy with intestinal metaplasia raises cancer risk.",
+            "past_paper": true
           },
           {
             "question": "Which substances are DECREASED in chronic atrophic autoimmune gastritis? 1. Gastric acid 2. Vitamin B12 in blood 3. Gastrin in blood 4. Immunoglobulins in blood",
@@ -1370,7 +1391,8 @@
               "2 and 4 only"
             ],
             "correct": 1,
-            "explanation": "Gastric acid is decreased (parietal cells destroyed — hypochlorhydria). Vitamin B12 is decreased (intrinsic factor deficiency impairs B12 absorption in terminal ileum — pernicious anaemia). Gastrin is INCREASED (secondary hypergastrinemia). Immunoglobulins are not typically decreased — anti-parietal cell antibodies are present in the circulation."
+            "explanation": "Gastric acid is decreased (parietal cells destroyed — hypochlorhydria). Vitamin B12 is decreased (intrinsic factor deficiency impairs B12 absorption in terminal ileum — pernicious anaemia). Gastrin is INCREASED (secondary hypergastrinemia). Immunoglobulins are not typically decreased — anti-parietal cell antibodies are present in the circulation.",
+            "past_paper": true
           },
           {
             "question": "Which are true about type AB (H. pylori) gastritis? 1. Histology improves after H. pylori eradication 2. Multifocal atrophic gastritis is present 3. Can lead to gastric adenocarcinoma 4. It is a type of autoimmune gastritis",
@@ -1381,7 +1403,8 @@
               "1, 2, and 4"
             ],
             "correct": 2,
-            "explanation": "Statement 4 is false: Type AB is H. pylori-associated, NOT autoimmune (Type A is autoimmune). Type AB is characterised by multifocal atrophic gastritis, follows the Correa cascade to intestinal metaplasia and adenocarcinoma. H. pylori eradication can partially reverse early histological changes."
+            "explanation": "Statement 4 is false: Type AB is H. pylori-associated, NOT autoimmune (Type A is autoimmune). Type AB is characterised by multifocal atrophic gastritis, follows the Correa cascade to intestinal metaplasia and adenocarcinoma. H. pylori eradication can partially reverse early histological changes.",
+            "past_paper": true
           },
           {
             "question": "Which feature is NOT TYPICAL for atrophic multifocal (Type AB) gastritis?",
@@ -1392,7 +1415,8 @@
               "It is also called pangastritis"
             ],
             "correct": 2,
-            "explanation": "Corpus-restricted atrophy describes Type A (autoimmune) gastritis. Multifocal atrophic gastritis (Type AB) involves both antrum AND corpus with patchy atrophic foci throughout the stomach — hence 'pangastritis.' It is caused by H. pylori spreading from antrum to corpus."
+            "explanation": "Corpus-restricted atrophy describes Type A (autoimmune) gastritis. Multifocal atrophic gastritis (Type AB) involves both antrum AND corpus with patchy atrophic foci throughout the stomach — hence 'pangastritis.' It is caused by H. pylori spreading from antrum to corpus.",
+            "past_paper": true
           },
           {
             "question": "Which types of gastritis are recognised by the revised Sydney classification? 1. Non-atrophic 2. Atrophic autoimmune 3. Special forms 4. Atrophic multifocal",
@@ -1403,7 +1427,8 @@
               "1, 2, and 3"
             ],
             "correct": 1,
-            "explanation": "The Revised Sydney Classification categorises gastritis into: non-atrophic (H. pylori associated, antral predominant), atrophic autoimmune (Type A, corpus predominant), atrophic multifocal (H. pylori, pangastritis), and special forms (eosinophilic, lymphocytic, granulomatous, Ménétrier's, reactive/chemical). For histological grading, 5 biopsies from standardised sites are required."
+            "explanation": "The Revised Sydney Classification categorises gastritis into: non-atrophic (H. pylori associated, antral predominant), atrophic autoimmune (Type A, corpus predominant), atrophic multifocal (H. pylori, pangastritis), and special forms (eosinophilic, lymphocytic, granulomatous, Ménétrier's, reactive/chemical). For histological grading, 5 biopsies from standardised sites are required.",
+            "past_paper": true
           },
           {
             "question": "Which are true about Ménétrier's disease? 1. Massive foveolar hyperplasia 2. Gastric atrophy 3. Reduction of parietal cells and chief cells 4. Destruction in oxyntic glands",
@@ -1414,7 +1439,8 @@
               "1, 2, and 4"
             ],
             "correct": 0,
-            "explanation": "Ménétrier's disease (hypertrophic gastropathy): hallmark is massive foveolar hyperplasia (giant rugal folds) + loss of oxyntic glands leading to reduced parietal cells and chief cells and hypochlorhydria. Results in protein-losing gastropathy. Generalised gastric atrophy is NOT the defining feature — statement 2 is false."
+            "explanation": "Ménétrier's disease (hypertrophic gastropathy): hallmark is massive foveolar hyperplasia (giant rugal folds) + loss of oxyntic glands leading to reduced parietal cells and chief cells and hypochlorhydria. Results in protein-losing gastropathy. Generalised gastric atrophy is NOT the defining feature — statement 2 is false.",
+            "past_paper": true
           },
           {
             "question": "Which gastric gland cells secrete hydrochloric acid?",
@@ -1425,7 +1451,8 @@
               "Parietal cells"
             ],
             "correct": 3,
-            "explanation": "Key gastric cells: parietal (oxyntic) cells secrete HCl + intrinsic factor; chief cells secrete pepsinogen; G cells secrete gastrin; D cells secrete somatostatin; ECL cells secrete histamine. Parietal cells use H+/K+-ATPase (proton pump) to secrete H+ against a concentration gradient — the target of PPIs."
+            "explanation": "Key gastric cells: parietal (oxyntic) cells secrete HCl + intrinsic factor; chief cells secrete pepsinogen; G cells secrete gastrin; D cells secrete somatostatin; ECL cells secrete histamine. Parietal cells use H+/K+-ATPase (proton pump) to secrete H+ against a concentration gradient — the target of PPIs.",
+            "past_paper": true
           },
           {
             "question": "All of the following stimulate gastric acid secretion, EXCEPT:",
@@ -1436,7 +1463,8 @@
               "Somatostatin"
             ],
             "correct": 3,
-            "explanation": "Stimulators of acid secretion: histamine (via H2 receptors), acetylcholine (M3 receptors), gastrin (CCK-B receptors). Somatostatin INHIBITS acid secretion — directly inhibiting parietal cells and indirectly by inhibiting G cells (reducing gastrin) and ECL cells (reducing histamine). Somatostatin is released by D cells in response to luminal acid."
+            "explanation": "Stimulators of acid secretion: histamine (via H2 receptors), acetylcholine (M3 receptors), gastrin (CCK-B receptors). Somatostatin INHIBITS acid secretion — directly inhibiting parietal cells and indirectly by inhibiting G cells (reducing gastrin) and ECL cells (reducing histamine). Somatostatin is released by D cells in response to luminal acid.",
+            "past_paper": true
           }
         ],
         "Inflammatory Bowel Disease": [
@@ -1449,7 +1477,8 @@
               "Aphthoid ulcerations"
             ],
             "correct": 1,
-            "explanation": "Crohn's disease features transmural inflammation (all layers). 'Limited to mucosa and superficial submucosa' describes ulcerative colitis. Crohn's features: skip lesions, non-caseating granulomas (~60% of biopsies), aphthous ulcers, cobblestoning, fistulas, perianal disease, and strictures."
+            "explanation": "Crohn's disease features transmural inflammation (all layers). 'Limited to mucosa and superficial submucosa' describes ulcerative colitis. Crohn's features: skip lesions, non-caseating granulomas (~60% of biopsies), aphthous ulcers, cobblestoning, fistulas, perianal disease, and strictures.",
+            "past_paper": true
           },
           {
             "question": "Which of the following are symptoms of Crohn's disease? 1. Constipation 2. Weight loss 3. Diarrhea 4. Anorexia",
@@ -1460,7 +1489,8 @@
               "1, 2, and 4"
             ],
             "correct": 1,
-            "explanation": "Classical CD triad: diarrhea, abdominal pain, weight loss. Anorexia is common due to systemic inflammation. Constipation is NOT typical — it may occur only in stricturing disease. Other symptoms vary by location: ileal CD causes malabsorption and B12 deficiency; colonic CD causes rectal bleeding."
+            "explanation": "Classical CD triad: diarrhea, abdominal pain, weight loss. Anorexia is common due to systemic inflammation. Constipation is NOT typical — it may occur only in stricturing disease. Other symptoms vary by location: ileal CD causes malabsorption and B12 deficiency; colonic CD causes rectal bleeding.",
+            "past_paper": true
           },
           {
             "question": "Which are complications of Crohn's disease? 1. Intraabdominal abscesses 2. Intestinal obstruction 3. Fistula formation 4. Appendicitis",
@@ -1471,7 +1501,8 @@
               "All four"
             ],
             "correct": 1,
-            "explanation": "CD complications from transmural inflammation: abscesses (microperforation into mesentery), strictures/obstruction (fibrosis from chronic inflammation), and fistulas (enterocutaneous, enteroenteric, enterovesical, perianal — pathognomonic of CD). Appendicitis is NOT a complication — though CD involving terminal ileum can mimic appendicitis clinically."
+            "explanation": "CD complications from transmural inflammation: abscesses (microperforation into mesentery), strictures/obstruction (fibrosis from chronic inflammation), and fistulas (enterocutaneous, enteroenteric, enterovesical, perianal — pathognomonic of CD). Appendicitis is NOT a complication — though CD involving terminal ileum can mimic appendicitis clinically.",
+            "past_paper": true
           },
           {
             "question": "Which are ENDOSCOPIC features of Crohn's disease? 1. Granulomas 2. Fistulas 3. Skip lesions 4. Aphthous ulcerations",
@@ -1482,7 +1513,8 @@
               "2 and 3 only"
             ],
             "correct": 0,
-            "explanation": "Granulomas are HISTOLOGIC (biopsy) findings — not visible endoscopically. Endoscopic features of CD include skip lesions (normal mucosa between diseased areas), aphthous ulcers (early), deep linear ulcers, cobblestone appearance, fistulous openings, and strictures. UC by contrast shows continuous inflammation from rectum proximally."
+            "explanation": "Granulomas are HISTOLOGIC (biopsy) findings — not visible endoscopically. Endoscopic features of CD include skip lesions (normal mucosa between diseased areas), aphthous ulcers (early), deep linear ulcers, cobblestone appearance, fistulous openings, and strictures. UC by contrast shows continuous inflammation from rectum proximally.",
+            "past_paper": true
           },
           {
             "question": "Which tests are used for evaluation of Crohn's disease? 1. CT 2. ESR 3. CRP 4. Colonoscopy",
@@ -1493,7 +1525,8 @@
               "1, 2, and 3"
             ],
             "correct": 1,
-            "explanation": "Colonoscopy with biopsy is first-line for diagnosis. CT enterography/MRI is used for small bowel evaluation, fistulas, abscesses, and strictures. ESR and CRP are inflammatory markers for disease activity monitoring. Additional tools: fecal calprotectin, capsule endoscopy, and ASCA/pANCA serology."
+            "explanation": "Colonoscopy with biopsy is first-line for diagnosis. CT enterography/MRI is used for small bowel evaluation, fistulas, abscesses, and strictures. ESR and CRP are inflammatory markers for disease activity monitoring. Additional tools: fecal calprotectin, capsule endoscopy, and ASCA/pANCA serology.",
+            "past_paper": true
           },
           {
             "question": "Which statements are correct regarding treatment of Crohn's disease? 1. Main goal is to achieve and maintain remission 2. 5-ASA derivatives are first-line 3. Thiopurines are used for maintaining remission 4. Budesonide is first-line for mild ileitis",
@@ -1504,7 +1537,8 @@
               "2 and 4 only"
             ],
             "correct": 0,
-            "explanation": "Statement 2 is false: 5-ASA drugs have limited efficacy in CD (unlike UC where they are standard). CD treatment: budesonide for mild-moderate ileocecal disease, systemic steroids for moderate-severe induction, thiopurines (azathioprine/6-MP) for maintenance, anti-TNF agents for severe/fistulising disease, surgery for complications."
+            "explanation": "Statement 2 is false: 5-ASA drugs have limited efficacy in CD (unlike UC where they are standard). CD treatment: budesonide for mild-moderate ileocecal disease, systemic steroids for moderate-severe induction, thiopurines (azathioprine/6-MP) for maintenance, anti-TNF agents for severe/fistulising disease, surgery for complications.",
+            "past_paper": true
           },
           {
             "question": "What is the definition of ulcerative colitis?",
@@ -1515,7 +1549,8 @@
               "An infectious disease"
             ],
             "correct": 0,
-            "explanation": "UC is a chronic necroinflammation of the colonic mucosa, always beginning in the rectum and extending proximally in a continuous pattern. Classified by extent: E1 Proctitis (rectum only), E2 Left-sided colitis (to splenic flexure), E3 Extensive/pancolitis. Option b) describes Crohn's disease."
+            "explanation": "UC is a chronic necroinflammation of the colonic mucosa, always beginning in the rectum and extending proximally in a continuous pattern. Classified by extent: E1 Proctitis (rectum only), E2 Left-sided colitis (to splenic flexure), E3 Extensive/pancolitis. Option b) describes Crohn's disease.",
+            "past_paper": true
           },
           {
             "question": "Which are symptoms of ulcerative colitis? 1. Diarrhea 2. Rectal bleeding 3. Tenesmus 4. Passage of mucus",
@@ -1526,7 +1561,8 @@
               "All four"
             ],
             "correct": 3,
-            "explanation": "UC cardinal symptoms: bloody diarrhea (hallmark), rectal bleeding (mucosal ulceration), tenesmus (urgency and feeling of incomplete evacuation — due to rectal involvement in >95%), and mucus in stool. Severe disease adds systemic features: fever, tachycardia, weight loss, anaemia."
+            "explanation": "UC cardinal symptoms: bloody diarrhea (hallmark), rectal bleeding (mucosal ulceration), tenesmus (urgency and feeling of incomplete evacuation — due to rectal involvement in >95%), and mucus in stool. Severe disease adds systemic features: fever, tachycardia, weight loss, anaemia.",
+            "past_paper": true
           },
           {
             "question": "Which are MACROSCOPIC features of ulcerative colitis?",
@@ -1537,7 +1573,8 @@
               "Pseudopolyps, ulcerated mucosa, and haemorrhagic mucosa"
             ],
             "correct": 3,
-            "explanation": "Granulomas are NOT found in UC — they are characteristic of Crohn's disease. UC macroscopic features: pseudopolyps, ulcerated mucosa, haemorrhagic and friable mucosa, granular surface, and loss of haustration. All changes are superficial (mucosal/submucosal)."
+            "explanation": "Granulomas are NOT found in UC — they are characteristic of Crohn's disease. UC macroscopic features: pseudopolyps, ulcerated mucosa, haemorrhagic and friable mucosa, granular surface, and loss of haustration. All changes are superficial (mucosal/submucosal).",
+            "past_paper": true
           },
           {
             "question": "Extraintestinal manifestations of ulcerative colitis include: 1. Episcleritis 2. Erythema nodosum 3. Hypertension 4. Pericholangitis",
@@ -1548,7 +1585,8 @@
               "1, 2, and 4"
             ],
             "correct": 3,
-            "explanation": "UC extraintestinal manifestations include skin (erythema nodosum, pyoderma gangrenosum), eyes (episcleritis, uveitis), hepatobiliary (pericholangitis, primary sclerosing cholangitis), and joints (arthritis, ankylosing spondylitis). Hypertension is NOT a characteristic extraintestinal manifestation of UC."
+            "explanation": "UC extraintestinal manifestations include skin (erythema nodosum, pyoderma gangrenosum), eyes (episcleritis, uveitis), hepatobiliary (pericholangitis, primary sclerosing cholangitis), and joints (arthritis, ankylosing spondylitis). Hypertension is NOT a characteristic extraintestinal manifestation of UC.",
+            "past_paper": true
           },
           {
             "question": "Which is the most characteristic life-threatening complication of ulcerative colitis?",
@@ -1559,7 +1597,8 @@
               "Toxic megacolon"
             ],
             "correct": 3,
-            "explanation": "Toxic megacolon is the most characteristic life-threatening complication of UC. Criteria: colonic dilation >6cm + systemic toxicity (fever >38C, tachycardia, leukocytosis, dehydration, altered consciousness). Management: bowel rest, IV steroids, monitoring, colectomy if no improvement in 48-72h. Fistulas are characteristic of Crohn's disease."
+            "explanation": "Toxic megacolon is the most characteristic life-threatening complication of UC. Criteria: colonic dilation >6cm + systemic toxicity (fever >38C, tachycardia, leukocytosis, dehydration, altered consciousness). Management: bowel rest, IV steroids, monitoring, colectomy if no improvement in 48-72h. Fistulas are characteristic of Crohn's disease.",
+            "past_paper": true
           },
           {
             "question": "Pharmacological treatment of ulcerative colitis includes:",
@@ -1570,10 +1609,11 @@
               "NSAIDs"
             ],
             "correct": 0,
-            "explanation": "UC treatment pyramid: 5-ASA drugs (sulfasalazine, mesalazine) — first-line for mild-moderate disease; corticosteroids for induction; immunomodulators (azathioprine, 6-MP) for maintenance; biologics (infliximab, vedolizumab) for moderate-severe refractory disease. NSAIDs are contraindicated (may trigger flares). Opioids increase risk of toxic megacolon."
+            "explanation": "UC treatment pyramid: 5-ASA drugs (sulfasalazine, mesalazine) — first-line for mild-moderate disease; corticosteroids for induction; immunomodulators (azathioprine, 6-MP) for maintenance; biologics (infliximab, vedolizumab) for moderate-severe refractory disease. NSAIDs are contraindicated (may trigger flares). Opioids increase risk of toxic megacolon.",
+            "past_paper": true
           }
         ],
-        "Celiac Disease & IBS": [
+        "Celiac Disease": [
           {
             "question": "Which is the classic extraintestinal manifestation of celiac disease?",
             "options": [
@@ -1583,7 +1623,8 @@
               "Erythema nodosum"
             ],
             "correct": 1,
-            "explanation": "Dermatitis herpetiformis is the classic cutaneous manifestation of celiac disease — a pruritic vesicular rash caused by IgA deposits in dermal papillae. It responds to a gluten-free diet. Other extraintestinal features include osteopenia/osteoporosis, peripheral neuropathy, amenorrhea, and iron-deficiency anaemia. Uveitis, erythema nodosum, and ankylosing spondylitis are associated with IBD."
+            "explanation": "Dermatitis herpetiformis is the classic cutaneous manifestation of celiac disease — a pruritic vesicular rash caused by IgA deposits in dermal papillae. It responds to a gluten-free diet. Other extraintestinal features include osteopenia/osteoporosis, peripheral neuropathy, amenorrhea, and iron-deficiency anaemia. Uveitis, erythema nodosum, and ankylosing spondylitis are associated with IBD.",
+            "past_paper": true
           },
           {
             "question": "Which are characteristic symptoms of celiac disease? 1. Bloody diarrhea 2. Bloating 3. Weight loss 4. Abdominal pain",
@@ -1594,7 +1635,8 @@
               "1, 3, and 4"
             ],
             "correct": 0,
-            "explanation": "Bloody diarrhea is NOT typical of celiac disease. Celiac causes malabsorptive (non-bloody) steatorrhoea. Classic symptoms: bloating, abdominal pain, weight loss, fatigue, and chronic diarrhoea (pale, bulky, offensive stools). Atypical presentations include anaemia, osteoporosis, infertility, and neurological symptoms. Up to 50% may be asymptomatic."
+            "explanation": "Bloody diarrhea is NOT typical of celiac disease. Celiac causes malabsorptive (non-bloody) steatorrhoea. Classic symptoms: bloating, abdominal pain, weight loss, fatigue, and chronic diarrhoea (pale, bulky, offensive stools). Atypical presentations include anaemia, osteoporosis, infertility, and neurological symptoms. Up to 50% may be asymptomatic.",
+            "past_paper": true
           },
           {
             "question": "Which are true regarding celiac disease treatment? 1. Gluten-free diet 2. Restoring electrolyte balance 3. Use of azathioprine 4. Rarely, use of corticosteroids",
@@ -1605,7 +1647,8 @@
               "1 and 2 only"
             ],
             "correct": 0,
-            "explanation": "Celiac treatment: lifelong strict gluten-free diet is the cornerstone. Electrolyte and nutrient supplementation as needed (iron, Ca, Vit D, B12, folate, Vit K). Corticosteroids may be used in refractory celiac disease (RCD). Azathioprine is not standard — only considered in severe refractory cases not responding to steroids."
+            "explanation": "Celiac treatment: lifelong strict gluten-free diet is the cornerstone. Electrolyte and nutrient supplementation as needed (iron, Ca, Vit D, B12, folate, Vit K). Corticosteroids may be used in refractory celiac disease (RCD). Azathioprine is not standard — only considered in severe refractory cases not responding to steroids.",
+            "past_paper": true
           },
           {
             "question": "Which is the major cause of anaemia in celiac disease patients?",
@@ -1616,7 +1659,8 @@
               "Myelosuppression"
             ],
             "correct": 0,
-            "explanation": "Celiac disease primarily affects the duodenum and proximal jejunum — the principal site of iron absorption. Villous atrophy leads to impaired iron uptake and iron deficiency anaemia (most common mechanism). Additional mechanisms include folate deficiency (proximal jejunum) and B12 deficiency (extensive disease). Unexplained iron deficiency anaemia in an adult should always prompt exclusion of celiac disease."
+            "explanation": "Celiac disease primarily affects the duodenum and proximal jejunum — the principal site of iron absorption. Villous atrophy leads to impaired iron uptake and iron deficiency anaemia (most common mechanism). Additional mechanisms include folate deficiency (proximal jejunum) and B12 deficiency (extensive disease). Unexplained iron deficiency anaemia in an adult should always prompt exclusion of celiac disease.",
+            "past_paper": true
           },
           {
             "question": "Which of the following grains contain gluten protein? 1. Wheat 2. Barley 3. Rye 4. Oat",
@@ -1627,8 +1671,11 @@
               "1, 2, and 4"
             ],
             "correct": 1,
-            "explanation": "Gluten-containing grains: wheat (gliadin + glutenin), barley (hordein), rye (secalin). Oats contain avenin — not classical gluten — and most celiac patients tolerate pure uncontaminated oats. However, oats are often contaminated during processing. Rice, corn, millet, quinoa, and potato are gluten-free."
-          },
+            "explanation": "Gluten-containing grains: wheat (gliadin + glutenin), barley (hordein), rye (secalin). Oats contain avenin — not classical gluten — and most celiac patients tolerate pure uncontaminated oats. However, oats are often contaminated during processing. Rice, corn, millet, quinoa, and potato are gluten-free.",
+            "past_paper": true
+          }
+        ],
+        "Irritable Bowel Syndrome": [
           {
             "question": "Which is true about irritable bowel syndrome?",
             "options": [
@@ -1638,7 +1685,8 @@
               "Men are 2-3 times more likely than women to have IBS"
             ],
             "correct": 0,
-            "explanation": "IBS is a functional GI disorder — no structural, inflammatory, or biochemical abnormalities. Diagnosed by Rome IV criteria (no specific lab markers). More common in women (F:M ~2:1). Colonoscopy and biopsy are normal. Pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, microbiome changes, and psychological factors."
+            "explanation": "IBS is a functional GI disorder — no structural, inflammatory, or biochemical abnormalities. Diagnosed by Rome IV criteria (no specific lab markers). More common in women (F:M ~2:1). Colonoscopy and biopsy are normal. Pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, microbiome changes, and psychological factors.",
+            "past_paper": true
           },
           {
             "question": "Which of the following are TYPICAL symptoms of IBS? 1. Abnormal stool form (Bristol scale) 2. Feeling of incomplete evacuation 3. Melena 4. Unexplained weight loss",
@@ -1649,7 +1697,8 @@
               "1 and 2"
             ],
             "correct": 3,
-            "explanation": "IBS typical symptoms include abnormal stool form (Bristol scale types 1-2 = constipation; 6-7 = diarrhoea), feeling of incomplete evacuation, bloating, and mucus in stool. Melena and unexplained weight loss are ALARM FEATURES — they suggest organic disease (IBD, malignancy) and require investigation. IBS diagnosis requires ≥6 months of symptom onset."
+            "explanation": "IBS typical symptoms include abnormal stool form (Bristol scale types 1-2 = constipation; 6-7 = diarrhoea), feeling of incomplete evacuation, bloating, and mucus in stool. Melena and unexplained weight loss are ALARM FEATURES — they suggest organic disease (IBD, malignancy) and require investigation. IBS diagnosis requires ≥6 months of symptom onset.",
+            "past_paper": true
           },
           {
             "question": "Which is NOT a pathogenetic mechanism of irritable bowel syndrome?",
@@ -1660,7 +1709,8 @@
               "Psychosocial disturbances"
             ],
             "correct": 1,
-            "explanation": "Lactase deficiency causes lactose intolerance — a distinct condition that can mimic IBS but is not a pathogenic mechanism of IBS. IBS pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, psychosocial factors, microbiota dysbiosis, and bile acid metabolism disturbances. Lactase deficiency should be excluded before diagnosing IBS."
+            "explanation": "Lactase deficiency causes lactose intolerance — a distinct condition that can mimic IBS but is not a pathogenic mechanism of IBS. IBS pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, psychosocial factors, microbiota dysbiosis, and bile acid metabolism disturbances. Lactase deficiency should be excluded before diagnosing IBS.",
+            "past_paper": true
           },
           {
             "question": "Which are used for treatment of IBS? 1. Tricyclic antidepressants 2. Azathioprine 3. Probiotics 4. SSRIs",
@@ -1671,7 +1721,8 @@
               "3 and 4 only"
             ],
             "correct": 1,
-            "explanation": "IBS treatments include TCAs (amitriptyline — neuromodulation, useful in IBS-D and pain), SSRIs (for anxiety, global IBS symptoms, IBS-C), probiotics (may reduce bloating), antispasmodics (mebeverine — first-line for pain), rifaximin (IBS-D), loperamide (IBS-D), and laxatives (IBS-C). Azathioprine is for IBD — NOT IBS."
+            "explanation": "IBS treatments include TCAs (amitriptyline — neuromodulation, useful in IBS-D and pain), SSRIs (for anxiety, global IBS symptoms, IBS-C), probiotics (may reduce bloating), antispasmodics (mebeverine — first-line for pain), rifaximin (IBS-D), loperamide (IBS-D), and laxatives (IBS-C). Azathioprine is for IBD — NOT IBS.",
+            "past_paper": true
           }
         ],
         "Cirrhosis": [],
