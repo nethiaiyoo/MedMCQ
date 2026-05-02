@@ -699,451 +699,1344 @@
         "Alcoholic Liver Disease": [
           {
             "question": "What percentage of all global deaths is attributable to alcohol abuse?",
-            "options": ["2.1%", "3.8%", "5.9%", "8.4%"],
+            "options": [
+              "2.1%",
+              "3.8%",
+              "5.9%",
+              "8.4%"
+            ],
             "correct": 2,
             "explanation": "Alcohol abuse accounts for 5.9% of total deaths worldwide, making alcoholic liver disease one of the major causes of liver-related mortality globally."
           },
           {
             "question": "What is the male-to-female ratio specifically for alcoholic liver disease (ALD)?",
-            "options": ["10:1", "5:1", "3:1", "1:1"],
+            "options": [
+              "10:1",
+              "5:1",
+              "3:1",
+              "1:1"
+            ],
             "correct": 2,
             "explanation": "The male/female ratio for ALD is 3:1. Note that the ratio for chronic alcohol intake in general is 10:1, but liver disease is 3:1 because women are more susceptible per unit of alcohol consumed."
           },
           {
             "question": "What is the prevalence of liver cirrhosis among heavy drinkers?",
-            "options": ["5%", "11%", "21%", "42%"],
+            "options": [
+              "5%",
+              "11%",
+              "21%",
+              "42%"
+            ],
             "correct": 2,
             "explanation": "Only 21% of heavy drinkers develop liver cirrhosis. This underlines that genetic, nutritional, and environmental co-factors determine who progresses beyond steatosis."
           },
           {
             "question": "What proportion of heavy drinkers develop alcoholic steatosis?",
-            "options": ["20-40%", "50-60%", "70-80%", "Over 90%"],
+            "options": [
+              "20-40%",
+              "50-60%",
+              "70-80%",
+              "Over 90%"
+            ],
             "correct": 3,
             "explanation": "Steatosis develops in over 90% of heavy drinkers consuming ≥60 g/day of pure ethanol — it is the earliest and most common hepatic response to excess alcohol."
           },
           {
             "question": "Why are women more susceptible to alcoholic liver disease than men at equivalent alcohol intake?",
-            "options": ["Higher CYP2E1 activity", "Twice less gastric ADH activity, leading to greater ethanol bioavailability", "Lower estrogen levels reducing hepatoprotection", "More efficient ALDH2 enzyme activity"],
+            "options": [
+              "Higher CYP2E1 activity",
+              "Twice less gastric ADH activity, leading to greater ethanol bioavailability",
+              "Lower estrogen levels reducing hepatoprotection",
+              "More efficient ALDH2 enzyme activity"
+            ],
             "correct": 1,
             "explanation": "Women have twice less gastric alcohol dehydrogenase (ADH) activity, so less ethanol is metabolized in the stomach. More ethanol reaches the bloodstream and liver. High estrogen levels also amplify inflammatory cytokine responses."
           },
           {
             "question": "The inactive ALDH2*2 (E487K) variant is associated with which clinical phenomenon?",
-            "options": ["Alcoholic hepatitis after minimal intake", "Alcohol flush reaction and decreased alcohol consumption", "Accelerated fibrosis progression", "Resistance to corticosteroid treatment"],
+            "options": [
+              "Alcoholic hepatitis after minimal intake",
+              "Alcohol flush reaction and decreased alcohol consumption",
+              "Accelerated fibrosis progression",
+              "Resistance to corticosteroid treatment"
+            ],
             "correct": 1,
             "explanation": "The ALDH2*2 variant is found in ~40% of East Asians and causes accumulation of acetaldehyde (flushing, tachycardia, nausea), which has led to decreased alcohol consumption in Eastern populations."
           },
           {
             "question": "Above what daily ethanol intake does the risk of cirrhosis significantly increase in men, after 15-20 years of use?",
-            "options": ["20-30 g/day", "40-60 g/day", "70-90 g/day", "Over 100 g/day"],
+            "options": [
+              "20-30 g/day",
+              "40-60 g/day",
+              "70-90 g/day",
+              "Over 100 g/day"
+            ],
             "correct": 1,
             "explanation": "Cirrhosis risk rises significantly when intake exceeds 40-60 g/day in men and 20 g/day in women after 15-20 years of chronic use. One standard unit = 10-15 g ethanol."
           },
           {
             "question": "Which statement about age and ALD is correct?",
-            "options": ["Children are the most vulnerable group", "Elderly patients show greater ethanol-induced impairments than younger people", "Age has no independent effect on ALD progression", "Young adults progress to cirrhosis faster due to higher alcohol intake"],
+            "options": [
+              "Children are the most vulnerable group",
+              "Elderly patients show greater ethanol-induced impairments than younger people",
+              "Age has no independent effect on ALD progression",
+              "Young adults progress to cirrhosis faster due to higher alcohol intake"
+            ],
             "correct": 1,
             "explanation": "Age is an independent predictor of ALD. Elderly patients are more vulnerable and show greater degrees of ethanol-induced impairment, though the exact mechanism is not fully established."
           },
           {
             "question": "Where is the majority of ingested alcohol absorbed?",
-            "options": ["Stomach (80%)", "Proximal small intestine (80%)", "Distal small intestine", "Colon"],
+            "options": [
+              "Stomach (80%)",
+              "Proximal small intestine (80%)",
+              "Distal small intestine",
+              "Colon"
+            ],
             "correct": 1,
             "explanation": "Most alcohol absorption (about 80%) occurs in the proximal small intestine; only 20% is absorbed in the stomach. It is then metabolized primarily by hepatocytes."
           },
           {
             "question": "Which enzyme is the most catalytically efficient for ethanol oxidation and reaches half-maximal velocity at 5-10 mg/dL ethanol?",
-            "options": ["CYP2E1", "Catalase", "Alcohol dehydrogenase (ADH)", "Aldehyde dehydrogenase (ALDH2)"],
+            "options": [
+              "CYP2E1",
+              "Catalase",
+              "Alcohol dehydrogenase (ADH)",
+              "Aldehyde dehydrogenase (ALDH2)"
+            ],
             "correct": 2,
             "explanation": "ADH (located in the cytosol) is the most catalytically efficient ethanol-oxidizing enzyme, reaching half-maximal velocity at 5-10 mg/dL — well below intoxication levels."
           },
           {
             "question": "CYP2E1 is located in which subcellular compartment?",
-            "options": ["Cytosol", "Mitochondria", "Smooth endoplasmic reticulum", "Peroxisomes"],
+            "options": [
+              "Cytosol",
+              "Mitochondria",
+              "Smooth endoplasmic reticulum",
+              "Peroxisomes"
+            ],
             "correct": 2,
             "explanation": "CYP2E1 resides in the smooth endoplasmic reticulum. In contrast, ADH is in the cytosol and catalase is in peroxisomes."
           },
           {
             "question": "Why does CYP2E1 induction cause hepatotoxicity when an alcoholic takes a therapeutic drug dose?",
-            "options": ["CYP2E1 inhibits Phase 2 conjugation directly", "Induced CYP2E1 metabolizes co-substrates faster, generating more toxic intermediates while glutathione stores are already depleted", "CYP2E1 blocks ADH, causing acetaldehyde accumulation", "CYP2E1 reduces hepatic blood flow, slowing drug clearance"],
+            "options": [
+              "CYP2E1 inhibits Phase 2 conjugation directly",
+              "Induced CYP2E1 metabolizes co-substrates faster, generating more toxic intermediates while glutathione stores are already depleted",
+              "CYP2E1 blocks ADH, causing acetaldehyde accumulation",
+              "CYP2E1 reduces hepatic blood flow, slowing drug clearance"
+            ],
             "correct": 1,
             "explanation": "CYP2E1 metabolizes drugs and xenobiotics as well as ethanol. Induction means more toxic metabolites are produced from a normal drug dose, and glutathione — the main defense — is already depleted by chronic alcohol-driven ROS generation."
           },
           {
             "question": "What is the toxic product of ADH-catalyzed ethanol oxidation, and what makes it dangerous?",
-            "options": ["Acetate; it inhibits mitochondria", "Acetaldehyde; it covalently binds proteins, lipids, and nucleic acids forming adducts", "NADH; it inhibits the urea cycle", "ROS; they activate Kupffer cells"],
+            "options": [
+              "Acetate; it inhibits mitochondria",
+              "Acetaldehyde; it covalently binds proteins, lipids, and nucleic acids forming adducts",
+              "NADH; it inhibits the urea cycle",
+              "ROS; they activate Kupffer cells"
+            ],
             "correct": 1,
             "explanation": "Acetaldehyde is the toxic intermediate. It covalently binds macromolecules forming acetaldehyde adducts, disrupting their structure and function. It is rapidly oxidized to acetate by ALDH2 inside mitochondria to minimize toxicity."
           },
           {
             "question": "What metabolic consequence results from both ADH and ALDH2 generating NADH?",
-            "options": ["Decreased cellular ATP", "Reduced NAD+/NADH ratio (cellular redox potential), promoting lipogenesis", "Increased beta-oxidation of fatty acids", "Upregulation of VLDL synthesis"],
+            "options": [
+              "Decreased cellular ATP",
+              "Reduced NAD+/NADH ratio (cellular redox potential), promoting lipogenesis",
+              "Increased beta-oxidation of fatty acids",
+              "Upregulation of VLDL synthesis"
+            ],
             "correct": 1,
             "explanation": "Both ADH and ALDH2 consume NAD+ and generate NADH, decreasing the NAD+/NADH ratio. This shift in cellular redox potential inhibits beta-oxidation and promotes lipid synthesis, contributing to steatosis."
           },
           {
             "question": "Which transcription factor, activated by ethanol in hepatocytes, upregulates lipogenic gene expression?",
-            "options": ["PPAR-alpha", "PPAR-gamma", "SREBP-1c", "NF-kB"],
+            "options": [
+              "PPAR-alpha",
+              "PPAR-gamma",
+              "SREBP-1c",
+              "NF-kB"
+            ],
             "correct": 2,
             "explanation": "Ethanol triggers translocation of SREBP-1c from the ER to the Golgi, where it undergoes proteolytic maturation and enters the nucleus to enhance lipogenic gene expression, converting the liver to a fat-storing organ."
           },
           {
             "question": "Which transcription factor governing fatty acid transport and oxidation is inactivated by acetaldehyde?",
-            "options": ["SREBP-1c", "PPAR-alpha", "NF-kB", "Egr-1"],
+            "options": [
+              "SREBP-1c",
+              "PPAR-alpha",
+              "NF-kB",
+              "Egr-1"
+            ],
             "correct": 1,
             "explanation": "Acetaldehyde inactivates PPAR-alpha, which normally governs genes regulating fatty acid transport and beta-oxidation. Its loss is one of three mechanisms slowing hepatic fat breakdown in alcoholics."
           },
           {
             "question": "What is the major source of lipopolysaccharide (LPS) that triggers Kupffer cell activation in alcoholic hepatitis?",
-            "options": ["Hepatocyte necrosis", "Gram-negative bacteria translocating from the gut lumen into the portal circulation", "Activated hepatic stellate cells", "Adipose tissue lipolysis"],
+            "options": [
+              "Hepatocyte necrosis",
+              "Gram-negative bacteria translocating from the gut lumen into the portal circulation",
+              "Activated hepatic stellate cells",
+              "Adipose tissue lipolysis"
+            ],
             "correct": 1,
             "explanation": "Alcohol causes bacterial overgrowth and increases intestinal permeability, allowing LPS from gut Gram-negative bacteria to translocate into the portal circulation. In the liver, LPS is sensed by CD14 and TLR4 on Kupffer cells."
           },
           {
             "question": "Kupffer cells activated by LPS adopt which functional phenotype to drive alcoholic hepatitis?",
-            "options": ["M2 (anti-inflammatory)", "M0 (resting)", "M1 (pro-inflammatory)", "Tolerogenic"],
+            "options": [
+              "M2 (anti-inflammatory)",
+              "M0 (resting)",
+              "M1 (pro-inflammatory)",
+              "Tolerogenic"
+            ],
             "correct": 2,
             "explanation": "LPS via TLR4 switches Kupffer cells to a proinflammatory M1 phenotype, producing TNF-alpha, IL-6, IL-1beta, and generating ROS via NADPH oxidase and CYP2E1. Normally, Kupffer cells have tolerogenic properties."
           },
           {
             "question": "Hepatic stellate cells (HSCs) normally reside where and perform what function?",
-            "options": ["Kupffer space; phagocytosis", "Space of Disse; quiescent lipid-storing cells (vitamin A reservoir)", "Bile canaliculi; bile secretion", "Sinusoidal lumen; immune surveillance"],
+            "options": [
+              "Kupffer space; phagocytosis",
+              "Space of Disse; quiescent lipid-storing cells (vitamin A reservoir)",
+              "Bile canaliculi; bile secretion",
+              "Sinusoidal lumen; immune surveillance"
+            ],
             "correct": 1,
             "explanation": "HSCs normally reside as quiescent, lipid-storing cells in the space of Disse. They serve as the major retinoid (vitamin A) reservoir. Upon activation, they become myofibroblasts and are the principal source of hepatic fibrosis."
           },
           {
             "question": "What structural change in the sinusoid characterizes early fibrogenesis and is called 'sinusoidal capillarization'?",
-            "options": ["Formation of regenerative nodules", "Loss of sinusoidal endothelial cell fenestrae and hepatocyte microvilli", "Replacement of portal veins by fibrous septa", "Accumulation of Mallory-Denk bodies in sinusoids"],
+            "options": [
+              "Formation of regenerative nodules",
+              "Loss of sinusoidal endothelial cell fenestrae and hepatocyte microvilli",
+              "Replacement of portal veins by fibrous septa",
+              "Accumulation of Mallory-Denk bodies in sinusoids"
+            ],
             "correct": 1,
             "explanation": "Sinusoidal capillarization refers to the loss of endothelial fenestrae and hepatocyte microvilli as normal low-density matrix in the space of Disse is replaced by dense interstitial ECM. This disrupts hepatocyte-sinusoid exchange and initiates portal hypertension."
           },
           {
             "question": "What histological pattern is characteristic of alcoholic steatosis?",
-            "options": ["Microvesicular steatosis in zone 1", "Macrovesicular steatosis beginning in zone 3 (centrilobular)", "Periportal macrovesicular steatosis", "Mixed micro and macrovesicular steatosis throughout all zones"],
+            "options": [
+              "Microvesicular steatosis in zone 1",
+              "Macrovesicular steatosis beginning in zone 3 (centrilobular)",
+              "Periportal macrovesicular steatosis",
+              "Mixed micro and macrovesicular steatosis throughout all zones"
+            ],
             "correct": 1,
             "explanation": "Alcoholic steatosis shows macrovesicular steatosis (large fat droplets displacing the nucleus), beginning in zone 3 (centrilobular, highest CYP2E1 expression) and extending toward zone 1 with continued drinking."
           },
           {
             "question": "Which of the following is the hallmark histological feature that distinguishes alcoholic steatohepatitis from steatosis alone?",
-            "options": ["Macrovesicular fat droplets", "Mallory-Denk bodies, neutrophil infiltration, and hepatocyte ballooning", "Micronodular cirrhosis", "Perivenular collagen deposition only"],
+            "options": [
+              "Macrovesicular fat droplets",
+              "Mallory-Denk bodies, neutrophil infiltration, and hepatocyte ballooning",
+              "Micronodular cirrhosis",
+              "Perivenular collagen deposition only"
+            ],
             "correct": 1,
             "explanation": "The hallmarks of alcoholic steatohepatitis are Mallory-Denk bodies (cytokeratin aggregates from oxidative stress), neutrophil infiltration, hepatocyte ballooning, megamitochondria, and cholestatic changes — none of which appear in simple steatosis."
           },
           {
             "question": "Approximately what proportion of heavy drinkers progress from steatosis to steatohepatitis and fibrosis?",
-            "options": ["5-10%", "20-40%", "50-60%", "70-80%"],
+            "options": [
+              "5-10%",
+              "20-40%",
+              "50-60%",
+              "70-80%"
+            ],
             "correct": 1,
             "explanation": "Approximately 20-40% of heavy drinkers progress from alcoholic steatosis to steatohepatitis. Only 10-35% ultimately develop fibrosis."
           },
           {
             "question": "Which type of cirrhosis pattern is most characteristic of alcoholic liver disease?",
-            "options": ["Macronodular", "Micronodular", "Biliary", "Mixed biliary and macronodular"],
+            "options": [
+              "Macronodular",
+              "Micronodular",
+              "Biliary",
+              "Mixed biliary and macronodular"
+            ],
             "correct": 1,
             "explanation": "ALD cirrhosis is typically micronodular, though it can become mixed micro- and macronodular over time. Micronodular pattern reflects the uniform, repeated injury pattern from alcohol."
           },
           {
             "question": "After how many weeks of complete abstinence can alcoholic steatosis fully reverse?",
-            "options": ["1 week", "2 weeks", "4 weeks", "3 months"],
+            "options": [
+              "1 week",
+              "2 weeks",
+              "4 weeks",
+              "3 months"
+            ],
             "correct": 2,
             "explanation": "Alcoholic steatosis is fully reversible after 4 weeks of complete abstinence. This is why it is the most important stage to intervene — fibrosis and cirrhosis cannot be fully reversed."
           },
           {
             "question": "Acute alcoholic steatohepatitis is a classic example of which clinical syndrome?",
-            "options": ["Hepatorenal syndrome", "Hepatic hydrothorax", "Acute-on-chronic liver failure (ACLF)", "Budd-Chiari syndrome"],
+            "options": [
+              "Hepatorenal syndrome",
+              "Hepatic hydrothorax",
+              "Acute-on-chronic liver failure (ACLF)",
+              "Budd-Chiari syndrome"
+            ],
             "correct": 2,
             "explanation": "Acute alcoholic steatohepatitis, typically appearing after binge drinking superimposed on any stage of ALD, is a classic example of acute-on-chronic liver failure (ACLF). It carries high short-term mortality."
           },
           {
             "question": "What AST/ALT ratio pattern is characteristic of alcoholic liver disease?",
-            "options": ["ALT > AST", "AST/ALT > 1 (and typically >2 in steatosis, >1.5-2 in steatohepatitis)", "Equal AST and ALT", "Neither is elevated in ALD"],
+            "options": [
+              "ALT > AST",
+              "AST/ALT > 1 (and typically >2 in steatosis, >1.5-2 in steatohepatitis)",
+              "Equal AST and ALT",
+              "Neither is elevated in ALD"
+            ],
             "correct": 1,
             "explanation": "ALD characteristically shows AST > ALT, giving an AST/ALT ratio >1. This occurs because ethanol inhibits pyridoxal-5-phosphate, a cofactor for ALT synthesis. In steatosis AST/ALT >2; in steatohepatitis >1.5-2."
           },
           {
             "question": "Which liver enzyme is disproportionately elevated in ALD compared to other liver diseases, and is useful for detecting unreported alcohol use?",
-            "options": ["ALT", "ALP", "GGT (gamma-glutamyl transferase)", "LDH"],
+            "options": [
+              "ALT",
+              "ALP",
+              "GGT (gamma-glutamyl transferase)",
+              "LDH"
+            ],
             "correct": 2,
             "explanation": "GGT is markedly elevated in ALD — higher than in other liver diseases. GGT/ALP >5 is characteristic. GGT is elevated by alcohol even without overt liver disease, making it useful for detecting unreported alcohol consumption."
           },
           {
             "question": "What is the minimum daily alcohol intake threshold used to diagnose ALD?",
-            "options": ["≥10 g/day for men and ≥5 g/day for women", "≥20 g/day for women and ≥30 g/day for men", "≥40 g/day for both sexes", "≥60 g/day for both sexes"],
+            "options": [
+              "≥10 g/day for men and ≥5 g/day for women",
+              "≥20 g/day for women and ≥30 g/day for men",
+              "≥40 g/day for both sexes",
+              "≥60 g/day for both sexes"
+            ],
             "correct": 1,
             "explanation": "ALD is suspected when regular consumption is >20 g/day in women and >30 g/day in men, combined with clinical/biological signs of liver injury."
           },
           {
             "question": "What is the most reliable non-invasive method for detecting mild steatosis (5-10% of liver mass) in ALD?",
-            "options": ["Ultrasound", "CT scan", "MRI", "Liver biopsy"],
+            "options": [
+              "Ultrasound",
+              "CT scan",
+              "MRI",
+              "Liver biopsy"
+            ],
             "correct": 2,
             "explanation": "MRI is the most sensitive non-invasive method, detecting steatosis when it involves as little as 5-10% of total liver mass. Ultrasound has poor sensitivity below 20-30% steatosis."
           },
           {
             "question": "The Maddrey Discrimination Factor (mDF) is calculated as:",
-            "options": ["MELD x bilirubin", "4.6 x (PT patient - PT control) + serum bilirubin", "AST/ALT x bilirubin x age", "PT/INR + creatinine + bilirubin"],
+            "options": [
+              "MELD x bilirubin",
+              "4.6 x (PT patient - PT control) + serum bilirubin",
+              "AST/ALT x bilirubin x age",
+              "PT/INR + creatinine + bilirubin"
+            ],
             "correct": 1,
             "explanation": "mDF = 4.6 x (PT patient - PT control) + serum bilirubin. Values ≥32 indicate high mortality risk; 28-day survival without treatment is only 50-65%."
           },
           {
             "question": "The Lille score is used for what specific purpose in alcoholic hepatitis?",
-            "options": ["To diagnose ALD at initial presentation", "To assess corticosteroid treatment response at day 7; values ≥0.45 indicate treatment failure", "To predict 5-year survival in cirrhosis", "To determine liver transplant eligibility at admission"],
+            "options": [
+              "To diagnose ALD at initial presentation",
+              "To assess corticosteroid treatment response at day 7; values ≥0.45 indicate treatment failure",
+              "To predict 5-year survival in cirrhosis",
+              "To determine liver transplant eligibility at admission"
+            ],
             "correct": 1,
             "explanation": "The Lille score is calculated at day 7 of corticosteroid therapy to assess response. A score ≥0.45 indicates corticosteroids are ineffective — stop treatment and assess for early liver transplantation in selected patients."
           },
           {
             "question": "Which variables does the MELD score use?",
-            "options": ["Bilirubin + PT/INR only", "Bilirubin + PT/INR + creatinine", "Bilirubin + PT/INR + creatinine + WBC + age", "Bilirubin + PT/INR + albumin + WBC"],
+            "options": [
+              "Bilirubin + PT/INR only",
+              "Bilirubin + PT/INR + creatinine",
+              "Bilirubin + PT/INR + creatinine + WBC + age",
+              "Bilirubin + PT/INR + albumin + WBC"
+            ],
             "correct": 1,
             "explanation": "The MELD score uses bilirubin, PT/INR, and creatinine. It differs from the Maddrey score (which omits creatinine) and from GAHS (which also adds WBC and age)."
           },
           {
             "question": "What is the cornerstone of treatment at ALL stages of ALD?",
-            "options": ["Corticosteroids", "N-acetylcysteine", "Complete abstinence from alcohol", "Liver transplantation"],
+            "options": [
+              "Corticosteroids",
+              "N-acetylcysteine",
+              "Complete abstinence from alcohol",
+              "Liver transplantation"
+            ],
             "correct": 2,
             "explanation": "Complete abstinence from alcohol is the single most important intervention across all stages of ALD. It can reverse steatosis, slow fibrosis, and reduce mortality — no pharmacological therapy can substitute for it."
           },
           {
             "question": "For severe alcoholic hepatitis (mDF ≥32) without active infection, what is the first-line pharmacological treatment?",
-            "options": ["N-acetylcysteine alone", "Prednisolone 40 mg/day ± N-acetylcysteine", "Rifaximin + lactulose", "GCSF monotherapy"],
+            "options": [
+              "N-acetylcysteine alone",
+              "Prednisolone 40 mg/day ± N-acetylcysteine",
+              "Rifaximin + lactulose",
+              "GCSF monotherapy"
+            ],
             "correct": 1,
             "explanation": "Prednisolone 40 mg/day (or methylprednisolone 32 mg/day IV) ± N-acetylcysteine is first-line for severe AH (mDF ≥32), given in the absence of active infection. Corticosteroids reduce short-term mortality but do not improve medium/long-term survival."
           },
           {
             "question": "How does N-acetylcysteine (NAC) exert its hepatoprotective effect in alcoholic hepatitis?",
-            "options": ["It inhibits TLR4 signaling on Kupffer cells", "It restores glutathione stores, limiting oxidative stress", "It directly blocks CYP2E1 enzyme activity", "It promotes hepatocyte regeneration via stem cell activation"],
+            "options": [
+              "It inhibits TLR4 signaling on Kupffer cells",
+              "It restores glutathione stores, limiting oxidative stress",
+              "It directly blocks CYP2E1 enzyme activity",
+              "It promotes hepatocyte regeneration via stem cell activation"
+            ],
             "correct": 1,
             "explanation": "NAC is a glutathione precursor. It restores glutathione stores and thereby limits the oxidative stress that is a key mechanism in alcohol-mediated hepatotoxicity. It is given IV for 5 days in combination with corticosteroids."
           },
           {
             "question": "What is the daily protein intake target in the nutritional management of ALD?",
-            "options": ["0.5-0.8 g/kg/day", "1.2-1.5 g/kg/day", "2.0-2.5 g/kg/day", "3.0 g/kg/day"],
+            "options": [
+              "0.5-0.8 g/kg/day",
+              "1.2-1.5 g/kg/day",
+              "2.0-2.5 g/kg/day",
+              "3.0 g/kg/day"
+            ],
             "correct": 1,
             "explanation": "Nutritional support in ALD targets 1.2-1.5 g/kg/day of protein and 35-40 kcal/kg/day total energy. The oral route is preferred; B-complex vitamins are mandatory to prevent Wernicke encephalopathy."
           },
           {
             "question": "What is the threshold for considering liver transplantation in end-stage ALD cirrhosis?",
-            "options": ["Child-Pugh B and/or MELD ≥10", "Child-Pugh C and/or MELD ≥15", "Child-Pugh A with refractory ascites", "Any MELD score >12 in an alcoholic patient"],
+            "options": [
+              "Child-Pugh B and/or MELD ≥10",
+              "Child-Pugh C and/or MELD ≥15",
+              "Child-Pugh A with refractory ascites",
+              "Any MELD score >12 in an alcoholic patient"
+            ],
             "correct": 1,
             "explanation": "Liver transplantation is indicated in Child-Pugh class C cirrhosis and/or a MELD score ≥15. Patients with severe AH are also at high risk of AKI — nephrotoxic drugs and diuretics should be avoided."
           },
           {
             "question": "Why must infections be systematically screened for BEFORE starting corticosteroids in alcoholic hepatitis?",
-            "options": ["Infections alter the Lille score calculation", "Corticosteroids are immunosuppressive and can worsen active infections, leading to sepsis and death", "Infections directly contraindicate N-acetylcysteine", "Infection screening determines the Maddrey score threshold"],
+            "options": [
+              "Infections alter the Lille score calculation",
+              "Corticosteroids are immunosuppressive and can worsen active infections, leading to sepsis and death",
+              "Infections directly contraindicate N-acetylcysteine",
+              "Infection screening determines the Maddrey score threshold"
+            ],
             "correct": 1,
             "explanation": "Corticosteroids are immunosuppressive. Treating active infection with immunosuppressants can lead to uncontrolled sepsis. The management algorithm mandates infection screening before initiating prednisolone."
           },
           {
             "question": "What is the mechanism of action of GCSF in alcoholic liver disease?",
-            "options": ["Inhibits Kupffer cell TLR4 signaling", "Stimulates the bone marrow to release neutrophils and CD34+ stem cells into the bloodstream", "Acts as an antioxidant by replenishing glutathione", "Directly inhibits hepatic stellate cell activation"],
+            "options": [
+              "Inhibits Kupffer cell TLR4 signaling",
+              "Stimulates the bone marrow to release neutrophils and CD34+ stem cells into the bloodstream",
+              "Acts as an antioxidant by replenishing glutathione",
+              "Directly inhibits hepatic stellate cell activation"
+            ],
             "correct": 1,
             "explanation": "GCSF (granulocyte colony stimulating factor) stimulates the bone marrow to produce and release neutrophils and CD34+ stem cells. A trial in ACLF showed significantly improved short-term survival and decreased AKI risk."
           },
           {
             "question": "Which medications are used in the management of hepatic encephalopathy in ALD cirrhosis?",
-            "options": ["Prednisolone + N-acetylcysteine", "Rifaximin + lactulose", "NSBBs + EVL", "Diuretics + salt restriction"],
+            "options": [
+              "Prednisolone + N-acetylcysteine",
+              "Rifaximin + lactulose",
+              "NSBBs + EVL",
+              "Diuretics + salt restriction"
+            ],
             "correct": 1,
             "explanation": "Hepatic encephalopathy is managed with rifaximin (a non-absorbable antibiotic reducing gut ammonia production) and lactulose (an osmotic laxative that acidifies the colon, trapping ammonia as NH4+)."
           }
         ],
-        "Peptic Ulcer Disease": [],
-        "Inflammatory Bowel Disease": [],
+        "GERD & Peptic Ulcer Disease": [
+          {
+            "question": "What is the correct definition of gastroesophageal reflux disease?",
+            "options": [
+              "GERD occurs when the amount of gastric juice that refluxes into the esophagus exceeds the normal limit",
+              "Impaired relaxation of the lower esophageal sphincter in response to swallowing",
+              "A type of infectious esophagitis",
+              "Replacement of healthy esophageal epithelium with metaplastic columnar cells"
+            ],
+            "correct": 0,
+            "explanation": "GERD is defined as a condition that develops when reflux of gastric contents into the esophagus causes troublesome symptoms and/or complications. Option b) describes achalasia, option c) is incorrect as GERD is not infectious, and option d) describes Barrett's esophagus, which is a complication of chronic GERD."
+          },
+          {
+            "question": "Mechanisms of gastroesophageal reflux disease include: 1. Transient LES relaxation 2. Side effects of PPI therapy 3. LES hypotension 4. Hiatus hernia. Which are correct?",
+            "options": [
+              "1 and 3 only",
+              "1, 3, and 4",
+              "1, 2, and 4",
+              "1 and 2 only"
+            ],
+            "correct": 1,
+            "explanation": "The three main pathogenic mechanisms of GERD are: transient LES relaxations (TLESRs) — the most common mechanism; LES hypotension — decreased basal LES pressure reduces the antireflux barrier; and hiatal hernia — impairs normal LES function. PPI therapy is a treatment, not a mechanism of GERD."
+          },
+          {
+            "question": "Which are risk factors of GERD? 1. Abdominal obesity 2. Pregnancy 3. Gastric hyposecretory states 4. Delayed gastric emptying",
+            "options": [
+              "1, 2, and 4",
+              "1, 2, and 3",
+              "1, 3, and 4",
+              "2, 3, and 4"
+            ],
+            "correct": 0,
+            "explanation": "Abdominal obesity increases intra-abdominal pressure. Pregnancy causes elevated intra-abdominal pressure plus progesterone-mediated LES relaxation. Delayed gastric emptying prolongs gastric distension and increases reflux episodes. Gastric hyposecretory states are NOT a risk factor — GERD is about reflux volume, not acidity."
+          },
+          {
+            "question": "Which of the following are TYPICAL (esophageal) symptoms of GERD?",
+            "options": [
+              "Regurgitation and back pain",
+              "Heartburn and back pain",
+              "Regurgitation and heartburn",
+              "Regurgitation and asthma"
+            ],
+            "correct": 2,
+            "explanation": "The two typical (esophageal) symptoms of GERD are heartburn (retrosternal burning) and regurgitation (passive return of gastric contents to the mouth). Asthma is an extra-esophageal manifestation. Back pain is not characteristic of GERD."
+          },
+          {
+            "question": "Extraesophageal manifestations of GERD include: 1. Chronic cough 2. Laryngitis 3. Asthma 4. Dental erosions. Which are correct?",
+            "options": [
+              "All four",
+              "2, 3, and 4",
+              "1, 3, and 4",
+              "1, 2, and 4"
+            ],
+            "correct": 0,
+            "explanation": "All four are well-established extra-esophageal manifestations of GERD, resulting from microaspiration or vagally mediated reflexes: chronic cough, laryngitis (hoarseness), asthma exacerbations, and dental enamel erosions. Any of these can be the only presenting feature of GERD (silent GERD)."
+          },
+          {
+            "question": "Which drug is used for first-line treatment of GERD?",
+            "options": [
+              "Glucocorticosteroids",
+              "Pegylated interferon",
+              "Proton pump inhibitors (PPIs)",
+              "Antibiotics"
+            ],
+            "correct": 2,
+            "explanation": "Proton pump inhibitors (PPIs) are the first-line treatment for GERD. They block the H+/K+-ATPase (proton pump) on parietal cells, reducing acid secretion more effectively than H2-blockers. PPIs are superior to H2RAs for healing erosive esophagitis and maintaining remission."
+          },
+          {
+            "question": "The following drugs contribute to the development of GERD: 1. Calcium channel blockers 2. Theophylline 3. Nitrates 4. Alpha-adrenomimetics. Which are correct?",
+            "options": [
+              "2 and 4 only",
+              "All four",
+              "1, 3, and 4",
+              "1, 2, and 3"
+            ],
+            "correct": 1,
+            "explanation": "All listed drugs decrease LES pressure: calcium channel blockers relax smooth muscle, theophylline reduces LES pressure, nitrates relax smooth muscle including LES, and alpha-adrenomimetics can also affect LES tone. Other GERD-promoting drugs include anticholinergics, opioids, and progesterone."
+          },
+          {
+            "question": "Regarding Barrett's esophagus and GERD, which statements are correct? 1. Antisecretory therapy prevents adenocarcinoma in Barrett's 2. Barrett's metaplasia can progress to adenocarcinoma 3. Zollinger-Ellison syndrome is associated with severe esophagitis 4. Heartburn and regurgitation are typical symptoms of GERD",
+            "options": [
+              "2, 3, and 4",
+              "1, 2, and 3",
+              "1, 2, and 4",
+              "All four"
+            ],
+            "correct": 0,
+            "explanation": "Statement 1 is false: PPIs control symptoms but have NOT been definitively shown to prevent progression of Barrett's to adenocarcinoma. Statements 2, 3, 4 are all true. Barrett's esophagus (intestinal metaplasia of the distal esophagus) is a well-established precursor to esophageal adenocarcinoma, and ZES causes excess acid that can produce severe esophagitis."
+          },
+          {
+            "question": "All are risk factors for Barrett's esophagus, EXCEPT:",
+            "options": [
+              "Age over 55",
+              "Female gender",
+              "Smoking",
+              "Obesity"
+            ],
+            "correct": 1,
+            "explanation": "Barrett's esophagus is more common in males (male predominance ~2:1). Risk factors include: advanced age (>50), male sex, chronic GERD (>5 years), obesity (especially central), smoking, and white race. Female gender is actually protective relative to males."
+          },
+          {
+            "question": "Which endoscopic classification system is used to assess the severity of reflux esophagitis?",
+            "options": [
+              "Los Angeles classification",
+              "Sydney classification",
+              "Helsinki classification",
+              "Montreal classification"
+            ],
+            "correct": 0,
+            "explanation": "The Los Angeles (LA) classification grades reflux esophagitis A-D based on mucosal breaks: Grade A (≤5mm), B (>5mm not extending between tops of mucosal folds), C (extending between tops of folds but <75% of circumference), D (≥75% of circumference). The Sydney system is for gastritis; Montreal defines GERD clinically."
+          },
+          {
+            "question": "All of the following are risk factors for PUD, EXCEPT:",
+            "options": [
+              "Young age",
+              "Helicobacter pylori",
+              "NSAIDs",
+              "Chronic obstructive lung disease"
+            ],
+            "correct": 0,
+            "explanation": "PUD risk factors include H. pylori infection (most common), NSAIDs (second most common), smoking, chronic lung disease, hypercalcemia, and blood group O. Young age is NOT a risk factor — PUD prevalence increases with age. GU peak incidence is in the 6th decade."
+          },
+          {
+            "question": "Which are true about peptic ulcer symptoms? 1. NSAID-induced disease can present without symptoms 2. Epigastric pain described as burning/gnawing 3. Dysphagia is present 4. Pain can awaken patient from sleep",
+            "options": [
+              "1, 2, and 4",
+              "2, 3, and 4",
+              "1, 3, and 4",
+              "1, 2, and 3"
+            ],
+            "correct": 0,
+            "explanation": "NSAID ulcers are often silent, first presenting with complications. Epigastric burning/gnawing pain is classic (typically relieved by food in DU). Nocturnal pain characteristically awakens DU patients at 1-3 AM. Dysphagia is NOT a PUD symptom — it suggests esophageal pathology and is an alarm feature."
+          },
+          {
+            "question": "Which are complications of peptic ulcer disease? 1. Bleeding 2. Perforation 3. Penetration 4. Gastric outlet obstruction",
+            "options": [
+              "All four",
+              "2 and 4 only",
+              "1, 3, and 4",
+              "1 and 2 only"
+            ],
+            "correct": 0,
+            "explanation": "The four classic complications of PUD: bleeding (most common — hematemesis, melena), perforation (acute surgical emergency — sudden severe generalised abdominal pain), penetration (extends into adjacent organ, usually pancreas — pain radiating to back), and gastric outlet obstruction (due to edema or fibrosis at pylorus — vomiting of undigested food)."
+          },
+          {
+            "question": "Which drugs are used for treatment of peptic ulcers? 1. PPIs 2. Steroids 3. Antibiotics 4. Sucralfate",
+            "options": [
+              "1, 2, and 3",
+              "3 and 4 only",
+              "2 and 3 only",
+              "1, 3, and 4"
+            ],
+            "correct": 3,
+            "explanation": "PPIs are first-line (suppress acid, allow healing); antibiotics are used for H. pylori eradication (e.g., amoxicillin + clarithromycin in triple therapy); sucralfate is a mucosal protective agent. Steroids are NOT used — glucocorticoids actually increase ulcer risk, especially combined with NSAIDs."
+          },
+          {
+            "question": "Which factor of H. pylori is essential in alkalinizing the surrounding pH to allow colonization of the gastric mucosa?",
+            "options": [
+              "Catalase",
+              "Urease",
+              "Adhesin",
+              "Lipase"
+            ],
+            "correct": 1,
+            "explanation": "Urease hydrolyzes urea to ammonia (NH3) + CO2. Ammonia neutralizes gastric acid, creating a neutral microenvironment that allows H. pylori to colonize the gastric mucosa despite high acidity. Other virulence factors: catalase (protects against oxidative stress), adhesins (attachment to epithelium), CagA/VacA cytotoxins."
+          },
+          {
+            "question": "Which drugs are included in first-line triple therapy for H. pylori eradication? 1. Amoxicillin 2. Clarithromycin 3. Vancomycin 4. PPI",
+            "options": [
+              "1, 2, and 4",
+              "1, 2, and 3",
+              "1, 3, and 4",
+              "All four"
+            ],
+            "correct": 0,
+            "explanation": "Standard first-line triple therapy: PPI + Amoxicillin + Clarithromycin for 10-14 days. The PPI is always essential — it raises gastric pH, which enhances antibiotic stability and efficacy. Vancomycin is not used for H. pylori eradication."
+          },
+          {
+            "question": "Which are risk factors for stress-related gastric mucosal injury? 1. Shock 2. Sepsis 3. NSAIDs 4. Massive burns",
+            "options": [
+              "1, 2, and 3",
+              "2, 3, and 4",
+              "1, 3, and 4",
+              "1, 2, and 4"
+            ],
+            "correct": 3,
+            "explanation": "Stress ulcers occur in critically ill patients from mucosal ischemia. Risk factors include shock, sepsis, and massive burns (Curling ulcers). Head injury causes Cushing ulcers from high acid secretion. NSAIDs cause peptic ulcers by a different mechanism (COX-1 inhibition) — they are not typical stress ulcer risk factors in the ICU setting."
+          }
+        ],
+        "Gastritis": [
+          {
+            "question": "Which is true about type A gastritis?",
+            "options": [
+              "It is also called autoimmune gastritis",
+              "Gastrin levels are decreased",
+              "Circulating antibodies are not specific",
+              "It is the antral-predominant form"
+            ],
+            "correct": 0,
+            "explanation": "Type A gastritis = autoimmune gastritis. Key features: corpus/fundus predominant (not antral); antibodies against parietal cells and intrinsic factor lead to loss of parietal cells, hypochlorhydria/achlorhydria, and elevated gastrin (secondary hypergastrinemia). Associated with pernicious anaemia (B12 deficiency) and other autoimmune diseases."
+          },
+          {
+            "question": "Which are specific features of atrophic autoimmune gastritis? 1. Associated with other autoimmune disorders 2. Atrophy predominantly in gastric corpus 3. G-cell production of gastrin is decreased 4. Increased risk of gastric adenocarcinoma",
+            "options": [
+              "1 and 4 only",
+              "All four",
+              "2, 3, and 4",
+              "1, 2, and 4"
+            ],
+            "correct": 3,
+            "explanation": "Statement 3 is false: G-cell production of gastrin is increased, not decreased — loss of parietal cells causes hypochlorhydria, removing negative feedback on G cells, resulting in hypergastrinemia. Statements 1, 2, and 4 are true: autoimmune gastritis is associated with thyroiditis, T1DM, vitiligo; atrophy is corpus-predominant; long-standing atrophy with intestinal metaplasia raises cancer risk."
+          },
+          {
+            "question": "Which substances are DECREASED in chronic atrophic autoimmune gastritis? 1. Gastric acid 2. Vitamin B12 in blood 3. Gastrin in blood 4. Immunoglobulins in blood",
+            "options": [
+              "1, 2, and 3",
+              "1 and 2 only",
+              "1, 3, and 4",
+              "2 and 4 only"
+            ],
+            "correct": 1,
+            "explanation": "Gastric acid is decreased (parietal cells destroyed — hypochlorhydria). Vitamin B12 is decreased (intrinsic factor deficiency impairs B12 absorption in terminal ileum — pernicious anaemia). Gastrin is INCREASED (secondary hypergastrinemia). Immunoglobulins are not typically decreased — anti-parietal cell antibodies are present in the circulation."
+          },
+          {
+            "question": "Which are true about type AB (H. pylori) gastritis? 1. Histology improves after H. pylori eradication 2. Multifocal atrophic gastritis is present 3. Can lead to gastric adenocarcinoma 4. It is a type of autoimmune gastritis",
+            "options": [
+              "1, 3, and 4",
+              "2, 3, and 4",
+              "1, 2, and 3",
+              "1, 2, and 4"
+            ],
+            "correct": 2,
+            "explanation": "Statement 4 is false: Type AB is H. pylori-associated, NOT autoimmune (Type A is autoimmune). Type AB is characterised by multifocal atrophic gastritis, follows the Correa cascade to intestinal metaplasia and adenocarcinoma. H. pylori eradication can partially reverse early histological changes."
+          },
+          {
+            "question": "Which feature is NOT TYPICAL for atrophic multifocal (Type AB) gastritis?",
+            "options": [
+              "Etiology is mainly H. pylori",
+              "Multiple atrophic foci are present",
+              "Atrophy is corpus-restricted",
+              "It is also called pangastritis"
+            ],
+            "correct": 2,
+            "explanation": "Corpus-restricted atrophy describes Type A (autoimmune) gastritis. Multifocal atrophic gastritis (Type AB) involves both antrum AND corpus with patchy atrophic foci throughout the stomach — hence 'pangastritis.' It is caused by H. pylori spreading from antrum to corpus."
+          },
+          {
+            "question": "Which types of gastritis are recognised by the revised Sydney classification? 1. Non-atrophic 2. Atrophic autoimmune 3. Special forms 4. Atrophic multifocal",
+            "options": [
+              "2, 3, and 4",
+              "All four",
+              "1, 2, and 4",
+              "1, 2, and 3"
+            ],
+            "correct": 1,
+            "explanation": "The Revised Sydney Classification categorises gastritis into: non-atrophic (H. pylori associated, antral predominant), atrophic autoimmune (Type A, corpus predominant), atrophic multifocal (H. pylori, pangastritis), and special forms (eosinophilic, lymphocytic, granulomatous, Ménétrier's, reactive/chemical). For histological grading, 5 biopsies from standardised sites are required."
+          },
+          {
+            "question": "Which are true about Ménétrier's disease? 1. Massive foveolar hyperplasia 2. Gastric atrophy 3. Reduction of parietal cells and chief cells 4. Destruction in oxyntic glands",
+            "options": [
+              "1, 3, and 4",
+              "2, 3, and 4",
+              "1 and 4 only",
+              "1, 2, and 4"
+            ],
+            "correct": 0,
+            "explanation": "Ménétrier's disease (hypertrophic gastropathy): hallmark is massive foveolar hyperplasia (giant rugal folds) + loss of oxyntic glands leading to reduced parietal cells and chief cells and hypochlorhydria. Results in protein-losing gastropathy. Generalised gastric atrophy is NOT the defining feature — statement 2 is false."
+          },
+          {
+            "question": "Which gastric gland cells secrete hydrochloric acid?",
+            "options": [
+              "ECL cells",
+              "Chief cells",
+              "G cells",
+              "Parietal cells"
+            ],
+            "correct": 3,
+            "explanation": "Key gastric cells: parietal (oxyntic) cells secrete HCl + intrinsic factor; chief cells secrete pepsinogen; G cells secrete gastrin; D cells secrete somatostatin; ECL cells secrete histamine. Parietal cells use H+/K+-ATPase (proton pump) to secrete H+ against a concentration gradient — the target of PPIs."
+          },
+          {
+            "question": "All of the following stimulate gastric acid secretion, EXCEPT:",
+            "options": [
+              "Histamine",
+              "Acetylcholine",
+              "Gastrin",
+              "Somatostatin"
+            ],
+            "correct": 3,
+            "explanation": "Stimulators of acid secretion: histamine (via H2 receptors), acetylcholine (M3 receptors), gastrin (CCK-B receptors). Somatostatin INHIBITS acid secretion — directly inhibiting parietal cells and indirectly by inhibiting G cells (reducing gastrin) and ECL cells (reducing histamine). Somatostatin is released by D cells in response to luminal acid."
+          }
+        ],
+        "Inflammatory Bowel Disease": [
+          {
+            "question": "Which feature is NOT specific for Crohn's disease?",
+            "options": [
+              "Non-caseating granulomas",
+              "The process is limited to the mucosa and superficial submucosa",
+              "Formation of fistulas",
+              "Aphthoid ulcerations"
+            ],
+            "correct": 1,
+            "explanation": "Crohn's disease features transmural inflammation (all layers). 'Limited to mucosa and superficial submucosa' describes ulcerative colitis. Crohn's features: skip lesions, non-caseating granulomas (~60% of biopsies), aphthous ulcers, cobblestoning, fistulas, perianal disease, and strictures."
+          },
+          {
+            "question": "Which of the following are symptoms of Crohn's disease? 1. Constipation 2. Weight loss 3. Diarrhea 4. Anorexia",
+            "options": [
+              "1, 2, and 3",
+              "2, 3, and 4",
+              "1, 3, and 4",
+              "1, 2, and 4"
+            ],
+            "correct": 1,
+            "explanation": "Classical CD triad: diarrhea, abdominal pain, weight loss. Anorexia is common due to systemic inflammation. Constipation is NOT typical — it may occur only in stricturing disease. Other symptoms vary by location: ileal CD causes malabsorption and B12 deficiency; colonic CD causes rectal bleeding."
+          },
+          {
+            "question": "Which are complications of Crohn's disease? 1. Intraabdominal abscesses 2. Intestinal obstruction 3. Fistula formation 4. Appendicitis",
+            "options": [
+              "1 and 3 only",
+              "1, 2, and 3",
+              "2, 3, and 4",
+              "All four"
+            ],
+            "correct": 1,
+            "explanation": "CD complications from transmural inflammation: abscesses (microperforation into mesentery), strictures/obstruction (fibrosis from chronic inflammation), and fistulas (enterocutaneous, enteroenteric, enterovesical, perianal — pathognomonic of CD). Appendicitis is NOT a complication — though CD involving terminal ileum can mimic appendicitis clinically."
+          },
+          {
+            "question": "Which are ENDOSCOPIC features of Crohn's disease? 1. Granulomas 2. Fistulas 3. Skip lesions 4. Aphthous ulcerations",
+            "options": [
+              "2, 3, and 4",
+              "2 and 4 only",
+              "1 and 2 only",
+              "2 and 3 only"
+            ],
+            "correct": 0,
+            "explanation": "Granulomas are HISTOLOGIC (biopsy) findings — not visible endoscopically. Endoscopic features of CD include skip lesions (normal mucosa between diseased areas), aphthous ulcers (early), deep linear ulcers, cobblestone appearance, fistulous openings, and strictures. UC by contrast shows continuous inflammation from rectum proximally."
+          },
+          {
+            "question": "Which tests are used for evaluation of Crohn's disease? 1. CT 2. ESR 3. CRP 4. Colonoscopy",
+            "options": [
+              "1 and 2 only",
+              "All four",
+              "2 and 4 only",
+              "1, 2, and 3"
+            ],
+            "correct": 1,
+            "explanation": "Colonoscopy with biopsy is first-line for diagnosis. CT enterography/MRI is used for small bowel evaluation, fistulas, abscesses, and strictures. ESR and CRP are inflammatory markers for disease activity monitoring. Additional tools: fecal calprotectin, capsule endoscopy, and ASCA/pANCA serology."
+          },
+          {
+            "question": "Which statements are correct regarding treatment of Crohn's disease? 1. Main goal is to achieve and maintain remission 2. 5-ASA derivatives are first-line 3. Thiopurines are used for maintaining remission 4. Budesonide is first-line for mild ileitis",
+            "options": [
+              "1, 3, and 4",
+              "2 and 3 only",
+              "All four",
+              "2 and 4 only"
+            ],
+            "correct": 0,
+            "explanation": "Statement 2 is false: 5-ASA drugs have limited efficacy in CD (unlike UC where they are standard). CD treatment: budesonide for mild-moderate ileocecal disease, systemic steroids for moderate-severe induction, thiopurines (azathioprine/6-MP) for maintenance, anti-TNF agents for severe/fistulising disease, surgery for complications."
+          },
+          {
+            "question": "What is the definition of ulcerative colitis?",
+            "options": [
+              "A mucosal disease that usually involves the rectum and extends proximally to involve all or part of the colon",
+              "May affect any part of the GI tract",
+              "A rare form of primary eosinophilic GI disease",
+              "An infectious disease"
+            ],
+            "correct": 0,
+            "explanation": "UC is a chronic necroinflammation of the colonic mucosa, always beginning in the rectum and extending proximally in a continuous pattern. Classified by extent: E1 Proctitis (rectum only), E2 Left-sided colitis (to splenic flexure), E3 Extensive/pancolitis. Option b) describes Crohn's disease."
+          },
+          {
+            "question": "Which are symptoms of ulcerative colitis? 1. Diarrhea 2. Rectal bleeding 3. Tenesmus 4. Passage of mucus",
+            "options": [
+              "1, 2, and 3",
+              "1, 2, and 4",
+              "1, 3, and 4",
+              "All four"
+            ],
+            "correct": 3,
+            "explanation": "UC cardinal symptoms: bloody diarrhea (hallmark), rectal bleeding (mucosal ulceration), tenesmus (urgency and feeling of incomplete evacuation — due to rectal involvement in >95%), and mucus in stool. Severe disease adds systemic features: fever, tachycardia, weight loss, anaemia."
+          },
+          {
+            "question": "Which are MACROSCOPIC features of ulcerative colitis?",
+            "options": [
+              "Pseudopolyps, ulcerated mucosa, and granulomas",
+              "Granulomas, ulcerated mucosa, and haemorrhagic mucosa",
+              "Pseudopolyps, granulomas, and haemorrhagic mucosa",
+              "Pseudopolyps, ulcerated mucosa, and haemorrhagic mucosa"
+            ],
+            "correct": 3,
+            "explanation": "Granulomas are NOT found in UC — they are characteristic of Crohn's disease. UC macroscopic features: pseudopolyps, ulcerated mucosa, haemorrhagic and friable mucosa, granular surface, and loss of haustration. All changes are superficial (mucosal/submucosal)."
+          },
+          {
+            "question": "Extraintestinal manifestations of ulcerative colitis include: 1. Episcleritis 2. Erythema nodosum 3. Hypertension 4. Pericholangitis",
+            "options": [
+              "2 and 4 only",
+              "2, 3, and 4",
+              "All four",
+              "1, 2, and 4"
+            ],
+            "correct": 3,
+            "explanation": "UC extraintestinal manifestations include skin (erythema nodosum, pyoderma gangrenosum), eyes (episcleritis, uveitis), hepatobiliary (pericholangitis, primary sclerosing cholangitis), and joints (arthritis, ankylosing spondylitis). Hypertension is NOT a characteristic extraintestinal manifestation of UC."
+          },
+          {
+            "question": "Which is the most characteristic life-threatening complication of ulcerative colitis?",
+            "options": [
+              "Intestinal fistula",
+              "Colonic strictures",
+              "Cutaneous fistula",
+              "Toxic megacolon"
+            ],
+            "correct": 3,
+            "explanation": "Toxic megacolon is the most characteristic life-threatening complication of UC. Criteria: colonic dilation >6cm + systemic toxicity (fever >38C, tachycardia, leukocytosis, dehydration, altered consciousness). Management: bowel rest, IV steroids, monitoring, colectomy if no improvement in 48-72h. Fistulas are characteristic of Crohn's disease."
+          },
+          {
+            "question": "Pharmacological treatment of ulcerative colitis includes:",
+            "options": [
+              "5-aminosalicylates",
+              "Anticholinergic drugs",
+              "Opioids",
+              "NSAIDs"
+            ],
+            "correct": 0,
+            "explanation": "UC treatment pyramid: 5-ASA drugs (sulfasalazine, mesalazine) — first-line for mild-moderate disease; corticosteroids for induction; immunomodulators (azathioprine, 6-MP) for maintenance; biologics (infliximab, vedolizumab) for moderate-severe refractory disease. NSAIDs are contraindicated (may trigger flares). Opioids increase risk of toxic megacolon."
+          }
+        ],
+        "Celiac Disease & IBS": [
+          {
+            "question": "Which is the classic extraintestinal manifestation of celiac disease?",
+            "options": [
+              "Uveitis",
+              "Dermatitis herpetiformis",
+              "Ankylosing spondylitis",
+              "Erythema nodosum"
+            ],
+            "correct": 1,
+            "explanation": "Dermatitis herpetiformis is the classic cutaneous manifestation of celiac disease — a pruritic vesicular rash caused by IgA deposits in dermal papillae. It responds to a gluten-free diet. Other extraintestinal features include osteopenia/osteoporosis, peripheral neuropathy, amenorrhea, and iron-deficiency anaemia. Uveitis, erythema nodosum, and ankylosing spondylitis are associated with IBD."
+          },
+          {
+            "question": "Which are characteristic symptoms of celiac disease? 1. Bloody diarrhea 2. Bloating 3. Weight loss 4. Abdominal pain",
+            "options": [
+              "2, 3, and 4",
+              "1, 2, and 4",
+              "3 and 4 only",
+              "1, 3, and 4"
+            ],
+            "correct": 0,
+            "explanation": "Bloody diarrhea is NOT typical of celiac disease. Celiac causes malabsorptive (non-bloody) steatorrhoea. Classic symptoms: bloating, abdominal pain, weight loss, fatigue, and chronic diarrhoea (pale, bulky, offensive stools). Atypical presentations include anaemia, osteoporosis, infertility, and neurological symptoms. Up to 50% may be asymptomatic."
+          },
+          {
+            "question": "Which are true regarding celiac disease treatment? 1. Gluten-free diet 2. Restoring electrolyte balance 3. Use of azathioprine 4. Rarely, use of corticosteroids",
+            "options": [
+              "1, 2, and 4",
+              "1, 2, and 3",
+              "1, 3, and 4",
+              "1 and 2 only"
+            ],
+            "correct": 0,
+            "explanation": "Celiac treatment: lifelong strict gluten-free diet is the cornerstone. Electrolyte and nutrient supplementation as needed (iron, Ca, Vit D, B12, folate, Vit K). Corticosteroids may be used in refractory celiac disease (RCD). Azathioprine is not standard — only considered in severe refractory cases not responding to steroids."
+          },
+          {
+            "question": "Which is the major cause of anaemia in celiac disease patients?",
+            "options": [
+              "Impaired iron absorption",
+              "Drug-induced hemolysis",
+              "Bleeding from colonic erosions",
+              "Myelosuppression"
+            ],
+            "correct": 0,
+            "explanation": "Celiac disease primarily affects the duodenum and proximal jejunum — the principal site of iron absorption. Villous atrophy leads to impaired iron uptake and iron deficiency anaemia (most common mechanism). Additional mechanisms include folate deficiency (proximal jejunum) and B12 deficiency (extensive disease). Unexplained iron deficiency anaemia in an adult should always prompt exclusion of celiac disease."
+          },
+          {
+            "question": "Which of the following grains contain gluten protein? 1. Wheat 2. Barley 3. Rye 4. Oat",
+            "options": [
+              "1, 3, and 4",
+              "1, 2, and 3",
+              "2, 3, and 4",
+              "1, 2, and 4"
+            ],
+            "correct": 1,
+            "explanation": "Gluten-containing grains: wheat (gliadin + glutenin), barley (hordein), rye (secalin). Oats contain avenin — not classical gluten — and most celiac patients tolerate pure uncontaminated oats. However, oats are often contaminated during processing. Rice, corn, millet, quinoa, and potato are gluten-free."
+          },
+          {
+            "question": "Which is true about irritable bowel syndrome?",
+            "options": [
+              "It is a functional bowel disease",
+              "There are specific laboratory markers to diagnose IBS",
+              "It is an inflammatory bowel disease",
+              "Men are 2-3 times more likely than women to have IBS"
+            ],
+            "correct": 0,
+            "explanation": "IBS is a functional GI disorder — no structural, inflammatory, or biochemical abnormalities. Diagnosed by Rome IV criteria (no specific lab markers). More common in women (F:M ~2:1). Colonoscopy and biopsy are normal. Pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, microbiome changes, and psychological factors."
+          },
+          {
+            "question": "Which of the following are TYPICAL symptoms of IBS? 1. Abnormal stool form (Bristol scale) 2. Feeling of incomplete evacuation 3. Melena 4. Unexplained weight loss",
+            "options": [
+              "2 and 3",
+              "1 and 3",
+              "1 and 4",
+              "1 and 2"
+            ],
+            "correct": 3,
+            "explanation": "IBS typical symptoms include abnormal stool form (Bristol scale types 1-2 = constipation; 6-7 = diarrhoea), feeling of incomplete evacuation, bloating, and mucus in stool. Melena and unexplained weight loss are ALARM FEATURES — they suggest organic disease (IBD, malignancy) and require investigation. IBS diagnosis requires ≥6 months of symptom onset."
+          },
+          {
+            "question": "Which is NOT a pathogenetic mechanism of irritable bowel syndrome?",
+            "options": [
+              "Disturbance of brain-gut interaction",
+              "Lactase deficiency",
+              "Genetic factors",
+              "Psychosocial disturbances"
+            ],
+            "correct": 1,
+            "explanation": "Lactase deficiency causes lactose intolerance — a distinct condition that can mimic IBS but is not a pathogenic mechanism of IBS. IBS pathogenesis involves visceral hypersensitivity, altered brain-gut axis, dysmotility, psychosocial factors, microbiota dysbiosis, and bile acid metabolism disturbances. Lactase deficiency should be excluded before diagnosing IBS."
+          },
+          {
+            "question": "Which are used for treatment of IBS? 1. Tricyclic antidepressants 2. Azathioprine 3. Probiotics 4. SSRIs",
+            "options": [
+              "All four",
+              "1, 3, and 4",
+              "1 and 4 only",
+              "3 and 4 only"
+            ],
+            "correct": 1,
+            "explanation": "IBS treatments include TCAs (amitriptyline — neuromodulation, useful in IBS-D and pain), SSRIs (for anxiety, global IBS symptoms, IBS-C), probiotics (may reduce bloating), antispasmodics (mebeverine — first-line for pain), rifaximin (IBS-D), loperamide (IBS-D), and laxatives (IBS-C). Azathioprine is for IBD — NOT IBS."
+          }
+        ],
         "Cirrhosis": [],
         "Viral Hepatitis": [],
         "Chronic Pancreatitis": [
           {
             "question": "Which best describes the fundamental pathological process in chronic pancreatitis?",
-            "options": ["Reversible inflammation of the pancreatic acini", "Progressive replacement of pancreatic parenchyma by fibrotic tissue with loss of endocrine and exocrine function", "Acute necrosis of the pancreas followed by complete regeneration", "Autoimmune destruction of islets of Langerhans alone"],
+            "options": [
+              "Reversible inflammation of the pancreatic acini",
+              "Progressive replacement of pancreatic parenchyma by fibrotic tissue with loss of endocrine and exocrine function",
+              "Acute necrosis of the pancreas followed by complete regeneration",
+              "Autoimmune destruction of islets of Langerhans alone"
+            ],
             "correct": 1,
             "explanation": "Chronic pancreatitis is a progressive and irreversible disease where pancreatic parenchyma is replaced by fibrotic tissue due to recurring inflammation, causing loss of both endocrine and exocrine function."
           },
           {
             "question": "According to the TIGAR-O classification, which of the following belongs to the Toxic-Metabolic category?",
-            "options": ["Pancreas divisum", "PRSS1 gene mutation", "Chronic renal failure", "Autoimmune pancreatitis type 1"],
+            "options": [
+              "Pancreas divisum",
+              "PRSS1 gene mutation",
+              "Chronic renal failure",
+              "Autoimmune pancreatitis type 1"
+            ],
             "correct": 2,
             "explanation": "The Toxic-Metabolic (T) category in TIGAR-O includes alcohol, smoking, hypercalcemia, hyperlipidemia, chronic renal failure, medications, and toxins."
           },
           {
             "question": "A child has recurrent acute idiopathic pancreatitis. Which congenital anomaly should be considered?",
-            "options": ["Annular pancreas", "Pancreas divisum", "Common channel syndrome", "Choledochal cyst"],
+            "options": [
+              "Annular pancreas",
+              "Pancreas divisum",
+              "Common channel syndrome",
+              "Choledochal cyst"
+            ],
             "correct": 1,
             "explanation": "Pancreas divisum is the most common congenital malformation of the pancreas and should be considered in recurring acute idiopathic pancreatitis in childhood. It results from incomplete fusion of the dorsal (Santorini) and ventral (Wirsung) ducts."
           },
           {
             "question": "What is the minimum daily alcohol intake assumed to be a risk for developing chronic pancreatitis?",
-            "options": ["20 g/day for 2 years", "40 g/day for 5 years", "80 g/day for 6-12 years", "100 g/day for 2 years"],
+            "options": [
+              "20 g/day for 2 years",
+              "40 g/day for 5 years",
+              "80 g/day for 6-12 years",
+              "100 g/day for 2 years"
+            ],
             "correct": 2,
             "explanation": "A minimum of 80 g of alcohol per day over a period of 6-12 years is considered a risk for developing chronic pancreatitis."
           },
           {
             "question": "Which statement about smoking and chronic pancreatitis is correct?",
-            "options": ["Smoking is only a risk factor when combined with alcohol", "Smoking accelerates disease progression and can be considered an independent risk factor", "Smoking reduces calcification by reducing ductal pressure", "Nicotine cessation has no impact on disease course"],
+            "options": [
+              "Smoking is only a risk factor when combined with alcohol",
+              "Smoking accelerates disease progression and can be considered an independent risk factor",
+              "Smoking reduces calcification by reducing ductal pressure",
+              "Nicotine cessation has no impact on disease course"
+            ],
             "correct": 1,
             "explanation": "Smoking independently accelerates the progression of chronic pancreatitis, increases pain, and promotes calcification of the gland. Nicotine abstinence programs should be strongly encouraged."
           },
           {
             "question": "Which metabolic condition is associated with chronic pancreatitis through elevated serum calcium?",
-            "options": ["Diabetes mellitus type 2", "Primary hyperparathyroidism", "Hypothyroidism", "Cushing syndrome"],
+            "options": [
+              "Diabetes mellitus type 2",
+              "Primary hyperparathyroidism",
+              "Hypothyroidism",
+              "Cushing syndrome"
+            ],
             "correct": 1,
             "explanation": "Primary hyperparathyroidism (pHTP) can lead to chronic pancreatitis with or without calcifications, via a causal connection with raised serum calcium levels."
           },
           {
             "question": "Which of the following best explains the role of CFTR mutations in chronic pancreatitis pathogenesis?",
-            "options": ["They cause autoimmune destruction of acinar cells", "They decrease bicarbonate and water secretion by ductal cells, increasing viscosity and acidity of secretions", "They activate trypsinogen directly in the bloodstream", "They cause hypercalcemia leading to calcifications"],
+            "options": [
+              "They cause autoimmune destruction of acinar cells",
+              "They decrease bicarbonate and water secretion by ductal cells, increasing viscosity and acidity of secretions",
+              "They activate trypsinogen directly in the bloodstream",
+              "They cause hypercalcemia leading to calcifications"
+            ],
             "correct": 1,
             "explanation": "CFTR mutations decrease bicarbonate and water secretion by ductal cells, increasing viscosity and acidity of acinar secretions. The decreased pH facilitates activation of zymogens within the ducts."
           },
           {
             "question": "Why do most alcoholics NOT develop chronic pancreatitis?",
-            "options": ["Alcohol only causes acute pancreatitis, not chronic", "Alcohol effects on the pancreas are dose-independent", "Additional cofactors are required; smoking appears particularly important for progression", "The liver metabolizes alcohol before it reaches the pancreas"],
+            "options": [
+              "Alcohol only causes acute pancreatitis, not chronic",
+              "Alcohol effects on the pancreas are dose-independent",
+              "Additional cofactors are required; smoking appears particularly important for progression",
+              "The liver metabolizes alcohol before it reaches the pancreas"
+            ],
             "correct": 2,
             "explanation": "Although alcohol is the most important risk factor, most alcoholics do not develop chronic pancreatitis. Other cofactors are needed, with smoking appearing to be especially important for chronic inflammation progression."
           },
           {
             "question": "In what percentage of patients is pain the main clinical symptom of chronic pancreatitis?",
-            "options": ["20-30%", "50-60%", "80-95%", "Nearly 100%"],
+            "options": [
+              "20-30%",
+              "50-60%",
+              "80-95%",
+              "Nearly 100%"
+            ],
             "correct": 2,
             "explanation": "Pain is the main clinical symptom in 80-95% of patients with chronic pancreatitis. A minority experience painless chronic pancreatitis, becoming clinically apparent when exocrine/endocrine insufficiency develops."
           },
           {
             "question": "In alcoholic chronic pancreatitis, when do the first symptoms typically appear?",
-            "options": ["First decade of life", "Second decade of life", "Fourth decade of life", "Sixth decade of life"],
+            "options": [
+              "First decade of life",
+              "Second decade of life",
+              "Fourth decade of life",
+              "Sixth decade of life"
+            ],
             "correct": 2,
             "explanation": "In alcoholic chronic pancreatitis, the first symptoms usually develop in the fourth decade of life."
           },
           {
             "question": "Which combination of symptoms most specifically points toward acute pancreatitis or a relapse of chronic pancreatitis?",
-            "options": ["Diarrhea and weight loss", "Belt-like upper abdominal pain and vomiting with >3x rise in serum amylase or lipase", "Painless jaundice and steatorrhea", "Lower abdominal cramping and bloating"],
+            "options": [
+              "Diarrhea and weight loss",
+              "Belt-like upper abdominal pain and vomiting with >3x rise in serum amylase or lipase",
+              "Painless jaundice and steatorrhea",
+              "Lower abdominal cramping and bloating"
+            ],
             "correct": 1,
             "explanation": "Belt-like upper abdominal pain and vomiting, together with a more than threefold rise in serum amylase or lipase above normal, point to acute pancreatitis or a relapse of chronic pancreatitis."
           },
           {
             "question": "Rupture of a pseudocyst into the abdominal cavity leads to which complication?",
-            "options": ["Pleural effusion", "Pancreatic ascites", "Portal hypertension", "Duodenal fistula"],
+            "options": [
+              "Pleural effusion",
+              "Pancreatic ascites",
+              "Portal hypertension",
+              "Duodenal fistula"
+            ],
             "correct": 1,
             "explanation": "Rupture of a pseudocyst into the abdominal cavity leads to pancreatic ascites. Rupture of an infected pseudocyst, however, results in peritonitis."
           },
           {
             "question": "Which rare vascular complication of chronic pancreatitis is best initially diagnosed by color Doppler ultrasonography?",
-            "options": ["Portal vein thrombosis", "Splenic vein thrombosis", "Pseudoaneurysm", "Mesenteric artery stenosis"],
+            "options": [
+              "Portal vein thrombosis",
+              "Splenic vein thrombosis",
+              "Pseudoaneurysm",
+              "Mesenteric artery stenosis"
+            ],
             "correct": 2,
             "explanation": "Pseudoaneurysm is diagnosed by ultrasound in combination with color Doppler ultrasonography. CT-angiography and MR-angiography can also identify them."
           },
           {
             "question": "What is the first-choice treatment for active hemorrhagic pseudoaneurysms in chronic pancreatitis?",
-            "options": ["Emergency open surgery", "Angiographic embolization", "Endoscopic drainage", "Conservative management with transfusion"],
+            "options": [
+              "Emergency open surgery",
+              "Angiographic embolization",
+              "Endoscopic drainage",
+              "Conservative management with transfusion"
+            ],
             "correct": 1,
             "explanation": "Angiographic embolization is the method of first choice for active hemorrhagic pseudoaneurysms, with a success rate of 66% and lower complication rate compared to surgery."
           },
           {
             "question": "After 8 years from diagnosis of chronic pancreatitis, what proportion of patients suffer from diabetes mellitus requiring therapy?",
-            "options": ["10%", "25%", "50%", "75%"],
+            "options": [
+              "10%",
+              "25%",
+              "50%",
+              "75%"
+            ],
             "correct": 2,
             "explanation": "Eight years after establishing the diagnosis of chronic pancreatitis, 50% of patients suffer from diabetes mellitus requiring therapy."
           },
           {
             "question": "At what threshold of enzyme secretion reduction does steatorrhea and creatorrhea typically develop?",
-            "options": ["Reduction of more than 30-40%", "Reduction of more than 50-60%", "Reduction of more than 90-95%", "Any measurable reduction"],
+            "options": [
+              "Reduction of more than 30-40%",
+              "Reduction of more than 50-60%",
+              "Reduction of more than 90-95%",
+              "Any measurable reduction"
+            ],
             "correct": 2,
             "explanation": "Decompensation associated with steatorrhea and creatorrhea does not occur until secretion of the corresponding enzymes has been reduced by more than 90-95%, reflecting the large functional reserve capacity of the pancreas."
           },
           {
             "question": "In alcoholic chronic pancreatitis, clinically manifest exocrine pancreatic insufficiency usually appears how long after the first symptoms?",
-            "options": ["1-2 years", "5 years", "10-15 years", "20-25 years"],
+            "options": [
+              "1-2 years",
+              "5 years",
+              "10-15 years",
+              "20-25 years"
+            ],
             "correct": 2,
             "explanation": "In patients with alcoholic chronic pancreatitis, clinically manifest exocrine pancreatic insufficiency usually appears approximately 10-15 years after development of the first symptoms."
           },
           {
             "question": "Why might serum lipase values decrease in late-stage chronic pancreatitis?",
-            "options": ["Increased renal clearance of lipase", "Loss of exocrine tissue reduces lipase production", "Antibodies neutralize circulating lipase", "Alcohol inhibits lipase release"],
+            "options": [
+              "Increased renal clearance of lipase",
+              "Loss of exocrine tissue reduces lipase production",
+              "Antibodies neutralize circulating lipase",
+              "Alcohol inhibits lipase release"
+            ],
             "correct": 1,
             "explanation": "In late-stage chronic pancreatitis, values of serum lipase may decrease due to the progressive loss of exocrine tissue, even during acute relapses."
           },
           {
             "question": "Which imaging modality is the recommended initial investigation in chronic pancreatitis?",
-            "options": ["Contrast-enhanced CT", "MRI/MRCP", "Transabdominal ultrasound", "EUS"],
+            "options": [
+              "Contrast-enhanced CT",
+              "MRI/MRCP",
+              "Transabdominal ultrasound",
+              "EUS"
+            ],
             "correct": 2,
             "explanation": "A transabdominal ultrasound scan is usually appropriate as the initial imaging modality in chronic pancreatitis."
           },
           {
             "question": "Which imaging technique has the highest diagnostic accuracy for chronic pancreatitis and can also provide cytological diagnosis of focal lesions?",
-            "options": ["Contrast-enhanced CT", "MRCP", "EUS with fine-needle biopsy", "Plain abdominal X-ray"],
+            "options": [
+              "Contrast-enhanced CT",
+              "MRCP",
+              "EUS with fine-needle biopsy",
+              "Plain abdominal X-ray"
+            ],
             "correct": 2,
             "explanation": "EUS has generally the highest, or at least equal, accuracy compared to ERCP or MRCP/MRI. EUS-guided fine-needle biopsy can also provide cytological and/or histological diagnosis of focal lesions."
           },
           {
             "question": "According to the Manchester classification, which feature distinguishes severe chronic pancreatitis from moderate?",
-            "options": ["The presence of calcifications", "Pain despite analgesics", "Biliary stricture, portal hypertension, or duodenal stenosis", "EUS evidence of ductal changes"],
+            "options": [
+              "The presence of calcifications",
+              "Pain despite analgesics",
+              "Biliary stricture, portal hypertension, or duodenal stenosis",
+              "EUS evidence of ductal changes"
+            ],
             "correct": 2,
             "explanation": "Severe CP in the Manchester classification requires features of moderate CP plus: biliary stricture, portal hypertension, or duodenal stenosis, in addition to exocrine or endocrine insufficiency."
           },
           {
             "question": "Which pancreatic function test is considered most exact for quantifying exocrine function?",
-            "options": ["Fecal elastase-1", "Qualitative fecal fat test", "Secretin-pancreozymin test", "Chymotrypsin activity in stool"],
+            "options": [
+              "Fecal elastase-1",
+              "Qualitative fecal fat test",
+              "Secretin-pancreozymin test",
+              "Chymotrypsin activity in stool"
+            ],
             "correct": 2,
             "explanation": "The secretin-pancreozymin test is the most exact technique for quantifying exocrine pancreatic function, though technically demanding and mainly done in specialist centers."
           },
           {
             "question": "Why cannot fecal elastase measurement be used to monitor the success of pancreatin enzyme replacement therapy?",
-            "options": ["Elastase is destroyed by stomach acid before reaching stool", "Only the natural human enzyme and not the therapeutically administered porcine enzyme is measured", "Elastase levels do not change with exocrine insufficiency", "It requires 72-hour stool collection which is impractical"],
+            "options": [
+              "Elastase is destroyed by stomach acid before reaching stool",
+              "Only the natural human enzyme and not the therapeutically administered porcine enzyme is measured",
+              "Elastase levels do not change with exocrine insufficiency",
+              "It requires 72-hour stool collection which is impractical"
+            ],
             "correct": 1,
             "explanation": "Success of replacement therapy cannot be assessed by measuring fecal concentration of elastase because only the natural human enzyme — not the therapeutically administered porcine enzyme — is measured."
           },
           {
             "question": "What are the indications for starting pancreatic enzyme replacement therapy (PERT)?",
-            "options": ["Any steatorrhea regardless of degree", "Weight loss >10%, fecal fat >15 g/day, or severe dyspeptic symptoms (gas/diarrhea)", "Serum lipase elevation alone", "Diabetes developing in the course of chronic pancreatitis"],
+            "options": [
+              "Any steatorrhea regardless of degree",
+              "Weight loss >10%, fecal fat >15 g/day, or severe dyspeptic symptoms (gas/diarrhea)",
+              "Serum lipase elevation alone",
+              "Diabetes developing in the course of chronic pancreatitis"
+            ],
             "correct": 1,
             "explanation": "Indications for PERT are weight loss of more than 10% of body weight, steatorrhea with fecal fat excretion more than 15 g/day, or dyspeptic symptoms with severe gas or diarrhea."
           },
           {
             "question": "What is the recommended initial lipase dose per main meal in pancreatic enzyme replacement therapy?",
-            "options": ["5,000-10,000 units", "20,000-40,000 units", "60,000-80,000 units", "100,000 units"],
+            "options": [
+              "5,000-10,000 units",
+              "20,000-40,000 units",
+              "60,000-80,000 units",
+              "100,000 units"
+            ],
             "correct": 1,
             "explanation": "20,000-40,000 lipase units per main meal should be administered as the initial dose; approximately 10,000-20,000 lipase units for smaller in-between meals."
           },
           {
             "question": "If the initial enzyme dose in PERT is inadequate, what is the next step before adding a PPI?",
-            "options": ["Switch to powder formulation immediately", "Double and if necessary triple the enzyme dose", "Add a H2 blocker", "Increase the dose by 10% increments weekly"],
+            "options": [
+              "Switch to powder formulation immediately",
+              "Double and if necessary triple the enzyme dose",
+              "Add a H2 blocker",
+              "Increase the dose by 10% increments weekly"
+            ],
             "correct": 1,
             "explanation": "The enzyme dose should be doubled, and if necessary tripled, if the effect is inadequate. Only if this is still insufficient should pancreatin be combined with a PPI."
           },
           {
             "question": "Endocrine insufficiency in chronic pancreatitis is designated as which type of diabetes?",
-            "options": ["Type 1", "Type 2", "Type 3", "MODY (maturity onset diabetes of the young)"],
+            "options": [
+              "Type 1",
+              "Type 2",
+              "Type 3",
+              "MODY (maturity onset diabetes of the young)"
+            ],
             "correct": 2,
             "explanation": "Endocrine insufficiency in chronic pancreatitis has been designated diabetes type 3. Besides insulin deficiency from islet destruction, there is also lack of counter-regulatory hormones such as glucagon and somatostatin."
           },
           {
             "question": "Asymptomatic pseudocysts that do not resolve within 6 weeks and reach what size threshold may be considered for treatment?",
-            "options": ["2 cm", "3 cm", "5 cm", "8 cm"],
+            "options": [
+              "2 cm",
+              "3 cm",
+              "5 cm",
+              "8 cm"
+            ],
             "correct": 2,
             "explanation": "Asymptomatic pancreatic pseudocysts that have reached more than 5 cm in diameter and do not resolve within 6 weeks can be treated, as untreated cysts larger than 5 cm may have a higher risk of complications."
           },
           {
             "question": "Regarding endoscopic therapy for bile duct obstruction in chronic pancreatitis, which statement is correct?",
-            "options": ["Endoscopic therapy is the definitive long-term treatment of choice", "Endoscopic therapy is only indicated as an interim/temporizing procedure prior to definitive surgery", "Endoscopic therapy is contraindicated in chronic pancreatitis", "Surgery should always be attempted before endoscopic drainage"],
+            "options": [
+              "Endoscopic therapy is the definitive long-term treatment of choice",
+              "Endoscopic therapy is only indicated as an interim/temporizing procedure prior to definitive surgery",
+              "Endoscopic therapy is contraindicated in chronic pancreatitis",
+              "Surgery should always be attempted before endoscopic drainage"
+            ],
             "correct": 1,
             "explanation": "Endoscopic therapy is only indicated as an interim or temporizing procedure prior to definitive surgery for bile duct obstruction in chronic pancreatitis."
           },
           {
             "question": "Which dietary recommendation is correct for patients with chronic pancreatitis?",
-            "options": ["A strict low-fat diet should always be prescribed", "A normal balanced isocaloric diet according to the patient's preferences is recommended", "Total parenteral nutrition is preferred over oral feeding", "Protein should be severely restricted to reduce enzyme secretion"],
+            "options": [
+              "A strict low-fat diet should always be prescribed",
+              "A normal balanced isocaloric diet according to the patient's preferences is recommended",
+              "Total parenteral nutrition is preferred over oral feeding",
+              "Protein should be severely restricted to reduce enzyme secretion"
+            ],
             "correct": 1,
             "explanation": "A normal balanced, isocaloric diet according to the patient's preferences is recommended. There is no established or pancreas-specific diet. A low-fat diet is only recommended when clinical symptoms of fat maldigestion persist despite adequate enzyme replacement."
           },
           {
             "question": "Which vitamins are most commonly deficient in chronic pancreatitis with exocrine insufficiency?",
-            "options": ["B vitamins (B1, B2, B6, B12)", "Fat-soluble vitamins A, D, E, and K", "Vitamin C and folate", "Vitamins D and K only"],
+            "options": [
+              "B vitamins (B1, B2, B6, B12)",
+              "Fat-soluble vitamins A, D, E, and K",
+              "Vitamin C and folate",
+              "Vitamins D and K only"
+            ],
             "correct": 1,
             "explanation": "Deficiencies of the fat-soluble vitamins A, D, E, and K as well as calcium, magnesium, zinc, thiamine, and folic acid are often detected in patients with chronic pancreatitis and exocrine insufficiency."
           },
           {
             "question": "How often should follow-up evaluations be performed in established chronic pancreatitis?",
-            "options": ["Monthly", "Every 3 months", "Every 6 months", "Annually"],
+            "options": [
+              "Monthly",
+              "Every 3 months",
+              "Every 6 months",
+              "Annually"
+            ],
             "correct": 2,
             "explanation": "Follow-up evaluations should be undertaken at intervals of 6 months. Imaging techniques are used for early diagnosis of local complications such as pseudocysts, cholestasis, and pancreatic carcinoma."
           },
           {
             "question": "Which is the most important differential diagnosis of chronic pancreatitis that must always be excluded?",
-            "options": ["Gallstone disease", "Peptic ulcer disease", "Pancreatic cancer", "Ischemic colitis"],
+            "options": [
+              "Gallstone disease",
+              "Peptic ulcer disease",
+              "Pancreatic cancer",
+              "Ischemic colitis"
+            ],
             "correct": 2,
             "explanation": "The most important differential diagnosis of chronic pancreatitis is pancreatic cancer. Once chronic pancreatitis is diagnosed, ultrasound and EUS have limited ability to distinguish carcinoma from inflammation; EUS-FNA should be performed in equivocal cases."
           }
