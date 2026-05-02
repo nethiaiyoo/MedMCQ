@@ -1725,6 +1725,283 @@
             "past_paper": true
           }
         ],
+        "Portal Hypertension": [
+          {
+            "question": "Which of the following is a PREHEPATIC cause of portal hypertension?",
+            "options": [
+              "Hepatic cirrhosis",
+              "Veno-occlusive disease",
+              "Portal vein thrombosis",
+              "Budd-Chiari syndrome"
+            ],
+            "correct": 2,
+            "explanation": "Prehepatic causes obstruct portal flow before it reaches the liver. Portal vein thrombosis is classic. Budd-Chiari is posthepatic (hepatic vein obstruction). Cirrhosis is intrahepatic sinusoidal. Veno-occlusive disease is intrahepatic postsinusoidal."
+          },
+          {
+            "question": "The 'structural' component of increased intrahepatic vascular resistance in cirrhosis is attributed to:",
+            "options": [
+              "Reduced eNOS activity in sinusoidal endothelial cells",
+              "Fibrosis, connective tissue accumulation, and regeneration nodules",
+              "Excess release of endogenous vasodilators into the bloodstream",
+              "Splanchnic arteriolar vasodilation"
+            ],
+            "correct": 1,
+            "explanation": "The structural (mechanical) component (~70% of intrahepatic resistance) is caused by fibrosis, connective tissue accumulation, and regeneration nodules distorting normal liver architecture. Reduced eNOS activity is the functional (dynamic) component."
+          },
+          {
+            "question": "Which HVPG value defines clinically significant portal hypertension (CSPH)?",
+            "options": [
+              "HVPG > 3 mmHg",
+              "HVPG > 5 mmHg",
+              "HVPG > 10 mmHg",
+              "HVPG > 12 mmHg"
+            ],
+            "correct": 2,
+            "explanation": "CSPH is defined as HVPG >10 mmHg. Above this threshold, all complications of PH (varices, decompensation) are more likely to appear. >12 identifies bleeding risk; >16 indicates higher mortality risk."
+          },
+          {
+            "question": "A patient with acute esophageal variceal hemorrhage presents to the ER. After restoring hemodynamic stability, which two interventions should be started immediately and simultaneously?",
+            "options": [
+              "IV ceftriaxone + oral lactulose",
+              "Vasoactive drugs (terlipressin/octreotide) + IV ceftriaxone",
+              "EVL + non-selective beta-blockers",
+              "TIPS + vasoactive drugs"
+            ],
+            "correct": 1,
+            "explanation": "In acute variceal hemorrhage: (1) restore hemodynamic stability, (2) start IV ceftriaxone (antibiotic prophylaxis, max 7 days), AND (3) start vasoactive drugs as soon as VH is suspected — both should begin before EGD. EGD is performed within 12 hours once stable."
+          },
+          {
+            "question": "Which of the following is the porto-caval anastomosis responsible for caput medusae?",
+            "options": [
+              "Gastroesophageal anastomosis (left gastric → hemiazygous)",
+              "Anterior abdominal wall anastomosis (periumbilical → subcutaneous veins)",
+              "Rectal anastomosis (superior → inferior rectal vein)",
+              "Retroperitoneal anastomosis"
+            ],
+            "correct": 1,
+            "explanation": "Caput medusae results from the anterior abdominal wall anastomosis: periumbilical vein (from left branch of portal vein) → subcutaneous veins of the anterior abdominal wall (branches of IVC). The gastroesophageal anastomosis causes esophageal varices; the rectal anastomosis causes hemorrhoids."
+          },
+          {
+            "question": "Schistosomiasis in its EARLY stage causes which type of intrahepatic portal hypertension?",
+            "options": [
+              "Sinusoidal",
+              "Postsinusoidal",
+              "Presinusoidal",
+              "Prehepatic"
+            ],
+            "correct": 2,
+            "explanation": "Early schistosomiasis is predominantly presinusoidal (periportal fibrosis). In advanced schistosomiasis, it progresses to sinusoidal involvement. This distinction matters because HVPG (which measures sinusoidal pressure) may be normal or near-normal in pure presinusoidal disease."
+          },
+          {
+            "question": "Why must beta-blockers used in portal hypertension be non-selective (e.g., propranolol, nadolol, carvedilol)?",
+            "options": [
+              "Selective β1 blockers cause hepatotoxicity",
+              "β2 blockade causes splanchnic vasoconstriction, reducing portal inflow",
+              "Non-selective blockers reduce intrahepatic resistance directly",
+              "β2 blockade increases nitric oxide production"
+            ],
+            "correct": 1,
+            "explanation": "β1 blockade decreases cardiac output → reduces portal flow. β2 blockade causes splanchnic vasoconstriction → further reduces portal inflow. Both mechanisms are needed. Selective β1 blockers miss the splanchnic component entirely, making them ineffective for portal hypertension."
+          },
+          {
+            "question": "On abdominal ultrasound, which TWO findings are 100% specific (pathognomonic) for portal hypertension?",
+            "options": [
+              "Splenomegaly >12cm and portal vein dilation ≥13mm",
+              "Porto-systemic collaterals and reversal of flow in the portal vein",
+              "Nodular liver surface and ascites",
+              "Reduced portal vein velocity and altered Doppler pattern"
+            ],
+            "correct": 1,
+            "explanation": "Only two ultrasound findings are 100% specific for PH: porto-systemic collaterals and reversal of portal vein flow. The other findings (splenomegaly, portal vein dilation, nodular surface) are suggestive but not pathognomonic — they can occur in other conditions."
+          },
+          {
+            "question": "A patient with decompensated cirrhosis develops confusion, altered sleep patterns, and increased irritability. Which complication of portal hypertension does this most likely represent?",
+            "options": [
+              "Spontaneous bacterial peritonitis",
+              "Portosystemic encephalopathy",
+              "Portal colopathy",
+              "Acute variceal hemorrhage"
+            ],
+            "correct": 1,
+            "explanation": "Mental status changes — lethargy, increased irritability, altered sleep patterns — are hallmarks of portosystemic encephalopathy (PSE). SBP presents with abdominal pain and fever (though sometimes asymptomatic). Portal colopathy causes hematochezia. Variceal hemorrhage causes hematemesis/melena."
+          },
+          {
+            "question": "Endoscopic variceal ligation (EVL) is described as a 'local therapy' for esophageal varices. What is the key implication of this classification?",
+            "options": [
+              "EVL can only be performed once per patient",
+              "EVL has no effect on portal pressure",
+              "EVL is contraindicated in Child-Pugh C patients",
+              "EVL must always be combined with sclerotherapy"
+            ],
+            "correct": 1,
+            "explanation": "EVL is a local therapy — it places rubber bands around varices to obliterate them directly, but it does NOT reduce portal pressure. This is why it is used alongside NSBBs (which do reduce portal pressure) rather than as a standalone pressure-lowering treatment. Combination EVL + NSBBs is recommended for secondary prophylaxis."
+          },
+          {
+            "question": "Which of the following is a POSTHEPATIC cause of portal hypertension?",
+            "options": [
+              "Primary biliary cirrhosis",
+              "Nodular regenerative hyperplasia",
+              "Wilson disease",
+              "Constrictive pericarditis"
+            ],
+            "correct": 3,
+            "explanation": "Posthepatic causes obstruct outflow from the liver into the systemic circulation. Constrictive pericarditis raises right heart pressures → backs up into hepatic veins → raises sinusoidal pressure. Other posthepatic causes: Budd-Chiari syndrome, IVC thrombosis, right heart failure, severe tricuspid regurgitation."
+          },
+          {
+            "question": "In portal hypertension, splanchnic vasodilation leads to a sequence of compensatory responses. Which system is activated due to the resultant decrease in effective renal blood flow?",
+            "options": [
+              "Bradykinin-kallikrein system",
+              "Renin-angiotensin-aldosterone system (RAAS)",
+              "Complement cascade",
+              "Fibrinolytic system"
+            ],
+            "correct": 1,
+            "explanation": "Splanchnic vasodilation → decreased effective arterial blood volume → decreased effective renal circulation → activation of RAAS + sympathoadrenal system + vasopressin synthesis → water and sodium retention. In early disease this compensates, but progressive activation leads to hypervolemia and hyperkinetic circulation."
+          },
+          {
+            "question": "HVPG measurement is considered the gold standard for assessing portal venous pressure. However, it has a key limitation. In which type of portal hypertension does HVPG NOT provide useful data?",
+            "options": [
+              "Sinusoidal portal hypertension (e.g., cirrhosis)",
+              "Prehepatic or presinusoidal portal hypertension",
+              "Posthepatic portal hypertension (e.g., Budd-Chiari)",
+              "Acute alcoholic hepatitis"
+            ],
+            "correct": 1,
+            "explanation": "HVPG measures wedged hepatic venous pressure (sinusoidal pressure). In prehepatic and presinusoidal PH, the sinusoids themselves are not under elevated pressure — the obstruction is upstream. Therefore HVPG is normal or near-normal and cannot be used to diagnose or grade PH in these settings."
+          },
+          {
+            "question": "A patient with cirrhosis has medium-large esophageal varices but has never bled (primary prophylaxis). Which combination is specifically NOT recommended?",
+            "options": [
+              "Propranolol alone",
+              "Carvedilol alone",
+              "Endoscopic variceal ligation alone",
+              "NSBBs + EVL in combination"
+            ],
+            "correct": 3,
+            "explanation": "For primary prophylaxis of first variceal hemorrhage in medium/large varices: either NSBBs (propranolol, nadolol, carvedilol) OR EVL alone is recommended. Combination NSBB + EVL is NOT recommended in this specific setting. TIPS is also not recommended for primary prophylaxis."
+          },
+          {
+            "question": "The annual risk of bleeding from esophageal varices is 5–15% per year. Which two factors most increase this risk?",
+            "options": [
+              "Splenomegaly and thrombocytopenia",
+              "Advanced cirrhosis (Child-Pugh B/C) and red marks on varices",
+              "Ascites and hypoalbuminemia",
+              "Age >60 and male sex"
+            ],
+            "correct": 1,
+            "explanation": "The risk of variceal bleeding is higher in: (1) advanced stage cirrhosis (Child-Pugh B or C class), and (2) red marks ('red wale marks') visible on varices at endoscopy. These are the two key risk stratifiers used clinically. Mortality after each bleeding episode is 15–25% within 6 weeks."
+          },
+          {
+            "question": "A patient with myeloproliferative disease develops portal hypertension. This is classified as which type of intrahepatic PH?",
+            "options": [
+              "Sinusoidal",
+              "Presinusoidal",
+              "Postsinusoidal",
+              "This is a prehepatic cause"
+            ],
+            "correct": 1,
+            "explanation": "Myeloproliferative diseases cause intrahepatic predominantly presinusoidal portal hypertension. Other presinusoidal intrahepatic causes include: early schistosomiasis, early primary biliary cirrhosis, nodular regenerative hyperplasia, polycystic disease, hepatic metastases, granulomatous diseases."
+          },
+          {
+            "question": "Endothelin-1 (ET-1) plays a key role in the functional component of intrahepatic resistance in cirrhosis. How does it act?",
+            "options": [
+              "It stimulates eNOS to produce more NO, worsening vasodilation",
+              "It acts on smooth muscle fibers and myofibroblast actin filaments causing contraction, narrowing sinusoids and hepatic veins",
+              "It inhibits the RAAS, reducing sodium retention",
+              "It directly stimulates splanchnic arteriolar vasodilation"
+            ],
+            "correct": 1,
+            "explanation": "ET-1 is a potent vasoconstrictor synthesized by sinusoidal endothelial cells. It acts on smooth muscle fibers of hepatic veins and actin filaments of myofibroblasts, causing contraction → sinusoids and hepatic veins narrow → increased intrahepatic resistance. In cirrhosis, ET-1 is elevated while NO (vasodilator) is reduced — creating net vasoconstriction."
+          },
+          {
+            "question": "Portal gastropathy is diagnosed by endoscopy. Which statement about its endoscopic appearance is correct?",
+            "options": [
+              "It appears as cherry-red spots in the gastric antrum",
+              "It has a mosaic 'snake skin' pattern predominantly in the fundus and body; red marks indicate the severe subtype",
+              "It is characterized by linear rows of vascular ectasias from the pylorus extending proximally",
+              "It appears as submucosal dilated veins requiring band ligation"
+            ],
+            "correct": 1,
+            "explanation": "Portal hypertensive gastropathy appears as a mosaic 'snake skin' pattern, located in the proximal stomach (fundus and body). Mild subtype = mosaic alone. Severe subtype = mosaic + red marks. The antral location with linear vascular stripes describes GAVE ('watermelon stomach'), a different condition treated endoscopically (not by reducing portal pressure)."
+          },
+          {
+            "question": "TIPS is indicated for refractory ascites. Which of the following is an absolute contraindication to TIPS placement?",
+            "options": [
+              "HVPG >20 mmHg",
+              "Refractory ascites not responding to paracentesis",
+              "Severe progressive liver failure",
+              "Previous episode of variceal hemorrhage"
+            ],
+            "correct": 2,
+            "explanation": "Absolute contraindications to TIPS: (1) severe and progressive liver failure, (2) severe encephalopathy, (3) severe right-heart failure. Refractory ascites is actually an indication for TIPS, not a contraindication. Previous VH is also an indication (secondary prophylaxis if other measures failed)."
+          },
+          {
+            "question": "A patient with known cirrhosis develops increasing abdominal girth. On examination there is shifting dullness and a fluid wave. Which portal hypertension complication does this represent, and what additional sign might be present on the abdominal wall?",
+            "options": [
+              "Hepatic encephalopathy; asterixis",
+              "Ascites; paraumbilical hernia from increased intraabdominal pressure",
+              "Spontaneous bacterial peritonitis; peritoneal signs",
+              "Portal gastropathy; epigastric tenderness"
+            ],
+            "correct": 1,
+            "explanation": "Increasing abdominal girth + shifting dullness + fluid wave = ascites. In portal hypertension, the abrupt increase in intraabdominal pressure from ascites can cause a paraumbilical hernia, which may be found on inspection of the umbilical area. Caput medusae (dilated paraumbilical veins) may also be visible."
+          },
+          {
+            "question": "Which of the following accurately describes the gastroesophageal porto-caval anastomosis that causes esophageal varices?",
+            "options": [
+              "Superior rectal vein (portal) connects to inferior rectal vein (IVC)",
+              "Left gastric and short gastric veins (portal) connect to phreno-esophageal and hemiazygous veins (IVC)",
+              "Periumbilical vein (portal) connects to subcutaneous veins of anterior abdominal wall (IVC)",
+              "Splenic vein connects directly to the left renal vein"
+            ],
+            "correct": 1,
+            "explanation": "The gastroesophageal anastomosis: left gastric vein + short gastric veins (portal system) → phreno-esophageal and hemiazygous veins (IVC tributaries) → causes esophageal varices. The rectal anastomosis causes hemorrhoids. The abdominal wall anastomosis causes caput medusae."
+          },
+          {
+            "question": "Budd-Chiari syndrome causes portal hypertension by which mechanism?",
+            "options": [
+              "Thrombosis of the portal vein before it enters the liver",
+              "Hepatic sinusoidal compression from cirrhotic regeneration nodules",
+              "Obstruction of hepatic vein outflow into the IVC or directly at the hepatic veins",
+              "Presinusoidal granulomatous inflammation"
+            ],
+            "correct": 2,
+            "explanation": "Budd-Chiari syndrome is caused by thrombosis or obstruction of the hepatic veins (or the hepatic portion of the IVC), blocking blood outflow from the liver. This is a posthepatic cause. The resulting hepatic congestion raises sinusoidal pressure and causes PH, often presenting with ascites, hepatomegaly, and abdominal pain."
+          },
+          {
+            "question": "A patient with portal hypertensive gastropathy is bleeding. Which treatment approach is correct?",
+            "options": [
+              "Urgent EVL to band the bleeding vessels",
+              "Cyanoacrylate glue injection into the gastric mucosa",
+              "Measures that reduce portal pressure: NSBBs, TIPS, or surgical shunt",
+              "Argon plasma coagulation of the affected mucosa"
+            ],
+            "correct": 2,
+            "explanation": "Portal hypertensive gastropathy is caused by elevated portal pressure causing ectatic vessels throughout the gastric mucosa. Endoscopic treatment has NO role — there is no single vessel to treat. Treatment must address the underlying portal pressure: NSBBs, TIPS, surgically created shunt, or definitively liver transplantation."
+          },
+          {
+            "question": "HVPG is measured using a balloon catheter. What are the two pressure values measured, and how is HVPG calculated?",
+            "options": [
+              "Systolic and diastolic hepatic vein pressure; HVPG = systolic − diastolic",
+              "Wedged hepatic venous pressure (WHVP, balloon inflated) minus free hepatic venous pressure (FHVP, balloon deflated)",
+              "Portal vein pressure minus IVC pressure via direct puncture",
+              "Mean arterial pressure minus portal venous pressure"
+            ],
+            "correct": 1,
+            "explanation": "HVPG = WHVP − FHVP. WHVP (balloon inflated, blocks outflow) reflects sinusoidal pressure. FHVP (balloon deflated) reflects IVC pressure. Normal HVPG = 3–5 mmHg. Access is via jugular, femoral, or cubital vein; one hepatic vein is catheterized under fluoroscopic control."
+          },
+          {
+            "question": "For a patient with compensated cirrhosis and mild portal hypertension (HVPG >5 but <10 mmHg) and NO varices, what is the mainstay of therapy?",
+            "options": [
+              "Start NSBBs immediately to prevent varices from forming",
+              "Perform EVL prophylactically",
+              "Elimination of the etiologic agent causing cirrhosis",
+              "TIPS placement to reduce portal pressure"
+            ],
+            "correct": 2,
+            "explanation": "At this early stage (mild PH, no CSPH), the hyperdynamic circulatory state is not fully developed, so NSBBs are mostly ineffective. TIPS is not indicated. The mainstay is eliminating the causative agent (e.g., antivirals for HBV/HCV, alcohol cessation) — this can even lead to regression of cirrhosis and prevent progression to CSPH."
+          }
+        ],
         "Cirrhosis": [],
         "Viral Hepatitis": [],
         "Chronic Pancreatitis": [
