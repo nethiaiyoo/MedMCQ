@@ -1,0 +1,73 @@
+{
+  "version": "1.0",
+  "instructions": "Add your own questions here. Each topic is a key matching the topic id in the app. Each question needs: question, options (array of 4), correct (0-3 index), explanation. Questions here are shown FIRST before AI-generated ones fill the rest.",
+  "topics": {
+    "surgery": [
+      {
+        "question": "A 45-year-old woman presents with RUQ pain radiating to the right shoulder, worse after fatty meals. Murphy's sign is positive. USS shows gallbladder wall thickening and pericholecystic fluid. What is the most appropriate initial management?",
+        "options": [
+          "Urgent laparoscopic cholecystectomy",
+          "IV antibiotics and analgesia, with interval cholecystectomy",
+          "ERCP and sphincterotomy",
+          "Percutaneous cholecystostomy"
+        ],
+        "correct": 1,
+        "explanation": "Acute calculous cholecystitis is initially managed conservatively with IV antibiotics, analgesia and IV fluids. Interval laparoscopic cholecystectomy is performed 6 weeks later. Urgent surgery is reserved for perforation or failure of conservative management."
+      },
+      {
+        "question": "Which of the following is the most sensitive investigation for detecting common bile duct stones (choledocholithiasis)?",
+        "options": [
+          "Transabdominal ultrasound",
+          "CT abdomen",
+          "MRCP",
+          "Liver function tests"
+        ],
+        "correct": 2,
+        "explanation": "MRCP (Magnetic Resonance Cholangiopancreatography) is the gold standard non-invasive investigation for choledocholithiasis with ~95% sensitivity. USS is limited by bowel gas, and CT is less sensitive for small stones."
+      }
+    ],
+    "obsgyn": [
+      {
+        "question": "A 28-year-old woman presents with heavy, irregular menstrual bleeding for 8 months. Examination and USS are normal. Endometrial biopsy shows no pathology. What is the most likely diagnosis?",
+        "options": [
+          "Endometrial carcinoma",
+          "Polycystic ovarian syndrome",
+          "Dysfunctional uterine bleeding",
+          "Submucous fibroid"
+        ],
+        "correct": 2,
+        "explanation": "Dysfunctional uterine bleeding (DUB) is a diagnosis of exclusion — abnormal uterine bleeding with no identifiable structural or systemic cause. Normal USS and biopsy with no pathology points to DUB, most commonly due to anovulatory cycles."
+      }
+    ],
+    "cardiology": [
+      {
+        "question": "A patient on warfarin for AF has an INR of 8.2 with no active bleeding. What is the most appropriate management?",
+        "options": [
+          "Stop warfarin, give IV Vitamin K 10mg",
+          "Stop warfarin, give oral Vitamin K 1-2mg and recheck INR in 24h",
+          "Continue warfarin at reduced dose",
+          "Give fresh frozen plasma immediately"
+        ],
+        "correct": 1,
+        "explanation": "For supratherapeutic INR (>8) with no bleeding, withhold warfarin and give low-dose oral Vitamin K (1-2mg). High-dose IV Vitamin K risks over-correction and thrombosis. FFP is reserved for active life-threatening bleeding."
+      }
+    ],
+    "forensic": [
+      {
+        "question": "A body is found in a river. Post-mortem examination reveals waterlogging of the lungs, fine froth from mouth and nostrils, and diatoms in the bone marrow. What is the most likely cause of death?",
+        "options": [
+          "Dead before entering water (post-mortem submersion)",
+          "Dry drowning",
+          "Ante-mortem drowning (wet drowning)",
+          "Vagal inhibition"
+        ],
+        "correct": 2,
+        "explanation": "Diatoms in the bone marrow are pathognomonic of ante-mortem drowning — they can only reach the marrow via the circulation if the person was alive and inhaling water. Post-mortem submersion would not show diatom penetration beyond the lungs."
+      }
+    ],
+    "pharmacology": [],
+    "pathology": [],
+    "anatomy": [],
+    "physiology": []
+  }
+}
