@@ -272,7 +272,7 @@ let retryContext = null;
 
 async function init() {
   try {
-    const res = await fetch('questions.json');
+    const res = await fetch('questions.json?v=' + new Date().toISOString().slice(0,16));
     const data = await res.json();
     bank = data.topics || {};
   } catch(e) { bank = {}; }
