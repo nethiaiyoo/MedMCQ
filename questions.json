@@ -700,7 +700,206 @@
         "Inflammatory Bowel Disease": [],
         "Cirrhosis": [],
         "Viral Hepatitis": [],
-        "Pancreatitis": [],
+        "Chronic Pancreatitis": [
+          {
+            "question": "Which best describes the fundamental pathological process in chronic pancreatitis?",
+            "options": ["Reversible inflammation of the pancreatic acini", "Progressive replacement of pancreatic parenchyma by fibrotic tissue with loss of endocrine and exocrine function", "Acute necrosis of the pancreas followed by complete regeneration", "Autoimmune destruction of islets of Langerhans alone"],
+            "correct": 1,
+            "explanation": "Chronic pancreatitis is a progressive and irreversible disease where pancreatic parenchyma is replaced by fibrotic tissue due to recurring inflammation, causing loss of both endocrine and exocrine function."
+          },
+          {
+            "question": "According to the TIGAR-O classification, which of the following belongs to the Toxic-Metabolic category?",
+            "options": ["Pancreas divisum", "PRSS1 gene mutation", "Chronic renal failure", "Autoimmune pancreatitis type 1"],
+            "correct": 2,
+            "explanation": "The Toxic-Metabolic (T) category in TIGAR-O includes alcohol, smoking, hypercalcemia, hyperlipidemia, chronic renal failure, medications, and toxins."
+          },
+          {
+            "question": "A child has recurrent acute idiopathic pancreatitis. Which congenital anomaly should be considered?",
+            "options": ["Annular pancreas", "Pancreas divisum", "Common channel syndrome", "Choledochal cyst"],
+            "correct": 1,
+            "explanation": "Pancreas divisum is the most common congenital malformation of the pancreas and should be considered in recurring acute idiopathic pancreatitis in childhood. It results from incomplete fusion of the dorsal (Santorini) and ventral (Wirsung) ducts."
+          },
+          {
+            "question": "What is the minimum daily alcohol intake assumed to be a risk for developing chronic pancreatitis?",
+            "options": ["20 g/day for 2 years", "40 g/day for 5 years", "80 g/day for 6-12 years", "100 g/day for 2 years"],
+            "correct": 2,
+            "explanation": "A minimum of 80 g of alcohol per day over a period of 6-12 years is considered a risk for developing chronic pancreatitis."
+          },
+          {
+            "question": "Which statement about smoking and chronic pancreatitis is correct?",
+            "options": ["Smoking is only a risk factor when combined with alcohol", "Smoking accelerates disease progression and can be considered an independent risk factor", "Smoking reduces calcification by reducing ductal pressure", "Nicotine cessation has no impact on disease course"],
+            "correct": 1,
+            "explanation": "Smoking independently accelerates the progression of chronic pancreatitis, increases pain, and promotes calcification of the gland. Nicotine abstinence programs should be strongly encouraged."
+          },
+          {
+            "question": "Which metabolic condition is associated with chronic pancreatitis through elevated serum calcium?",
+            "options": ["Diabetes mellitus type 2", "Primary hyperparathyroidism", "Hypothyroidism", "Cushing syndrome"],
+            "correct": 1,
+            "explanation": "Primary hyperparathyroidism (pHTP) can lead to chronic pancreatitis with or without calcifications, via a causal connection with raised serum calcium levels."
+          },
+          {
+            "question": "Which of the following best explains the role of CFTR mutations in chronic pancreatitis pathogenesis?",
+            "options": ["They cause autoimmune destruction of acinar cells", "They decrease bicarbonate and water secretion by ductal cells, increasing viscosity and acidity of secretions", "They activate trypsinogen directly in the bloodstream", "They cause hypercalcemia leading to calcifications"],
+            "correct": 1,
+            "explanation": "CFTR mutations decrease bicarbonate and water secretion by ductal cells, increasing viscosity and acidity of acinar secretions. The decreased pH facilitates activation of zymogens within the ducts."
+          },
+          {
+            "question": "Why do most alcoholics NOT develop chronic pancreatitis?",
+            "options": ["Alcohol only causes acute pancreatitis, not chronic", "Alcohol effects on the pancreas are dose-independent", "Additional cofactors are required; smoking appears particularly important for progression", "The liver metabolizes alcohol before it reaches the pancreas"],
+            "correct": 2,
+            "explanation": "Although alcohol is the most important risk factor, most alcoholics do not develop chronic pancreatitis. Other cofactors are needed, with smoking appearing to be especially important for chronic inflammation progression."
+          },
+          {
+            "question": "In what percentage of patients is pain the main clinical symptom of chronic pancreatitis?",
+            "options": ["20-30%", "50-60%", "80-95%", "Nearly 100%"],
+            "correct": 2,
+            "explanation": "Pain is the main clinical symptom in 80-95% of patients with chronic pancreatitis. A minority experience painless chronic pancreatitis, becoming clinically apparent when exocrine/endocrine insufficiency develops."
+          },
+          {
+            "question": "In alcoholic chronic pancreatitis, when do the first symptoms typically appear?",
+            "options": ["First decade of life", "Second decade of life", "Fourth decade of life", "Sixth decade of life"],
+            "correct": 2,
+            "explanation": "In alcoholic chronic pancreatitis, the first symptoms usually develop in the fourth decade of life."
+          },
+          {
+            "question": "Which combination of symptoms most specifically points toward acute pancreatitis or a relapse of chronic pancreatitis?",
+            "options": ["Diarrhea and weight loss", "Belt-like upper abdominal pain and vomiting with >3x rise in serum amylase or lipase", "Painless jaundice and steatorrhea", "Lower abdominal cramping and bloating"],
+            "correct": 1,
+            "explanation": "Belt-like upper abdominal pain and vomiting, together with a more than threefold rise in serum amylase or lipase above normal, point to acute pancreatitis or a relapse of chronic pancreatitis."
+          },
+          {
+            "question": "Rupture of a pseudocyst into the abdominal cavity leads to which complication?",
+            "options": ["Pleural effusion", "Pancreatic ascites", "Portal hypertension", "Duodenal fistula"],
+            "correct": 1,
+            "explanation": "Rupture of a pseudocyst into the abdominal cavity leads to pancreatic ascites. Rupture of an infected pseudocyst, however, results in peritonitis."
+          },
+          {
+            "question": "Which rare vascular complication of chronic pancreatitis is best initially diagnosed by color Doppler ultrasonography?",
+            "options": ["Portal vein thrombosis", "Splenic vein thrombosis", "Pseudoaneurysm", "Mesenteric artery stenosis"],
+            "correct": 2,
+            "explanation": "Pseudoaneurysm is diagnosed by ultrasound in combination with color Doppler ultrasonography. CT-angiography and MR-angiography can also identify them."
+          },
+          {
+            "question": "What is the first-choice treatment for active hemorrhagic pseudoaneurysms in chronic pancreatitis?",
+            "options": ["Emergency open surgery", "Angiographic embolization", "Endoscopic drainage", "Conservative management with transfusion"],
+            "correct": 1,
+            "explanation": "Angiographic embolization is the method of first choice for active hemorrhagic pseudoaneurysms, with a success rate of 66% and lower complication rate compared to surgery."
+          },
+          {
+            "question": "After 8 years from diagnosis of chronic pancreatitis, what proportion of patients suffer from diabetes mellitus requiring therapy?",
+            "options": ["10%", "25%", "50%", "75%"],
+            "correct": 2,
+            "explanation": "Eight years after establishing the diagnosis of chronic pancreatitis, 50% of patients suffer from diabetes mellitus requiring therapy."
+          },
+          {
+            "question": "At what threshold of enzyme secretion reduction does steatorrhea and creatorrhea typically develop?",
+            "options": ["Reduction of more than 30-40%", "Reduction of more than 50-60%", "Reduction of more than 90-95%", "Any measurable reduction"],
+            "correct": 2,
+            "explanation": "Decompensation associated with steatorrhea and creatorrhea does not occur until secretion of the corresponding enzymes has been reduced by more than 90-95%, reflecting the large functional reserve capacity of the pancreas."
+          },
+          {
+            "question": "In alcoholic chronic pancreatitis, clinically manifest exocrine pancreatic insufficiency usually appears how long after the first symptoms?",
+            "options": ["1-2 years", "5 years", "10-15 years", "20-25 years"],
+            "correct": 2,
+            "explanation": "In patients with alcoholic chronic pancreatitis, clinically manifest exocrine pancreatic insufficiency usually appears approximately 10-15 years after development of the first symptoms."
+          },
+          {
+            "question": "Why might serum lipase values decrease in late-stage chronic pancreatitis?",
+            "options": ["Increased renal clearance of lipase", "Loss of exocrine tissue reduces lipase production", "Antibodies neutralize circulating lipase", "Alcohol inhibits lipase release"],
+            "correct": 1,
+            "explanation": "In late-stage chronic pancreatitis, values of serum lipase may decrease due to the progressive loss of exocrine tissue, even during acute relapses."
+          },
+          {
+            "question": "Which imaging modality is the recommended initial investigation in chronic pancreatitis?",
+            "options": ["Contrast-enhanced CT", "MRI/MRCP", "Transabdominal ultrasound", "EUS"],
+            "correct": 2,
+            "explanation": "A transabdominal ultrasound scan is usually appropriate as the initial imaging modality in chronic pancreatitis."
+          },
+          {
+            "question": "Which imaging technique has the highest diagnostic accuracy for chronic pancreatitis and can also provide cytological diagnosis of focal lesions?",
+            "options": ["Contrast-enhanced CT", "MRCP", "EUS with fine-needle biopsy", "Plain abdominal X-ray"],
+            "correct": 2,
+            "explanation": "EUS has generally the highest, or at least equal, accuracy compared to ERCP or MRCP/MRI. EUS-guided fine-needle biopsy can also provide cytological and/or histological diagnosis of focal lesions."
+          },
+          {
+            "question": "According to the Manchester classification, which feature distinguishes severe chronic pancreatitis from moderate?",
+            "options": ["The presence of calcifications", "Pain despite analgesics", "Biliary stricture, portal hypertension, or duodenal stenosis", "EUS evidence of ductal changes"],
+            "correct": 2,
+            "explanation": "Severe CP in the Manchester classification requires features of moderate CP plus: biliary stricture, portal hypertension, or duodenal stenosis, in addition to exocrine or endocrine insufficiency."
+          },
+          {
+            "question": "Which pancreatic function test is considered most exact for quantifying exocrine function?",
+            "options": ["Fecal elastase-1", "Qualitative fecal fat test", "Secretin-pancreozymin test", "Chymotrypsin activity in stool"],
+            "correct": 2,
+            "explanation": "The secretin-pancreozymin test is the most exact technique for quantifying exocrine pancreatic function, though technically demanding and mainly done in specialist centers."
+          },
+          {
+            "question": "Why cannot fecal elastase measurement be used to monitor the success of pancreatin enzyme replacement therapy?",
+            "options": ["Elastase is destroyed by stomach acid before reaching stool", "Only the natural human enzyme and not the therapeutically administered porcine enzyme is measured", "Elastase levels do not change with exocrine insufficiency", "It requires 72-hour stool collection which is impractical"],
+            "correct": 1,
+            "explanation": "Success of replacement therapy cannot be assessed by measuring fecal concentration of elastase because only the natural human enzyme — not the therapeutically administered porcine enzyme — is measured."
+          },
+          {
+            "question": "What are the indications for starting pancreatic enzyme replacement therapy (PERT)?",
+            "options": ["Any steatorrhea regardless of degree", "Weight loss >10%, fecal fat >15 g/day, or severe dyspeptic symptoms (gas/diarrhea)", "Serum lipase elevation alone", "Diabetes developing in the course of chronic pancreatitis"],
+            "correct": 1,
+            "explanation": "Indications for PERT are weight loss of more than 10% of body weight, steatorrhea with fecal fat excretion more than 15 g/day, or dyspeptic symptoms with severe gas or diarrhea."
+          },
+          {
+            "question": "What is the recommended initial lipase dose per main meal in pancreatic enzyme replacement therapy?",
+            "options": ["5,000-10,000 units", "20,000-40,000 units", "60,000-80,000 units", "100,000 units"],
+            "correct": 1,
+            "explanation": "20,000-40,000 lipase units per main meal should be administered as the initial dose; approximately 10,000-20,000 lipase units for smaller in-between meals."
+          },
+          {
+            "question": "If the initial enzyme dose in PERT is inadequate, what is the next step before adding a PPI?",
+            "options": ["Switch to powder formulation immediately", "Double and if necessary triple the enzyme dose", "Add a H2 blocker", "Increase the dose by 10% increments weekly"],
+            "correct": 1,
+            "explanation": "The enzyme dose should be doubled, and if necessary tripled, if the effect is inadequate. Only if this is still insufficient should pancreatin be combined with a PPI."
+          },
+          {
+            "question": "Endocrine insufficiency in chronic pancreatitis is designated as which type of diabetes?",
+            "options": ["Type 1", "Type 2", "Type 3", "MODY (maturity onset diabetes of the young)"],
+            "correct": 2,
+            "explanation": "Endocrine insufficiency in chronic pancreatitis has been designated diabetes type 3. Besides insulin deficiency from islet destruction, there is also lack of counter-regulatory hormones such as glucagon and somatostatin."
+          },
+          {
+            "question": "Asymptomatic pseudocysts that do not resolve within 6 weeks and reach what size threshold may be considered for treatment?",
+            "options": ["2 cm", "3 cm", "5 cm", "8 cm"],
+            "correct": 2,
+            "explanation": "Asymptomatic pancreatic pseudocysts that have reached more than 5 cm in diameter and do not resolve within 6 weeks can be treated, as untreated cysts larger than 5 cm may have a higher risk of complications."
+          },
+          {
+            "question": "Regarding endoscopic therapy for bile duct obstruction in chronic pancreatitis, which statement is correct?",
+            "options": ["Endoscopic therapy is the definitive long-term treatment of choice", "Endoscopic therapy is only indicated as an interim/temporizing procedure prior to definitive surgery", "Endoscopic therapy is contraindicated in chronic pancreatitis", "Surgery should always be attempted before endoscopic drainage"],
+            "correct": 1,
+            "explanation": "Endoscopic therapy is only indicated as an interim or temporizing procedure prior to definitive surgery for bile duct obstruction in chronic pancreatitis."
+          },
+          {
+            "question": "Which dietary recommendation is correct for patients with chronic pancreatitis?",
+            "options": ["A strict low-fat diet should always be prescribed", "A normal balanced isocaloric diet according to the patient's preferences is recommended", "Total parenteral nutrition is preferred over oral feeding", "Protein should be severely restricted to reduce enzyme secretion"],
+            "correct": 1,
+            "explanation": "A normal balanced, isocaloric diet according to the patient's preferences is recommended. There is no established or pancreas-specific diet. A low-fat diet is only recommended when clinical symptoms of fat maldigestion persist despite adequate enzyme replacement."
+          },
+          {
+            "question": "Which vitamins are most commonly deficient in chronic pancreatitis with exocrine insufficiency?",
+            "options": ["B vitamins (B1, B2, B6, B12)", "Fat-soluble vitamins A, D, E, and K", "Vitamin C and folate", "Vitamins D and K only"],
+            "correct": 1,
+            "explanation": "Deficiencies of the fat-soluble vitamins A, D, E, and K as well as calcium, magnesium, zinc, thiamine, and folic acid are often detected in patients with chronic pancreatitis and exocrine insufficiency."
+          },
+          {
+            "question": "How often should follow-up evaluations be performed in established chronic pancreatitis?",
+            "options": ["Monthly", "Every 3 months", "Every 6 months", "Annually"],
+            "correct": 2,
+            "explanation": "Follow-up evaluations should be undertaken at intervals of 6 months. Imaging techniques are used for early diagnosis of local complications such as pseudocysts, cholestasis, and pancreatic carcinoma."
+          },
+          {
+            "question": "Which is the most important differential diagnosis of chronic pancreatitis that must always be excluded?",
+            "options": ["Gallstone disease", "Peptic ulcer disease", "Pancreatic cancer", "Ischemic colitis"],
+            "correct": 2,
+            "explanation": "The most important differential diagnosis of chronic pancreatitis is pancreatic cancer. Once chronic pancreatitis is diagnosed, ultrasound and EUS have limited ability to distinguish carcinoma from inflammation; EUS-FNA should be performed in equivocal cases."
+          }
+        ],
         "GI Bleeding": []
       }
     },
