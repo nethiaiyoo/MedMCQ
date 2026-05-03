@@ -455,7 +455,7 @@
               "Unlike synthetic drugs, herbs are harmless to the liver"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "**Answer: A — Drug-induced liver damage may depend on the dose of the drug** The source material clearly states that **intrinsic (predictable) drug reactions are dose-related** — acetaminophen is the classic example, causing hepatotoxicity at supertherapeutic doses. This makes option A correct. The other options are all factually wrong based on the course material. **B is incorrect** because cholestatic injury is characterized by an isolated increase of **ALP** (not ALT) — ALT isolation is a feature of hepatocellular injury. **C is incorrect** because hepatocellular damage is defined by elevated **ALT/AST** (aminotransferases), not ALP; in fact, in hepatocellular injury the ALP level is normal or only slightly elevated. **D is incorrect** because the material explicitly states that more than 900 drugs, *toxins, and herbs* can cause liver injury, and herbal teas specifically are listed as agents associated with hepatic venoocclusive disease — making herbs decidedly not harmless to the liver.",
             "past_paper": true
           },
           {
@@ -467,7 +467,7 @@
               "Corticosteroids, cytostatics"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The first-line treatment for autoimmune hepatitis is prednisolone (a corticosteroid) combined with azathioprine (a cytostatic/immunosuppressant), at doses of prednisolone 0.5-1 mg/kg/day + azathioprine 1-2 mg/kg/day. In maintenance therapy, azathioprine monotherapy is continued after steroids are gradually withdrawn, and for refractory cases, alternative cytostatics such as mycophenolate mofetil, cyclosporine, and tacrolimus are used. Anabolic steroids (A) are actually associated with causing hepatic venoocclusive disease and are harmful to the liver, not therapeutic. Interferon (B) is used for viral hepatitis B and C, not autoimmune hepatitis, where it would actually be contraindicated. Proteolysis suppressors and fibrates (C) have no role in autoimmune hepatitis treatment whatsoever.",
             "past_paper": true
           },
           {
@@ -503,7 +503,7 @@
               "Colchicine"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "The source material explicitly lists the drugs that cause **cholestatic** type of DILI: **amoxicillin-clavulanic acid**, azathioprine, carbamazepine, captopril, erythromycin, and ciprofloxacin. The other options all cause **hepatocellular** injury, not cholestatic. Acetaminophen (A), diclofenac (C), and colchicine (D) are all specifically named in the source material as drugs causing **hepatocellular injury**, which is characterized by elevated aminotransferases (ALT/AST), not ALP. Amoxicillin-clavulanic acid (B) is the only cholestatic agent among the choices.",
             "past_paper": true
           },
           {
@@ -551,7 +551,7 @@
               "2, 4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "According to the source material, "there is no specific treatment" for DILI — ruling out option 1. The primary intervention is to immediately stop the implicated drug (option 2). N-acetylcysteine is recommended in the early stage of acute liver failure development, specifically when used within the first 8–10 hours, as it is considered safe and efficient (option 4). Option 3 — re-applying the hepatotoxic drug 2 weeks later — is absolutely contraindicated, as re-exposure would risk repeating or worsening the liver injury.",
             "past_paper": true
           },
           {
@@ -575,7 +575,7 @@
               "Once the drug is metabolized in liver, it cannot cause hepatotoxicity"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": " "DILI is considered a cause for over 50% of hepatic failure" and that drugs account for "20–40% of all instances of fulminant hepatic failure," making option A correct. The other options are all false: B is wrong because over 900 drugs, toxins, and herbs (including natural products like herbal teas) have been reported to cause liver injury. C is wrong because DILI is diagnosed by exclusion — biopsy alone cannot confirm it and there is no specific histological pattern unique to DILI. D is wrong because during Phase 1 hepatic metabolism, the P-450 enzymes can generate intermediate metabolites that are far more toxic than the parent drug itself, meaning metabolism in the liver can actually create hepatotoxicity rather than prevent it.",
             "past_paper": true
           },
           {
@@ -587,7 +587,8 @@
               "2,3,4"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "The correct treatments for acetaminophen overdose are gastric lavage (1), N-acetylcysteine (2), and activated charcoal (4). Nitrofurantoin (option 3) is an antibiotic used for urinary tract infections — it has no role in poisoning management and is actually itself a potential hepatotoxin.
+",
             "past_paper": true
           },
           {
@@ -2337,7 +2338,7 @@
           {
             "question": "Stages of NAFLD are all EXCEPT:",
             "options": [
-              "a) Steatosis without hepatocellular damage",
+              "Steatosis without hepatocellular damage",
               "Steatohepatitis (NASH)",
               "Cirrhosis",
               "Accumulation of iron in the liver"
@@ -2349,7 +2350,7 @@
           {
             "question": "Correct statements about NASH? 1. More common than simple steatosis 2. Unlike steatosis, does not cause fibrosis 3. PNPLA3 gene polymorphism is a risk factor 4. Develops on background of hepatic triglyceride accumulation",
             "options": [
-              "a) 3, 4",
+              "3, 4",
               "1, 3",
               "1, 4",
               "2, 4"
@@ -2403,7 +2404,7 @@
               "1,2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "All four statements are directly supported by the course material. Liver biopsy is confirmed as the gold standard to distinguish simple steatosis from steatohepatitis (NASH), as non-invasive tests are not validated for this purpose in clinical practice. Ruling out alcoholic liver disease by taking a detailed alcohol consumption history is mandatory in all cases of fatty liver — this is one of the first three steps always performed. Checking for HCV and HBV infections is equally mandatory in all NAFLD cases as part of excluding secondary causes of steatosis. Finally, measuring body mass and BMI (which requires both weight and height) is explicitly listed as a required assessment in every NAFLD case, since obesity is a key risk factor and BMI is incorporated into multiple NAFLD scoring tools. All statements are therefore correct.",
             "past_paper": true
           },
           {
@@ -2415,7 +2416,7 @@
               "1,2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The course material provides a comprehensive etiology list for liver cirrhosis, and all four options appear explicitly within it. NAFLD is listed as a direct cause and its role as a causal factor is described as "continuing to grow." Hereditary hemochromatosis is listed under metabolic liver diseases as a recognized cause. Primary biliary cholangitis falls under chronic cholestatic liver diseases leading to cirrhosis. Congestive heart failure is explicitly listed under cardiovascular causes of cirrhosis, alongside Budd-Chiari syndrome, veno-occlusive disease, and constrictive pericarditis — chronic venous congestion from right heart failure impairs hepatic outflow, leading to congestive hepatopathy and ultimately cirrhosis. All four are therefore correct causes of liver cirrhosis.",
             "past_paper": true
           },
           {
@@ -2427,7 +2428,7 @@
               "It is the most common cause of death in the world"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "NAFLD is explicitly described in the course material as 'the most common liver disorder in Western countries, affecting about 46% of their total population,' with a global prevalence of approximately 24%. The other options contain important inaccuracies. Option A is wrong because the leading cause of mortality in NAFLD patients is not cirrhosis but cardiovascular disease — the course material clearly states that the leading causes of death, listed in order, are cardiovascular, then liver disorders, then neoplasms. Option C is wrong because NAFLD is currently the second most important indication for liver transplantation in Western countries, after chronic HCV infection — not number one. Option D is clearly an overstatement; NAFLD is not the most common cause of death in the world overall.",
             "past_paper": true
           },
           {
@@ -2439,7 +2440,7 @@
               "1,3,4"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "NAFLD is described in the course material as an "umbrella term" covering a wide spectrum of progressively worsening liver disease. It begins with simple hepatic steatosis (NAFL — fat accumulation in >5% of hepatocytes without significant inflammation), which can remain stable for years. In 20–30% of patients it advances to non-alcoholic steatohepatitis (NASH), where inflammation, hepatocyte ballooning, and cellular injury are added to the fat accumulation. Persistent NASH drives activation of hepatic stellate cells and collagen deposition, leading to fibrosis. If unchecked, this culminates in cirrhosis — the terminal stage of fibrogenesis — which carries the risk of further progression to hepatic failure and hepatocellular carcinoma. The course material explicitly states that 'NAFLD can have an asymptomatic course in all stages, including steatosis, steatohepatitis, fibrosis and cirrhosis,' confirming all four as recognized parts of the NAFLD spectrum.",
             "past_paper": true
           },
           {
@@ -2451,7 +2452,7 @@
               "3,4"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "All of the listed options are recognized causes of hepatic steatosis. Alcohol is perhaps the most classic cause — heavy drinking converts the liver from a lipid-burning to a lipid-storing organ through multiple mechanisms including increased lipogenesis, impaired β-oxidation, and reduced VLDL export. Hepatitis C genotype 3 is a well-established direct cause of steatosis through a viral mechanism distinct from metabolic syndrome, which is why checking for HCV is a mandatory step when evaluating any patient with fatty liver. Certain medications are explicitly listed in the course material as causes of drug-induced steatosis, including corticosteroids, valproate, tamoxifen, antiretrovirals, methotrexate, amiodarone, and tetracycline, among others. Lipodystrophy — a condition characterized by abnormal fat distribution and severe insulin resistance — drives massive free fatty acid flux into the liver and is a recognized secondary cause of hepatic steatosis. Therefore, all four are correct.",
             "past_paper": true
           },
           {
@@ -2463,7 +2464,7 @@
               "Magnetic resonance imaging"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "Endoscopic ultrasound (EUS) has no role in the diagnosis of NAFLD. The NAFLD workup described in the course material relies on history and physical examination (B), serology for viral hepatitis B and C as part of mandatory exclusion of secondary causes (A), and imaging — with standard abdominal ultrasound being the best first-line method in clinical practice, and MRI being the gold standard radiological method for quantifying hepatic fat (D). Endoscopic ultrasound is an invasive procedure used for conditions like chronic pancreatitis, biliary disease, and submucosal GI lesions — it simply does not visualize the liver parenchyma in a clinically useful way for NAFLD assessment and is never mentioned in the NAFLD diagnostic algorithm.",
             "past_paper": true
           },
           {
@@ -2475,7 +2476,7 @@
               "Keratins 8 and 10"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "Liver biopsy is the gold standard for assessing both the severity of liver injury and the degree of fibrosis in NAFLD. The course material states this explicitly in two contexts: it is "the gold standard method to distinguish NASH from steatosis,' since steatohepatitis cannot be diagnosed by biochemical, serological, or imaging methods alone; and it is 'the gold standard for diagnosing cirrhosis,' with histological scoring systems like METAVIR and Ishak used to grade fibrosis from F0 (none) to F4 (cirrhosis). Biochemical examination provides useful but non-specific markers and cannot diagnose NASH. Ultrasound is the best first-line clinical tool for detecting steatosis but is less accurate than MRI for fat quantification and cannot assess inflammation or fibrosis reliably. Keratins 8 and 18 (not 8 and 10) are experimental biomarkers of hepatocyte apoptosis studied in NASH but are not validated or recommended in clinical practice.",
             "past_paper": true
           },
           {
@@ -2487,7 +2488,7 @@
               "Vague right upper quadrant abdominal pain may be a clinical symptom"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "Jaundice is not a feature of NAFLD at all in its typical course. The course material is explicit that NAFLD 'can have an asymptomatic course in all stages' and is 'most commonly diagnosed accidentally during prophylactic check-up or workup for a different health condition' — confirming option A as true. The only non-specific symptom mentioned is a 'sensation of discomfort or heaviness in the right upper quadrant,' which aligns with option D. Obesity is the primary risk factor and is strongly linked to NAFLD through insulin resistance and metabolic syndrome, so option C is broadly accepted as true. Jaundice, by contrast, is a feature of cholestatic or advanced liver disease — it is not a presenting symptom of NAFLD in the early or intermediate stages, making option B the false statement and therefore the correct EXCEPT answer.",
             "past_paper": true
           }
         ],
