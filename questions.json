@@ -1056,7 +1056,7 @@
               "Peroxisomes"
             ],
             "correct": 2,
-            "explanation": "CYP2E1 resides in the smooth endoplasmic reticulum. In contrast, ADH is in the cytosol and catalase is in peroxisomes."
+            "explanation": "CYP2E1 resides in the smooth endoplasmic reticulum. In contrast, ADH is in the cytosol,catalase is in peroxisomes and ALDH2 is in the mitochondria."
           },
           {
             "question": "Why does CYP2E1 induction cause hepatotoxicity when an alcoholic takes a therapeutic drug dose?",
@@ -1391,7 +1391,7 @@
           {
             "question": "Which is TYPICAL for alcoholic liver disease?",
             "options": [
-              "a) Kayser-Fleischer rings are present",
+              "Kayser-Fleischer rings are present",
               "GGT level is high",
               "AST level is low",
               "Suppression of fibrogenesis"
@@ -1403,7 +1403,7 @@
           {
             "question": "Histological findings in ALCOHOLIC LIVER DISEASE? 1. Mallory-Denk bodies 2. Lymphoplasmacytic infiltration 3. Megamitochondria 4. Hepatocyte ballooning",
             "options": [
-              "a) 1, 2, 4",
+              "1, 2, 4",
               "1, 2",
               "1, 3, 4",
               "2, 3, 4"
@@ -1415,7 +1415,7 @@
           {
             "question": "Mechanisms of ALCOHOLIC LIVER DISEASE? 1. Suppression of lipogenesis 2. Change of redox status 3. Increased intestinal permeability 4. Suppression of Kupffer cells",
             "options": [
-              "a) 3, 4",
+              "3, 4",
               "2, 4",
               "2, 3",
               "1, 2"
@@ -1457,7 +1457,7 @@
               "2,4"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "PNPLA3 gene polymorphism is explicitly named in the course material as the best-evidenced genetic risk factor for NASH progression. NASH also develops on a background of hepatic triglyceride accumulation, where lipotoxicity from excess free fatty acids drives the transition from steatosis to active inflammation. Statement 1 is wrong -- only 20-30% of NAFLD patients progress to NASH, making it less common than simple steatosis. Statement 2 is the opposite of the truth -- fibrosis is a defining feature of NASH progression, not an absence.",
             "past_paper": true
           },
           {
@@ -1469,7 +1469,7 @@
               "Kayser–Fleischer rings"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The course material explicitly lists the typical clinical signs of alcoholic liver disease as Dupuytren's contracture, peripheral neuropathy, gynecomastia, and telangiectasias. Gynecomastia develops because the damaged liver fails to inactivate estrogen, leading to elevated circulating female sex hormones. Dupuytren's contracture is described as being especially common during cirrhosis of alcoholic origin. Spider telangiectasias are classic hepatic stigmata found in ALD-related cirrhosis. Kayser-Fleischer rings, however, are the pathognomonic sign of Wilson's disease -- they represent copper deposits in the cornea and have no association with alcoholic liver disease whatsoever. The course material specifically lists them under Wilson's disease as a sign to look for when distinguishing the cause of liver disease.",
             "past_paper": true
           },
           {
@@ -1481,7 +1481,7 @@
               "2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The course material describes the stages of ALD as a clear sequential progression: steatosis is the earliest and most common stage, developing in 90% of heavy drinkers; this is followed by alcoholic steatohepatitis; the process then progresses to fibrosis; and the end stage is cirrhosis which can be complicated by hepatocellular carcinoma. Statements 2, 3, and 4 all fall within this recognized spectrum. Accumulation of copper in the liver is not a stage of ALD -- it is the pathological hallmark of Wilson's disease, a completely separate genetic condition affecting copper metabolism. It has no role in ALD pathogenesis.",
             "past_paper": true
           },
           {
@@ -1493,7 +1493,7 @@
               "1,2"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "Alcohol metabolism generates excess NADH, fundamentally altering the cellular redox potential and driving lipogenesis while inhibiting fat oxidation. Alcohol also increases intestinal permeability, allowing gut-derived LPS to reach the liver via portal circulation and activate Kupffer cells into a proinflammatory state. Statement 1 is wrong because alcohol stimulates lipogenesis, not suppresses it. Statement 4 is wrong because alcohol activates Kupffer cells rather than suppressing them -- this activation is central to the inflammatory cascade driving ALD progression.",
             "past_paper": true
           },
           {
@@ -1505,7 +1505,7 @@
               "Polymorphonuclear cell infiltration"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "NASH diagnosis requires all three features together: macrovesicular steatosis, balloon degeneration, and lobular inflammation. Ballooning degeneration cannot exist as a standalone NASH feature without accompanying inflammation -- the two are inseparable in defining NASH. Portal tract inflammation, megamitochondria, apoptotic bodies, and polymorphonuclear cell infiltration are all explicitly listed in the course material as histological signs that can be seen in NASH. Ballooning degeneration alone, without inflammation, would instead be consistent with simple steatosis rather than steatohepatitis -- making option B the correct EXCEPT answer.",
             "past_paper": true
           },
           {
@@ -1517,7 +1517,7 @@
               "Alcohol dehydrogenase activity is lower in the gastric mucosa of women"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "The course material is explicit on this point: 'alcohol cannot accumulate in the human body.' Ethanol is rapidly metabolized -- primarily in the liver by alcohol dehydrogenase, CYP2E1, and catalase. The liver injury in ALD is not caused by ethanol accumulating, but rather by the toxic metabolites and byproducts generated during its metabolism, most importantly acetaldehyde -- making option A correct, since acetaldehyde is indeed a highly reactive toxic metabolite that forms adducts with proteins, lipids, and nucleic acids. Option B is correct because high estrogen levels in women contribute to a more severe inflammatory response through elevated cytokine expression, which is explicitly stated in the course material as a gender-related risk factor. Option D is also correct -- the course material states that women have twice less gastric ADH activity than men, meaning less first-pass metabolism of alcohol in the stomach and greater bioavailability of ethanol entering the bloodstream. Option C is therefore the false statement and the correct EXCEPT answer.",
             "past_paper": true
           },
           {
@@ -1529,7 +1529,7 @@
               "3, 4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "Alcohol accelerates hepatic lipogenesis by activating SREBP-1c, converting the liver from a fat-burning to a fat-storing organ -- making statement 3 correct. Alcohol also causes defective hepatic lipid export by impairing VLDL synthesis and secretion, trapping triglycerides inside hepatocytes -- making statement 4 correct. Statement 1 is wrong because alcohol reduces adiponectin production, not increases it -- this loss of adiponectin further impairs fatty acid oxidation and promotes inflammation. Statement 2 is also wrong because SREBP-1c expression is actually increased by alcohol -- ethanol triggers its translocation from the ER to the Golgi, where it becomes transcriptionally active and drives lipogenic gene expression.",
             "past_paper": true
           },
           {
@@ -1541,7 +1541,7 @@
               "Plasmapheresis"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "Aabstinence from alcohol is listed as the first and most fundamental general principle of ALD treatment. It is the only intervention that can reverse steatosis, decelerate fibrosis progression, and in some cases allow partial regression of even established cirrhosis. All other treatments are adjunctive. Sofosbuvir is a direct-acting antiviral used for hepatitis C. Ursodeoxycholic acid is used in cholestatic liver diseases like primary biliary cholangitis. Plasmapheresis has no established role in ALD management.",
             "past_paper": true
           },
           {
@@ -1553,7 +1553,7 @@
               "Less than five drinks per day"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "The course material states that ALD is suspected upon documentation of regular alcohol consumption of more than 30 g/day in males. Since one standard drink contains approximately 10-15 g of ethanol, 30 g/day corresponds to roughly two or more drinks per day, making option B the closest correct answer. The material also specifies that low-risk consumption for liver injury is considered less than 20 g/day for men, and that cirrhosis risk significantly increases when intake exceeds 40-60 g/day over 15-20 years of chronic use. Any amount of alcohol is incorrect because not all drinkers develop liver disease -- the risk is dose-dependent and threshold-based. More than one drink per day and less than five drinks per day are too vague or too permissive to reflect the specific threshold given in the course material.",
             "past_paper": true
           },
           {
@@ -1565,7 +1565,7 @@
               "Cirrhosis"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "The pathological lesions of ALD consist of hepatic steatosis, alcoholic steatohepatitis, fibrosis, and cirrhosis -- all of which represent a progressive spectrum of alcohol-induced liver damage. Kayser-Fleischer rings are corneal copper deposits that are pathognomonic of Wilson's disease, a hereditary disorder of copper metabolism. They have absolutely no association with alcoholic liver disease and are in fact one of the key signs the course material lists specifically under Wilson's disease to help distinguish it from other causes of liver injury.",
             "past_paper": true
           },
           {
@@ -1577,7 +1577,7 @@
               "Effects of estrogen"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "The course material clearly identifies three gender-dependent factors that explain why women develop more severe ALD than men at lower alcohol doses. First, reduced gastric ADH activity -- women have twice less gastric alcohol dehydrogenase than men, meaning less first-pass metabolism and greater alcohol bioavailability. Second, a higher proportion of body fat -- women have a smaller volume of distribution for alcohol due to greater adipose tissue and less total body water, leading to higher peak blood alcohol concentrations. Third, the effects of estrogen -- high estrogen levels contribute to a more severe inflammatory response through elevated cytokine expression and also promote gut permeability. Pregnancy is not mentioned anywhere in the course material as a factor explaining gender-dependent differences in ALD outcome. While pregnancy alters many physiological parameters, it is not identified as a mechanism underlying why women are more susceptible to alcoholic liver disease than men.",
             "past_paper": true
           },
           {
@@ -1589,7 +1589,7 @@
               "2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The recognized pathological lesions of ALD are fatty liver, alcoholic hepatitis, and cirrhosis -- forming the classic triad of alcohol-induced liver pathology described in the course material. Deposition of copper in the liver is the pathological hallmark of Wilson's disease, not ALD. In fact, copper accumulation is something that must be actively ruled out when evaluating a patient with liver disease, as it represents a completely separate inherited metabolic disorder. Alcohol causes lipid accumulation, inflammation, and progressive fibrosis leading to cirrhosis -- not copper deposition.",
             "past_paper": true
           },
           {
@@ -1601,7 +1601,7 @@
               "1,3,4"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "The course material explicitly states that alcoholic steatohepatitis is characterized histologically by neutrophil infiltration, hepatocyte ballooning, necrosis, and the appearance of Mallory-Denk bodies. Ballooning degeneration is a hallmark feature reflecting severe hepatocyte injury caused by cytoskeletal disruption from acetaldehyde and oxidative stress. Polymorphonuclear infiltrate -- specifically neutrophils -- is what distinguishes alcoholic hepatitis from other forms of hepatitis, as the neutrophilic response is a defining and characteristic feature. Mallory-Denk bodies are intracytoplasmic inclusions composed of abnormally aggregated intermediate filament proteins, considered a pathological hallmark of alcoholic hepatitis. Spotty necrosis, however, is the pattern more characteristic of viral hepatitis -- it refers to scattered individual hepatocyte death with lymphocytic infiltration, which is the typical pattern in chronic viral hepatitis rather than in ALD. The necrosis in alcoholic hepatitis is described more broadly rather than being classified specifically as spotty necrosis.",
             "past_paper": true
           },
           {
@@ -1613,7 +1613,7 @@
               "1,2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "Elevated AST is seen in all ALD cases with a sensitivity of 50% and specificity of 80%. An AST/ALT ratio greater than 1 -- often greater than 1.5-2 in steatohepatitis -- is a hallmark of ALD, because ethanol inhibits pyridoxal-5-phosphate, which is the coenzyme required for ALT synthesis, selectively suppressing ALT activity. GGT is disproportionately elevated in ALD compared to other liver diseases, with a GGT/ALP ratio greater than 5 being a useful diagnostic clue. ALT may be normal or mildly elevated.",
             "past_paper": true
           },
           {
@@ -1625,7 +1625,7 @@
               "1,2,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "Abstinence from alcohol is the first and most fundamental principle of ALD treatment. Corticosteroids -- specifically prednisolone 40 mg/day or methylprednisolone 32 mg/day -- are used in severe alcoholic hepatitis with a Maddrey score of 32 or above to reduce short-term mortality. Liver steatosis is explicitly described as potentially reversible with 4 weeks of abstinence, making statement 4 correct. Statement 3 is wrong -- azathioprine has no role in ALD treatment. It is used in autoimmune hepatitis as a cytostatic/immunosuppressant, and the course material even notes that azathioprine is itself associated with causing hepatic venoocclusive disease, making it inappropriate in ALD.",
             "past_paper": true
           },
           {
@@ -1736,7 +1736,7 @@
               "Sex only affects cirrhosis, not fibrosis progression in ALD"
             ],
             "correct": 1,
-            "explanation": "Unlike viral hepatitis (where fibrosis progresses faster in males), in ALD fibrosis progresses faster in women. This is another reason why women are disproportionately represented in ALD outcomes relative to consumption."
+            "explanation": "Unlike viral hepatitis (where fibrosis progresses faster in males), in ALD fibrosis progresses faster in women. This is another reason why women are disproportionately represented in ALD outcomes relative to consumption. In viral hepatitis, fibrosis progresses faster in males because testosterone and male sex hormones promote hepatic stellate cell activation and collagen deposition, while estrogen in females is actually hepatoprotective -- it has anti-fibrotic properties that slow the progression of fibrosis in premenopausal women. In ALD however, this protective effect of estrogen is reversed and becomes harmful. High estrogen levels in women contribute to a more severe inflammatory response through elevated cytokine expression and also increase intestinal permeability, allowing more LPS to reach the liver and drive Kupffer cell activation. On top of this, women have twice less gastric ADH activity than men, meaning more ethanol reaches the liver unmetabolized, causing greater hepatic injury per unit of alcohol consumed. So in ALD, estrogen shifts from being protective to being pro-inflammatory, and the reduced first-pass metabolism compounds the damage -- resulting in faster fibrosis progression in women at lower alcohol doses than men."
           },
           {
             "question": "Which of the following is NOT a recognised risk factor for progression of ALD?",
