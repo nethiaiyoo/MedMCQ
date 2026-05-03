@@ -383,7 +383,7 @@
               "Fatty liver disease"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "This patient ingested 20 g of acetaminophen (paracetamol), which is well above the toxic threshold (>7.5–10g in adults). She now presents with: Jaundice, Impaired consciousness (suggesting hepatic encephalopathy), Very high AST (2000 IU/L), Marked hyperbilirubinemia, Severe clinical deterioration - These findings are characteristic of acute liver failure (ALF)",
             "past_paper": true
           },
           {
@@ -395,7 +395,7 @@
               "Detailed inquiry into the history of drug use"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "the diagnosis of drug-induced liver injury (DILI) is primarily a diagnosis of exclusion. Key diagnostic steps include: ✔ Ruling out viral hepatitis (HAV, HBV, HCV, etc.) ✔ Ruling out autoimmune hepatitis ✔ Detailed history of drug use, including: Prescription medications, Over-the-counter drugs, Herbal preparations, Timing of exposure relative to liver enzyme elevation",
             "past_paper": true
           },
           {
