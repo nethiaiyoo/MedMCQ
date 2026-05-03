@@ -1,2 +1,2 @@
 # MedMCQ
-AI-powered questions · your question bank + Claude
+Common questions + Claude generated questions based on our source materials :)
