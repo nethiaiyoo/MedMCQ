@@ -463,7 +463,7 @@ document.getElementById('dark-toggle-sub').addEventListener('click', toggleDark)
 async function init() {
   applyDark(getDark());
   try {
-    const res = await fetch('questions.json?v=' + new Date().toISOString().slice(0,16));
+    const res = await fetch('questions.json');
     const data = await res.json();
     bank = data.topics || {};
   } catch(e) { bank = {}; }
