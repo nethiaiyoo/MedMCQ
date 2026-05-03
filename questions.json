@@ -383,7 +383,7 @@
               "Fatty liver disease"
             ],
             "correct": 0,
-            "explanation": "This patient ingested 20 g of acetaminophen (paracetamol), which is well above the toxic threshold (>7.5–10g in adults). She now presents with: Jaundice, Impaired consciousness (suggesting hepatic encephalopathy), Very high AST (2000 IU/L), Marked hyperbilirubinemia, Severe clinical deterioration - These findings are characteristic of acute liver failure (ALF)",
+            "explanation": "This presentation — massive AST elevation (50x ULN), jaundice, and encephalopathy after a documented toxic dose of paracetamol — defines acute liver failure (ALF). DILI is a broader category; ALF is the specific diagnosis when there is loss of hepatic synthetic function (coagulopathy, encephalopathy) within 26 weeks in a patient without pre-existing liver disease.",
             "past_paper": true
           },
           {
@@ -395,7 +395,7 @@
               "Detailed inquiry into the history of drug use"
             ],
             "correct": 2,
-            "explanation": "the diagnosis of drug-induced liver injury (DILI) is primarily a diagnosis of exclusion. Key diagnostic steps include: ✔ Ruling out viral hepatitis (HAV, HBV, HCV, etc.) ✔ Ruling out autoimmune hepatitis ✔ Detailed history of drug use, including: Prescription medications, Over-the-counter drugs, Herbal preparations, Timing of exposure relative to liver enzyme elevation",
+            "explanation": "The DILI diagnostic algorithm requires: detailed drug history, ruling out competing diagnoses (viral hepatitis, autoimmune hepatitis, ischemic hepatopathy, Wilson's disease), and calculating the R value. Detection of GI bleeding is not a step in diagnosing DILI — it is a complication screening step relevant to portal hypertension and peptic ulcer disease.",
             "past_paper": true
           },
           {
@@ -407,7 +407,7 @@
               "fatigue"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "AIH presents with fatigue, general weakness, fever, jaundice, arthralgia, and right upper quadrant discomfort. Diarrhea is not a recognised clinical feature of AIH — it suggests IBD, celiac disease, or microscopic colitis, which can be associated with AIH as extraintestinal manifestations but are not caused by hepatic inflammation itself.",
             "past_paper": true
           },
           {
@@ -419,7 +419,7 @@
               "1,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "Type 1 AIH is defined by ANA (antinuclear antibodies) and anti-SMA (anti-smooth muscle antibodies), plus elevated IgG (hypergammaglobulinaemia). Anti-LKM1 (anti-liver kidney microsomal antibody type 1) is the hallmark of Type 2 AIH, not Type 1.",
             "past_paper": true
           },
           {
@@ -431,7 +431,7 @@
               "2,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "AIH is a rare disease (16–18/100,000 in Europe), making statement 1 false. Statements 2, 3, and 4 are all correct: AIH predominantly affects females (F:M = 3:1) with a bimodal age distribution peaking in adolescence (10–20 years) and middle age (4th–7th decade).",
             "past_paper": true
           },
           {
@@ -1397,7 +1397,7 @@
               "Suppression of fibrogenesis"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "GGT (gamma-glutamyl transferase) is characteristically elevated in ALD — often disproportionately more than in other liver diseases (GGT/ALP >5 is characteristic). GGT is induced by alcohol even before structural damage occurs. Kayser-Fleischer rings suggest Wilson's disease. AST is elevated (not low) in ALD. Alcohol stimulates fibrogenesis, not suppresses it.",
             "past_paper": true
           },
           {
@@ -1409,7 +1409,7 @@
               "2, 3, 4"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "The histological hallmarks of ALD/alcoholic steatohepatitis are: Mallory-Denk bodies (cytokeratin aggregates), neutrophilic infiltration (not lymphoplasmacytic — that is AIH), and macrovesicular steatosis. Lymphoplasmacytic infiltration is the hallmark of AIH, not ALD.",
             "past_paper": true
           },
           {
@@ -1421,7 +1421,7 @@
               "1, 2"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "The key pathogenic mechanisms of ALD are: (2) altered NAD+/NADH redox ratio from ADH/ALDH2 activity promoting lipogenesis, and (3) CYP2E1-derived reactive oxygen species causing oxidative stress. Alcohol increases (not suppresses) lipogenesis via SREBP-1c, and increases gut permeability. Statements 2 and 3 are the most mechanistically fundamental.",
             "past_paper": true
           },
           {
@@ -1433,7 +1433,7 @@
               "Suppression of fibrogenesis is observed"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "GGT is markedly elevated in ALD, often more than in other liver disease, because alcohol directly induces GGT enzyme production. AST/ALT ratio >2 (not elevated AST alone) is characteristic because alcohol impairs pyridoxal-5-phosphate needed for ALT synthesis. Kayser-Fleischer rings indicate Wilson's disease. Alcohol promotes, not suppresses, fibrogenesis via activated hepatic stellate cells.",
             "past_paper": true
           },
           {
@@ -1445,7 +1445,7 @@
               "2,3,4"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "Alcoholic steatohepatitis shows Mallory-Denk bodies (eosinophilic intracytoplasmic inclusions of ubiquitinated cytokeratins), neutrophilic infiltration (characteristic of ALD), and macrovesicular steatosis beginning in zone 3. Lymphoplasmacytic infiltrate is the hallmark of autoimmune hepatitis, not ALD.",
             "past_paper": true
           },
           {
@@ -2343,7 +2343,7 @@
               "Accumulation of iron in the liver"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "NAFLD encompasses a spectrum: simple steatosis → NASH (steatosis + inflammation + ballooning) → fibrosis → cirrhosis → HCC. Iron accumulation is a feature of hereditary haemochromatosis, not a stage of NAFLD. It can coexist with NAFLD but is not part of its pathological spectrum.",
             "past_paper": true
           },
           {
@@ -2355,7 +2355,7 @@
               "2, 4"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "Simple steatosis is far more common than NASH (occurring in >90% of obese individuals vs 10-20% for NASH), making statement 1 false. NASH by definition includes steatosis + lobular inflammation + hepatocyte ballooning (statement 3). Unlike simple steatosis, NASH can cause fibrosis and progress to cirrhosis (statement 4). Statement 2 is false.",
             "past_paper": true
           },
           {
@@ -2367,7 +2367,7 @@
               "Accumulation of iron in the liver"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The NAFLD spectrum: steatosis → NASH → fibrosis → cirrhosis → HCC. Iron accumulation in the liver is a feature of hereditary haemochromatosis (HFE gene mutation), not a stage of NAFLD. Secondary iron overload can occur in NAFLD but is not a defined stage of the condition.",
             "past_paper": true
           },
           {
@@ -2379,7 +2379,7 @@
               "1,2,4"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "NAFLD screening is recommended in patients with metabolic syndrome (statement 2) and type 2 diabetes mellitus (statement 4), as these groups have the highest prevalence (60-70%). Not all non-drinkers or all obese individuals require screening — targeted screening by metabolic risk factors is the current recommendation.",
             "past_paper": true
           },
           {
@@ -2391,7 +2391,7 @@
               "Use of metformin"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "Weight loss is the cornerstone of NAFLD treatment — even a 7-10% reduction in body weight can resolve NASH and improve fibrosis. Vitamin E has antioxidant benefit in non-diabetic NASH but is not the primary intervention. Metformin improves insulin resistance but has not been shown to improve liver histology in NAFLD. Physical activity is important adjunctive therapy.",
             "past_paper": true
           },
           {
@@ -3403,7 +3403,7 @@
               "1,2,3,4"
             ],
             "correct": 3,
-            "explanation": "Peppermint can decrease LES pressure and worsen reflux. Weight reduction is particularly important in overweight or obese patients; reduces intra-abdominal pressure.Elevation of the head of the bed reduces nocturnal reflux by using gravity. Patients should avoid meals within 2–3 hours of bedtime.",
+            "explanation": "",
             "past_paper": true
           },
           {
