@@ -8,6 +8,7 @@
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+  /* ── THEME ── */
   :root {
     --bg: #F7F4EF;
     --surface: #FFFFFF;
@@ -17,11 +18,11 @@
     --text2: #6B6560;
     --text3: #9E9892;
     --accent: #C4472A;
+    --accent-light: #FAEAE6;
     --correct: #2D7A4F;
     --correct-light: #EAF5EF;
     --wrong: #C4472A;
     --wrong-light: #FAEAE6;
-
     --surgery: #7B3F9E;           --surgery-bg: #F3EBF9;
     --cardiology: #2456A4;        --cardiology-bg: #EAF0FB;
     --gastrohepatology: #A0691A;  --gastrohepatology-bg: #FBF0E0;
@@ -30,65 +31,133 @@
     --obstetrics: #C4477A;        --obstetrics-bg: #FAEAF1;
     --gynaecology: #7A3030;       --gynaecology-bg: #F9EAEA;
   }
+  body.dark {
+    --bg: #141210;
+    --surface: #1E1B18;
+    --surface2: #272320;
+    --border: rgba(255,255,255,0.08);
+    --text: #EDE8E1;
+    --text2: #9E9488;
+    --text3: #6B6258;
+    --correct-light: #0F2E1A;
+    --wrong-light: #2E1410;
+  }
 
-  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; font-size: 15px; line-height: 1.6; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; font-size: 15px; line-height: 1.6; transition: background 0.2s, color 0.2s; }
 
   .screen { display: none; }
   .screen.active { display: block; }
 
+  /* ── HEADER ── */
   .page-header {
-    padding: 28px 32px 18px;
+    padding: 16px 24px;
     border-bottom: 1px solid var(--border);
     background: var(--surface);
     position: sticky; top: 0; z-index: 10;
+    display: flex; align-items: center; justify-content: space-between;
   }
-  .logo { font-family: 'DM Serif Display', serif; font-size: 26px; color: var(--text); letter-spacing: -0.3px; }
+  .logo { font-family: 'DM Serif Display', serif; font-size: 24px; color: var(--text); letter-spacing: -0.3px; }
   .logo em { color: var(--accent); font-style: italic; }
-  .page-sub { font-size: 12px; color: var(--text3); margin-top: 2px; font-weight: 300; }
+  .header-actions { display: flex; align-items: center; gap: 8px; }
+  .icon-btn {
+    background: none; border: 1px solid var(--border); border-radius: 8px;
+    padding: 6px 10px; font-size: 15px; cursor: pointer; color: var(--text2);
+    transition: all 0.15s; line-height: 1;
+  }
+  .icon-btn:hover { border-color: rgba(0,0,0,0.25); background: var(--surface2); }
 
-  /* HOME */
-  .home-body { padding: 24px 32px; }
-  .section-label { font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 14px; }
-  .topic-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 10px; }
+  /* ── HOME ── */
+  .home-body { padding: 20px 24px; }
+  .section-label { font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text3); margin-bottom: 12px; }
+
+  /* Search */
+  .search-wrap { position: relative; margin-bottom: 20px; }
+  .search-input {
+    width: 100%; background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 14px 10px 38px;
+    font-size: 14px; font-family: 'DM Sans', sans-serif; color: var(--text);
+    outline: none; transition: border-color 0.15s;
+  }
+  .search-input:focus { border-color: rgba(0,0,0,0.3); }
+  .search-input::placeholder { color: var(--text3); }
+  .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); font-size: 15px; pointer-events: none; }
+  .search-results { margin-top: 8px; display: flex; flex-direction: column; gap: 6px; }
+  .search-result-item {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 14px; cursor: pointer; transition: all 0.15s;
+  }
+  .search-result-item:hover { border-color: rgba(0,0,0,0.2); background: var(--surface2); }
+  .sr-topic { font-size: 10px; font-weight: 500; color: var(--text3); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 4px; }
+  .sr-q { font-size: 13px; color: var(--text); line-height: 1.4; }
+  .sr-q mark { background: #FBF0E0; color: #A0691A; border-radius: 2px; padding: 0 2px; }
+  .search-empty { font-size: 13px; color: var(--text3); text-align: center; padding: 20px; }
+
+  /* Surprise me */
+  .surprise-btn {
+    width: 100%; margin-bottom: 20px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 14px 18px;
+    display: flex; align-items: center; gap: 12px;
+    cursor: pointer; transition: all 0.15s; text-align: left;
+  }
+  .surprise-btn:hover { border-color: rgba(0,0,0,0.2); background: var(--surface2); transform: translateY(-1px); box-shadow: 0 4px 14px rgba(0,0,0,0.06); }
+  .surprise-icon { font-size: 22px; }
+  .surprise-text { flex: 1; }
+  .surprise-title { font-size: 13px; font-weight: 500; color: var(--text); display: block; }
+  .surprise-sub { font-size: 11px; color: var(--text3); margin-top: 2px; display: block; }
+
+  /* Topic grid */
+  .topic-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(155px, 1fr)); gap: 10px; }
   .topic-card {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 14px; padding: 18px 16px; cursor: pointer;
+    border-radius: 14px; padding: 16px; cursor: pointer;
     text-align: left; transition: all 0.15s;
   }
   .topic-card:hover { border-color: rgba(0,0,0,0.2); transform: translateY(-1px); box-shadow: 0 4px 14px rgba(0,0,0,0.06); }
-  .topic-card:active { transform: translateY(0); }
-  .topic-icon { font-size: 22px; display: block; margin-bottom: 10px; }
+  .topic-icon { font-size: 20px; display: block; margin-bottom: 8px; }
   .topic-name { font-size: 13px; font-weight: 500; color: var(--text); display: block; }
-  .topic-meta { font-size: 11px; color: var(--text3); margin-top: 3px; display: block; }
-  .topic-pill { display: inline-block; font-size: 9px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; padding: 2px 8px; border-radius: 20px; margin-top: 8px; }
+  .topic-meta { font-size: 11px; color: var(--text3); margin-top: 2px; display: block; }
+  .topic-pill { display: inline-block; font-size: 9px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; padding: 2px 8px; border-radius: 20px; margin-top: 7px; }
 
-  /* SUBTOPIC */
-  .sub-body { padding: 24px 32px; max-width: 700px; }
-  .back-row { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; }
+  /* ── SUBTOPIC ── */
+  .sub-body { padding: 20px 24px; max-width: 700px; }
+  .back-row { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
   .back-btn {
     background: none; border: 1px solid var(--border); border-radius: 8px;
     padding: 6px 14px; font-size: 12px; color: var(--text2); cursor: pointer;
     font-family: 'DM Sans', sans-serif; transition: all 0.15s; white-space: nowrap;
   }
   .back-btn:hover { border-color: rgba(0,0,0,0.3); color: var(--text); }
-  .screen-title { font-family: 'DM Serif Display', serif; font-size: 26px; color: var(--text); }
-  .subtopic-list { display: flex; flex-direction: column; gap: 8px; }
+  .screen-title { font-family: 'DM Serif Display', serif; font-size: 24px; color: var(--text); }
+
+  .subtopic-list { display: flex; flex-direction: column; gap: 7px; }
   .subtopic-row {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 12px; padding: 15px 18px;
+    border-radius: 12px; padding: 13px 16px;
     display: flex; align-items: center; justify-content: space-between;
     cursor: pointer; transition: all 0.15s;
   }
   .subtopic-row:hover { border-color: rgba(0,0,0,0.2); background: var(--surface2); }
-  .subtopic-row.disabled { opacity: 0.38; cursor: default; }
+  .subtopic-row.disabled { opacity: 0.35; cursor: default; }
   .subtopic-row.disabled:hover { border-color: var(--border); background: var(--surface); }
-  .sub-name { font-size: 14px; font-weight: 500; color: var(--text); }
-  .sub-count { font-size: 12px; color: var(--text3); }
+  .sub-name { font-size: 13px; font-weight: 500; color: var(--text); }
+  .sub-right { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
+  .sub-count { font-size: 11px; color: var(--text3); }
   .sub-count.has-q { color: var(--correct); font-weight: 500; }
+  .sub-history { display: flex; gap: 4px; align-items: center; }
+  .hist-dot {
+    width: 20px; height: 20px; border-radius: 50%;
+    font-size: 9px; font-weight: 600; display: flex; align-items: center; justify-content: center;
+    color: #fff;
+  }
+  .hist-dot.good { background: var(--correct); }
+  .hist-dot.mid { background: #E08A00; }
+  .hist-dot.bad { background: var(--wrong); }
 
+  /* Toggles row */
   .toggle-row {
     display: flex; align-items: center; gap: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     background: var(--surface); border: 1px solid var(--border);
     border-radius: 10px; padding: 10px 14px;
   }
@@ -99,22 +168,25 @@
   .toggle-slider {
     position: absolute; inset: 0; border-radius: 22px;
     background: var(--border); cursor: pointer; transition: 0.2s;
-    border: 1px solid rgba(0,0,0,0.12);
+    border: 1px solid rgba(0,0,0,0.1);
   }
   .toggle-slider::before {
-    content: ''; position: absolute;
-    width: 16px; height: 16px; border-radius: 50%;
-    background: #fff; left: 2px; top: 2px;
-    transition: 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    content: ''; position: absolute; width: 16px; height: 16px; border-radius: 50%;
+    background: #fff; left: 2px; top: 2px; transition: 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
   }
   .toggle input:checked + .toggle-slider { background: #A0691A; border-color: #A0691A; }
   .toggle input:checked + .toggle-slider::before { transform: translateX(18px); }
-  .num-section { margin-top: 28px; }
-  .num-label { font-size: 12px; color: var(--text2); margin-bottom: 10px; }
-  .num-options { display: flex; gap: 8px; flex-wrap: wrap; }
+
+  /* Flagged toggle */
+  .toggle input:checked + .toggle-slider.flag-slider { background: #C4472A; border-color: #C4472A; }
+
+  .num-section { margin-top: 20px; }
+  .num-label { font-size: 12px; color: var(--text2); margin-bottom: 8px; }
+  .num-options { display: flex; gap: 7px; flex-wrap: wrap; }
   .num-btn {
     background: var(--surface); border: 1px solid var(--border);
-    border-radius: 8px; padding: 7px 16px; font-size: 13px;
+    border-radius: 8px; padding: 6px 14px; font-size: 13px;
     font-weight: 500; cursor: pointer; color: var(--text2);
     font-family: 'DM Sans', sans-serif; transition: all 0.15s;
   }
@@ -122,7 +194,7 @@
   .num-btn:hover:not(.active) { border-color: rgba(0,0,0,0.25); }
 
   .start-all-btn {
-    margin-top: 20px; width: 100%;
+    margin-top: 16px; width: 100%;
     background: var(--text); color: #fff; border: none;
     border-radius: 10px; padding: 13px;
     font-size: 14px; font-weight: 500; cursor: pointer;
@@ -131,18 +203,17 @@
   .start-all-btn:hover { opacity: 0.85; }
   .start-all-btn:disabled { opacity: 0.3; cursor: default; }
 
-  /* QUIZ */
-  .quiz-wrap { max-width: 640px; margin: 0 auto; padding: 28px 24px; }
-  .quiz-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 22px; }
+  /* ── QUIZ ── */
+  .quiz-wrap { max-width: 640px; margin: 0 auto; padding: 24px 20px; }
+  .quiz-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
   .quiz-tag { font-size: 11px; font-weight: 500; padding: 4px 10px; border-radius: 20px; }
   .progress-info { font-size: 12px; color: var(--text3); }
-  .progress-track { height: 2px; background: var(--border); border-radius: 2px; margin-bottom: 28px; overflow: hidden; }
+  .progress-track { height: 2px; background: var(--border); border-radius: 2px; margin-bottom: 24px; overflow: hidden; }
   .progress-fill { height: 100%; background: var(--accent); border-radius: 2px; transition: width 0.4s ease; }
 
-  .q-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 28px; margin-bottom: 14px; }
-  .q-meta { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
-  .q-num { font-size: 11px; color: var(--text3); letter-spacing: 0.04em; }
-  .q-subtopic-tag { font-size: 10px; font-weight: 500; padding: 2px 8px; border-radius: 20px; }
+  .q-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 24px; margin-bottom: 12px; }
+  .q-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+  .q-num { font-size: 11px; color: var(--text3); letter-spacing: 0.04em; margin-right: auto; }
   .past-paper-badge {
     display: inline-flex; align-items: center; gap: 3px;
     font-size: 10px; font-weight: 500;
@@ -150,12 +221,32 @@
     border: 1px solid rgba(160,105,26,0.25);
     padding: 2px 8px; border-radius: 20px;
   }
-  .q-text { font-family: 'DM Serif Display', serif; font-size: 20px; line-height: 1.4; color: var(--text); }
+  .flag-btn {
+    background: none; border: 1px solid var(--border); border-radius: 8px;
+    padding: 3px 8px; font-size: 13px; cursor: pointer; line-height: 1;
+    transition: all 0.15s; color: var(--text3);
+  }
+  .flag-btn:hover { border-color: rgba(0,0,0,0.25); }
+  .flag-btn.flagged { background: #FAEAE6; border-color: rgba(196,71,42,0.4); }
+  .share-btn {
+    background: none; border: 1px solid var(--border); border-radius: 8px;
+    padding: 3px 8px; font-size: 13px; cursor: pointer; line-height: 1;
+    transition: all 0.15s; color: var(--text3);
+  }
+  .share-btn:hover { border-color: rgba(0,0,0,0.25); }
+  .share-toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+    background: var(--text); color: var(--bg); font-size: 13px; font-weight: 500;
+    padding: 10px 20px; border-radius: 20px; z-index: 100;
+    opacity: 0; transition: opacity 0.2s; pointer-events: none;
+  }
+  .share-toast.show { opacity: 1; }
+  .q-text { font-family: 'DM Serif Display', serif; font-size: 19px; line-height: 1.4; color: var(--text); }
 
-  .options { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+  .options { display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px; }
   .opt-btn {
     background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
-    padding: 12px 16px; text-align: left; cursor: pointer;
+    padding: 12px 14px; text-align: left; cursor: pointer;
     font-family: 'DM Sans', sans-serif; font-size: 14px; color: var(--text);
     transition: all 0.15s; display: flex; align-items: flex-start; gap: 10px;
   }
@@ -175,9 +266,9 @@
 
   .explanation {
     background: var(--surface2); border-left: 3px solid var(--accent);
-    border-radius: 0 10px 10px 0; padding: 14px 16px;
+    border-radius: 0 10px 10px 0; padding: 13px 15px;
     font-size: 13px; color: var(--text2); line-height: 1.65;
-    margin-bottom: 14px; display: none;
+    margin-bottom: 12px; display: none;
   }
   .explanation.show { display: block; }
   .explanation strong { color: var(--text); font-weight: 500; }
@@ -191,18 +282,18 @@
   .next-btn.show { display: block; }
   .next-btn:hover { opacity: 0.85; }
 
-  /* RESULTS */
-  .results-wrap { max-width: 560px; margin: 0 auto; padding: 40px 24px; }
-  .results-header { text-align: center; margin-bottom: 36px; }
-  .results-score { font-family: 'DM Serif Display', serif; font-size: 72px; color: var(--text); line-height: 1; }
+  /* ── RESULTS ── */
+  .results-wrap { max-width: 560px; margin: 0 auto; padding: 36px 20px; }
+  .results-header { text-align: center; margin-bottom: 32px; }
+  .results-score { font-family: 'DM Serif Display', serif; font-size: 68px; color: var(--text); line-height: 1; }
   .results-score span { color: var(--accent); }
   .results-sub { font-size: 14px; color: var(--text2); margin-top: 6px; }
-  .results-grade { display: inline-block; margin-top: 12px; font-size: 13px; font-weight: 500; padding: 5px 16px; border-radius: 20px; }
-  .review-item { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; margin-bottom: 10px; }
-  .review-q { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 8px; }
+  .results-grade { display: inline-block; margin-top: 10px; font-size: 13px; font-weight: 500; padding: 5px 16px; border-radius: 20px; }
+  .review-item { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px; margin-bottom: 8px; }
+  .review-q { font-size: 13px; font-weight: 500; color: var(--text); margin-bottom: 6px; }
   .review-correct { font-size: 12px; color: var(--correct); }
   .review-wrong { font-size: 12px; color: var(--wrong); margin-bottom: 2px; }
-  .results-actions { display: flex; gap: 10px; margin-top: 24px; }
+  .results-actions { display: flex; gap: 8px; margin-top: 20px; }
   .results-actions button { flex: 1; padding: 12px; border-radius: 10px; font-size: 13px; font-weight: 500; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: all 0.15s; }
   .btn-primary { background: var(--text); color: #fff; border: none; }
   .btn-primary:hover { opacity: 0.85; }
@@ -212,13 +303,31 @@
 </head>
 <body>
 
+<!-- TOAST -->
+<div class="share-toast" id="share-toast">Copied to clipboard ✓</div>
+
 <!-- HOME -->
 <div id="screen-home" class="screen active">
   <div class="page-header">
     <div class="logo">Med<em>MCQ</em></div>
-    <div class="page-sub">Select a specialty to begin</div>
+    <div class="header-actions">
+      <button class="icon-btn" id="dark-toggle" title="Toggle dark mode">🌙</button>
+    </div>
   </div>
   <div class="home-body">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input class="search-input" id="search-input" placeholder="Search questions…" autocomplete="off">
+      <div class="search-results" id="search-results"></div>
+    </div>
+    <button class="surprise-btn" id="surprise-btn">
+      <span class="surprise-icon">🎲</span>
+      <span class="surprise-text">
+        <span class="surprise-title">Surprise me</span>
+        <span class="surprise-sub">Random questions from across all topics</span>
+      </span>
+      <span style="font-size:13px;color:var(--text3)">→</span>
+    </button>
     <div class="section-label">Specialties</div>
     <div class="topic-grid" id="topic-grid"></div>
   </div>
@@ -228,24 +337,33 @@
 <div id="screen-subtopic" class="screen">
   <div class="page-header">
     <div class="logo">Med<em>MCQ</em></div>
+    <div class="header-actions">
+      <button class="icon-btn" id="dark-toggle-sub" title="Toggle dark mode">🌙</button>
+    </div>
   </div>
   <div class="sub-body">
     <div class="back-row">
       <button class="back-btn" id="sub-back">← Specialties</button>
       <div class="screen-title" id="sub-title"></div>
     </div>
-    <div class="section-label">Subtopics</div>
-    <div class="subtopic-list" id="subtopic-list"></div>
+
     <div class="toggle-row">
-      <div class="toggle-label">
-        <strong>Past paper only</strong><br>
-        Show only questions from past papers
-      </div>
+      <div class="toggle-label"><strong>Past paper only</strong></div>
       <label class="toggle">
         <input type="checkbox" id="past-paper-toggle">
         <span class="toggle-slider"></span>
       </label>
     </div>
+    <div class="toggle-row" style="margin-bottom:20px;">
+      <div class="toggle-label"><strong>🚩 Flagged questions only</strong></div>
+      <label class="toggle">
+        <input type="checkbox" id="flagged-toggle">
+        <span class="toggle-slider flag-slider"></span>
+      </label>
+    </div>
+
+    <div class="section-label">Subtopics</div>
+    <div class="subtopic-list" id="subtopic-list"></div>
     <div class="num-section">
       <div class="num-label">Questions per session</div>
       <div class="num-options">
@@ -281,7 +399,7 @@
       <div class="results-sub" id="results-sub"></div>
       <div class="results-grade" id="results-grade"></div>
     </div>
-    <div class="section-label" style="margin-bottom:14px;">Review</div>
+    <div class="section-label" style="margin-bottom:12px;">Review</div>
     <div id="results-review"></div>
     <div class="results-actions">
       <button class="btn-secondary" id="btn-topics">← Specialties</button>
@@ -291,6 +409,7 @@
 </div>
 
 <script>
+// ── CONSTANTS ──
 const TOPIC_META = {
   surgery:          { icon: '🔪', desc: 'Hepatobiliary, GI, vascular' },
   cardiology:       { icon: '🫀', desc: 'ECG, arrhythmias, ACS' },
@@ -301,6 +420,7 @@ const TOPIC_META = {
   gynaecology:      { icon: '🩺', desc: 'Menstrual, oncology, fertility' },
 };
 
+// ── STATE ──
 let bank = {};
 let selectedNum = 10;
 let activeTopic = null;
@@ -310,7 +430,38 @@ let answers = [];
 let answered = false;
 let retryContext = null;
 
+// ── LOCALSTORAGE HELPERS ──
+function getHistory() { try { return JSON.parse(localStorage.getItem('mcq_history') || '{}'); } catch { return {}; } }
+function saveHistory(h) { localStorage.setItem('mcq_history', JSON.stringify(h)); }
+function getFlagged() { try { return JSON.parse(localStorage.getItem('mcq_flagged') || '[]'); } catch { return []; } }
+function saveFlagged(f) { localStorage.setItem('mcq_flagged', JSON.stringify(f)); }
+function getDark() { return localStorage.getItem('mcq_dark') === '1'; }
+function saveDark(v) { localStorage.setItem('mcq_dark', v ? '1' : '0'); }
+
+function flagKey(q) { return q.question.slice(0, 80); }
+
+function recordScore(subtopicName, pct) {
+  const h = getHistory();
+  if (!h[subtopicName]) h[subtopicName] = [];
+  h[subtopicName].unshift(pct);
+  h[subtopicName] = h[subtopicName].slice(0, 3);
+  saveHistory(h);
+}
+
+// ── DARK MODE ──
+function applyDark(dark) {
+  document.body.classList.toggle('dark', dark);
+  const icon = dark ? '☀️' : '🌙';
+  document.getElementById('dark-toggle').textContent = icon;
+  document.getElementById('dark-toggle-sub').textContent = icon;
+}
+function toggleDark() { const d = !getDark(); saveDark(d); applyDark(d); }
+document.getElementById('dark-toggle').addEventListener('click', toggleDark);
+document.getElementById('dark-toggle-sub').addEventListener('click', toggleDark);
+
+// ── INIT ──
 async function init() {
+  applyDark(getDark());
   try {
     const res = await fetch('questions.json?v=' + new Date().toISOString().slice(0,16));
     const data = await res.json();
@@ -325,6 +476,24 @@ function showScreen(id) {
   window.scrollTo(0, 0);
 }
 
+// ── FILTER HELPERS ──
+function filterPool(qs) {
+  const ppOnly = document.getElementById('past-paper-toggle').checked;
+  const flagOnly = document.getElementById('flagged-toggle').checked;
+  const flagged = getFlagged();
+  let pool = qs;
+  if (ppOnly) pool = pool.filter(q => q.past_paper);
+  if (flagOnly) pool = pool.filter(q => flagged.includes(flagKey(q)));
+  return pool;
+}
+
+function allBankQuestions() {
+  return Object.values(bank).flatMap(topic =>
+    Object.values(topic.subtopics || {}).flat()
+  );
+}
+
+// ── HOME ──
 function countTopicQuestions(topic) {
   return Object.values(topic.subtopics || {}).reduce((sum, arr) => sum + arr.length, 0);
 }
@@ -349,11 +518,63 @@ function renderHome() {
   });
 }
 
-function filterPool(qs) {
-  const ppOnly = document.getElementById('past-paper-toggle').checked;
-  return ppOnly ? qs.filter(q => q.past_paper) : qs;
-}
+// ── SEARCH ──
+document.getElementById('search-input').addEventListener('input', function() {
+  const q = this.value.trim().toLowerCase();
+  const container = document.getElementById('search-results');
+  if (q.length < 2) { container.innerHTML = ''; return; }
 
+  const all = allBankQuestions();
+  const matches = all.filter(item => item.question.toLowerCase().includes(q)).slice(0, 8);
+
+  if (matches.length === 0) {
+    container.innerHTML = `<div class="search-empty">No questions found for "${this.value}"</div>`;
+    return;
+  }
+
+  container.innerHTML = matches.map((item, i) => {
+    const highlighted = item.question.replace(new RegExp(`(${q})`, 'gi'), '<mark>$1</mark>');
+    // Find which topic/subtopic this belongs to
+    let topicLabel = '', subtopicLabel = '';
+    for (const [tid, topic] of Object.entries(bank)) {
+      for (const [sname, qs] of Object.entries(topic.subtopics || {})) {
+        if (qs.includes(item)) { topicLabel = topic.label; subtopicLabel = sname; break; }
+      }
+    }
+    return `<div class="search-result-item" data-idx="${i}">
+      <div class="sr-topic">${topicLabel} · ${subtopicLabel}</div>
+      <div class="sr-q">${highlighted}</div>
+    </div>`;
+  }).join('');
+
+  // Click to start a single-question quiz
+  container.querySelectorAll('.search-result-item').forEach((el, i) => {
+    el.addEventListener('click', () => {
+      document.getElementById('search-input').value = '';
+      container.innerHTML = '';
+      // Find topic for this question
+      const item = matches[i];
+      let tid = 'gastrohepatology';
+      for (const [t, topic] of Object.entries(bank)) {
+        for (const qs of Object.values(topic.subtopics || {})) {
+          if (qs.includes(item)) { tid = t; break; }
+        }
+      }
+      startQuiz([item], item.question.slice(0, 40) + '…', tid);
+    });
+  });
+});
+
+// ── SURPRISE ME ──
+document.getElementById('surprise-btn').addEventListener('click', () => {
+  const all = allBankQuestions();
+  if (all.length === 0) return;
+  const shuffled = [...all].sort(() => Math.random() - 0.5);
+  const n = selectedNum === 0 ? all.length : Math.min(selectedNum, all.length);
+  startQuiz(shuffled.slice(0, n), '🎲 Surprise mix', 'gastrohepatology');
+});
+
+// ── SUBTOPIC SCREEN ──
 function openTopic(topicId) {
   activeTopic = topicId;
   renderSubtopics();
@@ -362,27 +583,40 @@ function openTopic(topicId) {
 
 function renderSubtopics() {
   const topic = bank[activeTopic];
-  const ppOnly = document.getElementById('past-paper-toggle').checked;
   document.getElementById('sub-title').textContent = topic.label;
-
+  const history = getHistory();
   const list = document.getElementById('subtopic-list');
   list.innerHTML = '';
 
   Object.entries(topic.subtopics || {}).forEach(([name, qs]) => {
     const filtered = filterPool(qs);
-    const count = filtered.length;
-    const isEmpty = count === 0;
+    const isEmpty = filtered.length === 0;
+    const ppOnly = document.getElementById('past-paper-toggle').checked;
+    const flagOnly = document.getElementById('flagged-toggle').checked;
+    const ppCount = qs.filter(q => q.past_paper).length;
+
+    let countLabel;
+    if (flagOnly) countLabel = `${filtered.length} flagged`;
+    else if (ppOnly) countLabel = `${filtered.length} past paper`;
+    else countLabel = `${qs.length} question${qs.length !== 1 ? 's' : ''}${ppCount > 0 ? ` · ${ppCount} past paper` : ''}`;
+
+    // Score history dots
+    const scores = history[name] || [];
+    const dotsHtml = scores.map(s => {
+      const cls = s >= 80 ? 'good' : s >= 60 ? 'mid' : 'bad';
+      return `<span class="hist-dot ${cls}" title="${s}%">${s}%</span>`;
+    }).join('');
+
     const row = document.createElement('div');
     row.className = 'subtopic-row' + (isEmpty ? ' disabled' : '');
-    const ppCount = qs.filter(q => q.past_paper).length;
-    const countLabel = ppOnly
-      ? `${count} past paper question${count !== 1 ? 's' : ''}`
-      : `${qs.length} question${qs.length !== 1 ? 's' : ''}${ppCount > 0 ? ` · ${ppCount} past paper` : ''}`;
     row.innerHTML = `
       <div class="sub-name">${name}</div>
-      <div style="display:flex;align-items:center;gap:10px;">
-        <span class="sub-count ${!isEmpty ? 'has-q' : ''}">${countLabel}</span>
-        ${!isEmpty ? '<span style="font-size:13px;color:var(--text3)">→</span>' : ''}
+      <div class="sub-right">
+        ${dotsHtml ? `<div class="sub-history">${dotsHtml}</div>` : ''}
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span class="sub-count ${!isEmpty ? 'has-q' : ''}">${countLabel}</span>
+          ${!isEmpty ? '<span style="font-size:12px;color:var(--text3)">→</span>' : ''}
+        </div>
       </div>`;
     if (!isEmpty) row.addEventListener('click', () => startQuiz(filtered, name, activeTopic));
     list.appendChild(row);
@@ -391,19 +625,18 @@ function renderSubtopics() {
   const allFiltered = Object.values(topic.subtopics || {}).flatMap(qs => filterPool(qs));
   const btn = document.getElementById('start-all-btn');
   btn.disabled = allFiltered.length === 0;
+  const ppOnly = document.getElementById('past-paper-toggle').checked;
+  const flagOnly = document.getElementById('flagged-toggle').checked;
   if (allFiltered.length > 0) {
-    btn.textContent = ppOnly
-      ? `Start all ${allFiltered.length} past paper questions in ${topic.label} →`
-      : `Start all ${allFiltered.length} questions in ${topic.label} →`;
+    const qualifier = flagOnly ? 'flagged' : ppOnly ? 'past paper' : '';
+    btn.textContent = `Start all ${allFiltered.length}${qualifier ? ' ' + qualifier : ''} questions in ${topic.label} →`;
   } else {
-    btn.textContent = ppOnly ? 'No past paper questions in this topic' : 'No questions added yet';
+    btn.textContent = flagOnly ? 'No flagged questions in this topic' : ppOnly ? 'No past paper questions in this topic' : 'No questions added yet';
   }
 }
 
-document.getElementById('past-paper-toggle').addEventListener('change', () => {
-  if (activeTopic) renderSubtopics();
-});
-
+document.getElementById('past-paper-toggle').addEventListener('change', () => { if (activeTopic) renderSubtopics(); });
+document.getElementById('flagged-toggle').addEventListener('change', () => { if (activeTopic) renderSubtopics(); });
 document.getElementById('sub-back').addEventListener('click', () => showScreen('home'));
 document.getElementById('start-all-btn').addEventListener('click', () => {
   if (!activeTopic) return;
@@ -420,6 +653,7 @@ document.querySelectorAll('.num-btn').forEach(btn => {
   });
 });
 
+// ── QUIZ ──
 function startQuiz(pool, label, topicId) {
   retryContext = { pool, label, topicId };
   currentQ = 0; answers = []; answered = false;
@@ -438,6 +672,9 @@ function renderQuestion(idx) {
   answered = false;
   const q = questions[idx];
   const total = questions.length;
+  const flagged = getFlagged();
+  const isFlagged = flagged.includes(flagKey(q));
+
   document.getElementById('progress-info').textContent = `${idx + 1} / ${total}`;
   document.getElementById('progress-fill').style.width = `${(idx / total) * 100}%`;
 
@@ -453,6 +690,8 @@ function renderQuestion(idx) {
       <div class="q-meta">
         <div class="q-num">Question ${idx + 1} of ${total}</div>
         ${q.past_paper ? '<span class="past-paper-badge">📋 Past paper</span>' : ''}
+        <button class="flag-btn ${isFlagged ? 'flagged' : ''}" id="flag-btn" onclick="toggleFlag()" title="Flag for review">🚩</button>
+        <button class="share-btn" onclick="shareQuestion()" title="Copy to clipboard">📤</button>
       </div>
       <div class="q-text">${q.question}</div>
     </div>
@@ -461,6 +700,42 @@ function renderQuestion(idx) {
     <button class="next-btn" id="next-btn" onclick="goNext()">
       ${idx + 1 < total ? 'Next question →' : 'See results →'}
     </button>`;
+}
+
+function toggleFlag() {
+  const q = questions[currentQ];
+  const k = flagKey(q);
+  let flagged = getFlagged();
+  if (flagged.includes(k)) {
+    flagged = flagged.filter(f => f !== k);
+  } else {
+    flagged.push(k);
+  }
+  saveFlagged(flagged);
+  const btn = document.getElementById('flag-btn');
+  btn.classList.toggle('flagged', flagged.includes(k));
+}
+
+function shareQuestion() {
+  const q = questions[currentQ];
+  const letters = ['A', 'B', 'C', 'D'];
+  const text = [
+    `📋 MedMCQ`,
+    ``,
+    q.question,
+    ``,
+    ...q.options.map((o, i) => `${letters[i]}) ${o}`),
+    ``,
+    `✓ Answer: ${letters[q.correct]}) ${q.options[q.correct]}`,
+    ``,
+    `💡 ${q.explanation}`
+  ].join('\n');
+
+  navigator.clipboard.writeText(text).then(() => {
+    const toast = document.getElementById('share-toast');
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 2000);
+  });
 }
 
 function handleAnswer(chosen) {
@@ -488,11 +763,15 @@ document.getElementById('quiz-back').addEventListener('click', () => {
   activeTopic ? showScreen('subtopic') : showScreen('home');
 });
 
+// ── RESULTS ──
 function showResults() {
   showScreen('results');
   const correct = answers.filter(a => a.chosen === a.correct).length;
   const total = answers.length;
   const pct = Math.round((correct / total) * 100);
+
+  // Save score history for this subtopic
+  if (retryContext && retryContext.label) recordScore(retryContext.label, pct);
 
   document.getElementById('results-score').innerHTML = `${correct}<span>/${total}</span>`;
   document.getElementById('results-sub').textContent = `${pct}% correct`;
