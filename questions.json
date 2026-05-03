@@ -443,7 +443,7 @@
               "1,2,4"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "The trap is option 4. Alcoholic liver disease is not an autoimmune condition and has no association with autoimmune hepatitis. All three correct options — autoimmune thyroiditis, inflammatory bowel disease, and type 1 diabetes mellitus — are immune-mediated diseases, which is the unifying principle behind conditions that associate with AIH. This question also reinforces the earlier point that it is type 1 and not type 2 diabetes that belongs on this list.",
             "past_paper": true
           },
           {
@@ -455,7 +455,7 @@
               "Unlike synthetic drugs, herbs are harmless to the liver"
             ],
             "correct": 0,
-            "explanation": "**Answer: A — Drug-induced liver damage may depend on the dose of the drug** The source material clearly states that **intrinsic (predictable) drug reactions are dose-related** — acetaminophen is the classic example, causing hepatotoxicity at supertherapeutic doses. This makes option A correct. The other options are all factually wrong based on the course material. **B is incorrect** because cholestatic injury is characterized by an isolated increase of **ALP** (not ALT) — ALT isolation is a feature of hepatocellular injury. **C is incorrect** because hepatocellular damage is defined by elevated **ALT/AST** (aminotransferases), not ALP; in fact, in hepatocellular injury the ALP level is normal or only slightly elevated. **D is incorrect** because the material explicitly states that more than 900 drugs, *toxins, and herbs* can cause liver injury, and herbal teas specifically are listed as agents associated with hepatic venoocclusive disease — making herbs decidedly not harmless to the liver.",
+            "explanation": "Dose-dependent hepatotoxicity is a well-recognized mechanism of drug-induced liver injury, with paracetamol being the classic example. Options B, C, and D are all incorrect. Cholestatic damage is characterized by elevated ALP and GGT, not isolated ALT. Hepatocellular damage is characterized by elevated ALT and AST, not ALP. And herbal preparations are not harmless — they are a recognized cause of drug-induced liver injury and must always be included in the drug history of any patient with suspected hepatotoxicity.",
             "past_paper": true
           },
           {
@@ -479,7 +479,7 @@
               "It is more common among men"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "Autoimmune hepatitis is more common among women, with a female to male ratio of 3:1. All other options are correct — the disease frequently presents with non-specific symptoms such as fatigue, malaise, and polyarthralgia, it can follow a completely asymptomatic course where cirrhosis is discovered only at an advanced stage, and persistent inflammation does lead to fibrosis and ultimately cirrhosis.",
             "past_paper": true
           },
           {
@@ -491,7 +491,7 @@
               "1,3"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The traps are options 2 and 4. Autoimmune hepatitis is characterized by elevated IgG and hypergammaglobulinemia, not low levels, making option 2 the opposite of true. Anti-mitochondrial antibodies are the hallmark of primary biliary cholangitis, not autoimmune hepatitis, making option 4 a classic distractor designed to test whether you can distinguish between the two cholestatic and hepatocellular autoimmune liver diseases. The simplified diagnostic criteria for AIH require exclusion of viral hepatitis and detection of characteristic autoantibodies such as ANA, anti-SMA, or anti-LKM1.",
             "past_paper": true
           },
           {
@@ -515,7 +515,7 @@
               "Steroids are stopped as soon as biochemical remission is achieved"
             ],
             "correct": 1,
-            "explanation": "",
+            "explanation": "Autoimmune hepatitis is characterized by chronic immune-mediated necrotizing inflammation of the liver. Option A is wrong because hepatic steatosis is the hallmark of fatty liver disease, not AIH — the typical histological features are interface hepatitis, lymphoplasmacytic infiltration, and hepatocyte rosette formation. Option C is wrong because the disease is three times more common in women than men. Option D is wrong and is a particularly important clinical point — biochemical remission alone is not sufficient to stop treatment. Therapy must continue for at least three years and at least 24 months after biochemical remission, and a liver biopsy confirming histological remission is required before discontinuation, since active inflammation can persist histologically even when transaminases and IgG have normalized.",
             "past_paper": true
           },
           {
@@ -527,7 +527,7 @@
               "1,3,4"
             ],
             "correct": 3,
-            "explanation": "",
+            "explanation": "The trap is option 2. The diabetes associated with autoimmune hepatitis is Type 1 - autoimmune, not Type 2 - metabolic/insulin resistance. All conditions that co-associate with AIH share an immune-mediated pathogenesis — T2DM does not fit that pattern.",
             "past_paper": true
           },
           {
@@ -539,7 +539,7 @@
               "We treat the autoimmune type as autoimmune hepatitis"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "N-acetylcysteine is not contraindicated — it is in fact the specific antidote used in paracetamol-induced liver injury, particularly when administered early. Early administration is precisely when it is most effective, as it restores glutathione stores and limits oxidative hepatocyte damage. All other options are correct — in most cases of drug-induced liver injury there is no specific antidote and management is supportive, immediate withdrawal of the offending drug is the cornerstone of treatment regardless of the cause, and the autoimmune phenotype of drug-induced liver injury is managed with corticosteroids in the same way as genuine autoimmune hepatitis.",
             "past_paper": true
           },
           {
@@ -599,7 +599,7 @@
               "1,3,4"
             ],
             "correct": 2,
-            "explanation": "",
+            "explanation": "The trap is option 3. Macrovesicular steatosis is the hallmark of NAFLD/NASH, not autoimmune hepatitis. The characteristic histological features of AIH are interface periportal hepatitis, lymphoplasmacytic mononuclear infiltration, hepatocyte rosette formation, emperipolesis, and hepatocyte swelling or pycnotic necrosis.",
             "past_paper": true
           },
           {
@@ -611,7 +611,7 @@
               "Predisposition to autoimmunity is inherited in these patients"
             ],
             "correct": 0,
-            "explanation": "",
+            "explanation": "Hypergammaglobulinemia, not hypogammaglobulinemia, is the typical feature of autoimmune hepatitis. Elevated IgG is in fact one of the diagnostic criteria used in the simplified scoring system for AIH. All other options are correct — the disease was historically called lupoid hepatitis due to its resemblance to lupus, a significant proportion of previously labeled idiopathic hepatitis cases are now recognized as autoimmune in origin, and genetic predisposition through mutations in autoimmune regulatory genes such as AIRE plays a central role in the pathogenesis.",
             "past_paper": true
           }
         ],
