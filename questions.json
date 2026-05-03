@@ -1147,6 +1147,42 @@
             ],
             "correct": 1,
             "explanation": "Hepatic encephalopathy is managed with rifaximin (a non-absorbable antibiotic reducing gut ammonia production) and lactulose (an osmotic laxative that acidifies the colon, trapping ammonia as NH4+)."
+          },
+          {
+            "question": "Which is TYPICAL for alcoholic liver disease?",
+            "options": [
+              "a) Kayser-Fleischer rings are present",
+              "GGT level is high",
+              "AST level is low",
+              "Suppression of fibrogenesis"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Histological findings in ALCOHOLIC LIVER DISEASE? 1. Mallory-Denk bodies 2. Lymphoplasmacytic infiltration 3. Megamitochondria 4. Hepatocyte ballooning",
+            "options": [
+              "a) 1, 2, 4",
+              "1, 2",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Mechanisms of ALCOHOLIC LIVER DISEASE? 1. Suppression of lipogenesis 2. Change of redox status 3. Increased intestinal permeability 4. Suppression of Kupffer cells",
+            "options": [
+              "a) 3, 4",
+              "2, 4",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
           }
         ],
         "GERD": [
@@ -1611,6 +1647,54 @@
             "correct": 0,
             "explanation": "UC treatment pyramid: 5-ASA drugs (sulfasalazine, mesalazine) — first-line for mild-moderate disease; corticosteroids for induction; immunomodulators (azathioprine, 6-MP) for maintenance; biologics (infliximab, vedolizumab) for moderate-severe refractory disease. NSAIDs are contraindicated (may trigger flares). Opioids increase risk of toxic megacolon.",
             "past_paper": true
+          },
+          {
+            "question": "Risk of COLORECTAL CANCER in UC is increased in all EXCEPT:",
+            "options": [
+              "a) Prolonged course of disease",
+              "Glucocorticosteroid treatment  (NOT a risk factor)",
+              "Extensive colitis",
+              "Combination with primary sclerosing cholangitis"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which factors can INCREASE the risk of MEGACOLON in UC? 1. Opioids 2. Colonoscopy 3. Glucocorticosteroids 4. NSAIDs",
+            "options": [
+              "a) 2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which are triggers for Crohn's disease? 1. Smoking 2. Appendectomy 3. Oral contraceptives 4. Infections",
+            "options": [
+              "a) 1, 2, 3, 4",
+              "2, 3, 4",
+              "1, 3",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which disorders manifest with BLOODY diarrhea? 1. Celiac disease 2. Ulcerative colitis 3. Ischemic colitis 4. Amebiasis",
+            "options": [
+              "a) 1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
           }
         ],
         "Celiac Disease": [
@@ -2002,8 +2086,298 @@
             "explanation": "At this early stage (mild PH, no CSPH), the hyperdynamic circulatory state is not fully developed, so NSBBs are mostly ineffective. TIPS is not indicated. The mainstay is eliminating the causative agent (e.g., antivirals for HBV/HCV, alcohol cessation) — this can even lead to regression of cirrhosis and prevent progression to CSPH."
           }
         ],
-        "Cirrhosis": [],
-        "Viral Hepatitis": [],
+        "Cirrhosis": [
+          {
+            "question": "Complications of liver cirrhosis? 1. Hepatic encephalopathy 2. Hepatopulmonary syndrome 3. Hepatorenal syndrome 4. Secondary hypertension",
+            "options": [
+              "a) 1, 2",
+              "1, 2, 3",
+              "2, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Functional (dynamic) component of INCREASED INTRAHEPATIC RESISTANCE in portal hypertension?",
+            "options": [
+              "a) Formation of regenerative nodules",
+              "Accumulation of fibrous connective tissue",
+              "Decreased intrahepatic synthesis of nitric oxide",
+              "Reconstruction of vascular bed"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of POST-HEPATIC portal hypertension? 1. Budd-Chiari syndrome 2. Schistosomiasis 3. Right ventricular failure 4. Acute alcoholic steatohepatitis",
+            "options": [
+              "a) 3, 4",
+              "2, 3",
+              "1, 3",
+              "1, 4"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Factors contributing to ASCITES in cirrhosis? 1. Portal hypertension 2. Hyperaldosteronism 3. Right ventricular failure 4. Nephrotic syndrome",
+            "options": [
+              "a) 1, 4",
+              "2, 3",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Rifaximin in HEPATIC ENCEPHALOPATHY acts by:",
+            "options": [
+              "a) Reduces number of ammonia-producing bacteria in intestines",
+              "Increases conversion of ammonia to urea",
+              "Stimulates absorption of ammonia",
+              "Promotes ammonia removal by diuretic effect"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Drugs of CHOICE for treatment of HEPATIC ENCEPHALOPATHY? 1. Lactulose 2. Furosemide 3. Rifaximin 4. Albumin",
+            "options": [
+              "a) 2, 3",
+              "1, 3",
+              "1, 4",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "INCORRECT statement about Dubin-Johnson syndrome:",
+            "options": [
+              "a) Characterized by conjugated hyperbilirubinemia",
+              "Liver transaminase levels are normal",
+              "Black pigmentation in the liver",
+              "Leads to development of liver cirrhosis"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "In cirrhotic ascites, indications to DISCONTINUE DIURETICS? 1. Ascites responding to drugs 2. Hyponatraemia Na<125 3. Leg oedema 4. Worsening HE",
+            "options": [
+              "a) 2, 3",
+              "1, 2, 3",
+              "2, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "CONTRAINDICATION for TIPS in portal hypertension?",
+            "options": [
+              "a) Severe encephalopathy",
+              "Refractory ascites",
+              "Liver cirrhosis",
+              "Uncontrollable variceal bleeding"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "In which jaundice causes does DARK urine occur EXCEPT:",
+            "options": [
+              "a) Hepatitis A",
+              "Primary sclerosing cholangitis",
+              "Crigler-Najjar syndrome type 2",
+              "Pancreatic head tumor"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of GILBERT'S SYNDROME? 1. Normal liver enzymes 2. Normal hemoglobin and reticulocytes 3. Conjugated bilirubin elevated 4. Unconjugated bilirubin elevated",
+            "options": [
+              "a) 1, 2, 4",
+              "1, 2",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of ISOLATED DIRECT (conjugated) hyperbilirubinemia? 1. Autoimmune hepatitis 2. Hemolytic disorders 3. Rotor syndrome 4. Dubin-Johnson syndrome",
+            "options": [
+              "a) 2, 3",
+              "1, 2",
+              "2, 4",
+              "3, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Viral Hepatitis": [
+          {
+            "question": "Which is the CORRECT statement about HBV? a) HDV superinfection = lower HCC risk b) HDV in HBsAg+ patient = superinfection c) Liver damage = immune complex deposition in vessels d) High ALT in HBsAg-negative phase",
+            "options": [
+              "a) Lower HCC risk with HDV superinfection",
+              "Infection with HDV in HBsAg+ patients = superinfection",
+              "Liver damage = immune complex deposition",
+              "High ALT in HBsAg-negative phase"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Correct statements about CHRONIC HBV infection? 1. HBeAg seroconversion → HBV DNA suppression 2. HBsAg-negative phase → normal ALT 3. Anti-HBc detected in HBcAg-negative phase 4. HBeAg seroconversion → enters HBeAg-negative phase",
+            "options": [
+              "a) 1, 2, 4",
+              "1, 2, 3, 4",
+              "2, 3",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "HBV is a DNA/RNA virus? HBeAg indicates what?",
+            "options": [
+              "a) CD8+ inhibit apoptosis of infected hepatocytes",
+              "High ALT in HBsAg-negative phase",
+              "HBeAg indicates viral replication activity",
+              "HBsAg indicates replication activity"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Extrahepatic manifestations of CHRONIC HEPATITIS B? (pick 2 correct)",
+            "options": [
+              "a) Pyelonephritis",
+              "— Polyarteritis nodosa",
+              "— Deforming osteoarthritis",
+              "— Membranous + membranoproliferative glomerulonephritis"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Serological markers for DIAGNOSIS of HBV? 1. HBsAg 2. Anti-HBc IgM 3. Anti-HAV IgM 4. HBeAg",
+            "options": [
+              "a) 1, 2, 3, 4",
+              "1, 4",
+              "1, 2, 4",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Correct statements about CHB treatment? 1. Decompensated cirrhosis = contraindication to pegIFN 2. High ALT is NOT an indication for treatment 3. No resistance with pegIFN 4. All HBV patients need treatment",
+            "options": [
+              "a) 1, 2",
+              "1, 3",
+              "2, 3",
+              "3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "HCV — which is true?",
+            "options": [
+              "a) Transmission via skin contact",
+              "Most common genotypes are 5 and 6",
+              "Classified into 6 genotypes",
+              "First-line diagnostic test = viral genotyping"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Extrahepatic manifestations of HEPATITIS C? 1. Type 1 DM 2. Sjögren's syndrome 3. Membranous nephropathy 4. Porphyria cutanea tarda",
+            "options": [
+              "a) 2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 3, 4",
+              "2, 3"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "All drugs used for HCV treatment EXCEPT:",
+            "options": [
+              "a) Isoniazid  (NOT for HCV)",
+              "Velpatasvir",
+              "Glecaprevir",
+              "Sofosbuvir"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Steps for diagnosing DRUG-INDUCED LIVER INJURY — all EXCEPT:",
+            "options": [
+              "a) Ruling out viral hepatitis",
+              "Ruling out autoimmune hepatitis",
+              "Detection of gastrointestinal bleeding",
+              "Detailed drug history"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Laboratory indicators of TYPE I AUTOIMMUNE HEPATITIS? 1. ANA 2. Anti-LKM 3. Decreased ESR 4. High IgG",
+            "options": [
+              "a) 1, 3",
+              "2, 4",
+              "1, 2, 3",
+              "1, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "30-year-old woman: jaundice, high ALT/bilirubin, NORMAL ALP/GGT, negative viral hepatitis, known autoimmune thyroiditis. Most likely diagnosis?",
+            "options": [
+              "a) Primary biliary cholangitis",
+              "Primary sclerosing cholangitis",
+              "Pancreatic tumor",
+              "Autoimmune hepatitis"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
         "Chronic Pancreatitis": [
           {
             "question": "Which best describes the fundamental pathological process in chronic pancreatitis?",
@@ -2367,9 +2741,455 @@
             ],
             "correct": 2,
             "explanation": "The most important differential diagnosis of chronic pancreatitis is pancreatic cancer. Once chronic pancreatitis is diagnosed, ultrasound and EUS have limited ability to distinguish carcinoma from inflammation; EUS-FNA should be performed in equivocal cases."
+          },
+          {
+            "question": "Main MANIFESTATIONS of chronic pancreatitis? 1. Weight loss 2. Steatorrhoea 3. Cyanosis 4. Diabetes mellitus",
+            "options": [
+              "a) 1, 2, 4",
+              "2, 4",
+              "1, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Decompensation of EXOCRINE INSUFFICIENCY occurs when pancreatic secretion decreases by:",
+            "options": [
+              "a) 70–80%",
+              "90–95%",
+              "10–20%",
+              "60–70%"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "INCORRECT statement about chronic pancreatitis:",
+            "options": [
+              "a) Progressive irreversible destruction of pancreas",
+              "Leads to deterioration of quality of life",
+              "Process is based on Helicobacter pylori infection",
+              "Glandular parenchyma replaced by fibrous tissue"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment of chronic pancreatitis includes? 1. Enzyme replacement 2. Insulin therapy 3. Analgesics 4. Antihistamines",
+            "options": [
+              "a) 1, 2, 3",
+              "1, 2, 3, 4",
+              "1, 2, 4",
+              "2, 3"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which secretes pepsinogen? Which secretes HCl? Which secretes intrinsic factor?",
+            "options": [
+              "— G cells → Gastrin",
+              "— Chief cells → Pepsinogen",
+              "— Parietal (oxyntic) cells → HCl + Intrinsic Factor",
+              "— ECL cells → Histamine; D cells → Somatostatin"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
           }
         ],
-        "GI Bleeding": []
+        "GI Bleeding": [],
+        "NAFLD/NASH": [
+          {
+            "question": "Stages of NAFLD are all EXCEPT:",
+            "options": [
+              "a) Steatosis without hepatocellular damage",
+              "Steatohepatitis (NASH)",
+              "Cirrhosis",
+              "Accumulation of iron in the liver"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Correct statements about NASH? 1. More common than simple steatosis 2. Unlike steatosis, does not cause fibrosis 3. PNPLA3 gene polymorphism is a risk factor 4. Develops on background of hepatic triglyceride accumulation",
+            "options": [
+              "a) 3, 4",
+              "1, 3",
+              "1, 4",
+              "2, 4"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Dysphagia": [
+          {
+            "question": "What are the types of dysphagia? 1. Gastric 2. Oral 3. Pharyngeal 4. Esophageal",
+            "options": [
+              "a) 1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "What is aphagia?",
+            "options": [
+              "a) Fear of food intake and swallowing",
+              "Chronic functional disorder of esophageal motility",
+              "The inability to swallow",
+              "Voice hoarseness because of esophagitis"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "What is odynophagia?",
+            "options": [
+              "a) Total inability to swallow",
+              "Fear of intake of food and swallowing",
+              "Painful swallowing",
+              "Drooling with swallowing"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which clinical features are suggestive of OROPHARYNGEAL dysphagia? 1. Coughing with swallowing 2. Nasal regurgitation 3. Associated ENT symptoms 4. Dysphagia localized to the chest",
+            "options": [
+              "a) 1, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Common STRUCTURAL causes of esophageal dysphagia? 1. Schatzki's rings 2. GERD 3. Eosinophilic esophagitis 4. Peptic strictures",
+            "options": [
+              "a) 1, 3",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "What are neurogenic causes of OROPHARYNGEAL dysphagia? 1. Vitamin B12 deficiency 2. Cerebrovascular accidents 3. ALS 4. Parkinson's disease",
+            "options": [
+              "a) 2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "What are STRUCTURAL causes of oropharyngeal dysphagia? 1. Zenker's diverticulum 2. Cervical webs 3. Gastric neoplasm 4. Head and neck radiation",
+            "options": [
+              "a) 2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which statements are true about Zenker's diverticulum? 1. Typically in young patients 2. Caused by stenosis/failure of relaxation of cricopharyngeus 3. Common cause of esophageal dysphagia 4. Hypopharyngeal pressure is decreased",
+            "options": [
+              "a) 2, 4",
+              "1, 3",
+              "1, 2",
+              "2, 3"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "63-year-old with PROGRESSIVE dysphagia for solids over 1 month, localized to chest. Most likely cause?",
+            "options": [
+              "a) Zenker's diverticulum",
+              "Schatzki's ring",
+              "Esophageal web",
+              "Esophageal neoplasm"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "What is the FIRST step in diagnosing patients with dysphagia?",
+            "options": [
+              "a) Collecting medical history to determine type of dysphagia",
+              "EGD",
+              "X-ray contrast examination",
+              "Drug trials"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Diarrhea": [
+          {
+            "question": "What is the DEFINITION of chronic diarrhea?",
+            "options": [
+              "a) Duration of diarrhea more than 4 weeks",
+              "Frequency of defecation less than 3 times per week",
+              "Onset before age 40",
+              "Accompanied by fever and blood in stool"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which are the TYPES of diarrhea? 1. Secretory 2. Osmotic 3. Inflammatory 4. Ischemic",
+            "options": [
+              "a) 1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "All are OSMOTIC causes of diarrhea EXCEPT:",
+            "options": [
+              "a) Lactase deficiency",
+              "Irritable bowel syndrome  (NOT osmotic)",
+              "Gluten intolerance",
+              "Fructose malabsorption"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which are SECRETORY causes of chronic diarrhea? 1. Chronic ethanol 2. Bile acid diarrhea 3. Bowel resection 4. Arsenic",
+            "options": [
+              "a) 1, 2, 3, 4",
+              "2, 3, 4",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which disorders manifest with BLOODY diarrhea? 1. Celiac disease 2. Ulcerative colitis 3. Ischemic colitis 4. Amebiasis",
+            "options": [
+              "a) 1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which are STEATORRHEAL causes of diarrhea? 1. Celiac sprue 2. Irritable bowel disease 3. Pancreatic exocrine insufficiency 4. Bariatric surgery",
+            "options": [
+              "a) 1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "70-year-old male: bloody diarrhea + fever AFTER antibiotic use. Most likely cause?",
+            "options": [
+              "a) Irritable bowel syndrome",
+              "Clostridium difficile colitis",
+              "Zollinger-Ellison syndrome",
+              "Acute hepatitis A"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Jaundice": [
+          {
+            "question": "In which jaundice causes does DARK urine occur EXCEPT:",
+            "options": [
+              "a) Hepatitis A",
+              "Primary sclerosing cholangitis",
+              "Crigler-Najjar syndrome type 2",
+              "Pancreatic head tumor"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of GILBERT'S SYNDROME? 1. Normal liver enzymes 2. Normal hemoglobin and reticulocytes 3. Conjugated bilirubin elevated 4. Unconjugated bilirubin elevated",
+            "options": [
+              "a) 1, 2, 4",
+              "1, 2",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of ISOLATED DIRECT (conjugated) hyperbilirubinemia? 1. Autoimmune hepatitis 2. Hemolytic disorders 3. Rotor syndrome 4. Dubin-Johnson syndrome",
+            "options": [
+              "a) 2, 3",
+              "1, 2",
+              "2, 4",
+              "3, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "True about BILIRUBIN METABOLISM?",
+            "options": [
+              "a) Conjugated bilirubin excreted by hepatocyte into bile",
+              "Unconjugated bilirubin can cross glomerular membrane and appear in urine",
+              "Bilirubin conjugated with bile acids in hepatocyte",
+              "Urobilin synthesised in hepatocytes from heme"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "All are true about UNCONJUGATED bilirubin EXCEPT:",
+            "options": [
+              "a) Bound with plasma albumin",
+              "Cannot be filtered in renal glomeruli",
+              "Hydrophilic substance  (FALSE — it's LIPOPHILIC)",
+              "Can cross the blood-brain barrier"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which is the most COMMON cause of extrahepatic cholestasis?",
+            "options": [
+              "a) Chronic hepatitis B",
+              "Drug-induced liver injury",
+              "Mirizzi syndrome",
+              "Choledocholithiasis"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which is the initial screening test for WILSON'S DISEASE?",
+            "options": [
+              "a) Serum creatinine",
+              "Antiphospholipid antibodies",
+              "Ceruloplasmin",
+              "Haemoglobin"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Abdominal Pain": [
+          {
+            "question": "Which factors play a role in CAPS (Centrally Mediated Abdominal Pain Syndrome)? 1. Hyperalgesia 2. Perforation of gastric ulcer 3. Peripheral hypersensitivity 4. Allodynia",
+            "options": [
+              "a) 2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Constipation": [
+          {
+            "question": "All are features of constipation EXCEPT:",
+            "options": [
+              "a) Hard, pellet stool",
+              "Frequency of defecation 5–6 times per week",
+              "Feeling of incomplete evacuation",
+              "Excessive straining, need for enemas"
+            ],
+            "correct": 1,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "All are subtypes of PRIMARY constipation EXCEPT:",
+            "options": [
+              "a) Hirschsprung disease  (NOT primary)",
+              "Dyssynergic defecation",
+              "Irritable bowel syndrome",
+              "Constipation with slow transit"
+            ],
+            "correct": 0,
+            "explanation": "",
+            "past_paper": true
+          }
+        ],
+        "Differential Diagnosis of Nausea & Vomiting": [
+          {
+            "question": "What is the CHEMORECEPTOR TRIGGER ZONE (CTZ)?",
+            "options": [
+              "a) Receptors in gastric antrum",
+              "Receptors in carotid sinuses",
+              "Area postrema of brain medulla",
+              "Area of concentrated receptors in pharynx"
+            ],
+            "correct": 2,
+            "explanation": "",
+            "past_paper": true
+          },
+          {
+            "question": "Which receptors are involved in the vomiting reflex? 1. 5-HT₃ 2. H₁ 3. Angiotensin AT2 4. NK1",
+            "options": [
+              "a) 1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "",
+            "past_paper": true
+          }
+        ]
       }
     },
     "pulmonology": {
