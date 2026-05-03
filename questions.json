@@ -551,7 +551,7 @@
               "2, 4"
             ],
             "correct": 3,
-            "explanation": "According to the source material, "there is no specific treatment" for DILI — ruling out option 1. The primary intervention is to immediately stop the implicated drug (option 2). N-acetylcysteine is recommended in the early stage of acute liver failure development, specifically when used within the first 8–10 hours, as it is considered safe and efficient (option 4). Option 3 — re-applying the hepatotoxic drug 2 weeks later — is absolutely contraindicated, as re-exposure would risk repeating or worsening the liver injury.",
+            "explanation": "According to the source material, \"there is no specific treatment\" for DILI — ruling out option 1. The primary intervention is to immediately stop the implicated drug (option 2). N-acetylcysteine is recommended in the early stage of acute liver failure development, specifically when used within the first 8–10 hours, as it is considered safe and efficient (option 4). Option 3 — re-applying the hepatotoxic drug 2 weeks later — is absolutely contraindicated, as re-exposure would risk repeating or worsening the liver injury.",
             "past_paper": true
           },
           {
@@ -575,7 +575,7 @@
               "Once the drug is metabolized in liver, it cannot cause hepatotoxicity"
             ],
             "correct": 0,
-            "explanation": " "DILI is considered a cause for over 50% of hepatic failure" and that drugs account for "20–40% of all instances of fulminant hepatic failure," making option A correct. The other options are all false: B is wrong because over 900 drugs, toxins, and herbs (including natural products like herbal teas) have been reported to cause liver injury. C is wrong because DILI is diagnosed by exclusion — biopsy alone cannot confirm it and there is no specific histological pattern unique to DILI. D is wrong because during Phase 1 hepatic metabolism, the P-450 enzymes can generate intermediate metabolites that are far more toxic than the parent drug itself, meaning metabolism in the liver can actually create hepatotoxicity rather than prevent it.",
+            "explanation": " \"DILI is considered a cause for over 50% of hepatic failure\" and that drugs account for \"20–40% of all instances of fulminant hepatic failure,\" making option A correct. The other options are all false: B is wrong because over 900 drugs, toxins, and herbs (including natural products like herbal teas) have been reported to cause liver injury. C is wrong because DILI is diagnosed by exclusion — biopsy alone cannot confirm it and there is no specific histological pattern unique to DILI. D is wrong because during Phase 1 hepatic metabolism, the P-450 enzymes can generate intermediate metabolites that are far more toxic than the parent drug itself, meaning metabolism in the liver can actually create hepatotoxicity rather than prevent it.",
             "past_paper": true
           },
           {
@@ -587,8 +587,7 @@
               "2,3,4"
             ],
             "correct": 0,
-            "explanation": "The correct treatments for acetaminophen overdose are gastric lavage (1), N-acetylcysteine (2), and activated charcoal (4). Nitrofurantoin (option 3) is an antibiotic used for urinary tract infections — it has no role in poisoning management and is actually itself a potential hepatotoxin.
-",
+            "explanation": "The correct treatments for acetaminophen overdose are gastric lavage (1), N-acetylcysteine (2), and activated charcoal (4). Nitrofurantoin (option 3) is an antibiotic used for urinary tract infections — it has no role in poisoning management and is actually itself a potential hepatotoxin.",
             "past_paper": true
           },
           {
@@ -2416,7 +2415,7 @@
               "1,2,3,4"
             ],
             "correct": 3,
-            "explanation": "The course material provides a comprehensive etiology list for liver cirrhosis, and all four options appear explicitly within it. NAFLD is listed as a direct cause and its role as a causal factor is described as "continuing to grow." Hereditary hemochromatosis is listed under metabolic liver diseases as a recognized cause. Primary biliary cholangitis falls under chronic cholestatic liver diseases leading to cirrhosis. Congestive heart failure is explicitly listed under cardiovascular causes of cirrhosis, alongside Budd-Chiari syndrome, veno-occlusive disease, and constrictive pericarditis — chronic venous congestion from right heart failure impairs hepatic outflow, leading to congestive hepatopathy and ultimately cirrhosis. All four are therefore correct causes of liver cirrhosis.",
+            "explanation": "The course material provides a comprehensive etiology list for liver cirrhosis, and all four options appear explicitly within it. NAFLD is listed as a direct cause and its role as a causal factor is described as \"continuing to grow.\" Hereditary hemochromatosis is listed under metabolic liver diseases as a recognized cause. Primary biliary cholangitis falls under chronic cholestatic liver diseases leading to cirrhosis. Congestive heart failure is explicitly listed under cardiovascular causes of cirrhosis, alongside Budd-Chiari syndrome, veno-occlusive disease, and constrictive pericarditis — chronic venous congestion from right heart failure impairs hepatic outflow, leading to congestive hepatopathy and ultimately cirrhosis. All four are therefore correct causes of liver cirrhosis.",
             "past_paper": true
           },
           {
@@ -2440,7 +2439,7 @@
               "1,3,4"
             ],
             "correct": 1,
-            "explanation": "NAFLD is described in the course material as an "umbrella term" covering a wide spectrum of progressively worsening liver disease. It begins with simple hepatic steatosis (NAFL — fat accumulation in >5% of hepatocytes without significant inflammation), which can remain stable for years. In 20–30% of patients it advances to non-alcoholic steatohepatitis (NASH), where inflammation, hepatocyte ballooning, and cellular injury are added to the fat accumulation. Persistent NASH drives activation of hepatic stellate cells and collagen deposition, leading to fibrosis. If unchecked, this culminates in cirrhosis — the terminal stage of fibrogenesis — which carries the risk of further progression to hepatic failure and hepatocellular carcinoma. The course material explicitly states that 'NAFLD can have an asymptomatic course in all stages, including steatosis, steatohepatitis, fibrosis and cirrhosis,' confirming all four as recognized parts of the NAFLD spectrum.",
+            "explanation": "NAFLD is described in the course material as an \"umbrella term\" covering a wide spectrum of progressively worsening liver disease. It begins with simple hepatic steatosis (NAFL — fat accumulation in >5% of hepatocytes without significant inflammation), which can remain stable for years. In 20–30% of patients it advances to non-alcoholic steatohepatitis (NASH), where inflammation, hepatocyte ballooning, and cellular injury are added to the fat accumulation. Persistent NASH drives activation of hepatic stellate cells and collagen deposition, leading to fibrosis. If unchecked, this culminates in cirrhosis — the terminal stage of fibrogenesis — which carries the risk of further progression to hepatic failure and hepatocellular carcinoma. The course material explicitly states that 'NAFLD can have an asymptomatic course in all stages, including steatosis, steatohepatitis, fibrosis and cirrhosis,' confirming all four as recognized parts of the NAFLD spectrum.",
             "past_paper": true
           },
           {
@@ -2476,7 +2475,7 @@
               "Keratins 8 and 10"
             ],
             "correct": 0,
-            "explanation": "Liver biopsy is the gold standard for assessing both the severity of liver injury and the degree of fibrosis in NAFLD. The course material states this explicitly in two contexts: it is "the gold standard method to distinguish NASH from steatosis,' since steatohepatitis cannot be diagnosed by biochemical, serological, or imaging methods alone; and it is 'the gold standard for diagnosing cirrhosis,' with histological scoring systems like METAVIR and Ishak used to grade fibrosis from F0 (none) to F4 (cirrhosis). Biochemical examination provides useful but non-specific markers and cannot diagnose NASH. Ultrasound is the best first-line clinical tool for detecting steatosis but is less accurate than MRI for fat quantification and cannot assess inflammation or fibrosis reliably. Keratins 8 and 18 (not 8 and 10) are experimental biomarkers of hepatocyte apoptosis studied in NASH but are not validated or recommended in clinical practice.",
+            "explanation": "Liver biopsy is the gold standard for assessing both the severity of liver injury and the degree of fibrosis in NAFLD. The course material states this explicitly in two contexts: it is \"the gold standard method to distinguish NASH from steatosis,' since steatohepatitis cannot be diagnosed by biochemical, serological, or imaging methods alone; and it is 'the gold standard for diagnosing cirrhosis,' with histological scoring systems like METAVIR and Ishak used to grade fibrosis from F0 (none) to F4 (cirrhosis). Biochemical examination provides useful but non-specific markers and cannot diagnose NASH. Ultrasound is the best first-line clinical tool for detecting steatosis but is less accurate than MRI for fat quantification and cannot assess inflammation or fibrosis reliably. Keratins 8 and 18 (not 8 and 10) are experimental biomarkers of hepatocyte apoptosis studied in NASH but are not validated or recommended in clinical practice.",
             "past_paper": true
           },
           {
