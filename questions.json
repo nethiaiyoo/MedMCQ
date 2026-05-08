@@ -102,6 +102,424 @@
             "correct": 1,
             "explanation": "Breast abscesses are classified by site into: subdermal (superficial), subareolar (periductal \u2014 explicitly described in periductal mastitis), intramammary, and retromammary. All four locations are recognized. Options A, C, and D each omit at least one valid location.",
             "past_paper": true
+          },
+          {
+            "question": "Diffuse form of breast cancer is characterised by:",
+            "options": [
+              "Begins with lesion of nipple",
+              "Nipple eczema",
+              "Cracks and erosions on skin surface",
+              "Oedema and dermal hyperaemia"
+            ],
+            "correct": 3,
+            "explanation": "Diffuse (inflammatory) breast cancer is characterised by skin oedema (peau d'orange) and dermal hyperaemia from lymphatic obstruction. Beginning with nipple lesion and nipple eczema are features of Paget's disease. Cracks and erosions are seen in Paget's disease or advanced ulcerated cancer, not specifically diffuse carcinoma.",
+            "past_paper": true
+          },
+          {
+            "question": "Paget cancer is characterised by: 1. Grows from the nipple duct epithelium  2. Excoriations on nipple covered by scab  3. Resembles eczema  4. Solid node palpated in the subareolar area",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Paget's cancer arises from lactiferous duct epithelium (1) and spreads to the nipple skin. It presents with excoriations and crusting (2), clinically resembles eczema (3), and in most cases an underlying subareolar solid mass (4) is palpable due to associated ductal carcinoma. All statements are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of breast cancer, preoperative radiotherapy is applied:",
+            "options": [
+              "For cancer prevention",
+              "For reducing the size of the tumour",
+              "For non-surgical cases",
+              "For destroying survived tumour cells in tissues"
+            ],
+            "correct": 1,
+            "explanation": "Preoperative (neoadjuvant) radiotherapy in breast cancer is used to reduce tumour size, making surgery more feasible or allowing breast-conserving surgery. It is not used for cancer prevention. Non-surgical cases receive palliative rather than preoperative intent therapy. Destroying residual cells in tissues describes postoperative (adjuvant) radiotherapy.",
+            "past_paper": true
+          },
+          {
+            "question": "The following symptoms are signs of early forms of breast cancer: 1. Presence of dense immobile node  2. Painless tumour node  3. Severe painful tumour node",
+            "options": [
+              "3, 4",
+              "2, 3",
+              "1, 2",
+              "1, 4"
+            ],
+            "correct": 2,
+            "explanation": "Early breast cancer typically presents as a dense, immobile node (1) due to infiltration of surrounding tissues, and is most often painless (2). A severely painful tumour (3) is uncommon in early cancer and more suggestive of inflammatory or benign pathology. The hallmark of early breast cancer is a hard, painless, immobile mass.",
+            "past_paper": true
+          },
+          {
+            "question": "Radial incision is used in the following deployment of breast abscesses: 1. Subcutaneous  2. Subareolar  3. Intramammary  4. Retromammary",
+            "options": [
+              "2, 3",
+              "1, 2, 4",
+              "1, 3",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "Radial incisions follow the direction of lactiferous ducts, minimising duct damage and fistula risk. They are appropriate for subcutaneous (1), subareolar (2), intramammary (3), and retromammary (4) abscesses. Therefore all listed locations can be drained via radial incision.",
+            "past_paper": true
+          },
+          {
+            "question": "For effective treatment of mastopathy, the following are necessary: 1. Treat concomitant diseases  2. Exclude breast cancer  3. Staged treatment  4. Persistent follow-up survey",
+            "options": [
+              "2, 3",
+              "1, 2",
+              "All",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Effective mastopathy management requires treating concomitant diseases (1) \u2014 especially endocrine and gynaecological disorders; mandatory exclusion of breast cancer (2) before conservative management; staged hormonal and non-hormonal treatment (3); and persistent follow-up (4) due to risk of progression or malignant transformation. All four measures are necessary.",
+            "past_paper": true
+          },
+          {
+            "question": "The main causative organism for acute mastitis is:",
+            "options": [
+              "Escherichia coli",
+              "Anaerobic flora",
+              "Pseudomonas aeruginosa",
+              "Staphylococcus aureus"
+            ],
+            "correct": 3,
+            "explanation": "Staphylococcus aureus is the principal pathogen in acute lactational mastitis, typically entering through cracked nipples. E. coli is not the typical breast pathogen. Anaerobic flora may be involved in abscesses but is not the primary cause. Pseudomonas is uncommon in routine acute mastitis.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute mastitis arising abscess can have the following localisations: 1. Intramammary  2. Supramammary  3. Retromammary  4. Inframammary",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "1, 2, 4",
+              "1, 3"
+            ],
+            "correct": 3,
+            "explanation": "In acute mastitis, abscesses develop intramammary (1) within the breast tissue and retromammary (3) between the breast and pectoral fascia. Supramammary (2) and inframammary (4) are not recognised standard anatomical localisations for mastitis abscess.",
+            "past_paper": true
+          },
+          {
+            "question": "The following conditions contribute to development of acute mastitis: 1. Cracks and bruises in the nipple  2. Blockage of lactiferous ducts  3. Retracted nipple",
+            "options": [
+              "1, 2",
+              "All",
+              "1, 3",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "All three predispose to acute mastitis. Nipple cracks/bruises (1) allow bacterial entry (predominantly S. aureus). Blockage of lactiferous ducts (2) causes milk stasis which promotes bacterial growth. A retracted nipple (3) interferes with proper breast emptying and predisposes to fissures and stagnation. All are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "Which hormone is responsible for development of mastopathy?",
+            "options": [
+              "LH and FSH",
+              "Cortisol",
+              "Testosterone",
+              "Progesterone"
+            ],
+            "correct": 3,
+            "explanation": "Mastopathy develops from hormonal imbalance \u2014 specifically excess oestrogen with relative progesterone deficiency. Progesterone normally regulates breast tissue differentiation; its deficiency leads to dysplastic changes. LH and FSH regulate ovarian function indirectly but are not directly responsible. Cortisol and testosterone have no primary role.",
+            "past_paper": true
+          },
+          {
+            "question": "For mastopathy, the following statements are true: 1. Obligate precancerous disease  2. Dyshormonal hyperplastic process  3. Granuloma formation  4. Fibrotic and cystic transformation",
+            "options": [
+              "1, 3, 4",
+              "2, 4",
+              "1, 2",
+              "All"
+            ],
+            "correct": 1,
+            "explanation": "Mastopathy is a dyshormonal hyperplastic process (2) related to oestrogen-progesterone imbalance, characterised by fibrotic and cystic transformation (4) of breast tissue. It is NOT an obligate precancerous disease (1) \u2014 only some forms carry increased risk. Granuloma formation (3) is not a feature of mastopathy.",
+            "past_paper": true
+          },
+          {
+            "question": "Mastectomy by Madden is applied in the following case:",
+            "options": [
+              "Tumour infiltration of the thoracic wall",
+              "Decomposed (advanced) forms of cancer",
+              "Cancer in early stage \u2014 IIA",
+              "Tumour infiltration of minor and major pectoralis muscles"
+            ],
+            "correct": 2,
+            "explanation": "Madden mastectomy is a modified radical mastectomy preserving both pectoralis major and minor muscles, indicated in early-stage breast cancer (stage I\u2013IIA). Thoracic wall infiltration requires more extensive surgery. Decomposed/advanced cancer is not an indication for this procedure. Infiltration of pectoral muscles contraindicates Madden's muscle-preserving technique.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgery of a breast abscess consists of:\n1. Incision in the most prominent part of the abscess\n2. Draining\n3. Mastectomy\n4. Treatment with puncture",
+            "options": [
+              "1, 2, 4",
+              "1, 2",
+              "1, 2, 3",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Surgical treatment of breast abscess consists of incision at the most prominent (fluctuant) point (1) and adequate drainage (2) of pus. Mastectomy (3) is not indicated for simple abscess. Puncture alone (4) is not considered definitive surgical management for an established abscess.",
+            "past_paper": true
+          },
+          {
+            "question": "The forms of mastopathy are:\n1. Diffuse\n2. Nodular\n3. Glandular\n4. Infiltrative",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2",
+              "All"
+            ],
+            "correct": 2,
+            "explanation": "Mastopathy (fibrocystic breast disease) has two main clinical forms: diffuse (1) and nodular (2). Glandular (3) is a histological component, not a standard clinical form. Infiltrative (4) suggests a malignant process, not mastopathy.",
+            "past_paper": true
+          },
+          {
+            "question": "Breast cancer is characterised by:\n1. Invasion of surrounding tissues\n2. Metastasis by lymphatic system\n3. Metastasis by haematogenous route\n4. Growing into the breast tissue",
+            "options": [
+              "1, 2, 4",
+              "1, 3",
+              "3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All listed features are characteristic of breast cancer. It invades surrounding tissues (1) reflecting its malignant nature, spreads via the lymphatic system (2) most commonly to axillary nodes, can metastasise haematogenously (3) to bone, liver, and lungs, and originates and grows within breast tissue (4) before invading adjacent structures.",
+            "past_paper": true
+          },
+          {
+            "question": "The following conditions contribute to development of acute mastitis:\n1. Cracks and bruises in the nipple\n2. Blockage of lactiferous ducts\n3. Retracted nipple\n4. Stasis in some part of the lactiferous tree",
+            "options": [
+              "3, 4",
+              "1, 3, 4",
+              "All",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "All listed conditions contribute. Cracks and bruises of the nipple (1) allow bacterial entry. Blockage of lactiferous ducts (2) leads to milk retention and infection. A retracted nipple (3) predisposes to fissures and impaired drainage. Stasis in part of the lactiferous tree (4) promotes bacterial growth.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical features of acute mastitis are:\n1. Hyperaemia\n2. Oedema\n3. Tenderness\n4. Brawny induration",
+            "options": [
+              "1, 2",
+              "All",
+              "1, 3",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "All features are characteristic of acute mastitis. There is hyperaemia (1) of the breast skin, oedema (2) due to inflammation, marked tenderness (3), and with progression brawny induration (4) develops due to inflammatory infiltration.",
+            "past_paper": true
+          },
+          {
+            "question": "In mastopathy, which statement about breast pain is correct?",
+            "options": [
+              "Begins a few days before menstruation",
+              "Increases at the start of the menstrual cycle",
+              "Decreases in the second phase of the menstrual cycle",
+              "During the disease the pain gradually decreases"
+            ],
+            "correct": 0,
+            "explanation": "In mastopathy, breast pain is typically cyclical and appears a few days before menstruation due to hormonal fluctuations. It usually decreases after menstruation, not at the start of the cycle. It does not decrease in the second (luteal) phase, as pain is most pronounced then. The pain does not gradually decrease during the disease \u2014 it tends to recur cyclically.",
+            "past_paper": true
+          },
+          {
+            "question": "For mastopathy, which signs are characteristic?\n1. The breast palpation is painful\n2. Palpation of lobular-character changes of breast\n3. Nipple cracks\n4. Nipple invagination",
+            "options": [
+              "3, 4",
+              "All",
+              "1, 2",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Mastopathy is characterised by painful breast palpation (1) especially in cyclical forms, and lobular (nodular or diffuse) changes on palpation (2) due to fibrocystic alterations. Nipple cracks (3) are typical of mastitis, not mastopathy. Nipple invagination (4) suggests possible malignancy rather than benign mastopathy.",
+            "past_paper": true
+          },
+          {
+            "question": "Acute mastitis most often develops:",
+            "options": [
+              "Among infants",
+              "Among elderly women",
+              "Among pregnant women",
+              "Among nursing mothers in their first lactation"
+            ],
+            "correct": 3,
+            "explanation": "Acute mastitis most commonly develops in nursing mothers, especially during the first lactation, due to milk stasis and nipple fissures. Neonatal mastitis in infants is less common. Elderly women and pregnant women are much less commonly affected. Mastitis usually occurs during lactation, not pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Acute mastitis mostly develops in which of the following cases?\n1. During the first trimester of pregnancy\n2. During the second trimester of pregnancy\n3. After the first labour\n4. In the postnatal period in breastfeeding women",
+            "options": [
+              "3, 4",
+              "2, 4",
+              "1, 3, 4",
+              "1, 2"
+            ],
+            "correct": 0,
+            "explanation": "Acute mastitis most commonly develops after the first labour (3) and in the postnatal period in breastfeeding women (4) due to milk stasis and nipple fissures. It does not usually develop during the first or second trimester of pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "For mastopathy, which of the following pathological changes are characteristic?\n1. Chronic nonspecific inflammatory process\n2. Disproportion between epithelium and connective tissue\n3. Proliferative and regressive processes\n4. Congenital disorder",
+            "options": [
+              "1, 3",
+              "1, 2, 3",
+              "2, 3",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Mastopathy is characterised by a disproportion between epithelial and connective tissue components (2) due to hormonal imbalance, and both proliferative and regressive processes (3) in breast tissue. It is not a chronic nonspecific inflammatory process (1) \u2014 that describes mastitis. It is not a congenital disorder (4).",
+            "past_paper": true
+          },
+          {
+            "question": "Types of surgical treatment for nodular mastopathy are:\n1. Sectoral resection\n2. Lumpectomy with express histological examination\n3. Radical mastectomy by Halsted\n4. Regional lymph node dissection",
+            "options": [
+              "3, 4",
+              "1, 2, 3",
+              "1, 2",
+              "All"
+            ],
+            "correct": 2,
+            "explanation": "Surgical treatment of nodular mastopathy includes sectoral resection (1) of the affected area, and lumpectomy with express (frozen section) histological examination (2) to exclude malignancy. Radical mastectomy by Halsted (3) is not indicated for benign mastopathy. Regional lymph node dissection (4) is unnecessary in benign disease.",
+            "past_paper": true
+          },
+          {
+            "question": "Paget's cancer is characterised by all EXCEPT:",
+            "options": [
+              "Spreads to the areolar area",
+              "Growing from the lobular epithelium"
+            ],
+            "correct": 1,
+            "explanation": "Paget's disease of the breast involves malignant cells spreading within the epidermis of the nipple and areola, commonly extending to the areolar area. It is associated with underlying ductal carcinoma, not lobular carcinoma. Therefore, it does not grow from the lobular epithelium. Exam tip: Paget = nipple eczema-like lesion + underlying ductal carcinoma.",
+            "past_paper": true
+          },
+          {
+            "question": "The forms of mastopathy are:\n1. Diffuse\n2. Nodular\n3. Glandular\n4. Infiltrative",
+            "options": [
+              "All",
+              "1, 2",
+              "2, 3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Mastopathy (fibrocystic change) is classified into diffuse and nodular forms. 'Glandular' and 'infiltrative' are not standard forms of mastopathy classification. Infiltrative suggests malignancy rather than benign fibrocystic change. Exam tip: Mastopathy = benign fibrocystic disease \u2192 diffuse or nodular types only.",
+            "past_paper": true
+          },
+          {
+            "question": "For nodular mastopathy, all are characteristic EXCEPT:",
+            "options": [
+              "Painful nodes on palpation",
+              "Clear-shaped formations on palpation",
+              "Nodes are bounded to the skin",
+              "Negative Kenning sign"
+            ],
+            "correct": 2,
+            "explanation": "Nodular mastopathy presents with palpable, well-defined nodules that may be painful on palpation, especially premenstrually, and the Kenning sign is negative, supporting a benign condition. The nodules are typically mobile and not fixed to the skin, which helps differentiate them from carcinoma. Exam tip: Benign breast nodules = mobile, well-defined, painful, not skin-fixed.",
+            "past_paper": true
+          },
+          {
+            "question": "For mastopathy, which signs are characteristic?\n1. Breast palpation is painful\n2. Palpation of lobular-character changes of breast\n3. Nipple cracks\n4. Nipple invagination",
+            "options": [
+              "3, 4",
+              "1, 2",
+              "All",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Mastopathy is characterised by painful breast palpation, often cyclical and related to the menstrual cycle, and lobular or nodular changes on palpation due to fibrocystic alterations. Nipple cracks are features of lactational problems, not mastopathy. Nipple invagination (retraction) suggests malignancy rather than benign mastopathy. Exam tip: Mastopathy = cyclical pain + nodularity; nipple retraction \u2192 think carcinoma.",
+            "past_paper": true
+          },
+          {
+            "question": "Mastopathy is connected with:\n1. Hyperestrogenism\n2. Hyperprolactinaemia\n3. Progesterone deficiency\n4. Thyroid hyperproduction",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "1, 3",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Mastopathy (fibrocystic breast disease) is associated with hormonal imbalance, particularly hyperestrogenism, progesterone deficiency, and sometimes hyperprolactinaemia \u2014 these lead to proliferative and cystic changes in breast tissue. Thyroid hyperproduction is not a typical causative factor described for mastopathy. Exam tip: Mastopathy = estrogen excess + progesterone deficiency \u00b1 prolactin effect.",
+            "past_paper": true
+          },
+          {
+            "question": "For effective treatment of mastopathy, which are necessary?\n1. To treat concomitant diseases\n2. To deny/exclude breast cancer\n3. Staged treatment\n4. Persistent follow-up survey",
+            "options": [
+              "2, 3",
+              "1, 2",
+              "1, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "Effective management of mastopathy requires all listed components: treatment of concomitant diseases (e.g., endocrine or gynaecological disorders), exclusion of breast cancer before starting therapy, staged (comprehensive) treatment depending on the form, and persistent follow-up due to risk of recurrence or possible malignant transformation. Exam tip: Mastopathy management = rule out cancer + correct hormonal imbalance + long-term follow-up.",
+            "past_paper": true
+          },
+          {
+            "question": "Breast cancer is characterised by:\n1. Invasion of surrounding tissues\n2. Metastasis by lymphatic system\n3. Metastasis by haematogenous route\n4. Growing into the breast tissue",
+            "options": [
+              "3, 4",
+              "1, 3",
+              "All",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Breast cancer is characterised by all listed features. It invades surrounding tissues including skin and chest wall, spreads via the lymphatic system commonly to axillary lymph nodes, can also metastasise by the haematogenous route especially to bone, liver, lung, and brain, and originates and grows within the breast tissue. Exam tip: Breast cancer spreads first lymphatically (axillary nodes), then haematogenously (bone most common).",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute mastitis, abscesses can have the following deployment EXCEPT:",
+            "options": [
+              "Subcutaneous",
+              "Intramammary",
+              "Subareolar",
+              "Submucous"
+            ],
+            "correct": 3,
+            "explanation": "In acute mastitis, abscesses may be subcutaneous, intramammary, or subareolar, depending on the spread of infection within breast tissue. There is no mucosa in the breast \u2014 therefore, a submucous abscess is not a possible localisation. Exam tip: Breast abscess locations = subcutaneous, intramammary, subareolar \u2014 no mucosa in breast.",
+            "past_paper": true
+          },
+          {
+            "question": "In the development of acute mastitis, the following stages are included:\n1. Serous infiltration\n2. Purulent infiltration\n3. Epithelium hyperplasia\n4. Cystic transformation",
+            "options": [
+              "3, 4",
+              "All",
+              "1, 2, 3",
+              "1, 2"
+            ],
+            "correct": 3,
+            "explanation": "Acute mastitis progresses through stages of serous infiltration followed by purulent infiltration if untreated. Epithelial hyperplasia and cystic transformation are features of fibrocystic disease (mastopathy), not acute inflammatory mastitis. Exam tip: Acute mastitis = serous \u2192 purulent \u2192 abscess (if progression).",
+            "past_paper": true
+          },
+          {
+            "question": "The treatment of nodular mastopathy is performed with:",
+            "options": [
+              "Hormonal medicines",
+              "Non-hormonal medicines",
+              "Mastectomy with axillary lymph node dissection",
+              "Surgical removal"
+            ],
+            "correct": 3,
+            "explanation": "Nodular mastopathy is treated by surgical excision (sectoral resection/lumpectomy) to exclude malignancy and remove the localised lesion. Hormonal and non-hormonal therapy are mainly used for diffuse mastopathy, not the nodular form. Mastectomy with axillary lymph node dissection is indicated for carcinoma, not benign mastopathy. Exam tip: Diffuse mastopathy \u2192 medical treatment; Nodular mastopathy \u2192 excision to rule out cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "All signs are the main features of breast abscess formation EXCEPT:",
+            "options": [
+              "Local tenderness",
+              "Oedema",
+              "Umbilication",
+              "Brawny induration"
+            ],
+            "correct": 2,
+            "explanation": "Breast abscess is characterised by local tenderness, oedema, and brawny induration due to acute inflammatory infiltration and pus formation. Umbilication (skin dimpling or nipple retraction) is more typical of breast carcinoma, not abscess formation. Exam tip: Abscess = pain + redness + induration; umbilication \u2192 think malignancy.",
+            "past_paper": true
+          },
+          {
+            "question": "In the initial stage of acute mastitis, which activity is NOT used?",
+            "options": [
+              "Local hot lotion",
+              "Broad-spectrum antibiotic therapy",
+              "Suppression of lactation",
+              "Raised position of mammary gland"
+            ],
+            "correct": 0,
+            "explanation": "In the initial (serous) stage of acute mastitis, management includes broad-spectrum antibiotics, suppression or regulation of lactation when indicated, and elevation/support of the mammary gland. Local hot lotions are not recommended in the early stage as they may promote spread of infection and suppuration. Exam tip: Early mastitis = antibiotics + support + control lactation; avoid local heat.",
+            "past_paper": true
           }
         ],
         "Vascular": [],
@@ -383,6 +801,1950 @@
             ],
             "correct": 2,
             "explanation": "Statements 1, 2, and 4 are correct. The flexible bronchoscope is approximately 60 cm with 3\u20136 mm insertion diameter, the working channel varies from 1.2\u20132.6 mm depending on model, and it is used for diagnostic procedures (examination, brushings, washings, biopsies, TBNA). Statement 3 is FALSE \u2014 the distal tip of a flexible bronchoscope bends in more than one plane (up/down and left/right), which is one of its key advantages over rigid bronchoscopes.",
+            "past_paper": true
+          },
+          {
+            "question": "The penetration of infection to the lung by lymphatic ways can be from the mentioned centres, EXCEPT:",
+            "options": [
+              "Mediastinal pleural abscess",
+              "Mediastinal lymphadenitis",
+              "Subdiaphragmatic abscess",
+              "Extremity thrombophlebitis"
+            ],
+            "correct": 3,
+            "explanation": "Lymphatic spread to the lung can occur from mediastinal pleural abscess, mediastinal lymphadenitis, and subdiaphragmatic abscess \u2014 all have anatomical lymphatic connections to thoracic structures. Extremity thrombophlebitis spreads infection via the hematogenous route (septic emboli through venous circulation), not by lymphatics \u2014 therefore it is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "For chronic lung abscess, which features are characteristic? 1. Increasing slough quantity  2. Hemoptysis  3. Weight loss  4. Allergic reactions",
+            "options": [
+              "1, 2, 4",
+              "2, 3",
+              "1, 2, 3",
+              "All"
+            ],
+            "correct": 1,
+            "explanation": "Chronic lung abscess is characterised by hemoptysis (2) from vascular erosion and weight loss (3) due to chronic sepsis and systemic toxicity. Increasing slough quantity (1) is more typical of active acute suppuration. Allergic reactions (4) are not a feature of lung abscess at any stage. Therefore only 2 and 3 are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "Bronchopulmonary benign tumour of epithelial origin is:",
+            "options": [
+              "Myxoma",
+              "Fibroma",
+              "Hamartoma",
+              "Adenoma"
+            ],
+            "correct": 3,
+            "explanation": "Adenoma (e.g., bronchial adenoma/carcinoid) is a true benign tumour of epithelial origin. Myxoma and fibroma are mesenchymal tumours. Hamartoma is a developmental malformation of mixed tissues (cartilage, fat, connective tissue) \u2014 not purely epithelial. When the question specifies epithelial origin, the answer is adenoma.",
+            "past_paper": true
+          },
+          {
+            "question": "The following signs are observed during the first period of the clinical process of central lung adenomas: 1. Cough  2. Sputum production  3. Metastatic lesion  4. Chest pain",
+            "options": [
+              "2, 3",
+              "1, 2",
+              "1, 3, 4",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "In the first (early) period, central lung adenoma causes bronchial irritation and partial obstruction, producing cough (1) and sputum (2). Metastatic lesions (3) do not occur in benign adenomas. Chest pain (4) appears later with complications or peripheral extension, not in the initial stage.",
+            "past_paper": true
+          },
+          {
+            "question": "In which case of closed chest injury does mediastinal emphysema occur?",
+            "options": [
+              "Lung contusion",
+              "Main bronchus injury",
+              "Lung parenchymal injury",
+              "Parietal pleura injury"
+            ],
+            "correct": 1,
+            "explanation": "Mediastinal emphysema occurs when air escapes directly into the mediastinum from rupture of the tracheobronchial tree \u2014 most commonly main bronchus injury. Lung contusion causes haemorrhage/oedema, not free mediastinal air. Lung parenchymal injury and parietal pleura injury typically result in pneumothorax rather than primary mediastinal emphysema.",
+            "past_paper": true
+          },
+          {
+            "question": "Implantation of echinococcus is:",
+            "options": [
+              "Developing after hydatid cyst rupture into the bronchus or pleural cavity",
+              "Developing after penetration into the organism of essential oncospheres",
+              "Wound infection with scolices during the operation",
+              "Appearing as a result of hydatid cyst rupture into the heart or blood vessel"
+            ],
+            "correct": 2,
+            "explanation": "Implantation echinococcosis refers specifically to iatrogenic seeding of viable scolices into tissues during surgery if the cyst contents spill \u2014 making this the correct definition. Rupture into bronchus/pleura causes dissemination. Penetration of oncospheres describes primary infection. Rupture into vessels leads to haematogenous spread.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of a large superficially located lung echinococcus, the following signs are observed: 1. Dull percussion sound  2. Tympanic percussion sound  3. Noise of pleural friction on auscultation  4. Weakening of breath on auscultation",
+            "options": [
+              "1, 3, 4",
+              "All mentioned",
+              "1, 3",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "A large superficially located intact hydatid cyst compresses lung tissue producing dullness on percussion (1), may irritate adjacent pleura producing a friction rub (3), and compresses surrounding lung causing reduced breath sounds (4). Tympanic percussion (2) is heard only after cyst rupture allows air entry \u2014 not in an intact cyst.",
+            "past_paper": true
+          },
+          {
+            "question": "The sources of infection from the chest wall which may cause pleural empyema are: 1. Wound  2. Subphrenic abscess  3. Osteomyelitis of the rib  4. Bronchopleural fistula",
+            "options": [
+              "2, 4",
+              "2, 3",
+              "1, 3",
+              "1, 4"
+            ],
+            "correct": 2,
+            "explanation": "Chest wall sources of pleural empyema are wound infection (1) and rib osteomyelitis (3) \u2014 both spread directly through the chest wall into the pleural space. Subphrenic abscess (2) spreads from below the diaphragm, not the chest wall. Bronchopleural fistula (4) originates from the lung/bronchial tree, not the chest wall.",
+            "past_paper": true
+          },
+          {
+            "question": "A tumour growing in the bronchus and having the role of a valve can cause:",
+            "options": [
+              "Emphysema",
+              "Bronchiectasia",
+              "Atelectasis",
+              "Pneumosclerosis"
+            ],
+            "correct": 0,
+            "explanation": "A ball-valve (check-valve) endobronchial tumour allows air in during inspiration but blocks expiration, causing air trapping and obstructive (localised) emphysema distal to the obstruction. Complete obstruction \u2014 not the valve effect \u2014 causes atelectasis. Bronchiectasia and pneumosclerosis are chronic secondary changes, not the direct result of the valve mechanism.",
+            "past_paper": true
+          },
+          {
+            "question": "The following are characteristic for Pancoast tumour, EXCEPT:",
+            "options": [
+              "Main bronchus tumour",
+              "Brachial plexus invasion",
+              "Localisation in the lung apex",
+              "Peripheral tumour"
+            ],
+            "correct": 0,
+            "explanation": "Pancoast (superior sulcus) tumour is a peripheral tumour located in the lung apex (c, d) that invades the brachial plexus (b), causing shoulder pain and neurological deficits. It is not a main bronchus/central tumour \u2014 that is the exception. Apical mass + shoulder/arm pain + Horner's syndrome is the classic triad.",
+            "past_paper": true
+          },
+          {
+            "question": "The usual microscopic varieties seen in lung carcinoma are: 1. Squamous cell  2. Adenocarcinoma  3. Undifferentiated  4. Bronchioloalveolar",
+            "options": [
+              "All",
+              "1, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "All four are recognised histological varieties of primary lung carcinoma. Squamous cell (1) and adenocarcinoma (2) are the most common NSCLC types. Undifferentiated carcinoma (3) includes large cell and small cell types. Bronchioloalveolar carcinoma (4) is now classified as adenocarcinoma in situ. Therefore the answer is all.",
+            "past_paper": true
+          },
+          {
+            "question": "Clinical symptoms of lung cancer are divided into the following groups: 1. Symptoms due to primary tumour  2. Symptoms due to secondary invasion  3. General symptoms  4. Endocrine-related (paraneoplastic) symptoms",
+            "options": [
+              "1, 3",
+              "2, 3, 4",
+              "1, 4",
+              "All of the above"
+            ],
+            "correct": 3,
+            "explanation": "Lung cancer symptoms are classically grouped into: local primary tumour effects (cough, haemoptysis, obstruction), regional/secondary invasion effects (chest pain, hoarseness, SVC syndrome), systemic/general effects (weight loss, anorexia), and paraneoplastic/endocrine effects (Cushing's, SIADH, hypercalcaemia). All four groups are recognised clinical categories.",
+            "past_paper": true
+          },
+          {
+            "question": "The main route of infection penetration in purulent destructive diseases of the lungs is:",
+            "options": [
+              "Hematogenous",
+              "Aerogenic",
+              "Lymphogenous",
+              "By which infectious lung abscess differs from gangrene"
+            ],
+            "correct": 1,
+            "explanation": "The principal route of infection in purulent destructive lung diseases (abscess, gangrene) is aerogenic \u2014 aspiration of infected material from the upper airway. Haematogenous spread (septic emboli) occurs but is less common. Lymphogenous spread is rare and not the primary mechanism. A lung abscess differs from gangrene by having a localised cavity with demarcation, not by the route of infection.",
+            "past_paper": true
+          },
+          {
+            "question": "By which indicator does lung abscess differ from gangrene?",
+            "options": [
+              "Presence of non-demarcated necrotic infection",
+              "Severe septic disorder of lung tissue",
+              "Limited purulent destruction of lung tissue",
+              "Cavity without sequestration"
+            ],
+            "correct": 2,
+            "explanation": "Lung abscess is characterised by localised (limited) purulent destruction with a defined cavity and pyogenic capsule \u2014 this is the key distinguishing feature. Non-demarcated necrosis (a) describes gangrene. Severe septic disorder (b) occurs in both. Cavity without sequestration (d) is not the defining difference \u2014 abscess cavities may contain necrotic debris.",
+            "past_paper": true
+          },
+          {
+            "question": "Transition to a chronic lung abscess is promoted by all the following, EXCEPT:",
+            "options": [
+              "Upper lobe location",
+              "Presence of sequestrum in the cavity",
+              "Large cavity size",
+              "Stenosis of the draining bronchus"
+            ],
+            "correct": 0,
+            "explanation": "Sequestrum (b) maintains persistent infection, large cavity (c) prevents collapse and closure, and bronchial stenosis (d) impairs drainage \u2014 all promote chronicity. Upper lobe location (a) does not specifically predispose to chronicity and is therefore the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "For development of the aspiration mechanism of lung destruction, the following contribute: 1. Alcohol abuse  2. Diabetes  3. Immunodeficiency  4. Impairment of protective mechanisms of the respiratory system",
+            "options": [
+              "3, 4",
+              "All",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "All four contribute. Alcohol abuse (1) depresses consciousness and suppresses the cough reflex, enabling aspiration. Diabetes (2) impairs host defence. Immunodeficiency (3) increases susceptibility to severe pulmonary infection. Impairment of respiratory protective mechanisms (4) is the central mechanism. All factors predispose to aspiration-related lung destruction.",
+            "past_paper": true
+          },
+          {
+            "question": "What are typical features of lung abscess? 1. Demarcated from normal tissue by pyogenic capsule  2. It is a limited purulent destructive lung disease  3. Can involve new parts of lung  4. There may be a few (multiple) cavities",
+            "options": [
+              "3, 4",
+              "1, 3, 4",
+              "1, 2, 4",
+              "All"
+            ],
+            "correct": 2,
+            "explanation": "A lung abscess is demarcated by a pyogenic capsule (1), is a limited purulent destructive disease (2), and may present with multiple cavities (4). Spread to new lung areas (3) is characteristic of gangrene, not a typical localised abscess. Therefore 1, 2, and 4 are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "The following X-ray image is typical for peripheral lung tumour:",
+            "options": [
+              "Areas of hypoventilation",
+              "Round shadow with smooth lines",
+              "Segments of emphysema",
+              "Segments of atelectasis"
+            ],
+            "correct": 1,
+            "explanation": "A peripheral lung tumour appears on X-ray as a solitary rounded/oval opacity with relatively smooth or slightly lobulated margins. Hypoventilation and atelectasis are more typical of central tumours causing bronchial obstruction. Emphysematous segments are not a primary sign of peripheral tumour. The classic radiological sign is a round shadow.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of central lung adenoma, bronchoscopy usually demonstrates: 1. Endobronchial mass  2. Obstructive pneumonia  3. Bronchial obstruction  4. Emphysema",
+            "options": [
+              "1, 3",
+              "2, 3",
+              "2, 4",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "Bronchoscopy in central lung adenoma directly visualises an endobronchial mass (1) causing bronchial obstruction (3). Obstructive pneumonia (2) is a secondary complication, not a direct bronchoscopic finding. Emphysema (4) is not visualised on bronchoscopy. Therefore the correct bronchoscopic findings are 1 and 3.",
+            "past_paper": true
+          },
+          {
+            "question": "The types of surgical treatment of lung adenomas are: 1. Bronchotomy  2. Vessel embolisation  3. Sanitation bronchoscopy  4. Lung resection",
+            "options": [
+              "1, 4",
+              "1, 2",
+              "3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Surgical treatments are bronchotomy (1) for removal of a central endobronchial adenoma, and lung resection (4) \u2014 segmentectomy or lobectomy \u2014 for peripheral location or irreversible lung damage. Vessel embolisation (2) has no role in adenoma management. Sanitation bronchoscopy (3) is supportive, not definitive surgery. Correct answer is 1 and 4.",
+            "past_paper": true
+          },
+          {
+            "question": "In the third stage of bronchiectatic disease the dilated bronchial lumen is filled with:",
+            "options": [
+              "Blood",
+              "Pus",
+              "Mucus",
+              "Inflammatory exudate"
+            ],
+            "correct": 1,
+            "explanation": "In the third (advanced) stage of bronchiectatic disease, the dilated bronchi are filled with frank purulent content (pus) due to established chronic infection. Blood may appear with haemoptysis but is not the typical filling material. Mucus is seen in earlier or milder stages. Inflammatory exudate is non-specific; stage III is characterised by frank suppuration.",
+            "past_paper": true
+          },
+          {
+            "question": "Bronchiectatic disease is characterised by: 1. Dilatation of trachea  2. Stenosis of oesophagus  3. Dilatation of bronchi  4. Chronic purulent inflammation",
+            "options": [
+              "2, 4",
+              "2, 3",
+              "3, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "Bronchiectasis is defined by irreversible dilatation of bronchi (3) associated with chronic purulent inflammation of the bronchial wall (4). Tracheal dilatation (1) is not typical. Oesophageal stenosis (2) is entirely unrelated. The defining features are bronchial dilatation with chronic suppuration.",
+            "past_paper": true
+          },
+          {
+            "question": "For development of bronchiectatic disease, the following diseases have the main role in early childhood: 1. Measles  2. Whooping cough  3. Chronic bronchitis  4. Mucoviscidosis (cystic fibrosis)",
+            "options": [
+              "1, 2, 3",
+              "All",
+              "2, 4",
+              "1, 2"
+            ],
+            "correct": 1,
+            "explanation": "All four play a role. Measles (1) and whooping cough (2) damage bronchial walls in childhood and predispose to bronchiectasis. Chronic bronchitis (3) causes persistent inflammation and structural damage. Mucoviscidosis/cystic fibrosis (4) is a major congenital cause through thick secretions and recurrent infection. Therefore all are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "Closed chest injury accompanied by cardiac contusion \u2014 ECG study describes:",
+            "options": [
+              "Blockade of the bundle of His",
+              "Diffuse cardiosclerosis",
+              "Myocardial hypertrophy",
+              "Myocardial ischemia"
+            ],
+            "correct": 3,
+            "explanation": "Cardiac contusion following closed chest trauma produces ECG changes resembling myocardial ischaemia \u2014 ST-T changes and arrhythmias. Bundle branch block may occur but is not the most typical general finding. Diffuse cardiosclerosis is a chronic condition unrelated to acute trauma. Myocardial hypertrophy is unrelated to contusion.",
+            "past_paper": true
+          },
+          {
+            "question": "Hemothorax is an accumulation of blood in the:",
+            "options": [
+              "Lung tissue",
+              "Subcutaneous space of the chest",
+              "Between muscles of the chest",
+              "Pleural cavity"
+            ],
+            "correct": 3,
+            "explanation": "Hemothorax is defined specifically as accumulation of blood in the pleural cavity. Blood in lung tissue is pulmonary haemorrhage. Blood in subcutaneous tissue is a haematoma or subcutaneous emphysema. Blood between chest muscles is a chest wall haematoma. Hemothorax specifically involves the pleural space.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of subcutaneous emphysema, the air can spread to the: 1. Neck  2. Chest wall  3. Scrotum  4. Face",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "In subcutaneous emphysema, air spreads along fascial planes. It extends to the neck (1) and face (4) via cervical fascial continuity, involves the chest wall (2) directly, and can track inferiorly to the scrotum (3) through subcutaneous tissues. Therefore air can spread to all listed areas.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical picture of chest injury is related to: 1. Blood loss  2. Ventilation disorders  3. Combined injuries  4. Pain",
+            "options": [
+              "All",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "The clinical presentation of chest injury depends on blood loss (1) in haemothorax or vessel injury, ventilation disorders (2) from pneumothorax or rib fractures, the severity of combined injuries (3) in polytrauma, and pain (4) from rib or soft tissue injury that further impairs respiration. All four factors contribute.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of closed chest injury, prevention of infectious complications includes: 1. Bronchoscopy with sanitation  2. Respiratory exercises  3. Antibiotics  4. Mucolytics",
+            "options": [
+              "1, 2, 3",
+              "All",
+              "2, 3, 4",
+              "1, 3"
+            ],
+            "correct": 1,
+            "explanation": "All four measures are used. Sanitation bronchoscopy clears secretions and prevents atelectasis. Respiratory exercises improve ventilation and reduce pneumonia risk. Antibiotics prevent or treat pulmonary infection. Mucolytics liquefy secretions to improve bronchial drainage. Therefore all are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "The most important factor in lung cancer development is:",
+            "options": [
+              "Atmospheric pollution",
+              "Cigarette smoking",
+              "Pneumoconiosis",
+              "Industrial hazards"
+            ],
+            "correct": 1,
+            "explanation": "Cigarette smoking is the leading and most important aetiological cause of lung cancer, responsible for approximately 85\u201390% of cases. Atmospheric pollution, pneumoconiosis, and industrial hazards all increase risk but contribute far less than smoking individually.",
+            "past_paper": true
+          },
+          {
+            "question": "Disorder of which function contributes most to lung cancer development?",
+            "options": [
+              "Exchange of gases",
+              "Lung surfactant synthesis",
+              "Thermoregulation",
+              "Bronchial purification"
+            ],
+            "correct": 3,
+            "explanation": "Impairment of bronchial purification (mucociliary clearance) results in prolonged contact of inhaled carcinogens with bronchial epithelium, promoting malignant transformation. Impaired gas exchange is a consequence, not a cause. Surfactant synthesis and thermoregulation have no role in lung carcinogenesis.",
+            "past_paper": true
+          },
+          {
+            "question": "Metastasising of lung cancer occurs through the following lymph nodes, EXCEPT:",
+            "options": [
+              "Paratracheal group",
+              "Mesenteric group",
+              "Hilar group",
+              "Subcarinal group"
+            ],
+            "correct": 1,
+            "explanation": "Lung cancer spreads via lymphatics to hilar, subcarinal, and paratracheal nodes \u2014 all within the thoracic lymphatic drainage system. Mesenteric lymph nodes drain the intestines and are not involved in primary lung cancer lymphatic spread. Therefore the mesenteric group is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "It is recommended to perform lung lobectomy in the following cases: 1. Peripheral cancer confined to one lobe  2. Cancer of segmental bronchus  3. Undifferentiated cancer of the pleura  4. Main bronchus cancer",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "2, 3",
+              "All"
+            ],
+            "correct": 1,
+            "explanation": "Lobectomy is indicated for peripheral cancer confined to one lobe (1) and cancer of a segmental bronchus (2) when disease is lobar. Undifferentiated pleural cancer (3) is not a primary lobar lesion and is not treated by lobectomy. Main bronchus cancer (4) typically requires more extensive resection such as pneumonectomy. Correct options are 1 and 2.",
+            "past_paper": true
+          },
+          {
+            "question": "Lung cancer is occasionally encountered after the following diseases: 1. Pulmonary infarction  2. Pneumoconiosis  3. Tuberculosis  4. Echinococcosis",
+            "options": [
+              "1, 2, 3",
+              "2, 3",
+              "1, 2, 4",
+              "3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Lung cancer may develop in lungs affected by pneumoconiosis (2) due to chronic fibrosis and carcinogen exposure, and in areas of old tuberculosis scarring (3) \u2014 so-called scar carcinoma. Pulmonary infarction (1) and echinococcosis (4) are not recognised predisposing conditions for lung cancer. Correct combination is 2 and 3.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of posterior mediastinitis, the pain radiates to: 1. Interscapular space  2. Epigastric region  3. Behind the sternum  4. Occipital region",
+            "options": [
+              "All",
+              "2, 3",
+              "1, 4",
+              "1, 2"
+            ],
+            "correct": 3,
+            "explanation": "In posterior mediastinitis, pain radiates to the interscapular space (1) due to posterior mediastinal involvement near the vertebral column, and to the epigastric region (2) from proximity to the oesophagus and diaphragm. Retrosternal pain (3) is more typical of anterior mediastinitis. Occipital radiation (4) is not characteristic. Therefore 1 and 2 are correct.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute mediastinitis, pain is mainly located: 1. Behind the sternum  2. Interscapular space  3. Epigastric region  4. Axillary cavity",
+            "options": [
+              "1, 2, 4",
+              "2, 3, 4",
+              "All",
+              "1, 2, 3"
+            ],
+            "correct": 3,
+            "explanation": "In acute mediastinitis, pain is located behind the sternum (1) from mediastinal inflammation, radiates to the interscapular space (2) from posterior mediastinal irritation, and may be felt in the epigastric region (3) from diaphragmatic and oesophageal involvement. The axillary cavity (4) is not a typical site of mediastinitis pain. Correct answer is 1, 2, 3.",
+            "past_paper": true
+          },
+          {
+            "question": "Enterogenic cyst is characterised by all, EXCEPT:",
+            "options": [
+              "Diagnosis is confirmed by pneumomediastinography",
+              "Adjoins the oesophagus",
+              "Perforation of cyst wall",
+              "Contains elements of skin and hair"
+            ],
+            "correct": 3,
+            "explanation": "Enterogenic cyst is a congenital mediastinal cyst lined by gastrointestinal epithelium that adjoins the oesophagus (b), may be confirmed by pneumomediastinography (a), and can perforate (c). It does NOT contain skin and hair \u2014 those are features of a dermoid cyst (teratoma). Skin and hair is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "The pericardial cyst has the following characteristics: 1. Frequently localised in the cardiodiaphragmatic angle  2. Radiating pain to the interscapular space and neck  3. Horner syndrome  4. Echocardiography is informative",
+            "options": [
+              "1, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Pericardial cysts are most commonly located in the cardiophrenic angle (1), usually on the right, and echocardiography (4) is an informative diagnostic tool. Radiating pain to the interscapular space and neck (2) is not characteristic of pericardial cyst. Horner syndrome (3) is associated with apical lung tumours, not pericardial cysts.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute purulent mediastinitis, involvement of the phrenic nerve generates:",
+            "options": [
+              "Hiccup",
+              "Arrhythmia",
+              "Voice hoarseness",
+              "Bradycardia"
+            ],
+            "correct": 0,
+            "explanation": "The phrenic nerve supplies the diaphragm; its irritation in acute mediastinitis causes persistent hiccup. Arrhythmia relates to cardiac involvement. Hoarseness results from recurrent laryngeal nerve involvement. Bradycardia is due to vagus nerve stimulation. Phrenic nerve irritation characteristically causes hiccup.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute purulent mediastinitis, involvement of the vagus nerve is accompanied by:",
+            "options": [
+              "Hiccup",
+              "Bradycardia",
+              "Tachycardia",
+              "Voice hoarseness"
+            ],
+            "correct": 1,
+            "explanation": "The vagus nerve provides parasympathetic innervation to the heart; its irritation in mediastinitis leads to bradycardia. Hiccup is due to phrenic nerve irritation. Tachycardia is caused by systemic infection or shock, not direct vagal stimulation. Hoarseness occurs with recurrent laryngeal nerve involvement.",
+            "past_paper": true
+          },
+          {
+            "question": "On X-ray contrast study of the digestive tract, detection of soluble contrast leakage and air in the mediastinum indicates damage to which organ?",
+            "options": [
+              "Trachea",
+              "Oesophagus",
+              "Large vessel",
+              "Bronchus"
+            ],
+            "correct": 1,
+            "explanation": "Leakage of oral contrast into the mediastinum on digestive tract contrast study indicates oesophageal perforation, as the oesophagus lies within the mediastinum. Tracheal and bronchial injuries cause air leak but not contrast leakage from the digestive tract. Large vessel injury causes haemorrhage, not contrast extravasation.",
+            "past_paper": true
+          },
+          {
+            "question": "Infection may penetrate into the mediastinum by: 1. Adjacent organs  2. Lymphatic system  3. Haematogenous route  4. After injuries",
+            "options": [
+              "All",
+              "1, 2, 4",
+              "3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "All four routes are possible. Infection may spread from adjacent organs (1) such as oesophagus, lungs, or neck spaces; via the lymphatic system (2) from surrounding infected tissues; haematogenously (3) in septic conditions; and after injuries (4) including oesophageal perforation or chest trauma.",
+            "past_paper": true
+          },
+          {
+            "question": "Which tumour arises from sympathetic ganglions and ganglionic cells?",
+            "options": [
+              "Neurofibroma",
+              "Neurogenic sarcoma",
+              "Ganglioneuroma",
+              "Neurinoma (Schwannoma)"
+            ],
+            "correct": 2,
+            "explanation": "Ganglioneuroma arises from mature sympathetic ganglion cells. Neurofibroma originates from peripheral nerve sheath cells. Neurogenic sarcoma is a malignant peripheral nerve sheath tumour. Neurinoma (schwannoma) arises from Schwann cells. The tumour derived from sympathetic ganglia is ganglioneuroma.",
+            "past_paper": true
+          },
+          {
+            "question": "Which mediastinal tumour arises from Schwann's sheath?",
+            "options": [
+              "Neurofibroma",
+              "Ganglioneuroma",
+              "Neurogenic sarcoma",
+              "Neurinoma (Schwannoma)"
+            ],
+            "correct": 3,
+            "explanation": "A mediastinal tumour arising from Schwann's sheath is a neurinoma (schwannoma), developing from Schwann cells of the peripheral nerve sheath. Ganglioneuroma arises from ganglion cells, not Schwann cells. Neurofibroma arises from nerve sheath fibroblasts. Neurogenic sarcoma is malignant.",
+            "past_paper": true
+          },
+          {
+            "question": "Which chest injury most often leads to purulent lung destruction?",
+            "options": [
+              "Multiple fractures of ribs",
+              "Haemothorax",
+              "Lung contusion",
+              "Pneumothorax"
+            ],
+            "correct": 2,
+            "explanation": "Lung contusion directly damages lung parenchyma, causing haemorrhage, impaired ventilation, and tissue necrosis \u2014 creating ideal conditions for infection and subsequent purulent destruction. Multiple rib fractures mainly cause pain and hypoventilation but do not directly damage parenchyma. Haemothorax and pneumothorax affect the pleural space, not the lung itself.",
+            "past_paper": true
+          },
+          {
+            "question": "The complications of chronic lung abscess are: 1. Pneumosclerosis  2. Purulent metastases  3. Pulmonary bleeding  4. Amyloidosis of parenchymatous organs",
+            "options": [
+              "1, 2, 4",
+              "1, 3",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All four are recognised complications of chronic lung abscess. Pneumosclerosis (1) results from prolonged inflammation and fibrosis. Purulent (septic) metastases (2) occur via haematogenous spread. Pulmonary bleeding (3) occurs from erosion of bronchial vessels. Secondary amyloidosis of parenchymatous organs (4) results from long-standing suppuration.",
+            "past_paper": true
+          },
+          {
+            "question": "Conservative treatment of lung abscess includes: 1. Expectorants  2. Endobronchial introduction of proteolytic enzymes  3. Broad-spectrum antibiotics  4. Anti-inflammatory doses of radiotherapy",
+            "options": [
+              "2, 4",
+              "All",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 3,
+            "explanation": "Conservative treatment of lung abscess includes expectorants (1) to improve drainage, endobronchial proteolytic enzymes (2) to liquefy necrotic material, and broad-spectrum antibiotics (3) to control infection. Radiotherapy (4) has no role in lung abscess management. Correct options are 1, 2, and 3.",
+            "past_paper": true
+          },
+          {
+            "question": "It is typical for the early stage of peripherally located lung tumour:",
+            "options": [
+              "Development of emphysema",
+              "Asymptomatic clinical picture",
+              "Lung atelectasis phenomena",
+              "Bronchiectasis"
+            ],
+            "correct": 1,
+            "explanation": "Early peripheral lung tumours are typically asymptomatic, developing in lung parenchyma away from major bronchi without causing obstruction. Emphysema is not an early sign. Atelectasis is more common in central tumours from bronchial obstruction. Bronchiectasis is not a feature of early peripheral lung cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "The following can be found in lung hamartomas: 1. Fat tissue  2. Fibrous tissue  3. Muscle tissue  4. Vascular tissue",
+            "options": [
+              "All of the above",
+              "3, 4",
+              "1, 2, 3",
+              "1, 2"
+            ],
+            "correct": 0,
+            "explanation": "Lung hamartoma is a benign tumour composed of disorganised but mature tissues normally present in the lung. It commonly contains fat (1), fibrous tissue (2), cartilage, and muscle (3). Vascular elements (4) can also be present as part of the mixed mesenchymal components. Therefore all listed tissues may be found.",
+            "past_paper": true
+          },
+          {
+            "question": "In the operation of Patey-Dyson mastectomy, which structures are removed?\n1. The breast\n2. The major thoracic muscle\n3. The minor thoracic muscle\n4. The regional lymphatic nodes",
+            "options": [
+              "1, 2, 4",
+              "All",
+              "1, 3, 4",
+              "1, 4"
+            ],
+            "correct": 2,
+            "explanation": "In Patey-Dyson mastectomy, the breast (1) is removed along with the minor pectoral muscle (3) to allow better access to axillary nodes. The regional lymph nodes (4) are also removed (axillary dissection). The major pectoral muscle (2) is preserved \u2014 this distinguishes it from the Halsted radical mastectomy.",
+            "past_paper": true
+          },
+          {
+            "question": "In the third stage of bronchiectatic disease, the bronchial wall is replaced by:",
+            "options": [
+              "Polyposis",
+              "Granulation tissue",
+              "Endothelium",
+              "Tumour"
+            ],
+            "correct": 1,
+            "explanation": "In the third stage of bronchiectatic disease, the bronchial wall undergoes destruction and is replaced by granulation tissue, later leading to fibrosis. Polyposis is not characteristic of this stage. Endothelium does not replace bronchial wall structures. Tumour is unrelated to this chronic inflammatory condition.",
+            "past_paper": true
+          },
+          {
+            "question": "The causes of secondary bronchiectasis are:\n1. Abnormal development of cartilage rings and smooth muscle fibres\n2. Tuberculosis\n3. Chronic pneumonia\n4. Chronic abscess",
+            "options": [
+              "All",
+              "1, 3, 4",
+              "2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "Secondary bronchiectasis develops due to acquired inflammatory or destructive lung diseases. Tuberculosis (2) can destroy bronchial walls leading to bronchiectasis. Chronic pneumonia (3) and chronic lung abscess (4) cause persistent infection and structural damage. Abnormal development of cartilage rings and smooth muscle fibres (1) refers to congenital (primary) bronchiectasis, not secondary.",
+            "past_paper": true
+          },
+          {
+            "question": "Invasion of bronchial wall cartilage and smooth muscle in bronchiectatic disease occurs due to:",
+            "options": [
+              "Purulent process",
+              "Neoplastic process",
+              "Mechanical damage",
+              "Radiation"
+            ],
+            "correct": 0,
+            "explanation": "In bronchiectatic disease, destruction and invasion of the bronchial wall cartilage and smooth muscle occur due to a chronic purulent inflammatory process. Persistent infection leads to weakening and irreversible dilatation of the bronchi. Neoplastic process refers to tumour growth, not bronchiectasis. Mechanical damage and radiation are not primary mechanisms.",
+            "past_paper": true
+          },
+          {
+            "question": "In the development of bronchiectatic disease, which of the following may have a role?\n1. Whooping cough\n2. Obstruction of bronchial lumen\n3. Chronic pneumonia\n4. Abnormal development of cartilage rings and smooth muscle fibres",
+            "options": [
+              "2, 4",
+              "All",
+              "1, 2, 4",
+              "3, 4"
+            ],
+            "correct": 1,
+            "explanation": "All listed factors may play a role. Whooping cough (1) can damage bronchial walls in childhood, predisposing to bronchiectasis. Obstruction of bronchial lumen (2) leads to retention of secretions and infection. Chronic pneumonia (3) causes persistent inflammation and structural destruction. Abnormal development of cartilage rings and smooth muscle fibres (4) contributes to congenital bronchiectasis.",
+            "past_paper": true
+          },
+          {
+            "question": "In bronchiectatic disease, which of the following changes of bronchial mucosa are seen?\n1. Epithelium replacement\n2. Ulceration formation\n3. Granulation tissue growth\n4. Polyposis",
+            "options": [
+              "All",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 0,
+            "explanation": "All listed mucosal changes are seen in bronchiectatic disease. Chronic infection leads to epithelial replacement (1) with metaplastic changes. Ulcerations (2) form due to persistent inflammation. Granulation tissue growth (3) develops as part of chronic inflammatory repair. Polyposis (4) may occur due to mucosal hypertrophy and chronic irritation.",
+            "past_paper": true
+          },
+          {
+            "question": "In bronchiectatic disease, which of the following secondary changes may develop?\n1. Peribronchial fibrosis\n2. Pneumosclerosis\n3. Abscess formation\n4. Atelectasis",
+            "options": [
+              "All",
+              "1, 2",
+              "2, 3, 4",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "All listed changes may develop in bronchiectatic disease. Peribronchial fibrosis (1) results from chronic inflammation. Long-standing disease causes pneumosclerosis (2) from repeated infection and scarring. Persistent infection may result in abscess formation (3). Obstruction of bronchi can cause atelectasis (4).",
+            "past_paper": true
+          },
+          {
+            "question": "What can lead to development of tension pneumothorax?",
+            "options": [
+              "Rib valve formation",
+              "Obstruction of trachea by foreign body",
+              "Laryngospasm",
+              "Valve formation in lung tissue"
+            ],
+            "correct": 3,
+            "explanation": "Tension pneumothorax develops when a valve mechanism forms in the lung or pleura, allowing air to enter the pleural cavity during inspiration but preventing its exit. This leads to progressive accumulation of air and increased intrathoracic pressure. Rib valve formation relates to flail chest. Tracheal obstruction and laryngospasm cause respiratory distress but do not produce tension pneumothorax.",
+            "past_paper": true
+          },
+          {
+            "question": "Valve (tension) pneumothorax is characterised by:\n1. Continuous air pressure increase in the pleural cavity\n2. Mediastinal shift to the contralateral side\n3. Mediastinal shift to the injured side\n4. Cardiovascular insufficiency",
+            "options": [
+              "2, 3",
+              "1, 3, 4",
+              "All",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Valve pneumothorax is characterised by progressive increase of air pressure in the pleural cavity (1) due to a one-way valve mechanism. This causes mediastinal shift to the contralateral (healthy) side (2). It leads to cardiovascular insufficiency (4) due to compression of great vessels and reduced venous return. Option 3 (shift to the injured side) is incorrect \u2014 the mediastinum shifts away from the affected side.",
+            "past_paper": true
+          },
+          {
+            "question": "The tension pneumothorax is diagnosed by the following objective signs:\n1. Tympanic sound on percussion\n2. Dull sound on percussion\n3. Wet rales on auscultation\n4. Absence of breath sounds",
+            "options": [
+              "2, 3",
+              "2, 4",
+              "1, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "Tension pneumothorax presents with tympanic (hyperresonant) percussion sound (1) due to air in the pleural cavity, and absence of breath sounds (4) on the affected side. Dull percussion sound (2) is typical of pleural effusion or haemothorax. Wet rales (3) suggest fluid in airways, not pneumothorax.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of closed chest injury, the cause of neck swelling may be:\n1. Subcutaneous emphysema\n2. Mediastinal emphysema\n3. Pulmonary emphysema\n4. Tracheal and bronchial lumen obstruction with clot and mucus",
+            "options": [
+              "All",
+              "1, 2, 4",
+              "1, 2",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Neck swelling after closed chest trauma is commonly due to subcutaneous emphysema (1) spreading to the cervical region. Mediastinal emphysema (2) can extend air into the neck through fascial planes. Obstruction of trachea or bronchi with clot/mucus (4) may increase intrathoracic pressure and promote air leakage into soft tissues. Pulmonary emphysema (3) is a chronic lung condition and does not cause acute neck swelling.",
+            "past_paper": true
+          },
+          {
+            "question": "The sequel of rib fractures can be damage of:\n1. Heart\n2. Spleen\n3. Spinal cord\n4. Intercostal arteries",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "2, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All listed structures can be damaged as a sequel of rib fractures. Rib fractures may injure the heart, especially with left anterior rib fractures. Lower rib fractures can damage the spleen on the left side. Posterior rib fractures may be associated with spinal cord injury in severe trauma. Sharp rib fragments can tear intercostal arteries, leading to significant bleeding.",
+            "past_paper": true
+          },
+          {
+            "question": "Haemothorax is characterised by:\n1. Dullness on percussion\n2. Tympanic sound on percussion\n3. Pleural rub murmur\n4. Weak vesicular breathing",
+            "options": [
+              "1, 4",
+              "2, 3",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Haemothorax is characterised by dullness on percussion (1) due to blood accumulation in the pleural cavity, and weak or absent vesicular breathing (4) over the affected area. Tympanic sound (2) is typical for pneumothorax, not haemothorax. Pleural rub murmur (3) is more typical of pleuritis, not fluid accumulation.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of late stage chest injury, thoracotomy is indicated if there is:",
+            "options": [
+              "Exudative pleuritis",
+              "Pleural empyema",
+              "Thromboembolism of pulmonary artery branches",
+              "Pleuropneumonia"
+            ],
+            "correct": 1,
+            "explanation": "In the late stage after chest injury, pleural empyema may require thoracotomy for adequate drainage and decortication. Exudative pleuritis is usually treated conservatively or with pleural puncture. Pulmonary artery thromboembolism is managed medically. Pleuropneumonia is primarily treated with antibiotics and supportive care.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical picture of chest injury is related to:\n1. Blood loss\n2. Ventilation disorders\n3. Combined injuries\n4. Pain",
+            "options": [
+              "1, 3, 4",
+              "All",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "All listed factors determine the clinical presentation of chest injury. Blood loss (1) is significant in haemothorax or major vessel injury. Ventilation disorders (2) occur due to pneumothorax, lung contusion, or rib fractures. Combined injuries (3) worsen the overall condition in polytrauma. Pain (4) from rib or soft tissue injury further impairs respiration.",
+            "past_paper": true
+          },
+          {
+            "question": "In closed chest injury, emergency activities are directed to:\n1. Bronchial patency restoration\n2. Pleural cavity decompression\n3. Introduction of cardiac preparations and antibiotics\n4. Lung decortication",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "All",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Emergency management in closed chest injury aims at restoring bronchial patency (1) to ensure adequate ventilation. Pleural cavity decompression (2) is required in pneumothorax or haemothorax. Administration of cardiac drugs and antibiotics (3) may be necessary depending on haemodynamic status. Lung decortication (4) is a late surgical procedure, not an emergency measure.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of open chest injury, developing paradoxical respiration is characteristic for which type of pneumothorax?",
+            "options": [
+              "Closed",
+              "Valve",
+              "Open",
+              "Tense"
+            ],
+            "correct": 2,
+            "explanation": "Paradoxical respiration is characteristic of open pneumothorax, where air freely communicates between the pleural cavity and the external environment. During inspiration and expiration, abnormal chest wall movement may be observed. Closed and valve/tense pneumothorax primarily cause respiratory distress and mediastinal shift, not typical paradoxical chest wall movement.",
+            "past_paper": true
+          },
+          {
+            "question": "Echinococcosis spreads from the digestive tract most often to the:",
+            "options": [
+              "Liver",
+              "Brain",
+              "Lungs",
+              "Kidney"
+            ],
+            "correct": 0,
+            "explanation": "After absorption from the digestive tract, echinococcus larvae enter the portal circulation, and the liver acts as the first biological filter \u2014 making the liver the most commonly affected organ. The lungs are the second most common site after passing the hepatic filter. Involvement of the brain and kidney is less frequent.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of suppuration of a hydatid cyst, the following symptoms are seen EXCEPT:",
+            "options": [
+              "Temperature increase",
+              "Anaphylactic shock",
+              "Increase of mucopurulent sputum",
+              "Cough strengthening"
+            ],
+            "correct": 1,
+            "explanation": "When a hydatid cyst suppurates, symptoms of infection appear including fever, increased mucopurulent sputum (if communicating with a bronchus), and intensified cough. Anaphylactic shock is typical of cyst rupture with antigen release \u2014 not simple suppuration. Thus, anaphylactic shock is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of opening of a pulmonary hydatid cyst into the bronchi, which symptoms are observed?\n1. Removal of pus with cough\n2. Removal of transparent liquid with cough\n3. Discharge of pieces of connective tissue membrane with cough\n4. Discharge of pieces of chitin membrane with cough",
+            "options": [
+              "1, 4",
+              "2, 3",
+              "1, 3",
+              "2, 4"
+            ],
+            "correct": 3,
+            "explanation": "When a pulmonary hydatid cyst opens into a bronchus, the patient coughs up transparent hydatid fluid (2) and pieces of chitin (laminated) membrane (4), which is characteristic. Removal of pus (1) suggests suppuration, not simple rupture. Connective tissue membrane (3) is not typically expectorated.",
+            "past_paper": true
+          },
+          {
+            "question": "Pulmonary echinococcosis cyst most frequently ruptures into the:",
+            "options": [
+              "Bronchi",
+              "Pleura",
+              "Pericardial sac",
+              "Diaphragm"
+            ],
+            "correct": 0,
+            "explanation": "Pulmonary hydatid cysts most commonly rupture into the bronchi, leading to coughing up of hydatid fluid and membrane fragments. Rupture into the pleura is less frequent but can cause pleural complications. Involvement of the pericardial sac or diaphragm is rare.",
+            "past_paper": true
+          },
+          {
+            "question": "The liquid of a living hydatid cyst has the following characteristics EXCEPT:",
+            "options": [
+              "Allergic",
+              "Transparent",
+              "Purulent",
+              "Toxic"
+            ],
+            "correct": 2,
+            "explanation": "The fluid of a living hydatid cyst is typically clear and transparent, highly antigenic and allergic (capable of causing anaphylactic reactions if released), and toxic due to parasitic metabolites. It is NOT purulent unless secondary infection (suppuration) has occurred. Thus, 'purulent' is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "Pulmonary echinococcosis may lead to the following complications:\n1. Suppuration\n2. Rupture\n3. Lung atelectasis\n4. Lung cancer",
+            "options": [
+              "All",
+              "1, 2",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Pulmonary echinococcosis may lead to suppuration (1) due to secondary infection, rupture (2) into bronchi or pleural cavity, and lung atelectasis (3) caused by bronchial compression from large cysts. It does not cause lung cancer (4). The correct combination is 1, 2, and 3.",
+            "past_paper": true
+          },
+          {
+            "question": "When a chronic empyema cavity perforates through the lung and communicates with a bronchus, there is sudden expectoration of a large quantity of:",
+            "options": [
+              "Air",
+              "Transparent fluid with pieces of fibrous membrane",
+              "Blood",
+              "Pus"
+            ],
+            "correct": 3,
+            "explanation": "When a chronic empyema cavity perforates into the lung and communicates with a bronchus, there is sudden expectoration of a large amount of pus, due to drainage of the purulent pleural cavity into the bronchial tree. Transparent fluid with fibrous membrane is typical of hydatid cyst rupture. Blood suggests haemorrhage, not empyema rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of open type of chronic pleural empyema, there is:",
+            "options": [
+              "Abscess cavity of lung with subpleural localisation",
+              "Purulent cavity communicating with the skin",
+              "Closed collection of pus completely walled off from surroundings",
+              "Purulent cavity communicating with a bronchus"
+            ],
+            "correct": 1,
+            "explanation": "Open chronic pleural empyema is characterised by formation of a bronchopleurocutaneous fistula, where the empyema cavity communicates externally through the chest wall and skin. A lung abscess describes option A. Closed empyema without external drainage describes option C. Communication with bronchus alone describes bronchopleural fistula (option D), not necessarily open external empyema.",
+            "past_paper": true
+          },
+          {
+            "question": "According to pus extension into the pleural cavity, empyema can be all listed types EXCEPT:",
+            "options": [
+              "Total",
+              "Mesenteric",
+              "Moderate",
+              "Limited"
+            ],
+            "correct": 1,
+            "explanation": "According to the extent of pus spread in the pleural cavity, empyema may be total or limited/moderate. The term 'mesenteric' is not used in classification of pleural empyema \u2014 it relates to the intestine. Thus, 'mesenteric' is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "The goal of pulmonary decortication is:",
+            "options": [
+              "Removal of pleurothoracic fistula",
+              "Removal of purulent exudate",
+              "Removal of bronchopleural fistula",
+              "Making the lung able to expand fully"
+            ],
+            "correct": 3,
+            "explanation": "Pulmonary decortication involves removal of the fibrous pleural peel that restricts lung expansion. Its main goal is to allow the collapsed lung to re-expand fully. Fistula management is not the primary aim. Removal of purulent exudate is achieved by drainage, not decortication.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of large pleural empyema, all of the following are seen EXCEPT:",
+            "options": [
+              "Bradycardia",
+              "Cyanosis",
+              "Dyspnoea",
+              "Mediastinal shift"
+            ],
+            "correct": 0,
+            "explanation": "Large pleural empyema causes dyspnoea due to lung compression, cyanosis from impaired oxygenation, and mediastinal shift to the opposite side. Bradycardia is not typical \u2014 tachycardia is more common due to infection and respiratory distress. Thus, bradycardia is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "Which signs are characteristic of acute purulent pleural empyema?\n1. High fever\n2. Excessive sweating\n3. Subfebrile fever\n4. Dyspnoea",
+            "options": [
+              "2, 3, 4",
+              "3, 4",
+              "1, 2, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "Acute purulent pleural empyema is characterised by high fever (1) due to severe infection, excessive sweating (2) as a septic sign, and dyspnoea (4) from lung compression by pus. Subfebrile fever (3) is more typical of chronic processes, not acute empyema.",
+            "past_paper": true
+          },
+          {
+            "question": "For bronchopleural fistula, which of the following are true?\n1. It is the open type of chronic pleural empyema\n2. There is permanent transition of infection to the pleural cavity\n3. It is a communication between bronchus and empyema cavity\n4. This needs immediate evacuation of the pleura and intensive bronchopulmonary toilet",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "All",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "All statements are correct. Bronchopleural fistula is a communication between a bronchus and the empyema cavity (3), representing the open type of chronic pleural empyema (1). There is persistent contamination of the pleural cavity with infected bronchial contents (2). Management requires urgent pleural drainage and intensive bronchopulmonary toilet (4).",
+            "past_paper": true
+          },
+          {
+            "question": "By which indicator does lung abscess differ from gangrene?",
+            "options": [
+              "Pulmonary tissue abrasion",
+              "Limited purulent destruction of lung tissue",
+              "Presence of non-clostridial anaerobic infection",
+              "Blood supply disorder of lung tissue"
+            ],
+            "correct": 1,
+            "explanation": "Lung abscess is characterised by localised (limited) purulent destruction with clear demarcation from healthy tissue. In contrast, lung gangrene involves diffuse, non-demarcated necrosis. Blood supply disorder is more related to gangrene pathogenesis. Non-clostridial anaerobic infection may be present in both conditions and is not differentiating.",
+            "past_paper": true
+          },
+          {
+            "question": "Which circumstance suggests that the development of lung destruction is due to aspiration?",
+            "options": [
+              "The main cause of the disease is pneumonia",
+              "Lung abscess caused by Staphylococcus aureus",
+              "Abscess sometimes develops in contusion zone of lung",
+              "Abscesses are most often placed in the right lung"
+            ],
+            "correct": 3,
+            "explanation": "Aspiration commonly affects the right lung, especially the right lower lobe, due to the wider and more vertical right main bronchus. Staphylococcus aureus suggests haematogenous origin rather than aspiration. Abscess in contusion zone refers to post-traumatic formation. Pneumonia as the main cause is nonspecific.",
+            "past_paper": true
+          },
+          {
+            "question": "A ruptured hydatid cyst differs from a lung abscess by all mentioned EXCEPT:",
+            "options": [
+              "High eosinophilia",
+              "Presence of chitin shell pieces in sputum",
+              "X-ray showing cavity with fluid level and free-floating sequestration",
+              "Positive serological reaction"
+            ],
+            "correct": 2,
+            "explanation": "A ruptured hydatid cyst is characterised by high eosinophilia, positive serological reaction, and expectoration of chitin membrane fragments. An X-ray cavity with fluid level and free-floating sequestration is more characteristic of a lung abscess, not a hydatid cyst. Thus, option C is the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "For development of lung destructive infectious diseases, which factors contribute?\n1. Aerobic and anaerobic infectious processes\n2. Disturbance of bronchi drainage function\n3. Lung blood supply disorder\n4. Changes of organism reactivity",
+            "options": [
+              "1, 2, 4",
+              "1, 3",
+              "All",
+              "2, 3"
+            ],
+            "correct": 2,
+            "explanation": "All listed factors contribute. Development of lung destructive infections involves aerobic and anaerobic microorganisms (1). Disturbance of bronchial drainage (2) promotes retention of infected secretions. Lung blood supply disorders (3) impair tissue resistance and favour necrosis. Altered organism reactivity (4) (immunosuppression, chronic disease) increases susceptibility.",
+            "past_paper": true
+          },
+          {
+            "question": "Lung gangrene differs from abscess by the following clinical signs:\n1. Severe intoxication\n2. Painful cough with foul-smelling slough production\n3. Clouding of consciousness\n4. Frequent bleeding",
+            "options": [
+              "1, 3",
+              "1, 2, 4",
+              "All",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "All listed signs are characteristic of lung gangrene compared with abscess. Lung gangrene presents with severe intoxication (1) due to extensive tissue necrosis, painful cough with foul-smelling sputum containing slough (2) from putrefactive anaerobic infection, clouding of consciousness (3) from severe sepsis, and frequent pulmonary bleeding (4) from vessel erosion in necrotic tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Which pathological condition of the lung is most favourable for abscess formation?",
+            "options": [
+              "Cyst",
+              "Atelectasis",
+              "Emphysema",
+              "Collapse"
+            ],
+            "correct": 1,
+            "explanation": "Atelectasis creates conditions of poor ventilation and impaired drainage, favouring infection and abscess formation. Cyst is a structural lesion but not the most favourable condition for abscess development. Emphysema involves air trapping without primary infection. Collapse is similar to atelectasis but less specifically associated with infection compared to obstructive atelectasis.",
+            "past_paper": true
+          },
+          {
+            "question": "For chronic lung abscess, which of the following are true?\n1. Fibrous tissue growth in the wall of the cavity\n2. Frequent cough\n3. Purulent sputum production at change of body position\n4. Periodic aggravation of purulent process",
+            "options": [
+              "1, 2, 3",
+              "3, 4",
+              "All",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "All listed features are typical of chronic lung abscess. There is fibrous tissue growth in the cavity wall (1) due to long-standing inflammation. Patients have frequent cough (2) with chronic infection. Purulent sputum production increases with change of body position (3) due to gravity-dependent cavity drainage. The disease shows periodic exacerbations of the purulent process (4).",
+            "past_paper": true
+          },
+          {
+            "question": "During the development of a central lung adenoma, which X-ray findings are observed?\n1. Atelectasis\n2. Pneumonia\n3. Metastasis\n4. Emphysema",
+            "options": [
+              "2, 4",
+              "1, 3",
+              "All",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Central lung adenoma causes bronchial obstruction leading to atelectasis (1) distal to the blockage, and obstructive pneumonia (2). Air trapping can produce emphysema (4) in a partially obstructed bronchus. Metastasis (3) is not typical, as adenoma is a benign tumour. The correct combination is 1, 2, and 4.",
+            "past_paper": true
+          },
+          {
+            "question": "Peripheral lung cancer may be diagnosed most clearly by which methods?\n1. Bronchoscopy\n2. Thoracoscopy\n3. Mediastinoscopy\n4. Percutaneous aspiration needle biopsy",
+            "options": [
+              "2, 4",
+              "All",
+              "1, 4",
+              "1, 3"
+            ],
+            "correct": 0,
+            "explanation": "Peripheral lung cancer is best diagnosed by thoracoscopy (2), allowing direct visualisation and biopsy of peripheral lesions, and percutaneous aspiration needle biopsy (4), especially useful under imaging guidance. Bronchoscopy (1) is more informative for central tumours. Mediastinoscopy (3) is mainly used to assess mediastinal lymph nodes, not primary peripheral lesions.",
+            "past_paper": true
+          },
+          {
+            "question": "Clinical symptoms of lung cancer are divided into which groups?\n1. Symptoms due to primary tumour\n2. Symptoms due to secondary invasion\n3. General symptoms\n4. Endocrine-related (paraneoplastic) symptoms",
+            "options": [
+              "1, 3",
+              "2, 3, 4",
+              "1, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All four groups are recognised. Symptoms due to the primary tumour (1) include cough, haemoptysis, chest pain. Symptoms due to secondary invasion (2) include hoarseness, dysphagia, SVC syndrome. General symptoms (3) include weight loss, weakness, fever. Endocrine-related/paraneoplastic symptoms (4) include Cushing syndrome, hypercalcaemia, etc.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of lung cancer, X-ray examination most often reveals:",
+            "options": [
+              "Mass with smooth margin in the peripheral lung field",
+              "Metastases",
+              "Mass in the hilar region",
+              "Lymphadenopathy"
+            ],
+            "correct": 2,
+            "explanation": "On chest X-ray, lung cancer most often appears as a mass in the hilar region, especially in central bronchogenic carcinoma. A smooth peripheral mass is more typical of benign tumours. Metastases may be seen in advanced disease but are not the most common primary finding. Lymphadenopathy can occur but is secondary to the primary mass.",
+            "past_paper": true
+          },
+          {
+            "question": "The most aggressive form of lung cancer is:",
+            "options": [
+              "Highly differentiated",
+              "Undifferentiated",
+              "Moderately differentiated",
+              "Low differentiated"
+            ],
+            "correct": 1,
+            "explanation": "The undifferentiated (anaplastic) form of lung cancer is the most aggressive \u2014 it grows rapidly, metastasises early, and has a poor prognosis. Highly differentiated tumours grow more slowly and are less aggressive. Moderately and low differentiated forms have intermediate behaviour.",
+            "past_paper": true
+          },
+          {
+            "question": "General symptoms of lung cancer include all of the following EXCEPT:",
+            "options": [
+              "Clubbing",
+              "Appetite loss",
+              "Weight loss",
+              "Dyspnoea"
+            ],
+            "correct": 0,
+            "explanation": "General symptoms of lung cancer include loss of appetite and weight loss (cancer cachexia) and dyspnoea from tumour growth or airway obstruction. Clubbing is not a general systemic symptom \u2014 it is a paraneoplastic or associated sign not present in all cases and is therefore the exception.",
+            "past_paper": true
+          },
+          {
+            "question": "Which features are typical of the undifferentiated form of lung cancer?\n1. Tendency to grow fast\n2. Early spreading to the lymph nodes\n3. Aggressive invasion of surrounding structures\n4. Early vascular dissemination",
+            "options": [
+              "1, 2",
+              "1, 3, 4",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All listed features are typical of undifferentiated lung cancer. It has a tendency to grow rapidly (1), shows early lymph node metastasis (2), aggressively invades surrounding structures (3), and demonstrates early haematogenous (vascular) dissemination (4).",
+            "past_paper": true
+          },
+          {
+            "question": "Cigarette smoking leads to which histological changes in bronchial epithelium?\n1. Basal cell hyperplasia\n2. Stratification\n3. Squamous metaplasia\n4. Carcinoma in situ",
+            "options": [
+              "All",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 3"
+            ],
+            "correct": 0,
+            "explanation": "All listed histological changes are associated with cigarette smoking. Basal cell hyperplasia (1) is an early reactive change. Epithelial stratification (2) results from chronic irritation. Squamous metaplasia (3) replaces ciliated epithelium with persistent exposure. With progression, carcinoma in situ (4) may develop.",
+            "past_paper": true
+          },
+          {
+            "question": "What kind of disease is pulmonary echinococcosis?",
+            "options": [
+              "Autoimmune",
+              "Infectious",
+              "Parasitic",
+              "Inheritable"
+            ],
+            "correct": 2,
+            "explanation": "Pulmonary echinococcosis is caused by the larval stage of Echinococcus granulosus, a tapeworm. It is therefore a parasitic disease. It is not autoimmune, not a primary bacterial infectious disease, and not inheritable.",
+            "past_paper": true
+          },
+          {
+            "question": "The rupture of a pulmonary hydatid cyst into the bronchi results in:\n1. Pleural empyema\n2. Tension pneumothorax\n3. Expectoration of large amounts of transparent liquid\n4. Expectoration of pieces of chitin membrane",
+            "options": [
+              "2, 3",
+              "3, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "When a pulmonary hydatid cyst ruptures into the bronchi, the patient coughs up large amounts of transparent fluid (3) and pieces of chitin (laminated) membrane (4), which is characteristic. Pleural empyema (1) is a complication of rupture into the pleural cavity, not bronchus. Tension pneumothorax (2) is not typical of bronchial rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "What kind of sheath does the host organism create between lung tissue and a hydatid cyst?",
+            "options": [
+              "Chitin",
+              "Fibrous",
+              "Fibrin",
+              "Germinative"
+            ],
+            "correct": 1,
+            "explanation": "Between the lung tissue and the hydatid cyst, the host organism forms a fibrous capsule (pericyst) as a protective reaction. The chitin layer and germinative layer belong to the parasite itself. Fibrin is part of inflammatory exudate, not the true capsule.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is NOT a characteristic phase in the development of pulmonary echinococcosis?",
+            "options": [
+              "Cyst absorption",
+              "Asymptomatic phase",
+              "Complications",
+              "Clinical manifestations"
+            ],
+            "correct": 0,
+            "explanation": "Pulmonary echinococcosis typically develops through phases of asymptomatic (silent), followed by clinical manifestations, and then complications such as rupture or suppuration. Cyst absorption is not a characteristic natural phase of pulmonary echinococcosis development.",
+            "past_paper": true
+          },
+          {
+            "question": "The stages of opened echinococcectomy of the lung are:\n1. Thoracotomy\n2. Puncture of cyst, aspiration of content\n3. Dissection of fibrous membrane\n4. Removal of chitin membrane and treatment of cavity with hypertonic solutions",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "All listed steps are included in opened echinococcectomy. Thoracotomy (1) provides access to the lung. Puncture of the cyst with aspiration of its contents (2) is performed to prevent spillage. The fibrous capsule is dissected (3) to expose the parasitic membranes. Finally, the chitin membrane is removed and the cavity treated with hypertonic solution (4) to destroy remaining scolices.",
+            "past_paper": true
+          },
+          {
+            "question": "The aim of surgical treatment of chronic pleural empyema includes:\n1. Removal of the fibrous peel\n2. Debridement of pleural space\n3. To allow the lung to expand fully\n4. Provide adequate ventilation",
+            "options": [
+              "3, 4",
+              "1, 3",
+              "All",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "All listed objectives are correct. Surgical treatment aims at removal of the fibrous peel (1) by decortication. It includes debridement of the pleural space (2) to eliminate infection. The goal is to allow full lung expansion (3). Restoring expansion ensures adequate ventilation (4).",
+            "past_paper": true
+          },
+          {
+            "question": "In acute mediastinitis, X-ray investigation shows:",
+            "options": [
+              "Lung hypoventilation",
+              "Pleural empyema",
+              "Mediastinal shift",
+              "Mediastinal shadow expansion"
+            ],
+            "correct": 3,
+            "explanation": "In acute mediastinitis, X-ray typically shows widening (expansion) of the mediastinal shadow due to inflammation and oedema. Lung hypoventilation is not a primary radiological sign. Pleural empyema is a separate condition. Mediastinal shift is more typical of tension pneumothorax or large effusions.",
+            "past_paper": true
+          },
+          {
+            "question": "The most informative investigation for suspected tracheal damage is:",
+            "options": [
+              "Tracheobronchoscopy",
+              "Oesophagoscopy",
+              "X-ray",
+              "Mediastinoscopy"
+            ],
+            "correct": 0,
+            "explanation": "Tracheobronchoscopy is the most informative method for suspected tracheal damage because it allows direct visualisation of the tracheal lumen and wall defects. Oesophagoscopy is used for suspected oesophageal injury. X-ray may show indirect signs (emphysema, pneumomediastinum) but is not definitive. Mediastinoscopy is not a primary diagnostic tool for acute tracheal injury.",
+            "past_paper": true
+          },
+          {
+            "question": "In acute mediastinitis, which signs indicate severe intoxication?\n1. Tachycardia\n2. Hectic temperature\n3. Increased venous pressure\n4. Chills",
+            "options": [
+              "1, 2",
+              "2, 4",
+              "1, 2, 3",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All listed manifestations are observed in severe intoxication from acute mediastinitis. Tachycardia (1) occurs due to systemic inflammatory response. Hectic (high swinging) temperature (2) is typical of severe purulent infection. Increased venous pressure (3) may occur due to mediastinal compression and septic state. Chills (4) are common in severe septic intoxication.",
+            "past_paper": true
+          },
+          {
+            "question": "A mediastinal tumour pressing on the recurrent laryngeal nerve generates:",
+            "options": [
+              "Horner syndrome",
+              "Hoarseness",
+              "Paralysis of the dome of the diaphragm",
+              "Disorder of pelvic organ function"
+            ],
+            "correct": 1,
+            "explanation": "Compression of the recurrent laryngeal nerve leads to vocal cord paralysis, resulting in hoarseness. Horner syndrome results from sympathetic chain involvement. Paralysis of the diaphragm dome occurs with phrenic nerve damage. Pelvic organ dysfunction is unrelated to mediastinal nerve compression.",
+            "past_paper": true
+          },
+          {
+            "question": "Which cyst is most often found in the posterior mediastinum?",
+            "options": [
+              "Thymic",
+              "Pericardial",
+              "Enterogenic",
+              "Bronchogenic"
+            ],
+            "correct": 2,
+            "explanation": "Cysts located in the posterior mediastinum are most commonly enterogenic (oesophageal duplication) cysts, arising from the primitive foregut. Thymic and pericardial cysts are typically found in the anterior or middle mediastinum. Bronchogenic cysts are usually located in the middle mediastinum.",
+            "past_paper": true
+          },
+          {
+            "question": "An enterogenic mediastinal cyst containing gastric mucosa is characterised by all EXCEPT:",
+            "options": [
+              "Bleeding",
+              "Wall ulceration",
+              "Perforation",
+              "Rare inflammatory process"
+            ],
+            "correct": 3,
+            "explanation": "Enterogenic cysts containing gastric mucosa can secrete acid, leading to ulceration of the wall, bleeding, and even perforation into adjacent structures. Therefore, inflammatory and destructive complications are NOT rare. The statement 'rare inflammatory process' is incorrect.",
+            "past_paper": true
+          },
+          {
+            "question": "CT and MRI of mediastinal tumours have the ability to determine:\n1. The localisation\n2. The relationship with adjacent organs\n3. The size and shape\n4. Morphological characteristics",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "CT and MRI accurately determine the localisation (1), relationship with adjacent organs (2), and size and shape (3) of mediastinal tumours. However, they cannot definitively determine morphological characteristics (4) \u2014 histological type requires biopsy and histopathological examination. The correct options are 1, 2, and 3.",
+            "past_paper": true
+          },
+          {
+            "question": "Neurogenic mediastinal tumours most often are located in the:\n1. Anterior mediastinum\n2. Posterior mediastinum\n3. Costosternal corner\n4. Paravertebral gutter",
+            "options": [
+              "1, 3",
+              "2, 4",
+              "1, 4",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Neurogenic mediastinal tumours most commonly arise in the posterior mediastinum (2) and are typically located in the paravertebral gutter (4) along the sympathetic chain and intercostal nerves. The anterior mediastinum is more commonly associated with thymic tumours. The costosternal corner is not a typical site for neurogenic tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "In surgical treatment of purulent mediastinitis, which steps are included?\n1. Adequate access based on localisation of process\n2. Opening of inflammatory focus\n3. Elimination of the cause\n4. Drainage",
+            "options": [
+              "All",
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "All steps are included. Adequate surgical access depending on localisation (1) is essential to reach the mediastinum. Opening the inflammatory focus (2) evacuates pus. Elimination of the cause (3) (e.g., oesophageal perforation) is essential. Proper drainage (4) must be established for continuous evacuation. Without adequate access, effective drainage and source elimination are impossible.",
+            "past_paper": true
+          },
+          {
+            "question": "Which one is an acquired mediastinal cyst?",
+            "options": [
+              "Bronchogenic",
+              "Pericardial",
+              "Thymic",
+              "Hydatid"
+            ],
+            "correct": 3,
+            "explanation": "A hydatid cyst of the mediastinum is an acquired parasitic lesion caused by Echinococcus. Bronchogenic, pericardial, and thymic cysts are congenital in origin. Thus, the only acquired mediastinal cyst listed is hydatid.",
+            "past_paper": true
+          },
+          {
+            "question": "About teratomas, all are true EXCEPT:",
+            "options": [
+              "Arises from nerve cells",
+              "Contains elements of skin and hair",
+              "Appears as a disturbance of embryogenesis",
+              "Can be benign or malignant"
+            ],
+            "correct": 0,
+            "explanation": "Teratomas are germ cell tumours \u2014 they do NOT arise from nerve cells (that would be neurogenic tumours). They typically contain elements such as skin, hair, and teeth derived from multiple germ layers. They result from disturbance of embryogenesis and can be benign or malignant. The false statement is that they arise from nerve cells.",
+            "past_paper": true
+          },
+          {
+            "question": "Which methods are informative for diagnosis of mediastinal tumours?\n1. X-ray\n2. Pneumomediastinography\n3. CT\n4. Mediastinoscopy",
+            "options": [
+              "2, 3, 4",
+              "All",
+              "1, 3, 4",
+              "1, 3"
+            ],
+            "correct": 1,
+            "explanation": "All listed methods are informative. Chest X-ray (1) is the initial investigation showing mediastinal widening or mass shadow. Pneumomediastinography (2) helps outline mediastinal structures (historically used). CT scan (3) provides detailed information about size, location, and relation to adjacent organs. Mediastinoscopy (4) allows direct visualisation and biopsy for histological diagnosis.",
+            "past_paper": true
+          },
+          {
+            "question": "For pericardial cyst diagnosis, all methods are informative EXCEPT:",
+            "options": [
+              "Echocardiography",
+              "Bronchoscopy",
+              "CT",
+              "X-ray"
+            ],
+            "correct": 1,
+            "explanation": "Pericardial cyst is well diagnosed by echocardiography (showing a cystic lesion adjacent to the heart), CT (defining size, location, and relation to surrounding structures), and chest X-ray (revealing a well-defined mass near the cardiophrenic angle). Bronchoscopy is not informative, as the cyst does not arise from or communicate with the bronchial tree.",
+            "past_paper": true
+          },
+          {
+            "question": "For mediastinal bronchogenic cyst diagnosis, the most informative methods are:\n1. Oesophagoscopy\n2. Echocardiography\n3. CT\n4. X-ray",
+            "options": [
+              "3, 4",
+              "All",
+              "1, 2",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "The most informative methods for diagnosing a mediastinal bronchogenic cyst are CT (3) and chest X-ray (4). CT precisely defines the cyst's location, size, and relation to surrounding structures. X-ray may show a well-defined mediastinal mass. Oesophagoscopy and echocardiography are not primary diagnostic tools for bronchogenic cysts.",
+            "past_paper": true
+          },
+          {
+            "question": "According to histological origin, mediastinal tumours can be:\n1. Neurogenic\n2. Mesenchymal\n3. Lymphogenic\n4. Dysembryogenetic",
+            "options": [
+              "1, 2",
+              "1, 3, 4",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All listed groups are included in the histological classification of mediastinal tumours. Neurogenic (1) tumours arise from nerve elements. Mesenchymal (2) tumours originate from connective tissue structures. Lymphogenic (3) tumours arise from lymphoid tissue (e.g., lymphomas). Dysembryogenetic (4) tumours develop from embryonic remnants (e.g., teratomas).",
+            "past_paper": true
+          },
+          {
+            "question": "In case of endoscopy for oesophageal or bronchial injury, which findings can be defined?\n1. Level of damage\n2. Pus accumulation in the mediastinum\n3. Extension of damage\n4. Air accumulation in the mediastinum",
+            "options": [
+              "1, 3, 4",
+              "1, 3",
+              "1, 2",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Endoscopy allows direct visualisation to determine the level (1) and extent/extension (3) of mucosal injury. Pus accumulation (2) and air in the mediastinum (4) are better detected by imaging (e.g., CT), not endoscopy. Thus, endoscopy defines the level and extent of injury only.",
+            "past_paper": true
+          },
+          {
+            "question": "Neurofibromas develop from:\n1. Ganglionic cells\n2. Nerve sheaths\n3. Nerve fibres\n4. Nervous ganglions",
+            "options": [
+              "1, 2, 4",
+              "2, 3",
+              "All",
+              "1, 2"
+            ],
+            "correct": 1,
+            "explanation": "Neurofibromas develop from the nerve sheath (Schwann cells and perineural cells) and are intimately related to nerve fibres. They do not arise from ganglionic cells or nervous ganglions (which are collections of neuronal cell bodies). Hence options 1 and 4 are incorrect, while 2 and 3 are correct. Exam tip: Neurofibroma = nerve sheath tumour with mixed cellular origin, unlike schwannoma which is purely from Schwann cells.",
+            "past_paper": true
+          },
+          {
+            "question": "Which mediastinal tumour arises from Schwann's sheath?",
+            "options": [
+              "Paraganglioma",
+              "Chemodectoma",
+              "Neurinoma",
+              "Ganglioneuroma"
+            ],
+            "correct": 2,
+            "explanation": "Neurinoma (schwannoma) arises from the Schwann cells of the nerve sheath, as found in posterior mediastinal neurogenic tumours. Paraganglioma and chemodectoma arise from paraganglionic (neuroendocrine) tissue, not Schwann cells. Ganglioneuroma arises from sympathetic ganglion cells, not the nerve sheath. Exam tip: Posterior mediastinal tumour in adults \u2014 think schwannoma (neurinoma) first.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of mediastinal tumours, CT and MRI have the advantage in determining:\n1. The localisation\n2. The relationship with adjacent organs\n3. The size and shape\n4. Morphological characteristics",
+            "options": [
+              "All",
+              "1, 2, 3",
+              "1, 2, 4",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "CT and MRI help determine the exact localisation of the mediastinal mass, its relationship with adjacent structures (heart, vessels, trachea), and accurately assess its size and shape. They also provide information about morphological characteristics (solid/cystic nature, fat, calcification, invasion). Exam tip: CT = best initial modality; MRI = superior for vascular and spinal involvement assessment.",
+            "past_paper": true
+          },
+          {
+            "question": "The consequences of purulent infiltration of the mediastinum are all EXCEPT:",
+            "options": [
+              "Dyspnoea",
+              "Dysphagia",
+              "Superior vena cava syndrome",
+              "Purulent sputum production"
+            ],
+            "correct": 3,
+            "explanation": "Purulent infiltration of the mediastinum (mediastinitis) leads to dyspnoea due to compression and inflammation, dysphagia from oesophageal involvement, and superior vena cava syndrome from mediastinal compression. Purulent sputum production is a feature of pulmonary suppuration, not mediastinal infection itself. Exam tip: Mediastinitis = compression symptoms (airway, oesophagus, SVC), not bronchial sputum production.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of posterior mediastinitis, pain radiates to:\n1. Interscapular space\n2. Epigastric region\n3. Behind the sternum\n4. Occipital region",
+            "options": [
+              "All",
+              "2, 3",
+              "1, 4",
+              "1, 2"
+            ],
+            "correct": 3,
+            "explanation": "In posterior mediastinitis, pain typically radiates to the interscapular space due to retrosternal and paravertebral involvement, and may also radiate to the epigastric region because of proximity to the oesophagus and posterior mediastinal structures. Retrosternal pain is more typical of anterior mediastinal involvement. Occipital radiation is not characteristic. Exam tip: Posterior mediastinum \u2192 think back (interscapular) pain.",
+            "past_paper": true
+          },
+          {
+            "question": "According to prevalence, acute mediastinitises are divided into:\n1. Acute lymphadenitis\n2. Abscess\n3. Phlegmon\n4. Emphysematous",
+            "options": [
+              "2, 3, 4",
+              "All",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "According to morphological form, acute mediastinitis is divided into abscess (localised), phlegmon (diffuse), and emphysematous (gas-forming infection) types. Acute lymphadenitis is inflammation of mediastinal lymph nodes and is not classified as a form of mediastinitis itself. Exam tip: Acute mediastinitis forms = abscess, phlegmon, emphysematous.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute mediastinitis, appearance of subcutaneous emphysema is due to:\n1. Presence of anaerobic infection\n2. Damage of trachea\n3. Pressure on upper vena cava\n4. Oedema of mediastinal fat",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 0,
+            "explanation": "Subcutaneous emphysema in acute mediastinitis occurs due to anaerobic infection producing gas in the mediastinum, and damage to the trachea or major airways allowing air to escape into mediastinal and subcutaneous tissues. Compression of the superior vena cava and oedema of mediastinal fat do not produce subcutaneous emphysema. Exam tip: Subcutaneous emphysema = air leak (airway injury) or gas-forming infection.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of chronic mediastinitis, which findings are observed?\n1. Expressed intoxication\n2. Fibro-sclerotic process in cellular tissue\n3. Less intensity of symptoms\n4. Upper vena cava syndrome",
+            "options": [
+              "All",
+              "2, 3, 4",
+              "2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Chronic mediastinitis is characterised by a fibro-sclerotic process in the mediastinal cellular tissue, symptoms of less intensity compared with the acute form, and compression complications such as superior vena cava syndrome. Expressed intoxication is typical of acute mediastinitis, not chronic. Exam tip: Chronic mediastinitis = fibrosis + compression signs; Acute = severe toxicity.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute mediastinitis, severe intoxication is manifested with:\n1. Tachycardia\n2. Hectic temperature\n3. Increased venous pressure\n4. Chills",
+            "options": [
+              "2, 4",
+              "All",
+              "1, 2",
+              "1, 2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Severe intoxication in acute mediastinitis manifests with all listed signs. Tachycardia is due to systemic sepsis. Hectic (high, swinging) temperature is typical of severe infection. Increased venous pressure results from mediastinal inflammation and compression. Chills (rigors) are part of the septic response. Exam tip: Acute mediastinitis = septic picture \u2192 high fever + tachycardia + chills + haemodynamic disturbance.",
+            "past_paper": true
+          },
+          {
+            "question": "In surgical treatment of purulent mediastinitis, which components are included?\n1. Adequate access due to localisation of process\n2. Opening of inflammatory focus\n3. Elimination of the cause\n4. Drainage",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All components are essential. Surgical management includes adequate access depending on localisation, opening of the purulent focus, elimination of the cause (e.g., oesophageal perforation, airway injury), and wide drainage of the mediastinum. Exam tip: Mediastinitis surgery = expose \u2192 open \u2192 eliminate cause \u2192 drain thoroughly.",
+            "past_paper": true
+          },
+          {
+            "question": "The pericardial cyst has the following characteristics:\n1. Frequently localised in the cardiodiaphragmatic corner\n2. Radiating pain to the interscapular space and neck\n3. Horner syndrome\n4. Echocardiography is informative",
+            "options": [
+              "3, 4",
+              "1, 3, 4",
+              "1, 2, 3",
+              "1, 4"
+            ],
+            "correct": 3,
+            "explanation": "Pericardial cysts are most commonly located in the cardiophrenic (cardiodiaphragmatic) angle, especially on the right side, and echocardiography is informative in identifying the cystic nature and relation to the heart. They are usually asymptomatic \u2014 radiating pain to the interscapular space and neck is not characteristic. Horner syndrome is related to apical lesions, not pericardial cysts. Exam tip: Well-defined mass at cardiophrenic angle + asymptomatic = think pericardial cyst.",
+            "past_paper": true
+          },
+          {
+            "question": "Invasion of bronchial wall cartilage and smooth muscle in bronchiectatic disease occurs due to:",
+            "options": [
+              "Purulent process",
+              "Mechanical damage",
+              "Radiation",
+              "Neoplastic process"
+            ],
+            "correct": 0,
+            "explanation": "In bronchiectasis, destruction and invasion of the bronchial wall cartilage and smooth muscle occur due to a chronic suppurative (purulent) infection, which leads to progressive wall damage and dilatation. Mechanical damage alone does not cause the characteristic inflammatory destruction. Radiation and neoplastic processes are not the cause. Exam tip: Bronchiectasis = chronic infection \u2192 destruction of muscle & cartilage \u2192 irreversible bronchial dilatation.",
+            "past_paper": true
+          },
+          {
+            "question": "In bronchiectatic disease, microscopic investigation reveals all mentioned EXCEPT:",
+            "options": [
+              "Leucocyte infiltration",
+              "Fibrotic tissue growth",
+              "Bronchial wall thickening and dilatation",
+              "Hypertrophy of muscle fibres"
+            ],
+            "correct": 3,
+            "explanation": "Microscopically, bronchiectasis shows leucocytic infiltration, fibrosis, and bronchial wall thickening with dilatation due to chronic suppurative inflammation. There is destruction, not hypertrophy, of smooth muscle and elastic tissue. Therefore, hypertrophy of muscle fibres is not a typical microscopic feature. Exam tip: Bronchiectasis = chronic infection \u2192 destruction + fibrosis, NOT muscle hypertrophy.",
+            "past_paper": true
+          },
+          {
+            "question": "These features are characteristic of bronchiectatic disease EXCEPT:",
+            "options": [
+              "Increase of intrabronchial pressure",
+              "Pulmonary diseases of childhood",
+              "Pyogenic inflammation of the pleural cavity",
+              "Developing after measles and whooping cough"
+            ],
+            "correct": 2,
+            "explanation": "Bronchiectasis is characterised by increased intrabronchial pressure and commonly develops after childhood pulmonary infections, especially measles and whooping cough. It is a chronic suppurative disease of the bronchi, not a primary pyogenic inflammation of the pleural cavity \u2014 pleural empyema is a separate condition that may complicate bronchiectasis. Exam tip: Bronchiectasis = dilated bronchi after childhood infections; pleural pus = empyema.",
+            "past_paper": true
+          },
+          {
+            "question": "The cause of expansion of the affected bronchus in bronchiectatic disease is:",
+            "options": [
+              "Increase in pressure of pleural cavity",
+              "Heavy physical workload",
+              "Cough",
+              "Alcohol abuse"
+            ],
+            "correct": 2,
+            "explanation": "In bronchiectasis, repeated violent coughing increases intrabronchial pressure, leading to progressive dilatation of weakened bronchial walls. Increased pleural pressure does not directly cause bronchial expansion. Heavy physical workload and alcohol abuse are not causative factors. Exam tip: Bronchiectasis = infection + obstruction + increased intrabronchial pressure (cough) \u2192 irreversible dilatation.",
+            "past_paper": true
+          },
+          {
+            "question": "Bronchiectatic disease is characterised by all EXCEPT:",
+            "options": [
+              "Sputum can be mucopurulent",
+              "Intensive sputum production observed in the evening hours",
+              "Sputum production up to 500 mL during exacerbation",
+              "Sputum production stronger with postural position changes"
+            ],
+            "correct": 1,
+            "explanation": "Bronchiectasis is characterised by mucopurulent sputum, often copious in amount (up to 500 mL/day during exacerbations), and expectoration typically increased with postural changes due to drainage of dilated bronchi. However, sputum production is usually more abundant in the morning, not the evening. Exam tip: Bronchiectasis = morning 'mouthful' of sputum + postural drainage effect.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of closed chest injury, which complication may develop \u2014 all mentioned EXCEPT:",
+            "options": [
+              "Haemothorax",
+              "Sucking wound",
+              "Rib fracture",
+              "Rupture of the bronchus"
+            ],
+            "correct": 1,
+            "explanation": "Closed chest injuries can cause haemothorax, rib fractures, and even bronchial rupture due to blunt trauma. A sucking wound (open pneumothorax) occurs only in penetrating/open chest trauma, not in closed injuries. Exam tip: Closed trauma \u2192 internal damage; Open trauma \u2192 sucking chest wound.",
+            "past_paper": true
+          },
+          {
+            "question": "The sequel of rib fractures can be damage of:\n1. Heart\n2. Spleen\n3. Spinal cord\n4. Intercostal arteries",
+            "options": [
+              "All",
+              "3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Rib fractures may injure the heart (especially left anterior ribs), spleen (left lower ribs), and intercostal arteries, leading to haemothorax. They do not directly damage the spinal cord, as this requires vertebral column injury rather than rib fracture alone. Exam tip: Lower rib fractures \u2192 think spleen (left) and liver (right); sharp fragments \u2192 vascular injury.",
+            "past_paper": true
+          },
+          {
+            "question": "Following complications may develop after rib fracture EXCEPT:",
+            "options": [
+              "Pneumothorax",
+              "Lung emphysema",
+              "Subcutaneous emphysema",
+              "Haemothorax"
+            ],
+            "correct": 1,
+            "explanation": "Rib fractures commonly lead to pneumothorax, haemothorax, and subcutaneous emphysema due to lung laceration and air leakage into tissues. However, lung emphysema (chronic alveolar overdistension) is not a complication of rib fracture \u2014 it is a chronic pulmonary condition, not an acute traumatic sequel. Exam tip: Rib fracture \u2192 think air (pneumothorax, subcutaneous emphysema) and blood (haemothorax), not chronic emphysema.",
+            "past_paper": true
+          },
+          {
+            "question": "In which case of closed chest injury does mediastinal emphysema occur?",
+            "options": [
+              "Lung contusion",
+              "Lung injury",
+              "Main bronchus injury",
+              "Parietal pleura injury"
+            ],
+            "correct": 2,
+            "explanation": "Mediastinal emphysema (pneumomediastinum) in closed chest trauma most commonly occurs due to injury of the main bronchus, allowing air to escape into the mediastinum. Lung contusion does not typically cause air leakage into the mediastinum. Parietal pleura injury leads to pneumothorax rather than mediastinal emphysema. Exam tip: Pneumomediastinum after blunt trauma \u2192 suspect major airway (bronchial) rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "Urgent thoracotomy is indicated in all cases EXCEPT:",
+            "options": [
+              "Extensive lung injury",
+              "Suspicion of thoracoabdominal injury",
+              "Injury of trachea and main bronchi",
+              "Multiple fractures of ribs"
+            ],
+            "correct": 3,
+            "explanation": "Urgent thoracotomy is indicated in extensive lung injury, suspected thoracoabdominal injury, and injury to the trachea or main bronchi, as these are life-threatening conditions requiring surgical intervention. Multiple rib fractures alone are usually managed conservatively (analgesia, respiratory support) unless associated with major complications. Exam tip: Thoracotomy = major airway injury, massive bleeding, or combined thoracoabdominal trauma \u2014 not isolated rib fractures.",
+            "past_paper": true
+          },
+          {
+            "question": "At closed chest injury, the therapeutic approach includes measures against:\n1. Pain\n2. Respiratory and heart failure\n3. Asphyxia\n4. Bronchial haemorrhage",
+            "options": [
+              "All",
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Management of closed chest injury includes all listed measures: pain control (adequate analgesia to allow proper ventilation), management of respiratory and cardiac failure (oxygen, ventilatory support, circulatory stabilisation), treatment of asphyxia (ensuring airway patency), and control of bronchial haemorrhage (airway protection). Exam tip: Chest trauma management = ABC first (Airway, Breathing, Circulation) + pain control.",
+            "past_paper": true
+          },
+          {
+            "question": "After chest trauma, which activities are directed to lung expansion?\n1. Blood and air aspiration from pleural cavity\n2. Aspiration from bronchi lumen\n3. Pulmonary and pleural infectious complications prevention\n4. Pericardial cavity decompression",
+            "options": [
+              "1, 2, 4",
+              "1, 2, 3",
+              "All",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "After chest trauma, lung expansion is promoted by aspiration of blood and air from the pleural cavity (tube thoracostomy) to relieve pneumothorax/haemothorax, aspiration of bronchial secretions to clear airway obstruction, and prevention of pulmonary and pleural infection to maintain lung re-expansion. Pericardial cavity decompression is done for cardiac tamponade and is not directly aimed at lung expansion. Exam tip: Lung expansion after trauma = clear pleural space + clear airway + prevent infection.",
+            "past_paper": true
+          },
+          {
+            "question": "The generation of primary empyema occurs after:\n1. Penetrating trauma\n2. Diagnostic actions in the pleural cavity\n3. Surgery on the organs of the chest\n4. Spreading from lung abscess",
+            "options": [
+              "All",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Primary empyema develops due to direct infection of the pleural cavity, such as after penetrating trauma, diagnostic pleural procedures (e.g., thoracentesis), or thoracic surgery. Spread from a lung abscess represents secondary empyema (extension from adjacent pulmonary infection), not primary. Exam tip: Primary empyema = direct pleural contamination; Secondary empyema = spread from lung infection.",
+            "past_paper": true
+          },
+          {
+            "question": "The aim of surgical treatment of chronic pleural empyema includes:\n1. Removal of the fibrous peel\n2. Debridement of pleural space\n3. To allow the lung to expand fully",
+            "options": [
+              "1 only",
+              "1, 2",
+              "2, 3",
+              "All mentioned"
+            ],
+            "correct": 3,
+            "explanation": "The aim of surgery in chronic pleural empyema includes removal of the fibrous peel (decortication) which traps the lung, debridement and clearance of the infected pleural space, and allowing full lung re-expansion to obliterate the empyema cavity. Exam tip: Chronic empyema \u2192 thick fibrous cortex \u2192 treatment = decortication to free the lung.",
+            "past_paper": true
+          },
+          {
+            "question": "The causes of secondary pleural empyema include:\n1. Pneumonia\n2. Lung gangrene\n3. Bronchiectatic disease\n4. Purulent cyst",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "Secondary pleural empyema results from spread of infection from adjacent pulmonary pathology. Common causes include pneumonia, lung gangrene, and bronchiectatic disease due to extension of suppuration into the pleural space. A purulent cyst of the lung can also rupture into the pleural cavity leading to empyema. Exam tip: Secondary empyema = complication of destructive lung infections.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of acute suppurative pleurisy, all are observed EXCEPT:",
+            "options": [
+              "High fever",
+              "Increase in dry cough",
+              "Chest pain",
+              "Excessive sweating"
+            ],
+            "correct": 1,
+            "explanation": "Acute suppurative pleurisy is characterised by high fever, chest pain, and systemic toxic features such as excessive sweating due to infection. Cough, if present, is usually productive or associated with underlying lung disease \u2014 a characteristic increase in dry cough is not a defining feature. Exam tip: Empyema = fever + pleuritic chest pain + toxicity, not a prominent dry cough.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of pleural cavity abscess opening and communication formation with a bronchus, all are seen EXCEPT:",
+            "options": [
+              "Enlargement of borders of dull sound on percussion",
+              "Cough increase",
+              "Presence of tympanic sound above dullness on percussion",
+              "Large quantity of purulent sputum production"
+            ],
+            "correct": 0,
+            "explanation": "When a pleural abscess opens into a bronchus, there is sudden increase in cough, large quantities of purulent sputum expectorated, and appearance of tympanic note above dullness due to air entering the pleural cavity. However, enlargement of dullness on percussion is not expected \u2014 instead, air entry reduces uniform dullness. Exam tip: Empyema rupture \u2192 sudden massive purulent sputum + air-fluid level signs.",
+            "past_paper": true
+          },
+          {
+            "question": "The sources of infection from the chest wall which may cause pleural empyema are:\n1. Wound\n2. Subphrenic abscess\n3. Osteomyelitis of the rib\n4. Bronchopleural fistula",
+            "options": [
+              "2, 3",
+              "1, 3",
+              "1, 4",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "From the chest wall, infection may spread to the pleural cavity via wounds (penetrating trauma) and osteomyelitis of the rib which can extend inward to the pleura. A subphrenic abscess spreads from below the diaphragm, not from the chest wall. A bronchopleural fistula originates from the bronchial tree, not the chest wall. Exam tip: Chest wall sources = direct extension (wound, rib osteomyelitis).",
+            "past_paper": true
+          },
+          {
+            "question": "For chronic lung abscess, which features are characteristic?\n1. Increasing quantity of slough in sputum\n2. Haemoptysis\n3. Weight loss\n4. Allergic reactions",
+            "options": [
+              "1, 2, 4",
+              "2, 3",
+              "1, 2, 3",
+              "All"
+            ],
+            "correct": 2,
+            "explanation": "Chronic lung abscess is characterised by persistent purulent sputum with increasing slough due to ongoing suppuration, haemoptysis from erosion of bronchial vessels, and weight loss from chronic infection and sepsis. Allergic reactions are not a characteristic feature of chronic lung abscess. Exam tip: Chronic abscess = prolonged sepsis \u2192 foul sputum + haemoptysis + weight loss.",
+            "past_paper": true
+          },
+          {
+            "question": "Lung abscess is characterised by all EXCEPT:",
+            "options": [
+              "Normal lung tissue is demarcated by pyogenic capsule",
+              "There may be a few cavities",
+              "Can involve new parts of lung",
+              "It is a limited purulent destructive lung disease"
+            ],
+            "correct": 2,
+            "explanation": "A lung abscess is a localised purulent destructive disease of the lung, demarcated from normal lung tissue by a pyogenic capsule, and may occasionally have more than one cavity. Progressive involvement of new lung areas is characteristic of gangrene, not a typical localised lung abscess. Exam tip: Abscess = localised + capsule; Gangrene = spreading necrosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Lung gangrene differs from abscess by the following clinical signs:\n1. Severe intoxication\n2. Painful cough with foul-smelling sputum\n3. Clouding of consciousness\n4. Pulmonary bleeding",
+            "options": [
+              "2, 3, 4",
+              "All",
+              "1, 3",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Lung gangrene is characterised by all listed signs. Severe intoxication occurs due to extensive necrosis. There is a painful cough with foul-smelling (putrid) sputum, more marked than in abscess. Clouding of consciousness may occur due to severe sepsis and toxaemia. Pulmonary bleeding is more common because of widespread tissue destruction and vessel erosion. Exam tip: Gangrene = diffuse necrosis + severe sepsis + putrid sputum + systemic toxicity.",
+            "past_paper": true
+          },
+          {
+            "question": "The tumours most often contributing to lung abscess formation are:\n1. Main bronchus cancer\n2. Bronchial aspiration with tumour pieces\n3. Endobronchial benign tumour growth\n4. Lobar bronchus cancer",
+            "options": [
+              "3, 4",
+              "1, 2, 4",
+              "All",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Lung abscess commonly develops due to bronchial obstruction by tumours leading to distal infection and suppuration. This includes main bronchus cancer and lobar bronchus cancer causing obstruction, endobronchial benign tumours which can also obstruct and predispose to abscess formation, and aspiration of tumour fragments which may further contribute to infection. All listed mechanisms may contribute. Exam tip: Any obstructing endobronchial lesion (benign or malignant) \u2192 think post-obstructive pneumonia \u2192 lung abscess.",
+            "past_paper": true
+          },
+          {
+            "question": "What changes does the echinococcosis embryo cause during growth in the lung?\n1. Haemorrhage\n2. Inflammatory infiltration\n3. Lung atelectasis\n4. Emphysema",
+            "options": [
+              "1, 2, 3",
+              "2, 4",
+              "1, 2",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "During growth of a hydatid (echinococcal) cyst in the lung, it may cause haemorrhage due to pressure and erosion of surrounding tissue, inflammatory infiltration around the cyst wall as a host reaction, compression of adjacent lung leading to atelectasis, and obstructive effects producing compensatory emphysema in surrounding lung tissue. Exam tip: Expanding hydatid cyst = pressure effects \u2192 collapse + compensatory overinflation.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of pulmonary hydatid cyst death and partial liquid absorption, X-ray and bronchography show:\n1. Sickle lighting on the upper pole of the cyst\n2. Symptom of swimming membrane\n3. Bronchiectasis\n4. Contrast accumulation between fibrous and chitin membranes",
+            "options": [
+              "All",
+              "1, 2, 4",
+              "1, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "When a pulmonary hydatid cyst dies and partially empties, imaging shows the sickle sign (crescent of air at upper pole) due to air between pericyst and laminated membrane, the 'swimming membrane' sign from detached endocyst floating in fluid, and on bronchography contrast accumulation between the fibrous (pericyst) and chitin (endocyst) membranes. Bronchiectasis is not a direct radiological sign of cyst death. Exam tip: Air + detached membrane = crescent sign + water-lily (floating membrane) sign.",
+            "past_paper": true
+          },
+          {
+            "question": "Rupture of a hydatid cyst into the pleural cavity may generate:\n1. Asphyxia\n2. Urticaria on skin\n3. Frequent and superficial respiration\n4. Cardiac tamponade",
+            "options": [
+              "2, 3, 4",
+              "All",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 3,
+            "explanation": "Rupture of a hydatid cyst into the pleural cavity may cause asphyxia due to sudden airway obstruction or massive reaction, and may provoke allergic reactions such as urticaria from antigen release. Frequent and superficial respiration is not a specific defining feature. Cardiac tamponade does not occur from pleural rupture \u2014 it would require pericardial involvement. Exam tip: Hydatid rupture \u2192 think anaphylaxis + asphyxia risk.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of large superficially located lung echinococcus, which signs are observed?\n1. Dull percussion sound\n2. Tympanic percussion sound\n3. Noise of pleural friction on auscultation\n4. Weakening of breath on auscultation",
+            "options": [
+              "2, 3, 4",
+              "1, 3, 4",
+              "All",
+              "1, 3"
+            ],
+            "correct": 1,
+            "explanation": "A large superficially located lung echinococcus produces dull percussion sound due to the cystic fluid content, pleural friction rub if the cyst irritates the pleura, and weakened breath sounds over the lesion due to compression of lung tissue. Tympanic percussion sound is not typical unless the cyst has ruptured and contains air. Exam tip: Intact hydatid cyst = dullness + decreased breath sounds; air entry \u2192 tympany (after rupture).",
+            "past_paper": true
+          },
+          {
+            "question": "In case of suppuration of a pulmonary hydatid cyst, which symptoms are seen?\n1. High temperature\n2. Increase of mucopurulent sputum\n3. Sickle lighting on the upper pole of cyst on X-ray\n4. Large amount of transparent liquid excreted when torn into the bronchus",
+            "options": [
+              "1, 3",
+              "1, 2",
+              "2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "When a pulmonary hydatid cyst becomes suppurated (infected), it presents with high temperature due to secondary infection and increase in mucopurulent sputum from communication with bronchi. The sickle sign is a radiological sign of partial rupture with air entry, not specifically suppuration. Excretion of large amounts of transparent liquid is typical of fresh rupture of a non-infected cyst, not suppurated content. Exam tip: Suppurated hydatid cyst = fever + purulent sputum, not clear fluid expectoration.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is NOT a characteristic phase of pulmonary echinococcosis development?",
+            "options": [
+              "Symptom-free phase",
+              "Clinical manifestations",
+              "Complications",
+              "Cyst absorption"
+            ],
+            "correct": 3,
+            "explanation": "Pulmonary echinococcosis classically progresses through an asymptomatic (symptom-free) phase, phase of clinical manifestations, and phase of complications such as rupture or infection. Cyst absorption is not considered a typical developmental phase of pulmonary hydatid disease. Exam tip: Hydatid lung disease = silent \u2192 symptomatic \u2192 complicated (rupture/infection).",
+            "past_paper": true
+          },
+          {
+            "question": "Main bronchus cancer grows from all the following types of bronchi EXCEPT:",
+            "options": [
+              "Secondary division (lobar)",
+              "Main bronchus",
+              "Tertiary division (segmental)",
+              "Primary division"
+            ],
+            "correct": 2,
+            "explanation": "Main bronchus (central) cancer arises from the main bronchus and its primary/lobar (secondary) divisions. Tumours arising from tertiary (segmental) bronchi are considered peripheral, not main bronchus cancers. The tertiary division is the exception in the context of 'main bronchus cancer'. Exam tip: Central lung cancer = main + lobar bronchi; Peripheral = segmental and smaller bronchi.",
+            "past_paper": true
+          },
+          {
+            "question": "The signs and symptoms due to primary tumour of lung carcinoma are:\n1. Cough\n2. Clubbing\n3. Dyspnoea\n4. Weight loss",
+            "options": [
+              "2, 3, 4",
+              "1, 3, 4",
+              "2, 4",
+              "1, 3"
+            ],
+            "correct": 3,
+            "explanation": "Symptoms due to the primary tumour itself include cough from bronchial irritation/obstruction and dyspnoea due to airway narrowing. Clubbing is a paraneoplastic manifestation, not a direct local effect of the primary tumour. Weight loss is a systemic (constitutional) symptom, not specifically due to the local primary lesion. Exam tip: Primary tumour \u2192 local airway symptoms (cough, obstruction); systemic signs = weight loss, clubbing.",
+            "past_paper": true
+          },
+          {
+            "question": "General symptoms of lung cancer include all of the following EXCEPT:",
+            "options": [
+              "Dyspnoea",
+              "Appetite loss",
+              "Weight loss",
+              "Clubbing"
+            ],
+            "correct": 0,
+            "explanation": "General (constitutional) symptoms of lung cancer include loss of appetite, weight loss, and sometimes clubbing as a paraneoplastic manifestation. Dyspnoea is usually a local symptom due to airway obstruction or pleural involvement, not a general systemic symptom. Exam tip: General symptoms = cachexia-type features (weight loss, anorexia); Local symptoms = cough, dyspnoea, haemoptysis.",
+            "past_paper": true
+          },
+          {
+            "question": "The radical surgery of lung cancer includes:\n1. Tumour removal\n2. Regional lymph node dissection\n3. Removal of distant metastases\n4. Chest wall resection",
+            "options": [
+              "1, 3, 4",
+              "All",
+              "1, 2",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "Radical surgery for lung cancer includes complete tumour removal along with systematic regional lymph node dissection. Removal of distant metastases is not part of standard radical treatment, as their presence usually indicates non-operable (advanced) disease. Chest wall resection may be performed only if there is direct invasion, but is not a routine component of all radical surgeries. Exam tip: Radical lung cancer surgery = lobectomy/pneumonectomy + lymph node dissection.",
+            "past_paper": true
+          },
+          {
+            "question": "A tumour growing in the bronchus, having the role of a valve, can cause:",
+            "options": [
+              "Emphysema",
+              "Bronchiectasis",
+              "Atelectasis",
+              "Pneumosclerosis"
+            ],
+            "correct": 0,
+            "explanation": "A tumour growing inside the bronchus may act as a check-valve (ball-valve) mechanism, allowing air to enter during inspiration but preventing its exit during expiration. This leads to air trapping and obstructive (localised) emphysema distal to the obstruction. Complete obstruction would cause atelectasis, but a valve mechanism specifically produces emphysema. Bronchiectasia and pneumosclerosis are chronic secondary changes, not the immediate effect. Exam tip: Partial obstruction (valve) \u2192 emphysema; Complete obstruction \u2192 atelectasis.",
+            "past_paper": true
+          },
+          {
+            "question": "In which cases of benign lung tumour is lung resection indicated?\n1. Endobronchial deployment\n2. No extrabronchial extension\n3. Extrabronchial extension\n4. Secondary damage of lung",
+            "options": [
+              "All",
+              "3, 4",
+              "1, 2",
+              "1, 2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Lung resection in benign lung tumours is indicated when there is extrabronchial extension (making local endobronchial removal insufficient) and secondary damage of lung (e.g., recurrent infection, bronchiectasis, obstruction). If the tumour is purely endobronchial with no extrabronchial extension, bronchoscopic or limited local excision is preferred rather than lung resection. Exam tip: Benign tumour \u2192 preserve lung if possible; resection only if extension or secondary destruction.",
+            "past_paper": true
+          },
+          {
+            "question": "The following are found in lung hamartomas EXCEPT:",
+            "options": [
+              "Vascular tissue",
+              "Carcinoid",
+              "Fat tissue",
+              "Cartilage"
+            ],
+            "correct": 1,
+            "explanation": "Lung hamartoma is a benign tumour composed of disorganised but mature tissues normally found in the lung, including cartilage, fat tissue, and sometimes fibrous or vascular tissue. A carcinoid is a neuroendocrine tumour and is not a component of hamartoma. Exam tip: Pulmonary hamartoma = 'popcorn' calcification + cartilage + fat (benign lesion).",
+            "past_paper": true
+          },
+          {
+            "question": "For bronchopleural fistula, which of the following are true?\n1. It is the open type of chronic pleural empyema\n2. There is permanent transition of infection to the pleural cavity\n3. It is a communication between bronchus and empyema cavity\n4. This needs immediate evacuation of the pleura and intensive bronchopulmonary care",
+            "options": [
+              "2, 3, 4",
+              "1, 3, 4",
+              "All",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "All statements are correct. Bronchopleural fistula is a communication between a bronchus and the empyema cavity, representing the open type of chronic pleural empyema. There is a persistent passage of infection into the pleural cavity. Management requires urgent pleural evacuation and intensive bronchopulmonary care to control sepsis and allow lung re-expansion. Exam tip: Bronchopleural fistula = air + pus in pleural cavity + persistent infection \u2192 urgent drainage.",
             "past_paper": true
           }
         ]
