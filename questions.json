@@ -17431,14 +17431,1513 @@
             ],
             "correct": 2,
             "explanation": "Dysfunctional uterine bleeding (DUB) is a diagnosis of exclusion \u2014 abnormal uterine bleeding with no identifiable structural or systemic cause. Normal USS and biopsy with no pathology confirms DUB, most commonly due to anovulatory cycles."
+          },
+          {
+            "question": "The most important manifestation of myoma is:",
+            "options": [
+              "Sudden onset of pain",
+              "Amenorrhea",
+              "Local tenderness",
+              "Metrorrhagia"
+            ],
+            "correct": 3,
+            "explanation": "The most common and significant symptom of uterine fibroid is menstrual abnormality, especially menorrhagia or metrorrhagia. Metrorrhagia (irregular intermenstrual bleeding) is particularly associated with submucous fibroids due to increased endometrial surface area, impaired uterine contractility, and vascular congestion. Amenorrhea is not a feature; fibroids cause heavy bleeding, not absent menses.",
+            "past_paper": true
+          },
+          {
+            "question": "In fibroid which is not seen:",
+            "options": [
+              "Amenorrhea",
+              "Pelvic mass",
+              "Infertility",
+              "Menstrual irregularity"
+            ],
+            "correct": 0,
+            "explanation": "Fibroids typically cause heavy bleeding (menorrhagia, polymenorrhea), pelvic mass, and infertility (especially submucous and intramural types). Amenorrhea is NOT a feature \u2014 fibroids are estrogen-dependent and cause increased bleeding, not absent menses. Amenorrhea may occur after menopause or in pregnancy but is not characteristic of fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of menorrhagia in fibroid are the following, EXCEPT:",
+            "options": [
+              "Endometrial hyperplasia",
+              "Increased size of uterine cavity",
+              "Increased vascularity",
+              "Endometrial dysplasia"
+            ],
+            "correct": 3,
+            "explanation": "Menorrhagia in fibroid is due to: endometrial hyperplasia (relative hyperestrogenism), increased uterine cavity size (more surface area to shed), and increased vascularity/venous congestion. Endometrial dysplasia refers to premalignant epithelial changes and is not a mechanism of fibroid-related menorrhagia.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of myoma predispose to menorrhagia are: 1. Inhibiting uterine contractility  2. Degeneration  3. Erosion of endometrial mucosa  4. Increased surface area of endometrium",
+            "options": [
+              "1, 4",
+              "1, 2",
+              "2, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "All four mechanisms contribute to menorrhagia in fibroid: (1) inhibited uterine contractility prevents spiral arteriole compression; (2) degeneration causes vascular fragility; (3) erosion of endometrial mucosa especially with submucous fibroids; (4) increased endometrial surface area from enlarged cavity. Menorrhagia in fibroid is multifactorial.",
+            "past_paper": true
+          },
+          {
+            "question": "The hormone responsible for a positive 'Fern test' is:",
+            "options": [
+              "Estrogen",
+              "Progesterone",
+              "FSH",
+              "LH"
+            ],
+            "correct": 0,
+            "explanation": "The Fern test examines dried cervical mucus under a microscope. Estrogen increases sodium chloride in cervical mucus, causing salt crystallization into a fern-like arborization pattern. This is maximal at the periovulatory phase (peak estrogen). Progesterone makes mucus thick and viscid, inhibiting ferning. Used for ovulation detection and diagnosis of membrane rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "For the first half of the menstrual cycle it is typical: 1. Proliferation of endometrium  2. Secretion of endometrium  3. Desquamation of endometrium  4. Regeneration of endometrium",
+            "options": [
+              "1, 4",
+              "1, 3",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "The first half (follicular/proliferative phase) is driven by estrogen. Regeneration occurs early (basal layer rebuilds after menstruation) and proliferation follows (glandular and stromal growth). Secretion is the second half (luteal/progesterone phase). Desquamation occurs during menstruation, marking the beginning of a new cycle, not the proliferative phase.",
+            "past_paper": true
+          },
+          {
+            "question": "The average length of the menstrual cycle is:",
+            "options": [
+              "35 days",
+              "22 days",
+              "28 days",
+              "25 days"
+            ],
+            "correct": 2,
+            "explanation": "The average menstrual cycle length is 28 days, with a normal range of 21\u201335 days. The cycle comprises a variable follicular phase and a relatively constant luteal phase of ~14 days. The 28-day average assumes ovulation around day 14.",
+            "past_paper": true
+          },
+          {
+            "question": "Prominent features of basal body temperature at biphasic menstrual cycle: 1. Decrease in the first phase of menstrual cycle  2. Decrease on the eve of ovulation  3. Decrease 1\u20133 days prior to menstruation  4. Increase in the second phase of a cycle",
+            "options": [
+              "1, 4",
+              "1, 3, 4",
+              "All mentioned",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "All four are characteristic of biphasic BBT: BBT is lower in the follicular phase (estrogen dominant), a slight dip occurs just before ovulation (estrogen peak), BBT rises ~0.3\u20130.5\u00b0C after ovulation due to progesterone (thermogenic), and falls 1\u20133 days before menstruation as the corpus luteum regresses and progesterone drops.",
+            "past_paper": true
+          },
+          {
+            "question": "The term of the normal ovulation corresponds: 1. To the middle of the menstrual cycle  2. To day 14 in a 28-day cycle  3. To day 9 in a 26-day cycle  4. To the end of the follicular phase",
+            "options": [
+              "2, 3, 4",
+              "2, 3",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Ovulation occurs at the middle of the cycle (1), day 14 in a 28-day cycle (2), and marks the end of the follicular phase (4). In a 26-day cycle, ovulation occurs around day 12 (not day 9) \u2014 because the luteal phase is constant at ~14 days, so ovulation = cycle length minus 14. Day 9 in a 26-day cycle is incorrect.",
+            "past_paper": true
+          },
+          {
+            "question": "The establishment and maintenance of the menstrual cycle depend on:",
+            "options": [
+              "A follicular phase of variable length",
+              "Progesterone synthesis by the corpus luteum",
+              "Prolactin release by the anterior pituitary",
+              "Pulsatile secretion of GnRH"
+            ],
+            "correct": 3,
+            "explanation": "The fundamental requirement for the menstrual cycle is pulsatile GnRH secretion by the hypothalamus, which drives pituitary FSH/LH release and therefore ovarian function. Continuous GnRH suppresses gonadotropins. Progesterone from corpus luteum and follicular phase variability are downstream effects. Elevated prolactin actually suppresses GnRH and causes amenorrhea.",
+            "past_paper": true
+          },
+          {
+            "question": "Second half of the menstrual cycle is characterized by: 1. Increase of level FSH  2. Secretion of endometrium  3. Atrophy of endometrium  4. Basal body temperature above 37\u00b0C",
+            "options": [
+              "1, 2, 3",
+              "2, 3",
+              "2, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "The luteal (second) phase is characterized by: secretory endometrium (progesterone from corpus luteum induces glandular secretion), BBT >37\u00b0C (progesterone is thermogenic, raises BBT 0.3\u20130.5\u00b0C), and a slight late-luteal FSH rise (as corpus luteum regresses and progesterone/estrogen fall, negative feedback is removed, FSH begins rising to initiate the next cycle). Endometrial atrophy occurs in hypoestrogenic states, not in the luteal phase.",
+            "past_paper": true
+          },
+          {
+            "question": "The best predictor of ovulation is:",
+            "options": [
+              "Onset of the LH surge",
+              "Estrogen peak",
+              "Preovulatory rise in progesterone",
+              "Follicle-stimulating hormone (FSH) surge"
+            ],
+            "correct": 0,
+            "explanation": "Ovulation occurs 24\u201336 hours after the onset of the LH surge, making it the best predictor. Estrogen peak triggers the LH surge (earlier event, less precise). Progesterone rise occurs after ovulation (confirms but does not predict). The FSH mid-cycle surge is minor and not used clinically to predict ovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of the first phase of ovarian cycle: 1. Formation of the mature follicle  2. Formation of the primordial follicle  3. Atresia of the follicle  4. Increase of the level of estrogen",
+            "options": [
+              "2, 4",
+              "1, 2",
+              "1, 3, 4",
+              "1, 4"
+            ],
+            "correct": 3,
+            "explanation": "The first (follicular) phase is characterized by: maturation of the dominant (Graafian) follicle under FSH stimulation, and rising estrogen from the growing follicle (causing endometrial proliferation and eventually triggering the LH surge). Primordial follicles form during fetal life, not during the menstrual cycle. Atresia is a background process, not the defining feature.",
+            "past_paper": true
+          },
+          {
+            "question": "For the second phase of the ovarian cycle it is typical: 1. Atresia of the follicle  2. Formation of follicular cyst  3. Formation of the corpus luteum  4. Biosynthesis of progesterone",
+            "options": [
+              "3, 4",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "The second (luteal) phase begins after ovulation and is defined by: corpus luteum formation from the ruptured follicle, and progesterone biosynthesis (converting proliferative to secretory endometrium, raising BBT). Atresia is a non-specific background process. Follicular cyst formation is pathological, not a normal feature of the luteal phase.",
+            "past_paper": true
+          },
+          {
+            "question": "The basal body temperature is based on:",
+            "options": [
+              "FSH effect",
+              "Aldosterone hyperthermic effect",
+              "LH effect",
+              "Progesterone hyperthermic effect"
+            ],
+            "correct": 3,
+            "explanation": "After ovulation, the corpus luteum secretes progesterone, which has a thermogenic effect on the hypothalamus, raising BBT by ~0.3\u20130.5\u00b0C \u2014 producing the characteristic biphasic pattern. FSH drives follicular growth, LH triggers ovulation, and aldosterone regulates electrolytes. None of these cause the temperature rise; progesterone is responsible.",
+            "past_paper": true
           }
         ],
+        "Amenorrhea": [],
+        "Infections & STIs": [
+          {
+            "question": "Disease caused by Chlamydia trachomatis is:",
+            "options": [
+              "Gonorrhea",
+              "Lymphogranuloma venereum",
+              "Syphilis",
+              "Chancroid"
+            ],
+            "correct": 1,
+            "explanation": "Chlamydia trachomatis (serovars L1, L2, L3) causes lymphogranuloma venereum (LGV) \u2014 characterized by a small painless genital ulcer and painful inguinal lymphadenopathy (bubo). Other serovars cause non-gonococcal urethritis, cervicitis, and PID. Gonorrhea = N. gonorrhoeae; syphilis = T. pallidum; chancroid = H. ducreyi.",
+            "past_paper": true
+          },
+          {
+            "question": "Specific vaginitis comprises all, EXCEPT:",
+            "options": [
+              "Streptococcal",
+              "Gonococcal",
+              "Chlamydial",
+              "Trichomonal"
+            ],
+            "correct": 0,
+            "explanation": "Specific vaginitis is caused by identifiable STI pathogens: gonococcal (N. gonorrhoeae), chlamydial (C. trachomatis), and trichomonal (T. vaginalis). Streptococcal infection is part of non-specific bacterial vaginitis \u2014 it is not classified among the specific STI-related vaginitides.",
+            "past_paper": true
+          },
+          {
+            "question": "Fitz-Hugh\u2013Curtis Syndrome can be seen in patients with: 1. Chlamydiosis  2. Candidiasis  3. Gonorrhea  4. Trichomoniasis",
+            "options": [
+              "1, 2, 3",
+              "1, 3",
+              "2, 3, 4",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Fitz-Hugh-Curtis syndrome (perihepatitis associated with PID) is caused by ascending pelvic infection from C. trachomatis and N. gonorrhoeae, producing 'violin-string' adhesions between the liver capsule and peritoneum, with RUQ pain. Candida causes local vulvovaginitis only. Trichomonas causes vaginitis and does not ascend to cause perihepatitis.",
+            "past_paper": true
+          },
+          {
+            "question": "Gonorrhoea may cause all the following conditions, EXCEPT:",
+            "options": [
+              "Gastritis",
+              "Proctitis",
+              "Cystitis",
+              "Pharyngitis"
+            ],
+            "correct": 0,
+            "explanation": "N. gonorrhoeae infects columnar epithelium of the genital tract, rectum (proctitis \u2014 from anal intercourse), urethra/bladder (cystitis), and pharynx (pharyngitis \u2014 from orogenital contact). It does not infect gastric mucosa \u2014 gastritis is not a manifestation of gonorrhoea.",
+            "past_paper": true
+          },
+          {
+            "question": "Gonorrhoea may cause all the following conditions, EXCEPT:",
+            "options": [
+              "Skenitis",
+              "Bartolinitis",
+              "Urethritis",
+              "Endometritis"
+            ],
+            "correct": 3,
+            "explanation": "N. gonorrhoeae infects columnar and transitional epithelium. It commonly causes skenitis (Skene's/paraurethral glands), Bartolinitis (Bartholin's gland abscess), and urethritis (dysuria, purulent discharge). Primary isolated endometritis is NOT a typical presentation \u2014 gonorrhoea primarily affects the cervix (endocervicitis), and ascending infection causes PID, but endometritis as an isolated primary manifestation is not characteristic.",
+            "past_paper": true
+          },
+          {
+            "question": "Rare complications of gonorrhoea are the following, EXCEPT:",
+            "options": [
+              "Ophthalmitis",
+              "Pericarditis",
+              "Esophagitis",
+              "Meningitis"
+            ],
+            "correct": 2,
+            "explanation": "Rare disseminated complications of gonorrhoea include: ophthalmitis (gonococcal conjunctivitis, especially ophthalmia neonatorum), pericarditis (disseminated gonococcal infection via hematogenous spread), and meningitis (very rare, hematogenous). Esophagitis is NOT a recognized complication \u2014 gonorrhoea infects urethra, cervix, rectum, pharynx, and conjunctiva but not the esophagus.",
+            "past_paper": true
+          },
+          {
+            "question": "Mentioned conditions could be cause of female infertility: 1. Bartolinitis  2. Chlamydiosis  3. Bacterial vaginosis  4. Endometriosis",
+            "options": [
+              "1, 2",
+              "1, 2, 3",
+              "2, 3, 4",
+              "2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Chlamydia trachomatis is a major cause of PID, tubal damage, and peritubal adhesions leading to tubal infertility. Endometriosis causes infertility via adhesions, distorted pelvic anatomy, inflammatory mediators, and ovulatory dysfunction. Bartolinitis is a local vulvar infection that does not affect the tubes, uterus, or ovaries. Bacterial vaginosis alters vaginal flora but is not a direct established cause of infertility.",
+            "past_paper": true
+          },
+          {
+            "question": "Following are symptoms of vaginal candidiasis, EXCEPT:",
+            "options": [
+              "Dyspareunia",
+              "Profuse curdy discharge",
+              "Soreness and oedema of the vulva",
+              "Fishy odor"
+            ],
+            "correct": 3,
+            "explanation": "Vaginal candidiasis presents with: dyspareunia (from vulval inflammation), thick white curdy 'cottage cheese' discharge (characteristic, usually odorless), and vulval soreness, erythema, edema, and intense pruritus. Fishy odor is the hallmark of bacterial vaginosis \u2014 caused by amines from anaerobic bacteria. Candida discharge is odorless.",
+            "past_paper": true
+          }
+        ],
+        "Premalignant & Benign Cervical/Vaginal/Vulvar Disease": [
+          {
+            "question": "The followings are high-risk HPV types, EXCEPT:",
+            "options": [
+              "6",
+              "16",
+              "31",
+              "18"
+            ],
+            "correct": 0,
+            "explanation": "HPV types 16, 18, and 31 are high-risk (oncogenic) types associated with CIN and cervical cancer. HPV 6 is a low-risk type, commonly causing genital warts (condyloma acuminata) but not cervical cancer. HPV 16 and 18 together account for ~70% of cervical cancers.",
+            "past_paper": true
+          },
+          {
+            "question": "The cervical cancer prophylaxis includes: 1. Regular (at least once per 3 years) performing of Pap-smear test  2. Prophylaxis of STIs  3. Prescription of antibiotics  4. HPV vaccination",
+            "options": [
+              "1, 2, 3",
+              "1, 4",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Cervical cancer prevention includes: regular Pap smear screening (secondary prevention detecting CIN/early cancer), prophylaxis of STIs (safe sex reduces HPV transmission), and HPV vaccination (primary prevention against types 16, 18 etc.). Antibiotics do not prevent HPV \u2014 it is a viral infection. Antibiotic prescription is not part of cervical cancer prophylaxis.",
+            "past_paper": true
+          },
+          {
+            "question": "Papanicolaou test is used for diagnosis:",
+            "options": [
+              "Of ovarian dysfunction",
+              "Of endometrial cancer",
+              "Of myoma uteri",
+              "Of cervical lesions"
+            ],
+            "correct": 3,
+            "explanation": "The Pap smear is a cytological screening test specifically designed to detect cervical lesions including CIN (premalignant changes) and early carcinoma of the cervix by sampling cells from the transformation zone. It is not reliable for ovarian dysfunction, endometrial cancer, or fibroids \u2014 these require other investigations.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned are referred to the precancerous disease of cervix, EXCEPT:",
+            "options": [
+              "CIN 2",
+              "VIN 2",
+              "CIS",
+              "CIN 3"
+            ],
+            "correct": 1,
+            "explanation": "CIN 2 (moderate dysplasia), CIS \u2014 carcinoma in situ (full-thickness dysplasia, equivalent to CIN 3), and CIN 3 (severe dysplasia/HSIL) are all precancerous cervical lesions. VIN 2 (Vulvar Intraepithelial Neoplasia grade 2) is a precancerous lesion of the VULVA \u2014 not the cervix.",
+            "past_paper": true
+          },
+          {
+            "question": "The cervical dysplasia can be: 1. Mild  2. Moderate  3. Severe  4. Mixed",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Cervical dysplasia is classified under CIN: mild (CIN 1 \u2014 lower one-third of epithelium), moderate (CIN 2 \u2014 up to two-thirds), and severe (CIN 3 \u2014 >two-thirds or full-thickness, including carcinoma in situ). 'Mixed' is NOT a recognized classification grade \u2014 the accepted categories are mild, moderate, and severe only.",
+            "past_paper": true
+          }
+        ],
+        "Uterine Fibroids": [
+          {
+            "question": "All changes occur in fibroid uterus, except:",
+            "options": [
+              "Atrophy",
+              "Squamous metaplasia",
+              "Hyaline degeneration",
+              "Calcification"
+            ],
+            "correct": 1,
+            "explanation": "Recognized degenerative changes in fibroids include: atrophy (post-menopause due to falling estrogen), hyaline degeneration (most common, ~60%), and calcification (especially post-menopausal). Squamous metaplasia occurs in cervical or endometrial epithelium but NOT in fibroids \u2014 which are mesenchymal (smooth muscle origin) tumors with no epithelial component.",
+            "past_paper": true
+          },
+          {
+            "question": "The possible complications of fibroid are: 1. Menstrual disorder  2. Malignancy  3. Infection  4. Degeneration",
+            "options": [
+              "1, 2",
+              "1, 2, 3, 4",
+              "1, 2, 3",
+              "3, 4"
+            ],
+            "correct": 1,
+            "explanation": "All four are recognized complications of fibroid: menstrual disorder (most common \u2014 menorrhagia, polymenorrhea), malignancy (rare sarcomatous change, <1%), infection (especially submucous fibroids, may cause pyomyoma), and degeneration (hyaline, red, cystic, calcification). All are valid complications.",
+            "past_paper": true
+          },
+          {
+            "question": "Submucosal fibroid is detected by: 1. Hysteroscopy  2. Hysterosalpingography  3. USG (Transabdominal)  4. Laparoscopy",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "1, 2, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Submucous fibroids are best detected by: hysteroscopy (gold standard \u2014 direct visualization and allows resection), HSG (shows filling defect in uterine cavity), and transabdominal/transvaginal USS (identifies intracavitary lesions). Laparoscopy visualizes the external uterine surface only and cannot detect intracavitary lesions \u2014 it is NOT useful for submucous fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "All are used to shrink fibroids, except:",
+            "options": [
+              "Estrogen",
+              "Danazol",
+              "Progestogens",
+              "GnRH analogue"
+            ],
+            "correct": 0,
+            "explanation": "Fibroids are estrogen-dependent tumors \u2014 estrogen promotes growth and is contraindicated for shrinking. GnRH analogues (most effective) suppress FSH/LH causing a hypoestrogenic state; danazol creates a hypoestrogenic environment via synthetic androgen action; progestogens reduce menorrhagia and may provide some shrinkage. Estrogen stimulates fibroid growth.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible types of uterine body fibroid are: 1. Submucous  2. Intramural  3. Subserous  4. Cervical",
+            "options": [
+              "1, 2, 4",
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Fibroids of the uterine body are classified as: submucous (beneath endometrium, projects into cavity), intramural (most common, within myometrium), and subserous (beneath serosa, projects outward). Cervical fibroids arise from the cervix and are classified separately \u2014 not uterine body fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgical treatment for asymptomatic uterine myoma is indicated if: 1. The myoma is pedunculated  2. Tumour is larger than the size of 3 months pregnancy  3. Unexplained recurrent abortion  4. Size < 12 weeks of pregnancy",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "1, 2, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Surgery for asymptomatic fibroids is indicated when: pedunculated (risk of torsion and acute abdomen), larger than 3-month size (risk of degeneration, pressure symptoms, or sarcoma), or unexplained recurrent abortion (submucous/cavity-distorting fibroids). Size <12 weeks is NOT an indication \u2014 small asymptomatic fibroids are managed conservatively.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible changes to occur in a myoma are: 1. Red degeneration  2. Malignant change  3. Hyaline change  4. Infection",
+            "options": [
+              "1, 4",
+              "2, 3",
+              "2, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "All four changes can occur: red degeneration (carneous, common in pregnancy due to venous thrombosis), malignant change (rare leiomyosarcoma, <1%), hyaline change (most common degenerative change), and infection (especially submucous fibroids, may cause pyomyoma). All are recognized pathological changes.",
+            "past_paper": true
+          },
+          {
+            "question": "Secondary changes of fibroid is due to: 1. Degenerations  2. Infection  3. Necrosis  4. Rupture of capsules",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Secondary changes in fibroid occur primarily due to vascular insufficiency and include: degeneration (hyaline, red, cystic, calcification), infection (particularly submucous fibroids), and necrosis (from severe vascular compromise). Capsule rupture is NOT a recognized secondary change \u2014 fibroids are well-encapsulated with a pseudocapsule that does not typically rupture as a pathological event.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following are characteristic for fibroid: 1. Usually malignant  2. Often before 20 years  3. Usually asymptomatic  4. More common in nulliparous",
+            "options": [
+              "1, 2",
+              "2, 3",
+              "3, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Fibroids are typically asymptomatic (many found incidentally) and more common in nulliparous women (parity appears protective). They are NOT usually malignant (benign tumors, sarcomatous change <1%) and NOT common before 20 years (estrogen-dependent, most common in 30\u201340-year-olds in reproductive age).",
+            "past_paper": true
+          },
+          {
+            "question": "The following statements are true, EXCEPT:",
+            "options": [
+              "Myomas are malignant tumors",
+              "Myomas are firm in consistency",
+              "Myomas can arise from the round ligament",
+              "Myomas are encapsulated"
+            ],
+            "correct": 0,
+            "explanation": "Myomas are benign smooth muscle tumors \u2014 malignant transformation (leiomyosarcoma) is rare (<1%). They are firm in consistency due to dense smooth muscle/fibrous tissue, can occasionally arise from the round ligament or broad ligament, and are encapsulated by a pseudocapsule of compressed myometrial fibers that facilitates surgical enucleation.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are complications of myomas, EXCEPT:",
+            "options": [
+              "Invagination",
+              "Inversion",
+              "Associated endometrial carcinoma",
+              "Infection"
+            ],
+            "correct": 0,
+            "explanation": "Recognized complications of fibroid include: inversion (rare, pedunculated submucous fibroid expelled through cervix), associated endometrial carcinoma (hyperestrogenic state may predispose), and infection (especially submucous, may cause pyomyoma). Invagination (intussusception-like inward folding) is not a described complication of uterine fibroid.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are complications of myomas, EXCEPT:",
+            "options": [
+              "Torsion",
+              "Expression",
+              "Inversion",
+              "Capsular haemorrhage"
+            ],
+            "correct": 1,
+            "explanation": "Torsion (pedunculated subserous fibroid causing acute abdomen), inversion (rare, submucous fibroid), and capsular haemorrhage (from degeneration/vascular rupture in red degeneration) are all recognized complications. 'Expression' \u2014 expulsion of a pedunculated submucous fibroid \u2014 is a clinical event, not classified as a pathological complication.",
+            "past_paper": true
+          },
+          {
+            "question": "The following statements are true, EXCEPT:",
+            "options": [
+              "GnRH analogues inhibit the growth of myoma",
+              "Myomas increase in size during pregnancy",
+              "Oral contraceptives inhibit the growth of myoma",
+              "New myomas rarely appear after menopause"
+            ],
+            "correct": 2,
+            "explanation": "GnRH analogues suppress estrogen and significantly shrink fibroids (true). Fibroids may enlarge in pregnancy due to raised estrogen/progesterone (true). New fibroids rarely appear after menopause as estrogen falls (true). Oral contraceptives do NOT reliably inhibit fibroid growth \u2014 they may help menorrhagia symptomatically but do not shrink fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are types of myoma secondary changes, EXCEPT:",
+            "options": [
+              "White degeneration",
+              "Red degeneration",
+              "Atrophy",
+              "Sarcomatous change"
+            ],
+            "correct": 2,
+            "explanation": "Secondary changes in fibroid include: white (hyaline) degeneration (most common), red (carneous) degeneration (common in pregnancy, acute venous thrombosis), and sarcomatous change (rare malignant transformation). Atrophy is a physiological regression after menopause due to falling estrogen \u2014 it is not classified as a secondary degenerative change.",
+            "past_paper": true
+          },
+          {
+            "question": "Following occurs in the central areas of large myomas, EXCEPT:",
+            "options": [
+              "Hyaline degeneration",
+              "Cystic degeneration",
+              "Nitrous degeneration",
+              "Fatty degeneration"
+            ],
+            "correct": 2,
+            "explanation": "Large fibroids undergo central degeneration due to poor blood supply: hyaline degeneration (most common), cystic degeneration (liquefaction of hyalinized areas), and fatty degeneration (rare, chronic vascular insufficiency) are all recognized. 'Nitrous degeneration' is not a described or recognized pathological process in fibroid.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgical treatment of fibromyoma is indicated in case of: 1. Infertility caused by cornual fibroid  2. Habitual abortion caused by submucous fibroid  3. Ureter pressure caused by fibroid  4. Tumor size is larger than 8 weeks",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Surgery is indicated for: cornual fibroid causing infertility (obstructs tubal ostium), submucous fibroid causing recurrent abortion (distorts cavity, impairs implantation), and ureteric pressure (large fibroid causing hydroureter/hydronephrosis). Size >8 weeks alone is NOT an absolute indication \u2014 the threshold is usually ~12 weeks or rapid growth; small asymptomatic fibroids are managed conservatively.",
+            "past_paper": true
+          },
+          {
+            "question": "Which localization of myoma can cause hydronephrosis:",
+            "options": [
+              "Subserous",
+              "Submucous",
+              "Interstitial",
+              "Intraligamentous"
+            ],
+            "correct": 3,
+            "explanation": "Intraligamentous fibroids grow between the layers of the broad ligament, where the ureter runs close to its base. Enlargement in this location compresses the ureter causing hydroureter and hydronephrosis. Subserous fibroids project outward but less directly compress the ureter. Submucous fibroids project into the uterine cavity and cause menorrhagia, not ureteric obstruction.",
+            "past_paper": true
+          },
+          {
+            "question": "The uterine fibromyomas most often occurs in:",
+            "options": [
+              "Cervix uteri",
+              "Utero-sacral ligament",
+              "Corpus uteri",
+              "Broad ligament"
+            ],
+            "correct": 2,
+            "explanation": "~90\u201395% of fibroids arise from the body (corpus) of the uterus in the form of intramural, submucous, or subserous types. Cervical fibroids are rare (~5%). Broad ligament and uterosacral ligament fibroids are uncommon extrauterine locations.",
+            "past_paper": true
+          },
+          {
+            "question": "Most common complication of submucous myoma is:",
+            "options": [
+              "Urinary disturbances",
+              "Capsular rupture",
+              "Torsion",
+              "Metrorrhagia"
+            ],
+            "correct": 3,
+            "explanation": "Submucous fibroids project into the uterine cavity and distort the endometrium, increasing endometrial surface area, causing venous congestion, and interfering with uterine contractility \u2014 resulting in irregular and excessive uterine bleeding (metrorrhagia/menorrhagia) as the most common complication. Urinary disturbances are more typical of large anterior fibroids. Torsion is a complication of pedunculated subserous fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "The most common complication of submucous myomatous polyp is:",
+            "options": [
+              "Inversion",
+              "Constipation",
+              "Capsule rupture",
+              "Infection"
+            ],
+            "correct": 3,
+            "explanation": "A submucous myomatous polyp is a pedunculated submucous fibroid that may protrude through the cervix. Due to its exposed position, it becomes congested, ulcerated, and necrotic, prone to ascending infection \u2014 making infection the most common complication. Uterine inversion is rare. Constipation relates to large posterior fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "Signs and symptoms of myoma are the following, EXCEPT:",
+            "options": [
+              "Amenorrhea",
+              "Polymenorrhoea",
+              "Metrorrhagia",
+              "Menorrhagia"
+            ],
+            "correct": 0,
+            "explanation": "Fibroids characteristically cause heavy and irregular menstrual bleeding: menorrhagia (most common), polymenorrhoea, and metrorrhagia. Amenorrhea (absent menses) is NOT a feature \u2014 fibroids are estrogen-dependent and produce excessive bleeding. Amenorrhea may occur in pregnancy or menopause but is not characteristic of fibroid.",
+            "past_paper": true
+          },
+          {
+            "question": "Which statement about myomas is true:",
+            "options": [
+              "They cease to grow after menopause",
+              "They are often found before puberty",
+              "They often appear after menopause",
+              "They cease to grow after puberty"
+            ],
+            "correct": 0,
+            "explanation": "Fibroids are estrogen-dependent: they develop during reproductive years, may enlarge in pregnancy, and regress after menopause as estrogen levels fall. They are rare before menarche (puberty initiates estrogen production, which is required for their development). New fibroids after menopause are rare and should raise suspicion of sarcoma.",
+            "past_paper": true
+          },
+          {
+            "question": "Atrophy of fibroid is a result of:",
+            "options": [
+              "Hyperplasia of endometrium",
+              "Increased endometrial secretion",
+              "Increased vascularity",
+              "Diminished vascularity"
+            ],
+            "correct": 3,
+            "explanation": "Fibroid atrophy occurs when blood supply decreases and estrogen levels decline (e.g., after menopause) \u2014 diminished vascularity reduces nutrition to the tumor leading to shrinkage and regression. Increased vascularity promotes growth. Endometrial hyperplasia and secretion are unrelated to fibroid involution.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are types of myoma distribution in the uterus, EXCEPT:",
+            "options": [
+              "Interstitial",
+              "Paramural",
+              "Subserous",
+              "Submucous"
+            ],
+            "correct": 1,
+            "explanation": "Standard anatomical types of uterine fibroid are: interstitial/intramural (within myometrium, most common), subserous (beneath serosa, projects outward), and submucous (beneath endometrium, projects into cavity). 'Paramural' is not a recognized gynecological classification \u2014 it does not exist in standard fibroid terminology.",
+            "past_paper": true
+          },
+          {
+            "question": "The cause of acute pain in fibroid is:",
+            "options": [
+              "Increased endometrial secretion",
+              "Atrophy",
+              "Torsion",
+              "Increased vascularity"
+            ],
+            "correct": 2,
+            "explanation": "Acute pain in fibroid is caused by torsion of a pedunculated subserous fibroid \u2014 twisting of the pedicle causes vascular compromise, ischemia, and severe acute abdominal pain. Red (carneous) degeneration (especially in pregnancy) is another cause of acute pain. Atrophy and increased vascularity do not produce acute pain.",
+            "past_paper": true
+          },
+          {
+            "question": "Sarcomatous changes in myoma should be suspected at the following, EXCEPT:",
+            "options": [
+              "Myoma is soft in consistency",
+              "Associated with postmenopausal bleeding",
+              "Tumor size larger than 16 weeks",
+              "Rapid enlargement of myoma"
+            ],
+            "correct": 2,
+            "explanation": "Red flags for sarcomatous change (leiomyosarcoma): soft/irregular consistency (typical fibroid is firm), postmenopausal bleeding (fibroids regress after menopause; new symptoms are suspicious), and rapid enlargement (especially postmenopausally without hormonal stimulation). Large size alone (>16 weeks) is NOT a reliable indicator \u2014 many benign fibroids grow large.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgical treatment of fibromyoma is indicated in case of: 1. Rapid growth of myoma  2. Tumor size larger than 6 weeks  3. Menorrhagia  4. Rectum dysfunction",
+            "options": [
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Surgery is indicated for: rapid growth (raises concern for sarcoma), menorrhagia (most common symptom, if refractory to medical therapy), and rectal dysfunction/pressure symptoms from posterior fibroids. Size >6 weeks alone is NOT an absolute indication \u2014 the threshold is usually ~12 weeks or symptomatic cases. Small asymptomatic fibroids are managed conservatively.",
+            "past_paper": true
+          },
+          {
+            "question": "Benign tumor derived from smooth muscle cells is a:",
+            "options": [
+              "Lipoma",
+              "Fibromyoma",
+              "Glomus",
+              "Teratoma"
+            ],
+            "correct": 1,
+            "explanation": "A fibromyoma (leiomyoma) is a benign tumor arising from smooth muscle cells, most commonly from the uterine myometrium. Lipoma is adipose tissue. Glomus tumor arises from glomus body cells (modified perivascular smooth muscle-like cells but not classified as a smooth muscle tumor). Teratoma is a germ cell tumor containing all three germ layers.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are malignant tumors, EXCEPT:",
+            "options": [
+              "Myosarcoma",
+              "Chorionepithelioma",
+              "Leiomyoma",
+              "Adenocarcinoma"
+            ],
+            "correct": 2,
+            "explanation": "Myosarcoma (malignant muscle tumor), chorionepithelioma/choriocarcinoma (highly malignant trophoblastic tumor), and adenocarcinoma (malignant glandular epithelial tumor) are all malignant. Leiomyoma is a BENIGN smooth muscle tumor \u2014 the most common benign uterine tumor. Its malignant counterpart is leiomyosarcoma.",
+            "past_paper": true
+          },
+          {
+            "question": "The uterine fibromyomas most often arises from:",
+            "options": [
+              "Round ligament",
+              "Broad ligament",
+              "Utero-sacral ligament",
+              "Uterus"
+            ],
+            "correct": 3,
+            "explanation": "~90\u201395% of fibromyomas arise from the uterine myometrium (corpus uteri). They may very rarely arise from smooth muscle of the round ligament, broad ligament, or uterosacral ligament, but these are uncommon extrauterine locations. The uterus is by far the most common origin.",
+            "past_paper": true
+          }
+        ],
+        "Endometrial & Uterine Pathology": [
+          {
+            "question": "The treatment of endometrial carcinoma stage I is:",
+            "options": [
+              "Total hysterectomy",
+              "Total hysterectomy with bilateral salpingo-oophorectomy",
+              "Primary radiotherapy",
+              "Primary chemotherapy"
+            ],
+            "correct": 1,
+            "explanation": "Stage I endometrial carcinoma (confined to uterine body) is treated by TAH + BSO (total abdominal hysterectomy + bilateral salpingo-oophorectomy). Ovaries are removed because they may harbor microscopic metastasis and produce estrogen that can stimulate the tumor. Simple hysterectomy without BSO is insufficient. Radiotherapy is adjuvant, not primary. Chemotherapy is for advanced/recurrent disease.",
+            "past_paper": true
+          },
+          {
+            "question": "Uterine endometriosis also labeled:",
+            "options": [
+              "Adenocarcinoma",
+              "Adenomatous polyp",
+              "Adenoma",
+              "Adenomyosis"
+            ],
+            "correct": 3,
+            "explanation": "Uterine endometriosis \u2014 the presence of endometrial glands and stroma within the myometrium \u2014 is specifically called adenomyosis (internal endometriosis). It causes symmetrical uterine enlargement, menorrhagia, and progressive dysmenorrhea. It is not a tumor (adenocarcinoma/adenoma) and not a polyp.",
+            "past_paper": true
+          },
+          {
+            "question": "The best time to do endometrial biopsy in case of sterility is:",
+            "options": [
+              "Ovulatory phase",
+              "Menstrual phase",
+              "Postmenstrual phase",
+              "Premenstrual phase"
+            ],
+            "correct": 3,
+            "explanation": "Endometrial biopsy for infertility is performed in the premenstrual (late secretory/luteal) phase, around day 21\u201323 of a 28-day cycle. Progesterone has induced secretory transformation \u2014 glandular secretion, stromal edema, predecidual changes \u2014 allowing assessment of adequate ovulation and luteal phase sufficiency. Earlier phases cannot assess this.",
+            "past_paper": true
+          },
+          {
+            "question": "During bimanual examination of uterus, the points to be considered are: 1. Position of uterus  2. Size of uterus  3. Condition of endometrium  4. Mobility of uterus",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Bimanual examination assesses position (anteverted/retroverted), size (estimated in weeks), and mobility (restricted mobility suggests endometriosis, adhesions, or malignancy). The condition of the endometrium CANNOT be assessed by palpation \u2014 it requires ultrasound, endometrial biopsy, or hysteroscopy.",
+            "past_paper": true
+          }
+        ],
+        "Ovarian Tumours": [
+          {
+            "question": "The pure germ cell tumours of the ovary are: 1. Serous cystadenoma  2. Dysgerminoma  3. Embryonal cell tumor  4. Teratoma",
+            "options": [
+              "1, 2",
+              "2, 3, 4",
+              "2, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Pure germ cell tumors arise from primordial germ cells and include: dysgerminoma (most common malignant germ cell tumor, ovarian counterpart of seminoma), embryonal cell tumor (malignant, produces hCG and AFP), and teratoma (mature benign dermoid or immature malignant). Serous cystadenoma is a surface epithelial tumor \u2014 the most common benign ovarian tumor \u2014 NOT a germ cell tumor.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following is not a germ cell tumor of the ovary?",
+            "options": [
+              "Choriocarcinoma",
+              "Brenner tumor",
+              "Dysgerminoma",
+              "Malignant teratoma"
+            ],
+            "correct": 1,
+            "explanation": "Brenner tumor is a surface epithelial tumor composed of transitional (urothelial-like) cells \u2014 usually benign. Choriocarcinoma (produces \u03b2-hCG), dysgerminoma, and malignant teratoma are all germ cell tumors. Brenner tumor does not arise from germ cells.",
+            "past_paper": true
+          }
+        ],
+        "Endometriosis": [
+          {
+            "question": "Endometriosis development theories are: 1. Metastatic  2. Implantation  3. Bacterial  4. Hormonal",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Accepted theories of endometriosis include: Halban's metastatic theory (spread via lymphatics/blood vessels, explains distant lesions), Sampson's implantation theory (retrograde menstruation \u2014 most widely accepted), and hormonal theory (estrogen-dependent growth). There is no bacterial theory for endometriosis \u2014 infection is not considered a primary etiology.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometriosis is often associated with: 1. Hyperprogesteronemia  2. Luteal insufficiency  3. Anovulation  4. Premenstrual spotting",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Endometriosis is estrogen-dependent and is associated with: luteal insufficiency (inadequate progesterone secretion, luteal phase defect), anovulation (ovulatory dysfunction and hormonal imbalance), and premenstrual spotting (due to luteal insufficiency and progesterone deficiency). Hyperprogesteronemia is NOT associated \u2014 in fact there is often relative progesterone resistance.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometriosis:",
+            "options": [
+              "Is a true tumor",
+              "Can be genital and extragenital",
+              "Is painless",
+              "Is a virus disease"
+            ],
+            "correct": 1,
+            "explanation": "Endometriosis is the presence of functional endometrial glands and stroma outside the uterine cavity. It occurs at genital sites (ovaries most common \u2014 chocolate cysts, uterosacral ligaments, tubes, pouch of Douglas) and extragenital sites (bowel, bladder, surgical scars, lung). It is NOT a true neoplasm, NOT painless (classically causes dysmenorrhea, dyspareunia, chronic pelvic pain), and NOT viral in origin.",
+            "past_paper": true
+          },
+          {
+            "question": "Symptoms of adenomyosis are: 1. Menorrhagia  2. Amenorrhea  3. Dysmenorrhea  4. Dyspareunia",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "Adenomyosis classically presents with menorrhagia (most common, due to increased surface area and vascularity), progressive dysmenorrhea (cyclical myometrial bleeding increases prostaglandins), and deep dyspareunia (especially when co-existing with endometriosis). Amenorrhea is NOT a feature \u2014 adenomyosis causes heavy and painful menstruation, not absent menses.",
+            "past_paper": true
+          },
+          {
+            "question": "All statements about adenomyosis are true, EXCEPT:",
+            "options": [
+              "Enlargement of the uterus, as a rule, is symmetrical",
+              "Enlargement of the uterus rarely exceeds 12 weeks",
+              "Often associated with ovarian tumors",
+              "It is endometriosis of the uterus"
+            ],
+            "correct": 2,
+            "explanation": "Adenomyosis causes symmetrical globular uterine enlargement (true), usually not exceeding 10\u201312 weeks size (true), and is correctly termed internal endometriosis (true). It is commonly associated with leiomyoma and endometriosis, but NOT characteristically associated with ovarian tumors.",
+            "past_paper": true
+          },
+          {
+            "question": "Hysterosalpingography is helpful for: 1. Diagnosis of subserous myoma  2. Proving fallopian tube patency  3. Diagnosis of Asherman's syndrome  4. Diagnosis of endometrial polyps",
+            "options": [
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 1,
+            "explanation": "HSG evaluates the uterine cavity and fallopian tubes by contrast injection. It is useful for: tubal patency (free dye spill = patent), Asherman's syndrome (filling defects from intrauterine adhesions), and endometrial polyps (filling defects in the cavity). Subserous fibroids project OUTWARD from the uterine surface \u2014 HSG only visualizes the cavity and cannot detect them.",
+            "past_paper": true
+          },
+          {
+            "question": "AFS classification of endometriosis includes:",
+            "options": [
+              "4 stages",
+              "5 stages",
+              "2 stages",
+              "3 stages"
+            ],
+            "correct": 0,
+            "explanation": "The American Fertility Society (AFS/ASRM) classification stages endometriosis into 4 stages based on location/depth of implants, adhesions, and ovarian involvement: Stage I (minimal), Stage II (mild), Stage III (moderate \u2014 small endometriomas, filmy adhesions), Stage IV (severe \u2014 large endometriomas, dense adhesions, distorted anatomy).",
+            "past_paper": true
+          },
+          {
+            "question": "Following can be used for endometriosis treatment: 1. GnRH agonists  2. Pituitary gonadotropin inhibitors  3. Antibiotics  4. Progestogens",
+            "options": [
+              "1, 2, 4",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Medical treatment of endometriosis targets estrogen suppression: GnRH agonists (suppress FSH/LH \u2192 hypoestrogenic state \u2192 implant regression), pituitary gonadotropin inhibitors such as danazol (antigonadotropic, suppresses ovarian steroidogenesis), and progestogens (decidualization and atrophy of ectopic endometrium, suppress ovulation). Antibiotics have no role \u2014 endometriosis is not infectious.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometriosis is a: 1. True tumor  2. Benign proliferative growth process  3. STI  4. Ectopic disposition of endometrial tissue",
+            "options": [
+              "2, 4",
+              "2, 3, 4",
+              "3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Endometriosis is defined by ectopic endometrial glands and stroma outside the uterine cavity \u2014 it is an ectopic disposition of endometrial tissue (4) and a benign estrogen-dependent proliferative process (2). It is NOT a true neoplasm (it doesn't have neoplastic autonomy) and NOT sexually transmitted (etiology involves retrograde menstruation, lymphatic/vascular spread, coelomic metaplasia).",
+            "past_paper": true
+          },
+          {
+            "question": "All examinations are informative in diagnosis of endometriosis, EXCEPT:",
+            "options": [
+              "Ultrasound",
+              "Laparoscopy",
+              "\u03b1-amylase level",
+              "CA-125 level"
+            ],
+            "correct": 2,
+            "explanation": "Laparoscopy is the gold standard for diagnosing endometriosis (direct visualization and biopsy). Ultrasound detects endometriomas (homogeneous low-level echoes). CA-125 is elevated in moderate-severe endometriosis and is a useful supportive marker and monitoring tool. \u03b1-amylase is a pancreatic/salivary enzyme with no relevance to endometriosis diagnosis.",
+            "past_paper": true
+          },
+          {
+            "question": "All symptoms could be found in endometriosis, EXCEPT:",
+            "options": [
+              "Dysphagia",
+              "Melena around menstruation",
+              "Hematuria",
+              "Dysuria"
+            ],
+            "correct": 0,
+            "explanation": "Endometriosis can cause cyclical symptoms at any site of implantation: melena/rectal bleeding around menstruation (bowel endometriosis, rectosigmoid), hematuria (bladder endometriosis), and dysuria (bladder/pelvic endometriosis). Dysphagia (difficulty swallowing) implies esophageal involvement \u2014 which is not a recognized manifestation of endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Clinical features of endometriosis: 1. Infertility  2. Dysmenorrhoea  3. Dyskinesia  4. Dyspareunia",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "The classic triad of endometriosis is dysmenorrhoea (progressive, severe \u2014 from cyclical ectopic bleeding and prostaglandins), dyspareunia (deep, from uterosacral ligament/pouch of Douglas involvement), and infertility (from adhesions, distorted anatomy, inflammatory mediators, ovulatory dysfunction). Dyskinesia refers to abnormal involuntary movements \u2014 it is a neurological term unrelated to endometriosis.",
+            "past_paper": true
+          }
+        ],
+        "Reproductive Medicine & Infertility": [
+          {
+            "question": "What is the cause for luteal phase defect?",
+            "options": [
+              "Progesterone is inadequately secreted",
+              "Excess estrogen is secreted",
+              "Excess progesterone is secreted",
+              "Estrogen is inadequately secreted"
+            ],
+            "correct": 0,
+            "explanation": "Luteal phase defect (LPD) is caused by inadequate progesterone secretion from the corpus luteum. Progesterone is essential for transforming proliferative endometrium to secretory endometrium and preparing for implantation. Inadequate LH support leads to poor corpus luteum function, insufficient progesterone, inadequate endometrial maturation, and results in infertility or early pregnancy loss.",
+            "past_paper": true
+          },
+          {
+            "question": "Post coital test detects all of the following, except:",
+            "options": [
+              "Fallopian tube block",
+              "Cervical factor abnormality",
+              "Sperm count",
+              "Sperm abnormality"
+            ],
+            "correct": 0,
+            "explanation": "The post-coital test (Sims-Huhner test) assesses sperm-cervical mucus interaction. It evaluates cervical factor abnormality (mucus quality, spinnbarkeit, ferning), sperm presence/count in mucus, and sperm motility/abnormality. It CANNOT detect fallopian tube blockage \u2014 tubal patency requires HSG, sonosalpingography, or laparoscopic chromotubation.",
+            "past_paper": true
+          },
+          {
+            "question": "Post coital test (PCT) is done for:",
+            "options": [
+              "Cervical receptivity",
+              "To assess tubal patency",
+              "Absolute sperm count",
+              "To define sperm volume"
+            ],
+            "correct": 0,
+            "explanation": "The PCT (Sims-Huhner test) is performed 6-12 hours after intercourse around ovulation to assess cervical receptivity \u2014 quality/quantity of cervical mucus, presence of motile sperm, and sperm-mucus interaction. Tubal patency requires HSG or laparoscopy. Absolute sperm count and semen volume are assessed by semen analysis.",
+            "past_paper": true
+          },
+          {
+            "question": "In vitro fertilization is indicated in:",
+            "options": [
+              "Tubal pathology",
+              "Uterine dysfunction",
+              "Ovarian pathology",
+              "Pelvic inflammatory disease"
+            ],
+            "correct": 0,
+            "explanation": "IVF was originally developed for bilateral tubal damage/blockage, as it bypasses the fallopian tubes entirely by direct oocyte retrieval and embryo transfer to the uterus. Uterine dysfunction may require surrogacy. Severe ovarian failure requires donor oocytes. PID itself is not an indication \u2014 only the resulting tubal damage becomes an indication.",
+            "past_paper": true
+          },
+          {
+            "question": "Lady with infertility with bilateral tubal block at cornu \u2013 method of management is:",
+            "options": [
+              "Laparoscopy and hysteroscopy",
+              "Hydrotubation",
+              "In vitro fertilization",
+              "Tuboplasty"
+            ],
+            "correct": 2,
+            "explanation": "Bilateral cornual (proximal) tubal block makes natural fertilization impossible. IVF is the definitive treatment as it completely bypasses the fallopian tubes. Laparoscopy/hysteroscopy are mainly diagnostic. Hydrotubation is outdated and ineffective for true anatomical block. Tuboplasty has poor success rates for bilateral proximal disease and high ectopic pregnancy risk.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible investigation to assess tubal patency:",
+            "options": [
+              "Colposcopy",
+              "Hysteroscopy",
+              "Laparotomy",
+              "Laparoscopic chromotubation"
+            ],
+            "correct": 3,
+            "explanation": "Laparoscopic chromotubation is the gold standard for tubal patency \u2014 methylene blue dye is injected through the cervix and direct visualization confirms dye spill from fimbrial ends. It also detects peritubal adhesions and endometriosis. Colposcopy is for cervix only. Hysteroscopy visualizes the uterine cavity. Laparotomy is not a routine diagnostic procedure.",
+            "past_paper": true
+          },
+          {
+            "question": "Appropriate therapy for endocrine infertility includes: 1. Clomiphene citrate  2. Human chorionic gonadotropin  3. Postovulatory progesterone supplementation  4. Prolactin using",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 3,
+            "explanation": "Appropriate therapies for endocrine infertility: clomiphene (SERM, first-line for anovulation, blocks estrogen feedback to increase FSH/LH), hCG (mimics LH surge to trigger ovulation), and postovulatory progesterone (luteal phase support). Prolactin itself is NOT a treatment \u2014 hyperprolactinemia causes anovulation and is treated with dopamine agonists (bromocriptine, cabergoline).",
+            "past_paper": true
+          },
+          {
+            "question": "All are used in treatment of infertility, except:",
+            "options": [
+              "FSH",
+              "Prolactin",
+              "GnRH",
+              "Clomiphene"
+            ],
+            "correct": 1,
+            "explanation": "FSH (stimulates follicular growth in ovulation induction), pulsatile GnRH (for hypothalamic amenorrhea), and clomiphene (first-line for anovulatory infertility) are all used. Prolactin is NOT used \u2014 elevated prolactin inhibits GnRH and causes anovulation. Treatment of hyperprolactinemia uses dopamine agonists to reduce prolactin levels.",
+            "past_paper": true
+          },
+          {
+            "question": "Absolute inability to conceive for one or more reasons is:",
+            "options": [
+              "Disability",
+              "Infertility",
+              "Inability",
+              "Sterility"
+            ],
+            "correct": 3,
+            "explanation": "Sterility is defined as absolute inability to conceive due to irreversible causes (absent uterus, bilateral absent ovaries, bilateral tubal block, azoospermia). Infertility is failure to conceive after 1 year of regular unprotected intercourse \u2014 conception may still be possible with treatment, so it is not absolute. Disability and inability are not standard reproductive medicine terms.",
+            "past_paper": true
+          },
+          {
+            "question": "Uterine causes of infertility are: 1. Asherman's syndrome  2. Peritubal adhesions  3. PCOD  4. Myoma",
+            "options": [
+              "1, 2, 3",
+              "1, 4",
+              "2, 3, 4",
+              "1, 3"
+            ],
+            "correct": 1,
+            "explanation": "Uterine causes of infertility: Asherman's syndrome (intrauterine adhesions causing endometrial destruction and impaired implantation) and myoma (especially submucous and cavity-distorting intramural fibroids, interfering with implantation and sperm transport). Peritubal adhesions are a tubal factor. PCOD is an ovarian factor causing anovulation.",
+            "past_paper": true
+          }
+        ],
+        "Trophoblastic Disease": [
+          {
+            "question": "As a rule, the cytogenic study of a complete hydatidiform mole displays:",
+            "options": [
+              "43XY",
+              "43XX",
+              "46XX",
+              "46XY"
+            ],
+            "correct": 2,
+            "explanation": "A complete hydatidiform mole results from fertilization of an empty ovum (no maternal chromosomes) \u2014 all genetic material is paternal. Typically one sperm fertilizes the empty ovum and duplicates, giving 46XX karyotype (most common). 46XY can occur with dispermy but is less common. The mole is diploid (46 chromosomes), entirely paternal, with no fetal tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Prophylactic chemotherapy in patient with hydatidiform mole is indicated in: 1. In case of infection  2. Women with persisting and not regressing hCG level  3. Women with history of previous hydatidiform mole  4. High-risk group woman, refuses hysterectomy",
+            "options": [
+              "1, 3",
+              "1, 2, 3",
+              "2, 3, 4",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Prophylactic chemotherapy for hydatidiform mole is indicated in: persistent/non-regressing \u03b2-hCG (indicates persistent trophoblastic disease), history of previous mole (high-risk group), and high-risk patients refusing hysterectomy (high-risk features: very high \u03b2-hCG, large uterus, theca lutein cysts, age >40). Infection alone is treated with antibiotics and is NOT an indication for chemotherapy.",
+            "past_paper": true
+          },
+          {
+            "question": "Hydatidiform mole which erodes the wall of the uterus is:",
+            "options": [
+              "Atrophic mole",
+              "Perforative mole",
+              "Persistent mole",
+              "Aggressive mole"
+            ],
+            "correct": 3,
+            "explanation": "An aggressive (invasive) mole penetrates molar villi into the myometrium, eroding the uterine wall. It may cause uterine perforation and hemorrhage. \u03b2-hCG remains persistently elevated. Persistent mole refers to continued elevation of \u03b2-hCG but does not specifically imply myometrial invasion. Atrophic and perforative mole are not standard classifications.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgery in case of choriocarcinoma is indicated in cases of: 1. Lung metastasis  2. Uterine perforation and haemorrhage  3. Large-size growth in the uterus  4. Ineffective chemotherapy",
+            "options": [
+              "2, 3, 4",
+              "1, 3",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 0,
+            "explanation": "Choriocarcinoma is highly chemosensitive \u2014 chemotherapy is primary treatment. Surgery is reserved for: uterine perforation/haemorrhage (life-threatening, requires emergency intervention), large bulky uterine lesion (hysterectomy in selected cases, especially if family complete), and chemoresistant disease. Lung metastasis is treated with systemic chemotherapy, NOT surgery.",
+            "past_paper": true
+          },
+          {
+            "question": "The following complications can appear in hydatidiform mole: 1. Constipation  2. Thyroid storm  3. Uterine perforation  4. Haemorrhage",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Complications of hydatidiform mole include: thyroid storm (\u03b2-hCG structural similarity to TSH stimulates thyroid \u2014 very high levels cause hyperthyroidism), uterine perforation (especially in invasive/aggressive mole with myometrial invasion), and haemorrhage (most common complication, from enlarged vascular uterus). Constipation is not a recognized complication.",
+            "past_paper": true
+          },
+          {
+            "question": "WHO classification of gestational trophoblastic disease is as follows: 1. Metastatic benign  2. Non-metastatic malignant  3. Metastatic malignant  4. Benign",
+            "options": [
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "WHO classifies GTD into: benign (complete and partial hydatidiform mole), non-metastatic malignant (GTN confined to uterus, persistent \u03b2-hCG), and metastatic malignant (invasive mole, choriocarcinoma with distant spread \u2014 most commonly lung). 'Metastatic benign' is NOT a recognized category \u2014 benign forms do not metastasize.",
+            "past_paper": true
+          },
+          {
+            "question": "The high-risk group of occurrence of hydatidiform mole is: 1. Women below the age of 20  2. Nulliparous women at age of 30  3. Multiparous women after menopause  4. Multiparous women of 40 and above",
+            "options": [
+              "2, 4",
+              "1, 4",
+              "1, 3",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Hydatidiform mole has a bimodal age distribution: women <20 years (immature oocyte function) and women \u226540 years (markedly increased risk, further rises beyond 45). Nulliparous women at 30 and post-menopausal women are not established high-risk groups. Extremes of reproductive age are the key risk factor.",
+            "past_paper": true
+          },
+          {
+            "question": "Hydatidiform mole can be: 1. Complete  2. General  3. Partial  4. Obstructed",
+            "options": [
+              "1, 2, 3",
+              "1, 3",
+              "2, 3, 4",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Hydatidiform mole is classified into complete mole (no fetal tissue, diploid 46XX, entirely paternal) and partial mole (some fetal tissue possible, triploid 69XXX/69XXY). 'General' and 'obstructed' are not recognized mole classifications.",
+            "past_paper": true
+          },
+          {
+            "question": "Preferable treatment for hydatidiform mole is:",
+            "options": [
+              "Chemotherapy",
+              "Radiotherapy",
+              "Laser therapy",
+              "Surgical"
+            ],
+            "correct": 3,
+            "explanation": "The treatment of choice for hydatidiform mole is surgical evacuation \u2014 suction curettage (vacuum aspiration) followed by serial \u03b2-hCG monitoring. Hysterectomy may be considered in women >40 who have completed their family. Chemotherapy is reserved for persistent trophoblastic disease or rising \u03b2-hCG post-evacuation. Radiotherapy and laser have no role.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned are trophoblastic diseases, EXCEPT:",
+            "options": [
+              "Hydatidiform mole",
+              "Adenocarcinoma",
+              "Persistent trophoblastic disease",
+              "Choriocarcinoma"
+            ],
+            "correct": 1,
+            "explanation": "Gestational trophoblastic diseases (GTD) arise from abnormal trophoblastic tissue and include: hydatidiform mole (benign GTD), persistent trophoblastic disease (malignant GTN \u2014 non-metastatic or metastatic), and choriocarcinoma (highly malignant, absent chorionic villi, early hematogenous spread). Adenocarcinoma is a malignant glandular epithelial tumor \u2014 completely unrelated to trophoblastic tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Malignant trophoblastic disease is:",
+            "options": [
+              "Adenosarcoma",
+              "Choriocarcinoma",
+              "Hydatidiform mole",
+              "Adenocarcinoma"
+            ],
+            "correct": 1,
+            "explanation": "Choriocarcinoma is a highly malignant trophoblastic tumor with absent chorionic villi, markedly elevated \u03b2-hCG, and early hematogenous spread to lungs, brain, and liver. Hydatidiform mole is generally benign GTD (may progress). Adenosarcoma is a malignant mixed mesenchymal tumor, and adenocarcinoma is a glandular epithelial malignancy \u2014 neither are trophoblastic.",
+            "past_paper": true
+          },
+          {
+            "question": "Patients with history of hydatidiform mole should be kept under observation for:",
+            "options": [
+              "4 years",
+              "1 year",
+              "2 years",
+              "3 years"
+            ],
+            "correct": 1,
+            "explanation": "Post-molar follow-up requires serial \u03b2-hCG monitoring (weekly until normalization, then monthly) and effective contraception for 1 year to allow accurate \u03b2-hCG interpretation and detect persistent trophoblastic disease, invasive mole, or choriocarcinoma. A plateau or rise in \u03b2-hCG during this period indicates persistent disease requiring chemotherapy.",
+            "past_paper": true
+          },
+          {
+            "question": "In patients with hydatidiform mole, X-ray is essential to rule out:",
+            "options": [
+              "Lung metastasis",
+              "Kidney metastasis",
+              "Brain metastasis",
+              "Stomach metastasis"
+            ],
+            "correct": 0,
+            "explanation": "The lungs are the most common site of metastasis in gestational trophoblastic disease, via hematogenous spread. Chest X-ray is therefore routinely performed in all patients with molar pregnancy. Brain metastasis can occur but is evaluated by CT/MRI in advanced cases. Kidney and stomach metastases are not typical.",
+            "past_paper": true
+          },
+          {
+            "question": "The necessary investigations in patients with hydatidiform mole are: 1. Ultrasound  2. Laparoscopy  3. X-ray  4. Serum beta-hCG levels",
+            "options": [
+              "3, 4",
+              "1, 2",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Essential investigations for hydatidiform mole: ultrasound (first-line, shows 'snowstorm' appearance, confirms absence of fetus in complete mole), chest X-ray (rule out pulmonary metastasis \u2014 most common metastatic site), and serum \u03b2-hCG (markedly elevated, used for diagnosis, treatment monitoring, and detecting persistent disease). Laparoscopy has no role in routine molar evaluation.",
+            "past_paper": true
+          },
+          {
+            "question": "All the following complications can appear in hydatidiform mole, EXCEPT:",
+            "options": [
+              "Embolisation",
+              "Infection",
+              "Bowel perforation",
+              "Hemorrhage"
+            ],
+            "correct": 2,
+            "explanation": "Recognized complications of hydatidiform mole include: embolization (trophoblastic tissue entering circulation, pulmonary involvement), infection (retained molar tissue causing endometritis/sepsis), and hemorrhage (most common, from enlarged vascular uterus). Bowel perforation is NOT a complication \u2014 uterine perforation may occur in invasive mole, but bowel involvement is not typical.",
+            "past_paper": true
+          }
+        ],
+        "Diagnostic Methods": [
+          {
+            "question": "The indications of operative hysteroscopy are following: 1. Polypectomy  2. Hysterectomy  3. Endometrial ablation  4. Lysis of intrauterine adhesions",
+            "options": [
+              "2, 3",
+              "1, 3, 4",
+              "1, 2, 4",
+              "1, 2"
+            ],
+            "correct": 1,
+            "explanation": "Operative hysteroscopy is indicated for: polypectomy (direct visualization and resection of endometrial polyps), endometrial ablation (for dysfunctional uterine bleeding), and lysis of intrauterine adhesions/adhesiolysis (Asherman syndrome). Hysterectomy is performed abdominally, vaginally, or laparoscopically \u2014 it is NOT a hysteroscopic procedure.",
+            "past_paper": true
+          },
+          {
+            "question": "Rectal examination is performed in: 1. Large myomas  2. Virgins  3. Carcinoma of cervix  4. Women with rectal symptoms",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Rectal examination is indicated in: virgins (to avoid vaginal examination while assessing uterus and adnexa), carcinoma cervix (essential for staging \u2014 assesses parametrial involvement, posterior extension, rectal invasion), and women with rectal symptoms. Large myomas are assessed by abdominal examination and bimanual palpation \u2014 rectal examination is not routinely required.",
+            "past_paper": true
+          },
+          {
+            "question": "All listed are endoscopic methods of examination, EXCEPT:",
+            "options": [
+              "Laparoscopy",
+              "Colposcopy",
+              "Salpingoscopy",
+              "Ultrasound examination"
+            ],
+            "correct": 3,
+            "explanation": "Endoscopic methods involve insertion of an optical instrument into a body cavity: laparoscopy (pelvic organs via abdominal wall), colposcopy (magnified cervical/vaginal visualization), and salpingoscopy (fallopian tube lumen). Ultrasound uses high-frequency sound waves \u2014 it is a radiological imaging method, not an endoscopic procedure.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible complications of laparoscopy: 1. Gas embolism  2. Inguinal hernia  3. Haemorrhage  4. Surgical emphysema",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "Laparoscopy complications include: gas embolism (CO\u2082 enters venous circulation \u2014 rare but serious), haemorrhage (vascular/organ injury), and surgical emphysema (subcutaneous emphysema from CO\u2082 tracking into tissues). Inguinal hernia is NOT a typical complication; trocar-site incisional hernia can occur but is not inguinal hernia.",
+            "past_paper": true
+          },
+          {
+            "question": "The laparoscopy is indicated in all cases, EXCEPT:",
+            "options": [
+              "Tubal infertility",
+              "Chronic pelvic pain",
+              "Ovarian cysts",
+              "Generalized peritonitis"
+            ],
+            "correct": 3,
+            "explanation": "Laparoscopy is indicated for tubal infertility (chromotubation, adhesiolysis), chronic pelvic pain (diagnose endometriosis/adhesions), and ovarian cysts (cystectomy, evaluation). Generalized peritonitis is a contraindication \u2014 severe infection, risk of spreading sepsis, and hemodynamic instability make laparotomy the appropriate approach.",
+            "past_paper": true
+          },
+          {
+            "question": "Indications for diagnostic laparoscopy are: 1. Endometriosis  2. Generalized peritonitis  3. Chronic pelvic pain  4. PID",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Diagnostic laparoscopy is indicated for endometriosis (gold standard \u2014 direct visualization and biopsy), chronic pelvic pain (detects endometriosis, adhesions), and PID when diagnosis is uncertain or not responding to treatment. Generalized peritonitis is a contraindication requiring emergency laparotomy.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned are referred to the precancerous disease of cervix, EXCEPT:",
+            "options": [
+              "CIN 2",
+              "VIN 2",
+              "CIS",
+              "CIN 3"
+            ],
+            "correct": 1,
+            "explanation": "CIN 2 (moderate dysplasia), CIS/carcinoma in situ (full-thickness dysplasia = CIN 3), and CIN 3 (severe dysplasia/HSIL) are all precancerous cervical lesions. VIN 2 (Vulvar Intraepithelial Neoplasia grade 2) is a precancerous lesion of the VULVA, not the cervix.",
+            "past_paper": true
+          },
+          {
+            "question": "The indications of diagnostic hysteroscopy are following: 1. Lost intrauterine device  2. Evaluation of the endocervical canal  3. Ectopic pregnancy  4. Uterine synechiae",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Diagnostic hysteroscopy visualizes the uterine cavity and endocervical canal. Indications include: lost IUCD (locate and remove under direct vision), evaluation of endocervical canal (polyps, stenosis), and uterine synechiae/Asherman's syndrome (confirms adhesions, allows simultaneous adhesiolysis). Ectopic pregnancy is located outside the uterine cavity and is diagnosed by ultrasound and \u03b2-hCG \u2014 hysteroscopy has no role.",
+            "past_paper": true
+          },
+          {
+            "question": "Intrauterine synechiae can be diagnosed by: 1. Hysteroscopy  2. Hysterosalpingography  3. Laparoscopy  4. Colposcopy",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Intrauterine synechiae (Asherman's syndrome) are diagnosed by: hysteroscopy (gold standard \u2014 direct visualization and simultaneous adhesiolysis) and HSG (shows irregular cavity, filling defects, obliteration). Laparoscopy evaluates external pelvic organs and does not visualize the uterine cavity. Colposcopy examines the cervix and vagina only.",
+            "past_paper": true
+          },
+          {
+            "question": "The laparoscopy is contraindicated in all cases, EXCEPT:",
+            "options": [
+              "Extensive peritoneal adhesion",
+              "Intestinal obstruction",
+              "Patient haemodynamically unstable",
+              "Tubal infertility"
+            ],
+            "correct": 3,
+            "explanation": "Tubal infertility is a major INDICATION for laparoscopy (chromotubation, adhesiolysis, endometriosis diagnosis). Extensive peritoneal adhesions (risk of bowel/vascular injury), intestinal obstruction (distended bowel, perforation risk), and haemodynamic instability (pneumoperitoneum increases intra-abdominal pressure, unsafe) are all contraindications.",
+            "past_paper": true
+          },
+          {
+            "question": "Imaging techniques in gynecology are the following, EXCEPT:",
+            "options": [
+              "Hysterosalpingography",
+              "X-ray",
+              "CT scan",
+              "Hysteroscopy"
+            ],
+            "correct": 3,
+            "explanation": "Imaging techniques produce visual representations of internal structures using radiological modalities: HSG (contrast X-ray of uterine cavity and tubes), plain X-ray, and CT scan. Hysteroscopy is an ENDOSCOPIC procedure \u2014 it uses direct optical visualization of the uterine cavity via an inserted instrument. It is classified as endoscopy, not imaging.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometrial biopsy is helpful:",
+            "options": [
+              "For diagnosis of infections",
+              "As a screening test for carcinoma of the uterine corpus",
+              "For infertility",
+              "For diagnosis of ovarian dysfunction"
+            ],
+            "correct": 1,
+            "explanation": "Endometrial biopsy is primarily used as a screening/diagnostic tool for endometrial carcinoma and hyperplasia, especially in women with abnormal uterine bleeding, postmenopausal bleeding, or high-risk features (obesity, anovulation). It is not used to diagnose infections (requires culture/swabs), not the primary tool for infertility (replaced by hormonal assays/USS), and does not directly assess ovarian function.",
+            "past_paper": true
+          },
+          {
+            "question": "Difficult and painful coitus is called:",
+            "options": [
+              "Dysphasia",
+              "Dyspareunia",
+              "Dysuria",
+              "Dystrophia"
+            ],
+            "correct": 1,
+            "explanation": "Dyspareunia is defined as painful sexual intercourse. It may be superficial (introital \u2014 from vaginitis, vulvodynia) or deep (pelvic \u2014 from endometriosis, PID, pelvic adhesions). Dysphasia is a speech disorder. Dysuria is painful urination. Dystrophia refers to abnormal tissue development or degeneration.",
+            "past_paper": true
+          }
+        ],
+        "Endocrinology & Hormones": [
+          {
+            "question": "Hypothalamus produces the following hormones:",
+            "options": [
+              "Estrogens",
+              "Gestagens",
+              "Releasing factors",
+              "Corticosteroids"
+            ],
+            "correct": 2,
+            "explanation": "The hypothalamus produces releasing and inhibiting factors including GnRH (stimulates FSH/LH), TRH, CRH, and GHRH. GnRH is most important in gynecology, regulating ovarian function and menstrual cycle. Estrogens are from ovarian follicles, progesterone (gestagens) from corpus luteum/placenta, and corticosteroids from the adrenal cortex.",
+            "past_paper": true
+          },
+          {
+            "question": "Gonadotropin-releasing hormone (GnRH) controls the synthesis and secretion of which substances?",
+            "options": [
+              "Norepinephrine",
+              "Follicle-stimulating hormone (FSH) and luteinizing hormone (LH)",
+              "Dopamine",
+              "Prolactin"
+            ],
+            "correct": 1,
+            "explanation": "GnRH is secreted by the hypothalamus in a pulsatile manner and acts on the anterior pituitary to stimulate synthesis and release of FSH and LH. FSH drives follicular growth and estrogen production; LH triggers ovulation and corpus luteum function. Norepinephrine and dopamine are neurotransmitters; prolactin is regulated by dopamine (inhibitory), not GnRH.",
+            "past_paper": true
+          },
+          {
+            "question": "What hormones of the hypophysis (pituitary) take part in regulation of menstrual cycle? 1. LH  2. ACTH  3. TSH  4. FSH",
+            "options": [
+              "1, 2",
+              "1, 2, 4",
+              "1, 4",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "The menstrual cycle is regulated by FSH (stimulates follicular growth and estrogen production) and LH (triggers ovulation and maintains corpus luteum) from the anterior pituitary via the HPO axis. ACTH regulates the adrenal cortex and TSH regulates the thyroid \u2014 neither directly regulates the menstrual cycle, though thyroid disorders can indirectly affect menstruation.",
+            "past_paper": true
+          },
+          {
+            "question": "Last menstruation is considered the one from:",
+            "options": [
+              "Last day of the last normal menstruation",
+              "First day of any bloody discharge",
+              "First day of the last normal menstruation",
+              "Last day of any bloody discharge"
+            ],
+            "correct": 2,
+            "explanation": "The Last Menstrual Period (LMP) is defined as the first day of the last normal menstrual bleeding. It is used to calculate gestational age and estimated date of delivery. The last day is not used. Abnormal spotting or irregular discharge does not qualify \u2014 it must be normal menstrual flow.",
+            "past_paper": true
+          },
+          {
+            "question": "In the ovary the androgens serve as substrate for the formation of:",
+            "options": [
+              "Progesterone and estrogen",
+              "All mentioned",
+              "Estrogens",
+              "Progesterone"
+            ],
+            "correct": 2,
+            "explanation": "Two-cell, two-gonadotropin theory: LH stimulates theca cells to produce androgens (androstenedione, testosterone); FSH stimulates granulosa cells to aromatize these androgens into estrogens. Androgens are substrates ONLY for estrogen synthesis. Progesterone is synthesized from cholesterol via pregnenolone \u2014 a separate pathway not involving androgens.",
+            "past_paper": true
+          },
+          {
+            "question": "Estrogens are secreted by:",
+            "options": [
+              "Inner coat of follicle",
+              "Corpus luteum",
+              "Cortex of adrenal gland",
+              "All mentioned"
+            ],
+            "correct": 3,
+            "explanation": "Estrogens are produced by: granulosa cells of ovarian follicles (major source in reproductive age, via aromatization), corpus luteum (also secretes estrogens alongside progesterone in luteal phase), and adrenal cortex (produces androgens such as DHEA that are peripherally converted to estrogens). All three sources contribute.",
+            "past_paper": true
+          },
+          {
+            "question": "The biosynthesis of the following takes place in the ovary: 1. Estrogens  2. Gestagens  3. Androgens  4. Oxytocin",
+            "options": [
+              "1, 2",
+              "1, 2, 3",
+              "4",
+              "All mentioned"
+            ],
+            "correct": 1,
+            "explanation": "The ovary synthesizes estrogens (granulosa cells via aromatase), gestagens/progesterone (corpus luteum after ovulation), and androgens (theca interna cells under LH). Oxytocin is synthesized in the hypothalamus and released from the posterior pituitary \u2014 it is NOT produced in the ovary.",
+            "past_paper": true
+          },
+          {
+            "question": "FSH stimulates:",
+            "options": [
+              "Growth of follicles in the ovary",
+              "All mentioned",
+              "Production of corticosteroids",
+              "Production of TTH"
+            ],
+            "correct": 0,
+            "explanation": "FSH acts on ovarian granulosa cells to stimulate follicular growth and maturation, granulosa cell proliferation, and aromatase activity (converting androgens to estrogens). Corticosteroids are produced by the adrenal cortex under ACTH control. TTH/TSH is regulated by TRH, not FSH. Not all listed options are correct, so 'all mentioned' is wrong.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of progesterone include all the following, EXCEPT:",
+            "options": [
+              "It is an intermediary product in steroid metabolism",
+              "It contains 21 carbon atoms",
+              "Its main source during early pregnancy is the corpus luteum of pregnancy",
+              "Its ovarian source is important after the first 12 weeks of pregnancy"
+            ],
+            "correct": 3,
+            "explanation": "Progesterone is a C21 steroid and an intermediate in steroid metabolism (cholesterol \u2192 pregnenolone \u2192 progesterone, serving as precursor to corticosteroids, androgens, and estrogens \u2014 all true). The corpus luteum is the main source in early pregnancy (true). After 10\u201312 weeks, the luteo-placental shift occurs and the placenta takes over progesterone production \u2014 the ovarian source becomes non-essential after this point.",
+            "past_paper": true
+          }
+        ],
+        "PCOS & Adrenal/Hormonal Disorders": [],
+        "Menopause & Climacteric": [],
+        "Prolapse & Displacement": [],
         "Gynaecological Oncology": [],
-        "Endometriosis": [],
-        "Reproductive Medicine": [],
-        "Pelvic Floor": [],
+        "Paediatric & Adolescent Gynaecology": [],
+        "Congenital Malformations": [],
         "Contraception": [],
-        "Infections": []
+        "Acute Abdomen in Gynaecology": []
       }
     }
   }
