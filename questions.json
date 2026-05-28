@@ -17409,12 +17409,1737 @@
     "obstetrics": {
       "label": "Obstetrics",
       "subtopics": {
-        "Antenatal Care": [],
-        "Labour & Delivery": [],
-        "Obstetric Emergencies": [],
-        "Hypertensive Disorders": [],
-        "Postpartum Complications": [],
-        "Fetal Medicine": []
+        "Normal Physiology & Anatomy": [
+          {
+            "question": "First half of the menstrual cycle is characterized by: 1. Proliferation of endometrium  2. Secretion of endometrium  3. Hyperplasia of endometrium  4. Increase of the maintenance of estrogen",
+            "options": [
+              "1, 4",
+              "2, 4",
+              "3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "The first half of the menstrual cycle is the proliferative (follicular) phase, dominated by rising estrogen from developing follicles. Estrogen drives proliferation (mitotic regeneration of the endometrium after menstruation) and hyperplasia (increase in number of glands and stromal cells), while estrogen levels themselves rise throughout this phase. Secretion of the endometrium occurs in the second half (secretory/luteal phase) under progesterone influence after ovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "The term of the normal ovulation corresponds with all, EXCEPT:",
+            "options": [
+              "To the middle of the menstrual cycle",
+              "To the 14th day in a 28-day cycle",
+              "To the end of the follicular phase",
+              "At the beginning of the secretory phase"
+            ],
+            "correct": 3,
+            "explanation": "Ovulation occurs at the middle of the cycle (day 14 in a 28-day cycle), triggered by the LH surge, and marks the END of the follicular phase. The secretory (luteal) phase BEGINS after ovulation \u2014 it does not coincide with ovulation. Therefore, saying ovulation occurs at the beginning of the secretory phase is incorrect; ovulation precedes it.",
+            "past_paper": true
+          },
+          {
+            "question": "Second half of the menstrual cycle is characterized by: 1. Increase of FSH level  2. Secretion of endometrium  3. Atrophy of endometrium  4. Increase of LH level",
+            "options": [
+              "1, 4",
+              "2",
+              "3, 5",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "The second half is the secretory (luteal) phase, dominated by progesterone from the corpus luteum. The endometrium becomes thick, edematous, with tortuous glands secreting glycogen \u2014 this is secretory change. FSH peaks in the early follicular phase and is suppressed during the luteal phase. Atrophy occurs in low-estrogen states (e.g., menopause), not in the luteal phase. The LH surge occurs at mid-cycle to trigger ovulation and then declines \u2014 it does not rise during the second half.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of the first phase of the ovarian cycle: 1. Formation of the mature follicle  2. Formation of the primordial follicle  3. Increase of estrogen level  4. Increase of progesterone level",
+            "options": [
+              "1, 4",
+              "2, 4",
+              "3, 4",
+              "1, 3"
+            ],
+            "correct": 3,
+            "explanation": "The first phase of the ovarian cycle is the follicular phase. Under FSH stimulation, several follicles grow and one becomes the mature Graafian follicle. The developing follicles secrete progressively rising estrogen. Primordial follicles are formed during fetal life, not during the cycle. Progesterone rises in the luteal (second) phase from the corpus luteum after ovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "The relation of different parts of the fetus to one another is called:",
+            "options": [
+              "Presentation",
+              "Attitude",
+              "Position",
+              "Lie"
+            ],
+            "correct": 1,
+            "explanation": "Attitude refers to the relation of different fetal parts to one another \u2014 normally the head is flexed with the chin on the chest and limbs are flexed, called universal flexion. Lie is the relation of the long axis of the fetus to the long axis of the uterus. Presentation is the part occupying the lower pole of the uterus. Position is the relation of the presenting part to the maternal pelvis.",
+            "past_paper": true
+          },
+          {
+            "question": "Specify borders of the plane of the narrowest part of the pelvic cavity: 1. Sacro-coccyx connection  2. Ischial spines  3. Middle of the posterior surface of the pubis  4. Lower edge of the symphysis",
+            "options": [
+              "1, 2",
+              "1, 2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "The plane of least pelvic dimensions (midpelvis) is bounded anteriorly by the lower border of the symphysis pubis and the middle of its posterior surface, laterally by the ischial spines, and posteriorly by the sacrococcygeal joint. All four listed structures contribute to its borders. The interspinous diameter (10.5 cm) at this level is the narrowest transverse diameter of the pelvis and is the most clinically important in assessing arrest of descent in labour.",
+            "past_paper": true
+          },
+          {
+            "question": "Specify the diameters of the plane of the narrowest part of the pelvic cavity: 1. Anteroposterior diameter: 11\u201311.5 cm  2. Anteroposterior diameter: 10.5 cm  3. Transverse diameter: 12.5 cm  4. Transverse diameter: 10.5 cm",
+            "options": [
+              "2, 4",
+              "1, 3",
+              "1, 4",
+              "2, 3"
+            ],
+            "correct": 2,
+            "explanation": "The plane of least pelvic dimensions has an AP diameter of approximately 11\u201311.5 cm (from the lower border of the symphysis to the sacrococcygeal joint) and a transverse (interspinous) diameter of 10.5 cm. The interspinous diameter is the narrowest diameter of the entire pelvis and is the most critical in labour. 10.5 cm for the AP corresponds to the obstetric conjugate at the inlet, not this plane. 12.5 cm transverse is characteristic of the pelvic inlet, not the midpelvis.",
+            "past_paper": true
+          },
+          {
+            "question": "The suboccipito-bregmatic diameter of the fetal head measures:",
+            "options": [
+              "9.5 cm",
+              "10.5 cm",
+              "12 cm",
+              "13.5 cm"
+            ],
+            "correct": 0,
+            "explanation": "The suboccipito-bregmatic diameter measures 9.5 cm and extends from below the occipital protuberance to the centre of the bregma. It is the engaging diameter in a well-flexed vertex presentation and the smallest AP diameter of the fetal skull, corresponding to a head circumference of approximately 32 cm. 10.5 cm is the occipitofrontal diameter (deflexed head). 13.5 cm is the mentovertical diameter seen in brow presentation.",
+            "past_paper": true
+          },
+          {
+            "question": "The biparietal diameter of the fetal head measures:",
+            "options": [
+              "7.5 cm",
+              "8 cm",
+              "8.5 cm",
+              "9.5 cm"
+            ],
+            "correct": 3,
+            "explanation": "The biparietal diameter (BPD) measures 9.5 cm and is the distance between the two parietal eminences. It is the largest transverse diameter of the fetal head and is the critical measurement for engagement \u2014 engagement occurs when the BPD passes through the pelvic inlet. The other values do not correspond to any recognized major fetal skull diameter.",
+            "past_paper": true
+          },
+          {
+            "question": "The alteration of the head shape during labour is:",
+            "options": [
+              "Cephalhaematoma",
+              "Caput succedaneum",
+              "Moulding",
+              "Fracture"
+            ],
+            "correct": 2,
+            "explanation": "Moulding is the physiological alteration in shape of the fetal head during labour, caused by overlapping of skull bones at the sutures and fontanelles. It allows the head to adapt to the maternal pelvis. Caput succedaneum is oedema of the scalp that crosses suture lines. Cephalhaematoma is a subperiosteal haemorrhage that does not cross suture lines. Both are swellings, not true shape alterations. Fracture is pathological bone injury.",
+            "past_paper": true
+          },
+          {
+            "question": "The formation of caput succedaneum usually occurs after:",
+            "options": [
+              "Full dilatation",
+              "Rupture of membranes",
+              "Vaginal examination",
+              "First stage of labour"
+            ],
+            "correct": 1,
+            "explanation": "Caput succedaneum is an oedematous swelling of the presenting part of the fetal scalp caused by obstruction of venous and lymphatic return. It forms after rupture of membranes, when the presenting part is directly subjected to cervical pressure without the cushioning effect of the intact amniotic sac. Intact membranes prevent the direct scalp oedema. It is present at birth, crosses suture lines, and disappears within 24\u201348 hours.",
+            "past_paper": true
+          },
+          {
+            "question": "For the first half of the menstrual cycle it is typical: 1. Proliferation of endometrium  2. Secretion of endometrium  3. Desquamation of endometrium  4. Regeneration of endometrium  5. Change of basal body temperature (36.3\u201336.8\u00b0C)",
+            "options": [
+              "1, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 3, 5"
+            ],
+            "correct": 0,
+            "explanation": "The first half of the cycle is the proliferative phase. Proliferation (1) is its hallmark, driven by rising estrogen. Regeneration (4) occurs immediately after menstruation and transitions into active proliferation. Basal body temperature is also low (36.3\u201336.8\u00b0C) in the first half, rising only after ovulation due to progesterone \u2014 however no option includes all three. Secretion (2) is the second half; desquamation (3) is menstruation itself, not the proliferative phase.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristics of the first phase of the ovarian cycle: 1. Formation of the mature follicle  2. Formation of the primordial follicle  3. Atresia of follicle  4. Increase of estrogen level  5. Increase of progesterone level",
+            "options": [
+              "1, 4",
+              "2, 5",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "The first (follicular) phase is defined by growth of a dominant follicle to full maturity (Graafian follicle) under FSH, and progressively rising estrogen secreted by the granulosa cells. Primordial follicles are formed in fetal life, not during the cycle. Atresia is a continuous background process but not the defining feature. Progesterone rises in the luteal (second) phase after ovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "The establishment and maintenance of the menstrual cycle depend on:",
+            "options": [
+              "Progesterone synthesis by corpus luteum",
+              "Prolactin release by anterior pituitary",
+              "Follicular phase of variable length",
+              "Estrogen secretion by ovary",
+              "Pulsatile secretion of GnRH"
+            ],
+            "correct": 4,
+            "explanation": "Normal cyclic ovarian function absolutely requires pulsatile GnRH from the hypothalamus to drive FSH and LH cyclicity. Without this pulsatile drive there is no follicular recruitment, no LH surge, and therefore no ovulation or corpus luteum. Progesterone from the corpus luteum and estrogen from the follicle are downstream effects; elevated prolactin actually suppresses the cycle (lactational amenorrhoea); and follicular phase variability is a consequence of cycle regulation, not its driver.",
+            "past_paper": true
+          },
+          {
+            "question": "Most maternal arterial blood gets into the intervillous space through:",
+            "options": [
+              "All listed",
+              "Placental partitions (septa)",
+              "Main vessels of the uterus",
+              "Spiral arteries"
+            ],
+            "correct": 3,
+            "explanation": "Approximately 120\u2013200 spiral arteries open directly into the intervillous space, delivering oxygenated maternal blood under arterial pressure. Uterine arteries supply the myometrium broadly but it is the terminal spiral arteries that perfuse the intervillous space. Placental septa separate cotyledons; they are not the route of arterial entry.",
+            "past_paper": true
+          },
+          {
+            "question": "Amniotic fluid: 1. Protects fetus from infection  2. Protects fetus from trauma  3. Protects umbilical cord from compression  4. Enables fetal breathing movements",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Amniotic fluid serves all four functions. It has bactericidal/aseptic properties that protect against ascending infection (1). It acts as a shock absorber protecting the fetus from external trauma (2). It prevents cord compression by cushioning the umbilical cord (3). It fills the fetal airways and enables fetal breathing movements essential for lung development (4).",
+            "past_paper": true
+          },
+          {
+            "question": "Amniotic fluid volume reaches its maximum by:",
+            "options": [
+              "40 weeks",
+              "34 weeks",
+              "38 weeks",
+              "36 weeks",
+              "42 weeks"
+            ],
+            "correct": 3,
+            "explanation": "Amniotic fluid volume peaks at approximately 36\u201338 weeks of gestation, reaching around 800\u20131000 mL. After this point it begins to decline, and in post-term pregnancies oligohydramnios is common. At 34 weeks the volume is still rising. At 40\u201342 weeks it is diminishing.",
+            "past_paper": true
+          },
+          {
+            "question": "Last menstruation is considered the one from:",
+            "options": [
+              "Last day of bloody discharge",
+              "Last day of last normal menstruation",
+              "First day of bloody discharge",
+              "First day of last normal menstruation"
+            ],
+            "correct": 3,
+            "explanation": "The Last Menstrual Period (LMP) for obstetric dating is always defined as the first day of the last normal menstrual period (LNMP). This is the reference point for Naegele's rule and gestational age calculation. The last day of bleeding is unreliable and variable. Abnormal or spotty discharge does not qualify \u2014 it must be a normal menstrual flow.",
+            "past_paper": true
+          },
+          {
+            "question": "Decrease of urinary bladder tone during pregnancy due to progesterone effect brings: 1. Increase of residual volume  2. Widening of collector systems  3. Urine congestion (stasis)  4. Increased occurrence of pyelonephritis",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3, 4",
+              "3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Progesterone causes smooth muscle relaxation throughout pregnancy. In the urinary tract this leads to: increased residual urine volume (1), dilatation of the renal pelves and ureters \u2014 widening of the collector system (2), urinary stasis in the bladder and ureters (3), and consequently a predisposition to ascending infection and pyelonephritis (4). All four consequences are linked in a causal chain.",
+            "past_paper": true
+          },
+          {
+            "question": "In ultrasound investigation during the first trimester, the most accurate fetal parameter for gestational age is:",
+            "options": [
+              "CRL \u2013 Crown rump length",
+              "HC \u2013 Head circumference",
+              "AC \u2013 Abdominal circumference"
+            ],
+            "correct": 0,
+            "explanation": "Crown\u2013rump length (CRL) measured in the first trimester (up to 13+6 weeks) is the most accurate parameter for dating pregnancy, with a variation of approximately \u00b15 days. Head circumference and abdominal circumference are second-trimester biometric parameters used for growth assessment, not first-trimester dating.",
+            "past_paper": true
+          }
+        ],
+        "Physiology of Normal Labour": [
+          {
+            "question": "The efficiency of labour depends on: 1. The force of myometrial contraction  2. Acting water bag  3. Placed in tubal angle of the uterus regulator of contractions  4. Position of the fetus",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 2, 3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "All four factors determine the efficiency of labour. Myometrial contraction provides the primary power. The intact membranes (water bag) act as a hydrostatic wedge ensuring uniform cervical dilatation and efficient force transmission. The pacemaker at the uterotubal junction coordinates contractions ensuring fundal dominance and polarity. Fetal position affects how efficiently the presenting part applies pressure \u2014 malpositions such as occipitoposterior reduce efficiency.",
+            "past_paper": true
+          },
+          {
+            "question": "Beginning of the first stage of labour is characterized by: 1. Rupture of membranes  2. Cervical effacement  3. Regular uterine contractions  4. Engagement of the fetal head",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 3",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "The first stage of labour begins with regular, painful uterine contractions that produce progressive cervical effacement and dilatation. Rupture of membranes is not required for labour to begin \u2014 it may occur before labour, during the first stage, or even during the second stage. Engagement of the fetal head may occur weeks before labour in primigravidae and is not a defining feature of the onset of the first stage.",
+            "past_paper": true
+          },
+          {
+            "question": "Internal rotation of the head in occipitoanterior positions occurs at the:",
+            "options": [
+              "Plane of inlet",
+              "Narrowest part",
+              "Widest part",
+              "Pelvic floor"
+            ],
+            "correct": 3,
+            "explanation": "Internal rotation occurs when the fetal head reaches the pelvic floor. Resistance from the levator ani muscles directs the occiput anteriorly, bringing it under the symphysis pubis. Engagement occurs at the inlet. Descent occurs through the narrowest and widest parts. The correct sequence of cardinal movements is: engagement \u2192 descent \u2192 flexion (at narrowest part) \u2192 internal rotation (at pelvic floor) \u2192 extension \u2192 restitution \u2192 external rotation.",
+            "past_paper": true
+          },
+          {
+            "question": "Flexion of the fetal head in occipitoanterior positions occurs in:",
+            "options": [
+              "Plane of inlet",
+              "Plane of outlet",
+              "Plane of widest part",
+              "Plane of narrowest part"
+            ],
+            "correct": 3,
+            "explanation": "Flexion becomes well-established as the head descends and meets resistance from the midpelvis \u2014 the plane of least dimensions (narrowest part). This resistance causes the chin to approach the chest, replacing the larger occipitofrontal diameter (10.5 cm) with the smaller suboccipito-bregmatic diameter (9.5 cm). Engagement occurs at the inlet; extension occurs at the outlet; the widest part is a site of descent without significant flexion change.",
+            "past_paper": true
+          },
+          {
+            "question": "Transition from the first stage of labour to the second stage is evidenced by the following features, EXCEPT:",
+            "options": [
+              "Engagement of the fetal head",
+              "Complete dilatation of the cervix",
+              "Appearance of bearing down efforts"
+            ],
+            "correct": 0,
+            "explanation": "The transition from first to second stage is marked by full cervical dilatation (10 cm) and the appearance of bearing down efforts (as the descended head presses on the pelvic floor). Engagement of the fetal head is NOT a feature of this transition \u2014 it may occur weeks before labour in primigravidae or during early labour in multigravidae, and it does not define the start of the second stage.",
+            "past_paper": true
+          },
+          {
+            "question": "Before separation of the placenta, the uterus does NOT become:",
+            "options": [
+              "Firm in feel",
+              "Discoid in shape",
+              "Ballotable",
+              "Fundal height reaches slightly below the umbilicus"
+            ],
+            "correct": 2,
+            "explanation": "After delivery of the baby, the uterus contracts and becomes firm, hard, and globular (discoid). The fundus rises to or slightly below the umbilicus. Ballottement is a feature of pregnancy (to feel a floating fetus) \u2014 after delivery the uterus is contracted, not ballotable. The classical signs of placental separation include the uterus becoming hard and globular, the fundus rising, a sudden gush of blood, and lengthening of the umbilical cord.",
+            "past_paper": true
+          },
+          {
+            "question": "The physiological blood loss during labour is NOT more than:",
+            "options": [
+              "500 ml",
+              "300 ml",
+              "700 ml",
+              "1000 ml"
+            ],
+            "correct": 0,
+            "explanation": "The normal (physiological) blood loss in a vaginal delivery is up to 500 mL. Blood loss exceeding 500 mL after a vaginal delivery is classified as postpartum haemorrhage (PPH). For caesarean section, the threshold for PPH is >1000 mL. 300 mL is within normal limits but is not the upper physiological threshold. 700 mL and 1000 mL exceed the vaginal delivery limit.",
+            "past_paper": true
+          }
+        ],
+        "Pregnancy \u2014 Physiology & Diagnosis": [
+          {
+            "question": "All mentioned are positive signs of pregnancy, EXCEPT:",
+            "options": [
+              "Fetal cardiac activity",
+              "Sonographic evidence of pregnancy",
+              "Palpation of fetal parts",
+              "Perception of fetal movement by mother"
+            ],
+            "correct": 3,
+            "explanation": "Positive signs of pregnancy are findings directly and exclusively attributable to the fetus. These include fetal heart sounds (detected by Doppler from 10\u201312 weeks or fetoscope from 18\u201320 weeks), ultrasound visualization of the fetus/cardiac activity, and palpation of fetal parts by the examiner. Perception of fetal movement by the mother (quickening) is a presumptive/subjective sign \u2014 it occurs at 18\u201320 weeks in primigravidae and 16\u201318 weeks in multigravidae, and can be confused with intestinal movement or muscle contractions.",
+            "past_paper": true
+          },
+          {
+            "question": "All of the following signs or symptoms are present in a 12-week pregnancy, EXCEPT:",
+            "options": [
+              "Ultrasonographic fetal heart action",
+              "Amenorrhoea",
+              "Quickening",
+              "Hegar's sign",
+              "Chadwick's sign"
+            ],
+            "correct": 2,
+            "explanation": "At 12 weeks: ultrasound fetal cardiac activity is visible from 6\u20137 weeks (TVS), so definitely present; amenorrhoea of 3 months is present; Hegar's sign (softening of the lower uterine segment) appears from 6\u201312 weeks; Chadwick's sign (bluish discoloration of cervix and vagina from increased vascularity) appears by 8\u201312 weeks. Quickening is NOT present at 12 weeks \u2014 maternal perception of fetal movement occurs at 18\u201320 weeks in primigravidae and 16\u201318 weeks in multigravidae. It is a second-trimester event.",
+            "past_paper": true
+          },
+          {
+            "question": "Maternal-fetal unit is realized mainly through:",
+            "options": [
+              "Placenta",
+              "Baroreceptors of the uterine wall",
+              "Fetal membranes",
+              "Decidual membrane of the uterus"
+            ],
+            "correct": 0,
+            "explanation": "The placenta is the principal organ of the maternal\u2013fetal unit, responsible for exchange of oxygen, nutrients, and waste products, as well as endocrine function (producing hCG, hPL, estrogen, progesterone) and serving as an immunological interface. Baroreceptors do not participate in maternal\u2013fetal exchange. Fetal membranes provide protection but are not the main exchange organ. The decidua contributes to placental formation but the functional maternal\u2013fetal unit is primarily realized through the placenta.",
+            "past_paper": true
+          },
+          {
+            "question": "The basic functions of the placenta are: 1. Respiratory  2. Nutritious  3. Excretory  4. Hormonal",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 4",
+              "1, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "The placenta performs all four functions. Respiratory: it exchanges O2 from mother to fetus and CO2 from fetus to mother, acting as the fetal lungs. Nutritious: it transfers glucose, amino acids, fatty acids, vitamins, and minerals to support fetal growth. Excretory: it removes fetal waste products including urea, creatinine, and bilirubin, acting as the fetal kidneys. Hormonal: it is a major endocrine organ secreting hCG, human placental lactogen (hPL), estrogen, and progesterone.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned are correct characteristics of amniotic fluid, EXCEPT:",
+            "options": [
+              "Normal volume of amniotic fluid is 3 litres",
+              "In amniotic fluid there are elements of fetal urine",
+              "Amniotic fluid has a protective role for the fetus",
+              "In amniotic fluid thromboplastic substances are available"
+            ],
+            "correct": 0,
+            "explanation": "Normal amniotic fluid volume at term is approximately 800\u20131000 mL. A volume of 3 litres is abnormally high and would indicate polyhydramnios. Fetal urine is a major component of amniotic fluid from mid-pregnancy onwards. Amniotic fluid protects the fetus by absorbing shocks, maintaining temperature, preventing cord compression, and allowing fetal movements. Thromboplastic substances (tissue factor) are present in amniotic fluid and are important in the pathogenesis of amniotic fluid embolism.",
+            "past_paper": true
+          },
+          {
+            "question": "Assessment of fetal well-being may be done by: 1. Sonography  2. Amniocentesis  3. Straight X-ray of abdomen  4. Hormonal tests",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Fetal well-being is assessed by sonography (fetal growth, amniotic fluid, biophysical profile, Doppler studies), amniocentesis (fetal lung maturity, bilirubin in Rh isoimmunisation, genetic analysis), and hormonal tests (estriol and hPL levels reflecting placental and fetal function). Straight X-ray of the abdomen is not used for fetal well-being assessment \u2014 it exposes the fetus to radiation and has been replaced by ultrasound for all such purposes.",
+            "past_paper": true
+          },
+          {
+            "question": "By the first Leopold maneuver it is possible to define:",
+            "options": [
+              "Presentation of the fetus",
+              "Position and presentation",
+              "The attitude",
+              "The uterine fundus level"
+            ],
+            "correct": 0,
+            "explanation": "The first Leopold maneuver (fundal grip) palpates the uterine fundus to identify which fetal pole is there. A hard, round, ballotable mass indicates the head; a soft, irregular mass indicates the breech. By identifying what is at the fundus, the presentation at the lower pole is inferred. Position is determined by the second maneuver (lateral grip). Attitude is assessed during labour and not by the first maneuver. Fundal height measurement is a separate clinical assessment. Summary: 1st = Presentation, 2nd = Position, 3rd = Engagement, 4th = Descent and flexion.",
+            "past_paper": true
+          },
+          {
+            "question": "By the fourth maneuver of Leopold it is possible to define: 1. Attitude of presenting part to pelvic planes  2. Weight of fetus  3. Position and presentation of fetus  4. Level of uterine fundus",
+            "options": [
+              "1",
+              "2",
+              "1, 2, 3, 4",
+              "4"
+            ],
+            "correct": 0,
+            "explanation": "The fourth Leopold maneuver (pelvic grip) determines the degree of descent and the attitude (flexion or extension) of the presenting part. By palpating the cephalic prominence: if it is on the same side as the small parts, the head is flexed; if on the same side as the back, the head is extended. Fetal weight is estimated from fundal height and palpation globally, not by the fourth maneuver alone. Position and presentation are determined by the first and second maneuvers. Fundal height is measured separately.",
+            "past_paper": true
+          },
+          {
+            "question": "Engagement generally occurs: 1. In late pregnancy  2. At the beginning of the second stage of labour  3. At onset of labour  4. During descent",
+            "options": [
+              "4",
+              "1, 3",
+              "2, 4",
+              "2"
+            ],
+            "correct": 1,
+            "explanation": "Engagement is the passage of the biparietal diameter through the pelvic inlet (station 0). In primigravidae it commonly occurs in the last few weeks before labour (late pregnancy). In multigravidae it typically occurs at or shortly after the onset of labour. By the second stage of labour, the head is already engaged and descending \u2014 engagement does not occur at this stage. Descent follows engagement, so engagement cannot occur 'during descent.'",
+            "past_paper": true
+          },
+          {
+            "question": "Chadwick's sign is:",
+            "options": [
+              "Softening of cervix",
+              "Acute abdominal pain",
+              "Bluish discharge",
+              "Bluish discoloration of the vestibule and anterior vaginal wall",
+              "Softening of isthmus of uterus"
+            ],
+            "correct": 3,
+            "explanation": "Chadwick's sign (also called Jacquemier's sign) is the dusky bluish hue of the vestibule and anterior vaginal wall due to local vascular congestion, visible from around 8 weeks. Softening of the cervix is Goodell's sign. Softening of the isthmus of the uterus is Hegar's sign. Chadwick's sign is a discoloration, not a discharge.",
+            "past_paper": true
+          },
+          {
+            "question": "During the first 5 months of pregnancy, enlargement of the mammary glands takes place due to:",
+            "options": [
+              "Growth of cardiac output",
+              "Capillary widening",
+              "Moderated venous drainage from glands",
+              "Hormonal stimulation",
+              "Growth of fat deposits"
+            ],
+            "correct": 3,
+            "explanation": "Early breast enlargement is primarily driven by hormonal stimulation \u2014 estrogen and progesterone cause ductal proliferation and lobulo-alveolar growth, supported by prolactin and hPL. Cardiac output increases are a systemic maternal change but do not directly drive glandular growth. Capillary changes contribute to engorgement but are secondary to hormonal effects. Fat deposition plays a minor role compared to glandular proliferation.",
+            "past_paper": true
+          },
+          {
+            "question": "The iron content in blood serum during pregnancy usually:",
+            "options": [
+              "Does not change",
+              "Decreases",
+              "Increases"
+            ],
+            "correct": 1,
+            "explanation": "Serum iron decreases in pregnancy, particularly in the third trimester, because maternal iron demands rise steeply for fetal needs and red cell mass expansion. Without adequate supplementation, pregnancy represents an inevitable state of iron deficiency. This is reflected in lower serum ferritin and serum iron levels approaching term.",
+            "past_paper": true
+          },
+          {
+            "question": "The conditions when the symphysis-fundal height is MORE than the period of amenorrhoea are the following EXCEPT:",
+            "options": [
+              "Concealed accidental haemorrhage",
+              "Polyhydramnios",
+              "Pelvic tumors (ovarian or fibroid)",
+              "Fetal growth retardation",
+              "Hydatidiform mole"
+            ],
+            "correct": 3,
+            "explanation": "A uterus larger than expected for gestational age (SFH > period of amenorrhoea) is seen in: polyhydramnios, multiple pregnancy, macrosomia, pelvic tumours (ovarian/fibroid enlarging the lower uterine region), concealed abruption (blood behind placenta adds to uterine size), and hydatidiform mole (rapid uterine expansion). Fetal growth retardation (IUGR) causes the uterus to be SMALLER than expected, not larger \u2014 it is associated with oligohydramnios and small-for-dates.",
+            "past_paper": true
+          },
+          {
+            "question": "Which obstetric grip is described as: 'Done facing the patient's face; hands placed over the lower pole of the uterus with the ulnar border of the palm on the upper border of the symphysis pubis'?",
+            "options": [
+              "Lateral grip \u2013 second Leopold maneuver",
+              "First pelvic grip \u2013 first Leopold maneuver",
+              "Pawlik's grip \u2013 third Leopold maneuver"
+            ],
+            "correct": 2,
+            "explanation": "Pawlik's grip (third Leopold maneuver) is performed with the examiner facing the patient's face. The thumb and four fingers of the right hand grasp the lower pole of the uterus with the ulnar border of the palm resting on the upper border of the symphysis pubis. Its purpose is to identify the presenting part and assess whether it is engaged or mobile. The lateral grip (2nd Leopold) palpates the sides of the uterus at the umbilical level to locate the fetal back and limbs.",
+            "past_paper": true
+          },
+          {
+            "question": "Which obstetric grip is done with hands placed flat on both sides of the umbilicus to palpate the sides of the uterus and determine the fetal back and anterior shoulder?",
+            "options": [
+              "First pelvic grip \u2013 fourth Leopold maneuver",
+              "Lateral grip \u2013 second Leopold maneuver",
+              "Pawlik's grip \u2013 third Leopold maneuver"
+            ],
+            "correct": 1,
+            "explanation": "The lateral (umbilical) grip is the second Leopold maneuver. The examiner places both hands flat on either side of the uterus at the level of the umbilicus and palpates to identify the smooth, firm fetal back on one side and the irregular nodular limbs on the other, establishing fetal position and the location of the anterior shoulder. Pawlik's grip (3rd) is over the lower pole above the symphysis. The fourth maneuver uses a downward-facing technique to assess descent and flexion.",
+            "past_paper": true
+          },
+          {
+            "question": "By the third Leopold maneuver (Pawlik's grip), the fetus in the uterus is defined by:",
+            "options": [
+              "Attitude of presenting part",
+              "Presenting part (fetal presentation)",
+              "Position (fetal lie)",
+              "Weight of fetus"
+            ],
+            "correct": 1,
+            "explanation": "The third Leopold maneuver (Pawlik's grip) grasps the lower pole of the uterus just above the symphysis pubis to identify the presenting part (head or breech) and assess whether it is engaged (fixed) or still mobile. Attitude (flexion/extension) is mainly assessed by the fourth maneuver. Position/lie is determined from the first and second maneuvers. Fetal weight cannot be determined directly from any single Leopold maneuver.",
+            "past_paper": true
+          },
+          {
+            "question": "A woman with a regular 35-day cycle has her last menstrual period April 1\u20134, 1993. Her estimated due date is:",
+            "options": [
+              "January 15, 1994",
+              "January 8, 1994",
+              "January 29, 1994",
+              "January 1, 1994",
+              "January 22, 1994"
+            ],
+            "correct": 0,
+            "explanation": "Naegele's rule for a standard 28-day cycle: LMP (April 1) + 9 months + 7 days = January 8, 1994. Since the cycle is 35 days (7 days longer than 28), ovulation occurred 7 days later, so add 7 days correction: January 8 + 7 = January 15, 1994. January 8 is the unadjusted 28-day answer. January 1 misses the +7 days. January 22 and 29 over-correct.",
+            "past_paper": true
+          },
+          {
+            "question": "The pregnancy test can be positive in case of: 1. Spontaneous abortion  2. Uterine pregnancy",
+            "options": [
+              "Only uterine pregnancy",
+              "Only spontaneous abortion",
+              "Both spontaneous abortion and uterine pregnancy",
+              "Neither"
+            ],
+            "correct": 2,
+            "explanation": "The urine/serum pregnancy test detects hCG. It is positive in a normal intrauterine pregnancy and can remain positive for a variable period after spontaneous abortion because hCG persists in circulation even after fetal death. Therefore test positivity is not specific for a viable ongoing intrauterine pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Appropriate screening tests in an early uncomplicated pregnancy include all EXCEPT:",
+            "options": [
+              "Repeated hCG level tests",
+              "Serology",
+              "Haemoglobin",
+              "Blood type and Rh factor",
+              "Cervical cytology"
+            ],
+            "correct": 0,
+            "explanation": "Routine booking investigations include haemoglobin/haematocrit, blood group and Rh factor, VDRL/serology, blood glucose, and cervical cytology when indicated. Repeated serial hCG measurements are NOT a routine screening test in an uncomplicated pregnancy \u2014 they are used in specific situations (suspected ectopic, monitoring molar pregnancy, or threatened miscarriage), not as a standard booking screen.",
+            "past_paper": true
+          },
+          {
+            "question": "When more than one part of the fetus presents, it is called:",
+            "options": [
+              "Face presentation",
+              "Shoulder presentation",
+              "Compound presentation",
+              "Breech presentation"
+            ],
+            "correct": 2,
+            "explanation": "Compound presentation is defined as the simultaneous prolapse of more than one fetal part into the pelvis alongside the presenting part \u2014 most commonly a hand alongside the head. Face presentation is a single cephalic part with extended head. Shoulder presentation occurs in transverse lie with one presenting part. Breech is a single podalic presenting part.",
+            "past_paper": true
+          },
+          {
+            "question": "Weakening of gastrointestinal tract motility during pregnancy is connected with an increased level of:",
+            "options": [
+              "Human chorionic gonadotropin",
+              "Thyrotropin releasing factor",
+              "Androstenedione",
+              "Progesterone",
+              "Estrogens"
+            ],
+            "correct": 3,
+            "explanation": "Progesterone causes smooth muscle relaxation throughout the body. In the gastrointestinal tract this reduces motility, leading to delayed gastric emptying, constipation, and heartburn in pregnancy. This is a direct smooth muscle relaxant effect of progesterone. hCG, TRF, androstenedione, and estrogens are not the primary cause of gut hypomotility in pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "For evaluation of fetal condition, the following investigations are used EXCEPT:",
+            "options": [
+              "Ultrasound",
+              "CTG (cardiotocography)",
+              "Doppler",
+              "Chorionic villus sampling (CVS)"
+            ],
+            "correct": 3,
+            "explanation": "Ultrasound, CTG, and Doppler are all fetal surveillance/well-being assessment tools. CVS is a prenatal diagnostic procedure for genetic/chromosomal abnormalities performed in the first trimester \u2014 it is used to diagnose fetal conditions, not to monitor fetal well-being on an ongoing basis. Therefore CVS is not a fetal condition evaluation tool.",
+            "past_paper": true
+          },
+          {
+            "question": "Oxygenated blood from the placenta reaches the fetal heart through:",
+            "options": [
+              "Umbilical vein",
+              "Inferior vena cava",
+              "Ductus arteriosus",
+              "None of the above"
+            ],
+            "correct": 0,
+            "explanation": "Oxygenated blood travels from the placenta to the fetus via the umbilical vein. The pathway is: umbilical vein \u2192 ductus venosus (bypassing the liver) \u2192 inferior vena cava \u2192 right atrium \u2192 foramen ovale \u2192 left atrium \u2192 left ventricle \u2192 aorta. The IVC carries mixed blood to the right atrium but is not the vessel coming from the placenta. The ductus arteriosus connects the pulmonary artery to the aorta to bypass the lungs.",
+            "past_paper": true
+          }
+        ],
+        "Puerperium": [
+          {
+            "question": "The newborn is the baby just after delivery until:",
+            "options": [
+              "2 weeks of life",
+              "3 weeks",
+              "4 weeks",
+              "6 weeks"
+            ],
+            "correct": 2,
+            "explanation": "The neonatal period extends from birth to 28 completed days (4 weeks) of life. It is subdivided into the early neonatal period (first 7 days) and the late neonatal period (7\u201328 days). 6 weeks corresponds to the puerperium in the mother, not the neonatal period. After 28 days the infant period begins.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical features of postpartum endometritis are: 1. High fever on day 3\u20135 of puerperium  2. Tenderness and subinvolution of uterus  3. Pathologic lochia",
+            "options": [
+              "1, 3",
+              "All correct",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 1,
+            "explanation": "All three are features of postpartum endometritis. Fever typically arises within the first 10 days of the puerperium, commonly around day 3\u20135 with endometritis (1). Uterine tenderness and subinvolution \u2014 the uterus being larger and softer than expected for the postpartum day \u2014 result from inadequate involution due to infection (2). Offensive, abnormal (pathologic) lochia reflects intrauterine infection (3).",
+            "past_paper": true
+          },
+          {
+            "question": "All of the mentioned about parametritis is true EXCEPT:",
+            "options": [
+              "Painlessness of uterus",
+              "Leukocytosis",
+              "High fever",
+              "Absence of peristalsis in severe cases"
+            ],
+            "correct": 0,
+            "explanation": "Parametritis (pelvic cellulitis) is characterised by constant pelvic pain and tenderness \u2014 the uterus and surrounding structures are tender on examination. A painless uterus would be incorrect. Leukocytosis, high fever with chills and rigors (especially when suppuration occurs), and absent bowel sounds from associated ileus in severe pelvic infection are all true features.",
+            "past_paper": true
+          },
+          {
+            "question": "The main causative agent of postpartum mastitis is:",
+            "options": [
+              "Staphylococcus aureus",
+              "Staphylococcus epidermidis",
+              "Anaerobic organisms",
+              "Proteus",
+              "Streptococcus B"
+            ],
+            "correct": 0,
+            "explanation": "Staphylococcus aureus is the predominant causative organism in lactational (postpartum) mastitis, accounting for the majority of cases. It enters through nipple cracks and crannies. Treatment is with a penicillinase-resistant antibiotic (e.g., dicloxacillin, flucloxacillin) to cover S. aureus. S. epidermidis and streptococci are occasionally found but are not the main agents.",
+            "past_paper": true
+          },
+          {
+            "question": "Which contraceptive method has the highest Pearl index (highest failure rate)?",
+            "options": [
+              "Lactational amenorrhoea",
+              "Intrauterine contraceptive device",
+              "Rhythm method",
+              "Combined oral pills"
+            ],
+            "correct": 2,
+            "explanation": "The Pearl index measures the number of pregnancies per 100 woman-years of use (higher = less effective). The rhythm/natural method has the highest failure rate at approximately 25 pregnancies per 100 woman-years. Lactational amenorrhoea has a failure rate of approximately 2. Copper IUCDs have a rate of approximately 0.8. Combined oral pills have a rate of approximately 0.1.",
+            "past_paper": true
+          },
+          {
+            "question": "Most characteristic manifestations of septic shock: 1. Hyperthermia >38\u00b0C  2. Arterial hypotension  3. Oliguria  4. Shortness of breath",
+            "options": [
+              "4 only",
+              "All correct",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 1,
+            "explanation": "All four are characteristic manifestations of septic shock. Fever (or hypothermia in severe cases) is part of the SIRS criteria. Arterial hypotension defines septic shock (sepsis plus organ hypoperfusion). Oliguria reflects renal hypoperfusion. Shortness of breath occurs from ARDS, a common complication. No single one of these can be excluded from the classic picture of septic shock.",
+            "past_paper": true
+          }
+        ],
+        "Malpresentations & Malpositions": [
+          {
+            "question": "The most typical complications during labour in breech presentation of fetus: 1. Premature rupture of membranes  2. Prolapse of umbilical cord  3. Vaginal bleeding  4. Failure of labour",
+            "options": [
+              "1, 2",
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Premature rupture of membranes is common in breech because the buttocks do not fit well into the lower segment, leading to poor cervical application. Cord prolapse is more frequent because the breech does not occlude the pelvic inlet tightly, especially in footling breech. Failure of labour can occur due to poor dilatation, inadequate descent, or complications with the after-coming head. Vaginal bleeding is not a characteristic complication of breech \u2014 it is associated with placenta praevia or abruption.",
+            "past_paper": true
+          },
+          {
+            "question": "The frequent complications in the second stage of labour in breech presentation are all, EXCEPT:",
+            "options": [
+              "Entrapment of the fetal head",
+              "Deflexed fetal head",
+              "Turn of a fetus by the back facing up",
+              "Turn of a fetus by the back to the posterior"
+            ],
+            "correct": 2,
+            "explanation": "Head entrapment is a major danger, especially with an incompletely dilated cervix or large head. A deflexed head presents a larger diameter, making delivery difficult and increasing morbidity. Persistent sacroposterior position (back to posterior) causes difficulty with the after-coming head and may require specific manoeuvres. The sacrum/back rotating to an anterior position (back facing up in the supine position) is part of the normal delivery mechanism in breech \u2014 it is favourable, not a complication.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible causes of breech presentation: 1. Short cord  2. Contracted pelvis  3. Intrauterine death of the fetus  4. Placenta praevia",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 4",
+              "1, 3",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "All four are recognized causes. A short cord restricts fetal movements and prevents spontaneous cephalic version. A contracted pelvis prevents the head from engaging, so the breech remains in the lower segment. Intrauterine fetal death causes loss of muscle tone, preventing normal cephalic version. Placenta praevia occupies the lower uterine segment, blocking the head from engaging. Other important causes include prematurity (most common), uterine anomalies, polyhydramnios, multiple pregnancy, and fetal anomalies.",
+            "past_paper": true
+          },
+          {
+            "question": "Diagnosis of breech presentation may be done by all mentioned, EXCEPT:",
+            "options": [
+              "Sonography",
+              "2nd maneuver of Leopold",
+              "Vaginal examination",
+              "Third Leopold maneuver"
+            ],
+            "correct": 1,
+            "explanation": "Sonography definitively confirms breech type, fetal attitude, and placental location. Vaginal examination reveals a soft mass, sacrum, ischial tuberosities, and anus without sutures or fontanelles. The third Leopold maneuver (Pawlik's grip) identifies the presenting part at the pelvic inlet \u2014 in breech, a hard ballotable head is felt at the fundus and soft mass at the lower pole. The second Leopold maneuver (lateral grip) identifies the fetal back and limbs to assess position \u2014 it does not directly confirm the presentation and so cannot diagnose breech.",
+            "past_paper": true
+          },
+          {
+            "question": "Fetal dangers in vaginal breech delivery are all mentioned, EXCEPT:",
+            "options": [
+              "Asphyxia",
+              "Haematoma",
+              "Fractures",
+              "Bleeding"
+            ],
+            "correct": 3,
+            "explanation": "Asphyxia is the most important fetal danger, caused by cord compression between the body and the pelvis and by delay in delivering the after-coming head. Haematoma (cephalhaematoma or soft tissue injury) can result from birth trauma and instrumental manipulation. Fractures of the humerus, clavicle, and femur can occur during difficult extraction. External fetal bleeding is not a characteristic complication of vaginal breech delivery \u2014 the major risks are mechanical trauma and asphyxia.",
+            "past_paper": true
+          },
+          {
+            "question": "Indications for caesarean delivery in breech presentation: 1. Elderly primigravida  2. Flexed fetal head  3. Dysfunctional labour  4. Big baby",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 3, 4",
+              "2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Elderly primigravida has higher risk of difficult labour and fetal compromise, making elective caesarean preferable. Dysfunctional labour in breech risks head entrapment and asphyxia, indicating caesarean. A big (macrosomic) baby increases the risk of head entrapment and birth trauma, making vaginal breech unsafe. A flexed fetal head is FAVOURABLE in breech \u2014 it is the extended/hyperextended head that is dangerous and an indication for caesarean. Other indications include fetal distress, inadequate pelvis, and footling breech.",
+            "past_paper": true
+          },
+          {
+            "question": "Which are the predisposing factors of breech (pelvic) presentation? 1. Multiple pregnancy  2. Oligohydramnios  3. Prematurity  4. Fetal hydrocephaly  5. Preceding labour with pelvic presentation  6. Uterine anomalies",
+            "options": [
+              "2, 4, 5, 6",
+              "3, 4, 5, 6",
+              "1, 3, 4, 5, 6",
+              "1, 2, 3, 4, 6"
+            ],
+            "correct": 3,
+            "explanation": "Prematurity (3) is the most common cause of breech \u2014 before 34 weeks the fetus has not yet undergone spontaneous version. Multiple pregnancy (1) limits space for version. Oligohydramnios (2) restricts fetal movement preventing spontaneous cephalic version. Fetal hydrocephaly (4) places the large head more comfortably in the fundus. Uterine anomalies (6) such as a bicornuate or septate uterus impede version. Preceding breech labour (5) suggests a habitual tendency, often from a uterine anomaly \u2014 this may be included clinically but the best match to the options given is 1,2,3,4,6.",
+            "past_paper": true
+          },
+          {
+            "question": "The Tsovyanov maneuver in footling breech presentation is started:",
+            "options": [
+              "After delivery of the fetus's shoulders",
+              "When the feet have reached the pelvic floor",
+              "After birth of the fetus up to the umbilicus",
+              "After delivery of the feet"
+            ],
+            "correct": 1,
+            "explanation": "Tsovyanov II (used in footling breech) is initiated when the feet reach the pelvic floor/vulva. The operator applies resistance to prevent early foot delivery, aiming to convert the footling presentation to a complete breech configuration so the buttocks remain as the presenting part and the legs splint the body. If started after the feet are delivered or after the umbilicus, the purpose of preventing premature leg descent is defeated.",
+            "past_paper": true
+          },
+          {
+            "question": "Management of pregnancy and labour in transverse lie of the fetus includes: 1. Antenatal hospitalisation  2. Hospitalisation at beginning of labour  3. Amniotomy before full cervical dilatation  4. Caesarean section",
+            "options": [
+              "2, 3",
+              "1, 2, 3",
+              "1, 4",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Antenatal hospitalisation (1) is recommended from 37 weeks due to the risk of cord prolapse and early membrane rupture. Hospitalisation at onset of labour (2) ensures immediate management. Caesarean section (4) is the preferred delivery method when external version fails or is contraindicated. Amniotomy before full dilatation (3) is dangerous in transverse lie because it greatly increases the risk of cord prolapse and should not be performed.",
+            "past_paper": true
+          }
+        ],
+        "Multiple & Prolonged Pregnancy": [
+          {
+            "question": "Induction of labour should be done if the term of pregnancy is:",
+            "options": [
+              "285 days",
+              "287\u2013290 days",
+              "More than 294 days",
+              "More than 300 days"
+            ],
+            "correct": 2,
+            "explanation": "Normal pregnancy duration is 280 days (40 weeks). Post-term pregnancy is defined as beyond 42 completed weeks (294 days). After 42 weeks, risks include placental insufficiency, meconium aspiration, fetal distress, and stillbirth \u2014 induction is recommended at or beyond this point. 285 days is approximately 40+5 weeks (still term). 287\u2013290 days is approximately 41 weeks (late term, not yet post-term). 300 days (approximately 43 weeks) carries even higher fetal risk \u2014 waiting this long is not appropriate.",
+            "past_paper": true
+          },
+          {
+            "question": "Maternal complications of multiple pregnancy are all mentioned, EXCEPT:",
+            "options": [
+              "Hypotension",
+              "Pre-eclampsia",
+              "Postpartum haemorrhage",
+              "Postpartum uterine atony"
+            ],
+            "correct": 0,
+            "explanation": "Pre-eclampsia is significantly more common in multiple pregnancy due to increased placental mass and higher placental hormone levels. Postpartum haemorrhage and uterine atony are common because the overdistended uterus contracts poorly after delivery. Hypotension is NOT a recognised maternal complication of multiple pregnancy \u2014 hypertensive disorders are common, not hypotension. Other maternal risks include anaemia, preterm labour, and malpresentation.",
+            "past_paper": true
+          },
+          {
+            "question": "Complications of dichorionic twins: 1. Malpresentation  2. Conjoint twin  3. Preterm labour  4. Twin transfusion syndrome",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 4",
+              "3, 4",
+              "1, 3"
+            ],
+            "correct": 3,
+            "explanation": "Malpresentation is common in twins due to uterine overdistension. Preterm labour is the most common complication of any twin pregnancy from uterine overdistension. Conjoint (conjoined) twins occur only in monoamniotic monozygotic twins \u2014 not in dichorionic twins. Twin-to-twin transfusion syndrome (TTTS) occurs only in monochorionic twins due to placental vascular anastomoses \u2014 dichorionic twins have separate placentas and cannot develop TTTS.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible complications of multiple pregnancy: 1. Premature or early rupture of membranes  2. Abruptio placentae  3. Malpresentation  4. Prematurity",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "1, 2, 3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "All four are recognised complications. PROM/PPROM occurs due to increased uterine tension from overdistension. Abruptio placentae can occur after delivery of the first twin due to sudden uterine decompression. Malpresentation is common from overdistension affecting lie. Prematurity is the most frequent complication \u2014 the majority of twins deliver before 37 weeks. All listed options are genuine complications of multiple pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Diagnosis of multiple pregnancy may be done by: 1. Maternal age  2. Fundal height larger than expected for singleton  3. Auscultation of two separate fetal heart rates  4. Abdominal palpation of excessive number of fetal parts",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 3, 4",
+              "3, 4",
+              "1, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "A uterus larger than expected for gestational age is one of the earliest clinical suspicions for twins. Two fetal heart rates heard at different locations with a difference of at least 10 beats/min is strong clinical evidence. Palpation of excessive fetal parts with difficulty identifying a single fetal pole supports the diagnosis. Maternal age is only a risk factor for multiple pregnancy (especially for dizygotic twins with assisted reproduction), not a diagnostic method. Definitive diagnosis is by ultrasound.",
+            "past_paper": true
+          },
+          {
+            "question": "After what week of gestation, counting from the first day of the last normal menstruation, is the pregnancy called postmature?",
+            "options": [
+              "42 weeks",
+              "43 weeks",
+              "44 weeks",
+              "41 weeks"
+            ],
+            "correct": 0,
+            "explanation": "Post-term (postmature) pregnancy is defined as pregnancy continuing beyond 42 completed weeks (294 days) from the LMP. The EDD is 40 weeks; beyond 2 additional weeks constitutes post-term. 41 weeks is 'late term.' 43 and 44 weeks are already well within the post-term period but are not the defining cutoff.",
+            "past_paper": true
+          },
+          {
+            "question": "The first step in the assessment of prolonged (post-term) pregnancy is:",
+            "options": [
+              "Assessment of amniotic fluid volume (AFI)",
+              "Measurement of fetal heart rate",
+              "Ultrasound examination",
+              "Determination of the true length of gestation",
+              "Contraction stress test"
+            ],
+            "correct": 3,
+            "explanation": "Before labelling a pregnancy as post-term and initiating surveillance or induction, the first and most important step is to confirm the true gestational age using all available information (reliable LMP, early ultrasound dating, timing of intercourse). Many apparent post-term pregnancies are incorrectly dated. AFI, FHR assessment, and contraction stress tests are all fetal surveillance tools used after the diagnosis is confirmed.",
+            "past_paper": true
+          },
+          {
+            "question": "Prolonged pregnancy can be associated with: 1. Increased frequency of intrauterine fetal hypoxia  2. Malfunction of placenta  3. Meconium aspiration  4. Hydramnios",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "All mentioned",
+              "1, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Post-term pregnancy is associated with placental ageing and insufficiency (2), leading to progressive fetal hypoxia (1) and passage of meconium into the liquor with risk of meconium aspiration syndrome (3). Hydramnios (4) is incorrect \u2014 post-term pregnancy is associated with oligohydramnios (reduced liquor) due to diminished fetal urine output from placental insufficiency, not polyhydramnios.",
+            "past_paper": true
+          },
+          {
+            "question": "Maternal complications of multiple pregnancy include: 1. Hypertension  2. Preeclampsia  3. Postpartum haemorrhage  4. Postpartum uterine atony",
+            "options": [
+              "1, 3",
+              "1, 3, 4",
+              "All listed",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "All four are recognised maternal complications. Preeclampsia (2) occurs approximately 3 times more frequently in twin pregnancy due to increased placental mass. Hypertension (1) is part of the same spectrum. Postpartum uterine atony (4) results from overdistension of the uterus impairing myometrial contraction, directly causing postpartum haemorrhage (3). Active management of the third stage is essential in multiple pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Multiple pregnancy is associated with increased probability of: 1. Maternal diabetes  2. Preeclampsia  3. Rhesus isoimmunisation  4. Premature labour",
+            "options": [
+              "1, 3, 4",
+              "All mentioned",
+              "2, 3, 4",
+              "4 only"
+            ],
+            "correct": 3,
+            "explanation": "Premature labour (4) is the most common complication of multiple pregnancy. Preeclampsia (2) is also significantly increased (~3\u00d7). Maternal diabetes (1) is not a recognised complication caused by multiple pregnancy. Rhesus isoimmunisation (3) is not specifically increased in twins. If forced to choose from the given options, preterm labour is the most clearly and consistently increased risk.",
+            "past_paper": true
+          },
+          {
+            "question": "The second twin is more at risk for asphyxia and stillbirth.",
+            "options": [
+              "False",
+              "True"
+            ],
+            "correct": 1,
+            "explanation": "The second twin faces approximately 50% greater risk of complications during delivery due to uterine retraction after delivery of the first twin, which reduces placental perfusion. Additional risks include cord prolapse, malpresentation requiring operative delivery, and a longer interval between births. These factors combine to increase the risk of asphyxia and perinatal death for the second twin.",
+            "past_paper": true
+          },
+          {
+            "question": "Presence of the lambda (twin peak) sign on ultrasound indicates:",
+            "options": [
+              "Monochorionic placenta",
+              "Dichorionic placenta",
+              "Monoamniotic twin pregnancy",
+              "Twin-to-twin transfusion syndrome"
+            ],
+            "correct": 1,
+            "explanation": "The lambda sign (also called the twin peak sign) is a triangular wedge of placental tissue projecting into the base of the inter-twin membrane, seen on ultrasound in the first or early second trimester. It indicates a dichorionic placenta. The T-sign (thin inter-twin membrane meeting the placenta at a right angle without a wedge) indicates monochorionic diamniotic twins.",
+            "past_paper": true
+          },
+          {
+            "question": "In multiple pregnancy there is a high probability of: 1. Premature labour  2. Anaemia  3. Increased perinatal death  4. Prolonged pregnancy  5. Malpresentation",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 5",
+              "3, 4",
+              "All mentioned"
+            ],
+            "correct": 0,
+            "explanation": "Premature labour (1), anaemia (2) due to increased iron and folate demands, and increased perinatal mortality (3) are all well-established associations of multiple pregnancy. Prolonged pregnancy (4) is not typical \u2014 twins more commonly deliver early, not post-term. Malpresentation (5) is also increased but the best-fitting option from those given that avoids including prolonged pregnancy is 1, 2, 3.",
+            "past_paper": true
+          },
+          {
+            "question": "During differential diagnosis when uterine size exceeds gestational age, consider: 1. Large but normal fetus  2. Oligohydramnios  3. Uterine leiomyoma  4. Other gynaecological neoplasms  5. Multiple pregnancy",
+            "options": [
+              "1, 2, 3, 4",
+              "All mentioned",
+              "2, 3, 5",
+              "1, 3, 4, 5"
+            ],
+            "correct": 3,
+            "explanation": "Causes of uterus larger than dates include: macrosomia/large fetus (1), uterine fibroids (3) and other pelvic tumours such as ovarian masses (4) that co-exist alongside or distort the uterus, and multiple pregnancy (5). Oligohydramnios (2) causes the uterus to be SMALLER than dates, not larger. Any option including oligohydramnios is incorrect.",
+            "past_paper": true
+          }
+        ],
+        "Contraception": [
+          {
+            "question": "This method of contraception prevents uterine but NOT ectopic pregnancy:",
+            "options": [
+              "Oral contraceptive",
+              "Intrauterine device",
+              "Rhythm method",
+              "Coitus interruptus"
+            ],
+            "correct": 1,
+            "explanation": "The IUCD prevents intrauterine implantation by causing a sterile endometrial inflammatory reaction. It does not prevent fertilization, so if conception occurs with an IUCD in situ, there is a higher relative chance of ectopic implantation. Combined oral contraceptives suppress ovulation, preventing both uterine and ectopic pregnancy. The rhythm method and coitus interruptus prevent sperm deposition and have no selective effect on the site of implantation. Key point: pregnancy with IUCD in situ should be assumed ectopic until proven otherwise.",
+            "past_paper": true
+          },
+          {
+            "question": "Choose the barrier methods of contraception: 1. Diaphragm  2. Intrauterine contraceptive device  3. Condom  4. Vaginal chemical contraceptives",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 3, 4",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "The diaphragm is a mechanical barrier placed over the cervix to prevent sperm entry. The condom prevents sperm deposition and also protects against STIs. Vaginal chemical contraceptives (spermicides) act by destroying sperm and are often used in combination with a diaphragm. The IUCD is NOT a barrier method \u2014 it acts by causing local endometrial inflammation, impairing implantation, and (for copper IUCDs) also impairing sperm motility.",
+            "past_paper": true
+          },
+          {
+            "question": "Which method of contraception is preferable for those who have infrequent sexual intercourse?",
+            "options": [
+              "Natural contraception",
+              "Intrauterine contraceptive device",
+              "Barrier methods",
+              "Steroidal contraceptives"
+            ],
+            "correct": 2,
+            "explanation": "Barrier methods (condom, diaphragm, spermicides) are used only at the time of intercourse, require no daily compliance, and are ideal for infrequent or irregular sexual activity. Natural (rhythm) methods require regular cycle tracking and have higher failure rates. The IUCD is a long-term continuous method more suitable for women desiring ongoing contraception. Steroidal contraceptives require daily (pill) or scheduled use and are designed for regular sexual activity.",
+            "past_paper": true
+          },
+          {
+            "question": "The mechanisms of contraceptive action of combined oral pills are: 1. Inhibition of ovulation  2. Aseptic endometritis  3. Increased tubal motility  4. Alteration of the cervical mucus",
+            "options": [
+              "1, 4",
+              "2, 3, 4",
+              "1, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Combined oral contraceptive pills act primarily by inhibiting ovulation \u2014 the combined estrogen and progestin suppress FSH and LH, preventing the LH surge and ovulation. Progestin also thickens cervical mucus, preventing sperm penetration. Aseptic endometritis is the mechanism of the IUCD, not COCs. COCs actually reduce tubal motility; they do not increase it.",
+            "past_paper": true
+          },
+          {
+            "question": "The excessive menstrual bleeding is a contraindication for the following method of contraception:",
+            "options": [
+              "Lactational amenorrhoea",
+              "Intrauterine contraceptive device",
+              "Rhythm method",
+              "Coitus interruptus"
+            ],
+            "correct": 1,
+            "explanation": "Copper IUCD increases menstrual blood loss and duration of menstruation \u2014 it is contraindicated in women with menorrhagia as it worsens bleeding and may cause anaemia. Lactational amenorrhoea works by suppressing ovulation and does not affect menstrual flow. The rhythm method and coitus interruptus have no hormonal or uterine effect and do not influence bleeding pattern. Note: the levonorgestrel IUS (hormonal IUCD) actually reduces menstrual bleeding and may be therapeutic for menorrhagia.",
+            "past_paper": true
+          },
+          {
+            "question": "The mechanisms of contraceptive action of intrauterine contraceptive devices are: 1. Inhibition of ovulation  2. Aseptic endometritis  3. Increased tubal motility  4. Alteration of the cervical mucus",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 3",
+              "3, 4",
+              "1, 4"
+            ],
+            "correct": 1,
+            "explanation": "The copper IUCD acts by causing aseptic (sterile) endometritis \u2014 a local inflammatory reaction in the endometrium with increased leukocytes and prostaglandins that prevents implantation. It also increases tubal motility, interfering with ovum transport and fertilization, and copper ions impair sperm motility and viability. Ovulation is NOT inhibited by copper IUCDs. Alteration of cervical mucus is a mechanism of progestin-based contraceptives (mini-pill, hormonal IUS), not the copper IUCD.",
+            "past_paper": true
+          },
+          {
+            "question": "Which method of contraception is contraindicated for nulliparous women?",
+            "options": [
+              "Combined oral pills",
+              "Intrauterine contraceptive device",
+              "Minipill",
+              "Condoms"
+            ],
+            "correct": 1,
+            "explanation": "Classically, the IUCD is relatively contraindicated in nulliparous women due to increased risk of pelvic infection, potential risk of future infertility, and technical difficulty of insertion through an undilated internal os. Combined oral pills, the minipill, and condoms are all safe and commonly used in nulliparous women. Note: modern guidelines allow IUCD use in nulliparae with careful counselling, but in the classical exam context, IUCD is the contraindicated option.",
+            "past_paper": true
+          }
+        ],
+        "Fetal & Neonatal": [],
+        "Obstructed Labour & Pelvic Issues": [],
+        "Antepartum Haemorrhage": [
+          {
+            "question": "All of the following signs or symptoms characterise placenta praevia EXCEPT:",
+            "options": [
+              "Painless vaginal bleeding",
+              "Increased uterine tone",
+              "Cervical changes secondary to thinning of the lower uterine segment",
+              "Early third-trimester bleeding"
+            ],
+            "correct": 1,
+            "explanation": "Placenta praevia classically presents with painless, bright red vaginal bleeding with a soft, non-tender, relaxed uterus. Increased uterine tone/tenderness is the hallmark of placental abruption, not praevia. Painless bleeding (a), thinning of the lower uterine segment causing cervical changes as it forms (c), and bleeding commonly beginning around 28\u201332 weeks (d) are all characteristic features of placenta praevia.",
+            "past_paper": true
+          },
+          {
+            "question": "Factors provoking anomalies of placental arrangement (placenta praevia): 1. Developmental anomalies of uterus  2. Inflammatory diseases of uterus  3. Repeated abortions  4. Myoma of uterus with subserous arrangement",
+            "options": [
+              "All mentioned",
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 3,
+            "explanation": "Developmental uterine anomalies (1), inflammatory uterine disease/endometritis causing defective decidua (2), and repeated abortions/curettage causing endometrial scarring (3) are all recognised risk factors for abnormal placental implantation. Subserous fibroids (4) grow outward and do not distort the endometrial cavity \u2014 they are not a risk factor. Submucous and cavity-distorting intramural fibroids would be relevant, but not subserous ones.",
+            "past_paper": true
+          },
+          {
+            "question": "The placement of the placenta relative to the internal os does not change during pregnancy.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "This is false. The phenomenon of 'placental migration' (a misnomer) describes the apparent upward movement of the placenta as the lower uterine segment develops and lengthens in the second and third trimesters. Most low-lying placentas identified at 17\u201320 weeks will no longer cover or be near the internal os at term. This is why a diagnosis of placenta praevia should not be made definitively before 28\u201330 weeks.",
+            "past_paper": true
+          },
+          {
+            "question": "Classification of placenta praevia includes: 1. Complete  2. Partial  3. Marginal  4. Low-lying placenta  5. Acute",
+            "options": [
+              "All five types",
+              "1, 2, 3, 4 only (not Acute)",
+              "1, 3, 4 only",
+              "2, 3, 4, 5 only"
+            ],
+            "correct": 1,
+            "explanation": "Placenta praevia is classified into 4 types: Type I (Low-lying) \u2014 lower edge in the lower segment not reaching the internal os; Type II (Marginal) \u2014 reaches the margin of the internal os but does not cover it; Type III (Partial/incomplete central) \u2014 partially covers the internal os; Type IV (Complete/central/total) \u2014 completely covers the internal os even after full dilatation. 'Acute' is not a recognised type of placenta praevia classification.",
+            "past_paper": true
+          },
+          {
+            "question": "Diagnostic methods used for premature separation of placenta (abruptio placentae): 1. Ultrasound  2. External manual examination  3. Assessment of fetal well-being  4. X-ray of pelvis",
+            "options": [
+              "1, 3, 4",
+              "All mentioned",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Abruptio placentae is primarily a clinical diagnosis supported by ultrasound (which may show a retroplacental haematoma), external abdominal examination (to assess uterine consistency and tenderness), and fetal well-being assessment (CTG, Doppler). X-ray of the pelvis has no role in diagnosing placental abruption and should not be used.",
+            "past_paper": true
+          },
+          {
+            "question": "A woman presents in active labour with significant vaginal bleeding, is incoherent, and had a previous caesarean section. FHR is 60 bpm. The most likely diagnosis is:",
+            "options": [
+              "Ruptured vasa praevia",
+              "Placenta praevia",
+              "Ruptured uterus",
+              "Bloody show",
+              "Cervical cancer"
+            ],
+            "correct": 2,
+            "explanation": "This is a classic presentation of uterine rupture: previous caesarean scar + active labour + massive haemorrhage causing maternal collapse/incoherence + severe fetal bradycardia (60 bpm) from acute fetal hypoxia. Vasa praevia causes fetal bleeding with bradycardia but not maternal shock. Placenta praevia typically presents with painless bleeding and a soft uterus, not collapse with this FHR pattern. Bloody show is minor bleeding with normal FHR.",
+            "past_paper": true
+          },
+          {
+            "question": "The most common cause of death in amniotic fluid embolism is:",
+            "options": [
+              "Afibrinogenaemia",
+              "Massive blood loss",
+              "Acute renal failure",
+              "Functional apoplexy",
+              "Acute respiratory and cardiac failure"
+            ],
+            "correct": 4,
+            "explanation": "In amniotic fluid embolism (AFE), amniotic fluid containing thromboplastic substances and debris enters maternal circulation and causes acute pulmonary vasospasm and cardiovascular collapse. Death most commonly occurs in this immediate phase of acute respiratory and cardiac failure. If the patient survives this phase, DIC/afibrinogenaemia and its resulting haemorrhage may cause secondary death, but the primary cause is cardiorespiratory collapse.",
+            "past_paper": true
+          }
+        ],
+        "Postpartum Haemorrhage": [
+          {
+            "question": "Postpartum haemorrhage could be a reasonable possibility in all of the following situations EXCEPT:",
+            "options": [
+              "Transverse lie",
+              "Triplets",
+              "Long labour",
+              "Hydramnios",
+              "Thrombocytopenia"
+            ],
+            "correct": 0,
+            "explanation": "Triplets (overdistension), long labour (myometrial fatigue), hydramnios (overdistension), and thrombocytopenia (coagulopathy) all directly predispose to PPH through uterine atony or impaired coagulation. Transverse lie by itself is not a direct cause of PPH \u2014 it necessitates operative delivery but does not inherently cause uterine atony or bleeding in the way the others do.",
+            "past_paper": true
+          },
+          {
+            "question": "A woman with complete placenta praevia delivered by caesarean section develops significant postpartum bleeding. The most likely cause is:",
+            "options": [
+              "Cervical laceration",
+              "Consumptive coagulopathy (DIC)",
+              "Placental implantation in the lower uterine segment",
+              "Retained placental fragments",
+              "Lack of response to oxytocin"
+            ],
+            "correct": 2,
+            "explanation": "In placenta praevia, the placenta is implanted in the lower uterine segment, which has poor myometrial content and contracts less effectively after delivery. The placental bed therefore fails to retract and seal the open sinuses, leading to persistent bleeding. This anatomical fact (imperfect lower segment retraction) is the primary cause of PPH in placenta praevia. DIC is more typical of abruption. Retained fragments and oxytocin failure are secondary considerations.",
+            "past_paper": true
+          },
+          {
+            "question": "Predisposing factors for postpartum infection include: 1. Maternal obesity  2. Maternal anaemia  3. Prolonged labour  4. Postmature pregnancy  5. Premature rupture of membranes",
+            "options": [
+              "3, 4, 5",
+              "1, 3, 5",
+              "1, 2, 3, 5",
+              "2, 3, 4, 5",
+              "1, 2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Maternal anaemia (2) reduces host defence. PROM (5) allows ascending bacterial contamination. Prolonged labour (3) increases the duration of exposure and number of vaginal examinations. Maternal obesity (1) is a recognised risk factor for wound and uterine infection. Postmature pregnancy (4) is not listed among recognised predisposing factors for puerperal infection in standard texts.",
+            "past_paper": true
+          }
+        ],
+        "Operative Obstetrics": [
+          {
+            "question": "The most important result of the increased number of caesarean sections being performed is:",
+            "options": [
+              "Decreased maternal morbidity",
+              "Decreased maternal mortality",
+              "Decreased perinatal mortality",
+              "Increased use of fetal monitoring"
+            ],
+            "correct": 2,
+            "explanation": "The liberal use of caesarean section has primarily contributed to a reduction in perinatal mortality by preventing fetal loss from hypoxia, birth trauma, and difficult vaginal deliveries. Maternal morbidity is not reduced \u2014 operative risks increase with CS. Maternal mortality is not the primary benefit cited. Increased fetal monitoring is a contributing factor to the rising CS rate, not a result of it.",
+            "past_paper": true
+          },
+          {
+            "question": "Indications for caesarean section include all of the following EXCEPT:",
+            "options": [
+              "Previous caesarean section",
+              "Failed forceps delivery",
+              "Fetal distress",
+              "Cord prolapse"
+            ],
+            "correct": 0,
+            "explanation": "Previous caesarean section is not an absolute indication for repeat CS. VBAC (vaginal birth after caesarean) is successful in approximately 70\u201376% of selected cases where the prior CS was for a non-recurrent indication and the scar is sound. Failed forceps, fetal distress, and cord prolapse are all established indications requiring caesarean delivery.",
+            "past_paper": true
+          },
+          {
+            "question": "Prerequisites for forceps delivery include all of the following EXCEPT:",
+            "options": [
+              "Completely dilated cervix",
+              "Empty bladder",
+              "Vertex in the occiput anterior position",
+              "Ruptured membranes",
+              "Known position of the vertex"
+            ],
+            "correct": 2,
+            "explanation": "Forceps can be applied in non-OA positions \u2014 they are used in occipitoposterior and occipitolateral positions with rotation or after manual correction, so OA position is not an absolute prerequisite. Full cervical dilatation, empty bladder, ruptured membranes, and known position of the vertex are all essential prerequisites. Application in an unknown or unrecognised malposition leads to failed forceps and fetal injury.",
+            "past_paper": true
+          },
+          {
+            "question": "A woman delivers a 4000 g infant with a midline episiotomy and suffers a third-degree tear. Which structure remains intact?",
+            "options": [
+              "Anal sphincter",
+              "Perineal body",
+              "Perineal muscles",
+              "Fascia",
+              "Rectal mucosa"
+            ],
+            "correct": 4,
+            "explanation": "A third-degree perineal tear involves injury to the anal sphincter complex (external and/or internal anal sphincter) but the rectal mucosa remains intact. Rectal mucosal breach occurs only in a fourth-degree (complete/total) tear. The perineal body, muscles, and fascial layers are disrupted in a third-degree tear alongside the sphincter.",
+            "past_paper": true
+          },
+          {
+            "question": "Disadvantages of a mediolateral episiotomy include all of the following EXCEPT:",
+            "options": [
+              "Difficulty of repair",
+              "Common faulty healing",
+              "Occasional dyspareunia",
+              "Relatively common extension through the anal sphincter",
+              "Occasional faulty anatomic result"
+            ],
+            "correct": 3,
+            "explanation": "Extension through the anal sphincter is a risk of midline (median) episiotomy, not mediolateral. The mediolateral cut angles away from the sphincter and is specifically chosen to reduce this risk. The true disadvantages of mediolateral episiotomy include: greater difficulty of repair (compared to midline), higher risk of faulty or delayed healing, greater blood loss, occasional dyspareunia from scarring, and the risk of imperfect anatomical realignment.",
+            "past_paper": true
+          },
+          {
+            "question": "Which type of perineal incision is easier to repair?",
+            "options": [
+              "Episiotomy",
+              "Perineal laceration (perinectomy)"
+            ],
+            "correct": 0,
+            "explanation": "A surgical episiotomy produces a clean, straight incision with defined margins that can be closed layer by layer with accurate anatomical alignment. It heals better than a lacerated/irregular wound. A perineal laceration has ragged, uneven margins that are more difficult to appose accurately, increasing the risk of poor healing, haematoma, and infection.",
+            "past_paper": true
+          },
+          {
+            "question": "Which procedure requires the least technical skill and poses the lowest risk for fetal loss?",
+            "options": [
+              "Amnioscopy",
+              "Chorionic villus sampling (CVS)",
+              "Percutaneous umbilical blood sampling (PUBS)",
+              "Fetal biopsy"
+            ],
+            "correct": 0,
+            "explanation": "Amnioscopy is a visual inspection of the amniotic fluid through the cervix to assess its colour (for meconium). It requires no fetal tissue or blood sampling, making it the least technically demanding and carrying the lowest procedure-related fetal loss risk. CVS has a miscarriage risk of approximately 0.5\u20131%. PUBS/cordocentesis requires ultrasound-guided needle insertion into the umbilical cord with higher fetal loss risk. Fetal biopsy is highly invasive.",
+            "past_paper": true
+          },
+          {
+            "question": "Correct statements about obstetric risk factors include all of the following EXCEPT:",
+            "options": [
+              "A woman with a prior ectopic pregnancy is at risk for another ectopic pregnancy",
+              "A grand multiparous woman is at risk for postpartum haemorrhage",
+              "The incidence of preterm delivery increases with each subsequent preterm delivery",
+              "Once a woman has had a caesarean section, all subsequent deliveries must be by caesarean section"
+            ],
+            "correct": 3,
+            "explanation": "The statement that all subsequent deliveries must be by CS is incorrect. VBAC (vaginal birth after caesarean) is appropriate and successful in ~70\u201376% of selected cases after one previous LSCS with a lower-segment transverse incision. Prior ectopic predisposes to repeat ectopic due to tubal damage. Grand multiparity predisposes to uterine atony and PPH. Prior preterm birth is the strongest predictor of recurrent preterm birth.",
+            "past_paper": true
+          }
+        ],
+        "Complications of Early Pregnancy": [],
+        "Hypertensive Disorders": [
+          {
+            "question": "Pathophysiologic consequences of preeclampsia include all of the following EXCEPT:",
+            "options": [
+              "Decreased glomerular filtration rate",
+              "Increased plasma uric acid",
+              "Increased intravascular volume",
+              "Oliguria",
+              "Decreased placental perfusion"
+            ],
+            "correct": 2,
+            "explanation": "Preeclampsia is characterised by generalised vasospasm and endothelial dysfunction causing capillary leak. The net intravascular effect is volume CONTRACTION (hypovolaemia), not expansion \u2014 fluid shifts to the extravascular compartment causing oedema while the intravascular space is depleted. Decreased GFR, hyperuricaemia, oliguria, and decreased placental perfusion are all direct consequences of vasospasm in preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "Appropriate forms of management for the preeclamptic patient (BP 140/95 mmHg and 1+ proteinuria or greater) include all of the following EXCEPT:",
+            "options": [
+              "Bed rest",
+              "Contraction stress tests",
+              "Hospitalisation",
+              "Serial ultrasound examinations",
+              "Diuretics"
+            ],
+            "correct": 4,
+            "explanation": "Diuretics are NOT routine in preeclampsia management. They reduce an already contracted intravascular volume and can worsen placental perfusion. They are reserved only for complications such as pulmonary oedema. Bed rest, hospitalisation for supervision, serial ultrasound for fetal growth and AFI, and contraction stress tests for fetal surveillance are all appropriate in expectant management of preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "Pathogenetic mechanisms of gestosis (preeclampsia) include: 1. Hypovolaemia  2. Lack of decidualisation of the myometrial segment of spiral arteries  3. Haemorrhage and necrosis in many organs  4. Arteriolar vasospasm",
+            "options": [
+              "1, 2, 4",
+              "2, 3, 4",
+              "All listed",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "All four are pathogenetic mechanisms. Defective spiral artery remodelling (2) \u2014 trophoblastic invasion fails to reach the myometrial segment, leaving vessels responsive to vasoconstrictors \u2014 is the key initiating event. Arteriolar vasospasm (4) is the resulting generalised vasoconstriction causing hypertension. Intravascular hypovolaemia (1) results from capillary leak. Haemorrhage and necrosis in multiple organs (3) occur in severe disease (adrenal, hepatic, cerebral).",
+            "past_paper": true
+          },
+          {
+            "question": "The hypertensive states concerned with pregnancy include all EXCEPT:",
+            "options": [
+              "Preeclampsia",
+              "Eclampsia",
+              "Transient hypertension",
+              "Chronic hypertension"
+            ],
+            "correct": 3,
+            "explanation": "Pregnancy-induced hypertension (PIH) encompasses conditions arising from pregnancy itself: gestational (transient) hypertension, preeclampsia, and eclampsia. Chronic hypertension is pre-existing hypertension that antedates pregnancy or is diagnosed before 20 weeks \u2014 it is not a pregnancy-induced condition and is classified separately.",
+            "past_paper": true
+          },
+          {
+            "question": "The fetal jeopardies in gestosis (preeclampsia) include all EXCEPT:",
+            "options": [
+              "IUGR",
+              "Fetal distress",
+              "Congenital malformations",
+              "Fetal demise"
+            ],
+            "correct": 2,
+            "explanation": "Preeclampsia causes uteroplacental vasospasm and insufficiency, leading to IUGR, fetal distress (hypoxia), and in severe cases fetal demise. Congenital malformations are caused by teratogens, genetic abnormalities, infections, or poorly controlled diabetes in the first trimester \u2014 not by preeclampsia. Preeclampsia does not interfere with organogenesis.",
+            "past_paper": true
+          },
+          {
+            "question": "The most common signs in gestosis (preeclampsia) include all EXCEPT:",
+            "options": [
+              "Hypertension",
+              "Low platelets",
+              "Proteinuria",
+              "Oedema"
+            ],
+            "correct": 1,
+            "explanation": "The cardinal signs of preeclampsia are hypertension and proteinuria, with or without pathological oedema. Thrombocytopenia (low platelets) is a sign of severe disease and the HELLP syndrome \u2014 it reflects endothelial activation and platelet consumption, but it is not a common or routine finding in all cases of preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "The signs of severity of preeclampsia include all EXCEPT:",
+            "options": [
+              "Hypogastric/epigastric pain",
+              "Persistent severe hypertension",
+              "Ascites",
+              "Visual disorders",
+              "Increased uterine contractions"
+            ],
+            "correct": 4,
+            "explanation": "Severity features of preeclampsia include persistent severe hypertension (\u2265160/110 mmHg), cerebral/visual disturbances (scotomata, blurring, dimness), severe persistent epigastric or RUQ pain (from hepatic capsular distension), oliguria, thrombocytopenia, pulmonary oedema, and severe capillary leak causing ascites. Increased uterine contractions are not a severity criterion for preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "A 38-week pregnant patient is admitted with seizure, BP 240/160 mmHg, 4+ proteinuria, and unconsciousness. The diagnosis is:",
+            "options": [
+              "Preeclampsia",
+              "Eclampsia",
+              "Transient hypertension",
+              "Epilepsy"
+            ],
+            "correct": 1,
+            "explanation": "Eclampsia is defined as the occurrence of a grand mal convulsion in a patient with preeclampsia that cannot be attributed to other causes. This patient has the full triad of severe preeclampsia (extreme hypertension + heavy proteinuria) plus a seizure and impaired consciousness \u2014 this is eclampsia. Preeclampsia by definition does NOT include seizures. Epilepsy would not explain the severe hypertension and proteinuria triad.",
+            "past_paper": true
+          },
+          {
+            "question": "HELLP syndrome signs include all EXCEPT:",
+            "options": [
+              "IUGR",
+              "Low platelets",
+              "Haemolysis",
+              "Elevated liver enzymes"
+            ],
+            "correct": 0,
+            "explanation": "HELLP is an acronym: H = Haemolysis, EL = Elevated Liver enzymes, LP = Low Platelets. These are the three defining laboratory components of the syndrome. IUGR is a fetal complication associated with the underlying placental insufficiency of preeclampsia/HELLP \u2014 it is not a sign or component of HELLP syndrome itself, which is a maternal laboratory syndrome.",
+            "past_paper": true
+          },
+          {
+            "question": "The main risk factor for gestosis (preeclampsia) is:",
+            "options": [
+              "Chronic hypertension",
+              "Age of primipara more than 35 years",
+              "Hypotension",
+              "All of the above"
+            ],
+            "correct": 0,
+            "explanation": "Chronic (pre-existing) hypertension is the strongest predisposing factor for developing superimposed preeclampsia. Other risk factors include nulliparity, multiple pregnancy, pre-existing renal disease, and diabetes. Advanced maternal age is a risk factor but not the primary one. Hypotension is not a risk factor for preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "Preeclampsia in the multiparous patient is associated with all of the following conditions EXCEPT:",
+            "options": [
+              "Multiple gestation",
+              "Diabetes",
+              "Hyperthyroidism",
+              "Chronic hypertension",
+              "Glomerulonephritis"
+            ],
+            "correct": 2,
+            "explanation": "Multiple gestation (increased placental mass), diabetes, chronic hypertension, and glomerulonephritis (pre-existing renal disease) are all well-established conditions associated with preeclampsia, particularly in multiparous women. Hyperthyroidism is not recognised as an associated condition predisposing to preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "Preeclampsia management: salt intake should be restricted.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "Salt restriction is NOT recommended in preeclampsia management. Normal salt intake is permitted. Aggressive sodium restriction could worsen the already contracted intravascular volume. Fluid management is important (avoiding overload while maintaining perfusion), but routine salt restriction is not part of standard preeclampsia management.",
+            "past_paper": true
+          },
+          {
+            "question": "Antihypertensive treatment during preeclampsia should be started when diastolic pressure increases to:",
+            "options": [
+              "90 mmHg and higher",
+              "120 mmHg and higher",
+              "130 mmHg and higher",
+              "100 mmHg and higher",
+              "110 mmHg and higher"
+            ],
+            "correct": 4,
+            "explanation": "Antihypertensive drugs are indicated when BP reaches the severe range: systolic \u2265160 mmHg and/or diastolic \u2265110 mmHg. The treatment target is to bring SBP to 140\u2013160 mmHg and DBP to 90\u2013100 mmHg. A DBP of 90 mmHg is the diagnostic threshold, not the treatment threshold. 100 mmHg is below the Dutta-cited threshold of \u2265110 for pharmacological intervention.",
+            "past_paper": true
+          },
+          {
+            "question": "The reason for visual impairment and headache in preeclampsia is:",
+            "options": [
+              "Embolism",
+              "Vasoconstriction",
+              "Infarct"
+            ],
+            "correct": 1,
+            "explanation": "Visual symptoms (blurring, scotomata, dimness, photopsia, even cortical blindness) and headache in preeclampsia are caused by vasospasm/vasoconstriction of retinal and cerebral vessels, combined with vasogenic cerebral oedema. Preeclampsia is characterised by endothelial dysfunction and generalised vasoconstriction. While retinal infarction can occur as an extreme consequence of vasospasm, the primary mechanism is vasoconstriction itself.",
+            "past_paper": true
+          },
+          {
+            "question": "Following are symptoms of preeclampsia EXCEPT:",
+            "options": [
+              "Epigastric pain",
+              "Blurring of vision",
+              "Arthrosis",
+              "Headache"
+            ],
+            "correct": 2,
+            "explanation": "Epigastric or RUQ pain (from hepatic capsular distension/subcapsular haemorrhage), blurring of vision (from retinal vasospasm and occipital oedema), and headache (from cerebral vasospasm and raised ICP) are all recognised symptoms of severe preeclampsia. Arthrosis is a degenerative joint condition completely unrelated to preeclampsia.",
+            "past_paper": true
+          },
+          {
+            "question": "The reason for upper quadrant abdominal pain during preeclampsia is:",
+            "options": [
+              "Liver infarctions",
+              "Distension of the liver capsule",
+              "Liver rupture"
+            ],
+            "correct": 1,
+            "explanation": "RUQ/epigastric pain in preeclampsia is caused by subcapsular hepatic haemorrhage, which stretches (distends) the Glisson's capsule surrounding the liver. This is a severe feature and signals impending HELLP or liver rupture. Infarction is not the usual mechanism cited. Frank liver rupture is a catastrophic late complication \u2014 the pain mechanism leading up to it is capsular distension from subcapsular bleeding.",
+            "past_paper": true
+          },
+          {
+            "question": "Chronic hypertensive disease is the presence of hypertension antedating or before the 20th week of pregnancy and persisting beyond 42 days after delivery.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correct": 1,
+            "explanation": "This is false. Chronic hypertension is defined as hypertension antedating or diagnosed before 20 weeks of pregnancy, and persisting beyond 12 weeks (3 months) postpartum \u2014 not 42 days. The 6-week (42-day) postpartum period is used for other purposes such as the definition of the puerperium.",
+            "past_paper": true
+          },
+          {
+            "question": "In which term of pregnancy do morning nausea and vomiting usually occur?",
+            "options": [
+              "10\u201312 weeks",
+              "1\u20133 weeks",
+              "4\u20138 weeks",
+              "14\u201318 weeks"
+            ],
+            "correct": 2,
+            "explanation": "Morning sickness (nausea and vomiting of pregnancy) typically begins shortly after the first missed period and is most prominent between 4 and 8 weeks. It rarely persists beyond 16 weeks. Onset at 1\u20133 weeks is too early (before the missed period). Peak symptoms at 10\u201312 weeks or onset at 14\u201318 weeks would be atypical.",
+            "past_paper": true
+          },
+          {
+            "question": "Hyperemesis gravidarum has no negative impact on mother or fetus.",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "correct": 1,
+            "explanation": "This is false. Hyperemesis gravidarum can cause serious maternal complications: dehydration, starvation with ketoacidosis, electrolyte imbalances, Wernicke's encephalopathy (thiamine deficiency), Mallory\u2013Weiss tears, and in extreme cases hepatic failure, convulsions, or coma. Fetal effects include risk of low birth weight. It is not a benign condition.",
+            "past_paper": true
+          },
+          {
+            "question": "Management of severe preeclampsia includes: 1. Prevention of convulsions  2. Control of maternal blood pressure  3. Initiation of delivery  4. Use of antihypertensive drugs",
+            "options": [
+              "1, 3, 4",
+              "All listed",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "All four are core components of severe preeclampsia management. Prevention of convulsions (1) with magnesium sulphate. Control of blood pressure (2) is a broad management goal. Antihypertensive drugs (4) \u2014 labetalol, hydralazine, or nifedipine \u2014 achieve BP control. Delivery (3) is the only definitive treatment. Each option that omits any of these four elements is incomplete.",
+            "past_paper": true
+          },
+          {
+            "question": "An early attribute of gestosis (preeclampsia): 1. Abnormal weight gain and oedema  2. Asymmetry of arterial pressure  3. Increased uric acid in serum  4. Thrombocytopenia",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4",
+              "All mentioned"
+            ],
+            "correct": 1,
+            "explanation": "Rapid weight gain and pathological oedema (1) may be the earliest clinical evidence of developing preeclampsia. Hyperuricaemia (3) is an early biochemical marker reflecting reduced renal clearance. Asymmetric BP readings (2) reflecting vasospasm variability are an early sign. Thrombocytopenia (4) reflects endothelial damage and HELLP spectrum \u2014 it is a severity marker of established/progressive disease, not an early attribute.",
+            "past_paper": true
+          },
+          {
+            "question": "Point out the most characteristic manifestations of septic shock: 1. Hyperthermia >38\u00b0C  2. Arterial hypotension  3. Oliguria  4. Shortness of breath",
+            "options": [
+              "4 only",
+              "All correct",
+              "1, 2, 3",
+              "2, 4",
+              "1, 3"
+            ],
+            "correct": 1,
+            "explanation": "All four are characteristic of septic (endotoxic) shock. Fever >38\u00b0C (or hypothermia <36\u00b0C) is part of the SIRS/sepsis criteria (1). Arterial hypotension is the defining feature of septic shock (2). Oliguria results from renal hypoperfusion (3). Shortness of breath/tachypnoea occurs due to ARDS and metabolic acidosis (4). Septic shock involves all organ systems.",
+            "past_paper": true
+          },
+          {
+            "question": "Cause of polyhydramnios:",
+            "options": [
+              "Esophageal atresia",
+              "Renal agenesis",
+              "Diabetes mellitus",
+              "Preeclampsia"
+            ],
+            "correct": 0,
+            "explanation": "Oesophageal atresia prevents the fetus from swallowing amniotic fluid, leading to its accumulation (polyhydramnios). Diabetes mellitus is also associated with polyhydramnios via fetal hyperglycaemia causing osmotic diuresis and increased fetal urine output. Renal agenesis (Potter sequence) causes oligohydramnios because the fetus cannot produce urine. Preeclampsia is associated with oligohydramnios from uteroplacental insufficiency, not polyhydramnios. If only one answer is accepted, oesophageal atresia is the clearest example.",
+            "past_paper": true
+          },
+          {
+            "question": "Management of pregnancy in a case with abruptio placentae (concealed, IUFD, preeclampsia) includes all EXCEPT:",
+            "options": [
+              "Amniotomy",
+              "Oxytocin stimulation",
+              "Platelet determination",
+              "Monitoring urinary output",
+              "Intravenous heparin"
+            ],
+            "correct": 4,
+            "explanation": "In placental abruption with IUFD, management is aimed at expediting delivery and managing DIC. Amniotomy relieves tension and initiates labour. Oxytocin accelerates delivery. Platelet count and coagulation profile assess DIC severity. Urinary output monitoring (target \u226530 mL/h) detects renal compromise. Intravenous heparin is NOT used \u2014 in consumptive DIC from abruption, treatment is delivery plus blood and blood product replacement, not anticoagulation.",
+            "past_paper": true
+          }
+        ],
+        "Preterm & Abnormal Labour": [
+          {
+            "question": "Which symptoms are considered characteristic for premature labour? 1. Irregular pains in the lower part of the back  2. Sense of pressure in the lower part of the abdomen  3. Irregular contractions in the lower part of the abdomen  4. Change of character of vaginal discharge",
+            "options": [
+              "1, 2, 3",
+              "1, 3, 4",
+              "2, 3, 4",
+              "All mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All four are recognised symptoms of threatened preterm labour. Low backache (1) and pelvic pressure (2) reflect uterine activity and cervical changes. Irregular contractions (3) may precede regular established labour. Change in vaginal discharge (4) can indicate cervical effacement, infection, or early membrane changes. Any combination that excludes one of these is incomplete.",
+            "past_paper": true
+          },
+          {
+            "question": "During premature labour before 32 weeks of gestation, corticosteroids are prescribed for:",
+            "options": [
+              "Prevention of infection",
+              "Stabilisation of vascular membranes",
+              "Decrease of uterine activity",
+              "Acceleration of maturation of fetal lungs"
+            ],
+            "correct": 3,
+            "explanation": "Antenatal corticosteroids (betamethasone or dexamethasone) are given to women at risk of preterm delivery before 34 weeks to accelerate fetal lung surfactant production and maturation, reducing the risk of neonatal respiratory distress syndrome (RDS), as well as intraventricular haemorrhage and necrotising enterocolitis. They do not prevent infection (steroids may actually mask it), do not stabilise vascular membranes in this context, and tocolytics (not steroids) reduce uterine activity.",
+            "past_paper": true
+          },
+          {
+            "question": "The tocolytic therapy should be stopped during which week of pregnancy?",
+            "options": [
+              "30 weeks",
+              "38 weeks",
+              "34 weeks",
+              "36 weeks",
+              "32 weeks"
+            ],
+            "correct": 2,
+            "explanation": "Tocolysis is contraindicated beyond 34 completed weeks of gestation because the risks of prematurity at this gestation are low, and continuing to suppress labour carries no further fetal benefit while adding maternal risks. It should not be used at 36 or 38 weeks. It may still be appropriate at 30 or 32 weeks to allow time for corticosteroid effect and in-utero transfer.",
+            "past_paper": true
+          },
+          {
+            "question": "The preterm labour is labour occurring before:",
+            "options": [
+              "22 weeks",
+              "41 weeks",
+              "12 weeks",
+              "37 weeks",
+              "All above"
+            ],
+            "correct": 3,
+            "explanation": "Preterm labour is defined as labour commencing before 37 completed weeks of gestation. Below 22 weeks is considered previable/abortion. 41 weeks is post-term. 12 weeks is first-trimester miscarriage territory. The defining cutoff for preterm labour is <37 weeks (and typically after 22\u201324 weeks of viability).",
+            "past_paper": true
+          },
+          {
+            "question": "Preterm (premature) rupture of membranes is the rupture of amniotic membranes:",
+            "options": [
+              "Before the onset of labour",
+              "In the active phase of labour",
+              "Simultaneously with labour onset",
+              "Before complete dilatation of the cervix"
+            ],
+            "correct": 0,
+            "explanation": "PROM (prelabour rupture of membranes) is defined as spontaneous rupture of membranes before the onset of labour, regardless of gestational age. When it occurs before 37 weeks it is called preterm PROM (PPROM). Rupture in the active phase or simultaneously with labour onset is normal intrapartum rupture, not PROM. The distinguishing factor is timing relative to labour onset, not cervical dilatation.",
+            "past_paper": true
+          },
+          {
+            "question": "What complications of the fetus can be observed in case of prolonged labour? 1. Sepsis  2. Subdural haematoma  3. Brain trauma  4. Haemorrhage",
+            "options": [
+              "2, 3",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Prolonged labour exposes the fetus to intrauterine infection leading to neonatal sepsis (1). Prolonged mechanical compression of the fetal head against the pelvis causes intracranial stress and haemorrhage (4) and brain trauma (3) from supermoulding. Subdural haematoma (2) is a type of intracranial haemorrhage but is not specifically named in this context by Dutta \u2014 the named risks are infection, intracranial haemorrhage, and brain trauma.",
+            "past_paper": true
+          },
+          {
+            "question": "Early signs of premature labour include all of the following EXCEPT:",
+            "options": [
+              "Increased vaginal discharge",
+              "Increased uterine contractions",
+              "Low back pain",
+              "Cervical dilatation to 4 cm",
+              "Worsening pelvic pressure"
+            ],
+            "correct": 3,
+            "explanation": "Cervical dilatation to 4 cm represents active (established) labour, not an early warning sign. Increased vaginal discharge, uterine contractions, low backache, and worsening pelvic pressure are all early/prodromal symptoms that may precede established preterm labour and should prompt assessment, but they do not themselves confirm active labour.",
+            "past_paper": true
+          },
+          {
+            "question": "The adequate time for cervical cerclage operation (prophylactic) is:",
+            "options": [
+              "8 weeks of gestation",
+              "20 weeks of gestation",
+              "28 weeks of gestation",
+              "14 weeks of gestation"
+            ],
+            "correct": 3,
+            "explanation": "Prophylactic cervical cerclage for proven cervical incompetence is optimally performed at around 14 weeks of gestation. This timing is after the period of highest early pregnancy loss risk and before mid-trimester cervical changes typically begin. Some texts allow as early as 10 weeks. At 20 weeks cervical changes may already be occurring (rescue cerclage scenario). 28 weeks is too late for prophylactic cerclage.",
+            "past_paper": true
+          }
+        ],
+        "Medical Disorders in Pregnancy": [
+          {
+            "question": "Most common cause of HIV infection in an infant is:",
+            "options": [
+              "Perinatal transmission",
+              "Breast milk",
+              "Umbilical cord sepsis"
+            ],
+            "correct": 0,
+            "explanation": "The major route of HIV infection in infants is mother-to-child transmission (MTCT), also called perinatal transmission. This encompasses intrauterine (transplacental, ~5\u201310%), intrapartum (during labour and delivery \u2014 the most common period), and postnatal (breastfeeding). The overall risk without treatment is 15\u201345%; with ART and preventive measures this falls to <2%. Umbilical cord sepsis is bacterial, not an HIV transmission route.",
+            "past_paper": true
+          },
+          {
+            "question": "A diabetic mother will have the following complications in the fetus EXCEPT:",
+            "options": [
+              "Hydramnios",
+              "Macrosomia",
+              "Cardiac anomaly"
+            ],
+            "correct": 2,
+            "explanation": "All three listed options \u2014 hydramnios (from fetal hyperglycaemia causing osmotic diuresis and increased fetal urine), macrosomia (from fetal hyperinsulinaemia driving excessive growth), and congenital cardiac anomalies (from teratogenic hyperglycaemia during organogenesis) \u2014 are all recognised fetal complications of maternal diabetes. Therefore none is truly an 'except' and all listed options are true complications.",
+            "past_paper": true
+          },
+          {
+            "question": "The infant of a diabetic mother is at risk for all of the following EXCEPT:",
+            "options": [
+              "Increased perinatal death rate",
+              "Hypocalcaemia",
+              "Hyperglycaemia",
+              "Neural tube defects",
+              "Macrosomia"
+            ],
+            "correct": 2,
+            "explanation": "After delivery, the maternal glucose supply stops abruptly, but the neonate still has elevated insulin levels from chronic fetal hyperinsulinaemia. This results in NEONATAL HYPOGLYCAEMIA, not hyperglycaemia. All other options are true risks: increased perinatal mortality (uncontrolled DM), hypocalcaemia (often with hypomagnesaemia), neural tube defects (from teratogenic first-trimester hyperglycaemia), and macrosomia.",
+            "past_paper": true
+          },
+          {
+            "question": "Factors that can contribute to acute urinary tract infection during pregnancy, delivery, or puerperium include all EXCEPT:",
+            "options": [
+              "Compression of the ureter by the large uterus at the pelvic brim",
+              "Increased urethral tone and peristalsis",
+              "Asymptomatic bacteriuria",
+              "Decreased bladder sensitivity after epidural anaesthesia",
+              "Bladder catheterisation following delivery"
+            ],
+            "correct": 1,
+            "explanation": "Increased urethral tone and peristalsis would promote urine flow and reduce stasis \u2014 this would be PROTECTIVE, not predisposing, to UTI. All other factors promote urinary stasis or introduce bacteria: ureteric compression by the gravid uterus (hydroureter/stasis), asymptomatic bacteriuria (progresses to pyelonephritis in 25\u201330% if untreated), decreased bladder sensation with epidural (urinary retention and overdistension), and catheterisation (introducing bacteria).",
+            "past_paper": true
+          },
+          {
+            "question": "Early deceleration on CTG denotes:",
+            "options": [
+              "Head compression",
+              "Cord compression",
+              "Placental insufficiency",
+              "Fetal distress"
+            ],
+            "correct": 0,
+            "explanation": "Early decelerations are gradual, uniform decelerations that mirror uterine contractions \u2014 they begin and end with the contraction. They are caused by fetal head compression stimulating a vagal response causing transient FHR slowing. They are physiological and benign. Variable decelerations indicate cord compression. Late decelerations (beginning after the peak of the contraction) indicate placental insufficiency and fetal hypoxia/distress.",
+            "past_paper": true
+          }
+        ]
       }
     },
     "gynaecology": {
