@@ -19336,6 +19336,174 @@
             "correct": 3,
             "explanation": "After ovulation, the corpus luteum secretes progesterone, which has a thermogenic effect on the hypothalamus, raising BBT by ~0.3\u20130.5\u00b0C \u2014 producing the characteristic biphasic pattern. FSH drives follicular growth, LH triggers ovulation, and aldosterone regulates electrolytes. None of these cause the temperature rise; progesterone is responsible.",
             "past_paper": true
+          },
+          {
+            "question": "The possible aetiological factors of premenstrual syndrome are: 1. Oestrogen excess 2. Vasopressin deficiency 3. Progesterone deficiency 4. Pyridoxine deficiency",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "The postulated aetiological factors for PMS include oestrogen excess and progesterone deficiency (luteal phase hormonal imbalance), and pyridoxine deficiency (plays a role in oestrogen synthesis and production of neurotransmitters including dopamine and serotonin). Vasopressin is increased, not deficient, in PMS \u2014 elevated vasopressin contributes to fluid retention and bloating.",
+            "past_paper": true
+          },
+          {
+            "question": "The signs of premenstrual syndrome are: 1. Breast tenderness 2. Weight loss 3. Abdominal bloating 4. Emotional lability",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "PMS features include breast tenderness (part of the classic description, linked to water retention), abdominal bloating (due to fluid retention in the premenstrual phase), and emotional lability (mood swings, depression, irritability). Weight loss is not a feature \u2014 weight gain of around 1 kg is typical due to fluid and sodium retention.",
+            "past_paper": true
+          },
+          {
+            "question": "The possible aetiological factors of premenstrual syndrome are: 1. Oestrogen deficiency 2. Increased vasopressin 3. Increased carbohydrate 4. Increased prostaglandins",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "Increased vasopressin (along with aldosterone and prolactin) contributes to fluid retention and bloating in PMS, and also increases prostaglandin PGF2\u03b1 levels. Increased carbohydrate intolerance in the luteal phase is a contributing factor. Increased systemic prostaglandins adversely affect renal function and contribute to physical symptoms. Oestrogen excess (not deficiency) is the hormonal imbalance implicated in PMS.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment options for premenstrual syndrome: 1. Hysterectomy 2. Pyridoxine 3. Bilateral tubectomy 4. Selective serotonin inhibitors",
+            "options": [
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3",
+              "2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Pyridoxine (vitamin B6, 100 mg daily) is used as pyridoxine deficiency is a postulated aetiological factor. SSRIs such as fluoxetine and sertraline treat both physical and behavioural symptoms with a reported 60% cure rate. Hysterectomy with removal of ovaries is the last resort; a hysterectomy conserving the ovaries may not cure the condition. Bilateral tubectomy is not a treatment for PMS.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment options for premenstrual syndrome: 1. Hysterectomy 2. Pyridoxine 3. Bilateral tubectomy 4. Selective serotonin inhibitors",
+            "options": [
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Hysterectomy with bilateral oophorectomy is a last resort for PMS; hysterectomy alone (conserving ovaries) may be ineffective as ovarian hormones drive the syndrome. Pyridoxine (100 mg daily) and SSRIs are standard treatments. Bilateral tubectomy is not a treatment for PMS \u2014 it is a sterilisation procedure.",
+            "past_paper": true
+          },
+          {
+            "question": "Following medications can be used for the treatment of premenstrual syndrome: 1. Anxiolytics 2. Oral contraceptives 3. Progesterone 4. Estrogens",
+            "options": [
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 3,
+            "explanation": "Anxiolytics (e.g. alprazolam 0.25 mg) provide relief from psychological symptoms. Combined oral contraceptives render cycles anovulatory and relieve symptoms. Micronised progesterone pessaries (200\u2013400 mg daily) are used in the premenstrual phase; Mirena IUD is an effective alternative. Oestrogens are employed in some centres but are not included in the standard summary management table, and oestrogen excess is itself a postulated aetiological factor.",
+            "past_paper": true
+          },
+          {
+            "question": "Following medications can be used for the treatment of premenstrual syndrome: 1. Prostaglandins 2. GnRH analogs 3. Diuretics 4. Prostaglandin inhibitors",
+            "options": [
+              "1, 2, 3",
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "GnRH analogues (e.g. goserelin, buserelin) suppress the cycle and relieve symptoms, though long-term use is limited by osteoporosis risk. Diuretics (e.g. spironolactone) help with bloating, weight gain and fluid retention. Prostaglandin inhibitors (NSAIDs such as mefenamic acid) improve both mood and physical symptoms. Prostaglandins themselves are an aetiological factor in PMS, not a treatment.",
+            "past_paper": true
+          },
+          {
+            "question": "Possible reasons of secondary dysmenorrhea: 1. Appendicitis 2. Uterine fibroids 3. Adenomyosis 4. Endometriosis",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "Secondary dysmenorrhoea is associated with organic pelvic pathology. Uterine fibroids (especially submucous type) cause spasmodic dysmenorrhoea. Adenomyosis causes progressively increasing dysmenorrhoea. Endometriosis is the most common cause of secondary dysmenorrhoea. Appendicitis is a cause of acute pelvic pain but is not classified as a cause of secondary dysmenorrhoea.",
+            "past_paper": true
+          },
+          {
+            "question": "Varieties of dysmenorrhea are: 1. Spasmodic 2. Membranous 3. Congestive 4. Congenital",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "The three clinical varieties of dysmenorrhoea are: spasmodic (most prevalent, cramping pains worst on the first 1\u20132 days), membranous (rare, endometrium shed as a cast with painful uterine cramps), and congestive (increasing pelvic discomfort before flow, commonly associated with PID, endometriosis, and fibroids). 'Congenital' describes aetiological factors for dysmenorrhoea (e.g. rudimentary horn, cervical stenosis) but is not a clinical variety.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following is fundamental in the etiology of dysmenorrhea?",
+            "options": [
+              "Prostaglandin release",
+              "Thyroid function",
+              "Estrogen release",
+              "Ovulation"
+            ],
+            "correct": 0,
+            "explanation": "The fundamental cause of primary dysmenorrhoea is increased prostaglandin (specifically PGF2\u03b1) in menstrual fluid, produced under the influence of progesterone in ovulatory cycles. These prostaglandins cause excessive myometrial contractions and uterine ischaemia, generating cramping pain. This is confirmed therapeutically by the efficacy of prostaglandin synthetase inhibitors (NSAIDs). Ovulation is a prerequisite for progesterone-driven prostaglandin release but is not itself the direct biochemical cause.",
+            "past_paper": true
+          },
+          {
+            "question": "Which medications are used for the treatment of primary dysmenorrhea: 1. NSAIDs 2. Antibiotics 3. Progesterone-containing IUCD 4. Analgetics",
+            "options": [
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "NSAIDs (e.g. mefenamic acid, naproxen, ibuprofen) are highly effective prostaglandin synthetase inhibitors. Progesterone-containing IUCDs (Mirena, Progestasert) relieve pain and reduce flow. Simple analgesics (paracetamol, piroxicam) are foundational. Antibiotics are not used for primary dysmenorrhoea \u2014 they are used for secondary dysmenorrhoea caused by PID.",
+            "past_paper": true
+          },
+          {
+            "question": "Which medications are used for the treatment of primary dysmenorrhea: 1. Oral contraceptives 2. Prostaglandin synthetase inhibitors 3. Corticosteroids 4. Antispasmodics",
+            "options": [
+              "1, 2, 3",
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "Oral contraceptives suppress ovulation and reduce menstrual flow, relieving dysmenorrhoea. Prostaglandin synthetase inhibitors (NSAIDs) reduce excessive PGF2\u03b1 production responsible for uterine cramping. Antispasmodics (hyoscine/Buscopan, camylofin/Anafortan, drotaverine/Drotin) relieve smooth muscle spasm. Corticosteroids are not a treatment for primary dysmenorrhoea.",
+            "past_paper": true
+          },
+          {
+            "question": "Primary dysmenorrhea would be most likely to occur in which of the following women?",
+            "options": [
+              "A young teenager",
+              "A woman in menopause",
+              "A woman with uterine fibroids",
+              "A woman on birth-control pills"
+            ],
+            "correct": 0,
+            "explanation": "Primary dysmenorrhoea most commonly affects post-pubescent women aged 18\u201325, and is common in adolescents. It develops within 12\u201318 months of menarche as cycles become ovulatory, triggering prostaglandin-mediated cramping. Menopause involves cessation of menstruation, so dysmenorrhoea cannot occur. Dysmenorrhoea with fibroids is secondary dysmenorrhoea. Combined oral contraceptives are used as a treatment for primary dysmenorrhoea as they suppress ovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "Following are used as a surgical treatment of dysmenorrhea: 1. Hysterectomy 2. Hysteroscopy with D&C 3. Cauterization of ovaries 4. Laser-assisted nerve ablation",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 2, 4",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Hysterectomy is the last resort for elderly women when all other measures fail. Hysteroscopy with D&C is used to address underlying causes of secondary dysmenorrhoea (e.g. polyp or uterine septum excision). Laser-assisted nerve ablation (LUNA \u2014 laparoscopic uterosacral nerve ablation) divides the uterosacral ligaments to interrupt pain pathways for spasmodic dysmenorrhoea. Cauterisation of ovaries (ovarian drilling) is a treatment for PCOS, not dysmenorrhoea.",
+            "past_paper": true
           }
         ],
         "Amenorrhea": [],
@@ -19496,6 +19664,86 @@
             ],
             "correct": 2,
             "explanation": "Cervical dysplasia is classified under CIN: mild (CIN 1 \u2014 lower one-third of epithelium), moderate (CIN 2 \u2014 up to two-thirds), and severe (CIN 3 \u2014 >two-thirds or full-thickness, including carcinoma in situ). 'Mixed' is NOT a recognized classification grade \u2014 the accepted categories are mild, moderate, and severe only.",
+            "past_paper": true
+          },
+          {
+            "question": "Leukoplakia is characterized by: 1. Thickening of the multilayer squamous epithelium layer 2. Affection of the skin and mucous of the lower part of the sexual organs 3. Different degrees of keratinization of the epithelium integument 4. All the mentioned",
+            "options": [
+              "1, 2",
+              "All the mentioned",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Leukoplakia (hyperplastic dystrophy / squamous cell hyperplasia) is characterised by all three features. Histologically there is thickening of the squamous epithelium (increased prickle cell layer with irregular downward growth of rete pegs). The lesion affects the vulva, perianal area, perineum, and adjacent skin \u2014 the skin and mucous membranes of the lower genital organs. It is defined by hyperkeratosis (heavy accumulation of keratin) representing varying degrees of keratinisation.",
+            "past_paper": true
+          },
+          {
+            "question": "Dysplasia of uterine cervix is characterized by: 1. Proliferation of basal and parabasal cells of superficial layer of multilayer squamous epithelium 2. Structural reconstruction of basal and parabasal cells of the superficial layer 3. Metaplasia of multilayer squamous epithelium 4. All the mentioned are true",
+            "options": [
+              "2, 3",
+              "All the mentioned",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "Cervical dysplasia (CIN) is characterised by proliferation of undifferentiated basal and parabasal cells occupying layers where they do not normally belong (lower 1/3 in CIN I, up to 75% in CIN II, full thickness in CIN III/CIS), and structural abnormalities including disorderly cell arrangement, altered nuclear-cytoplasmic ratio, hyperchromatic irregular nuclei, and mitotic figures. Metaplasia (columnar-to-squamous transformation) is a separate benign process and is not a defining characteristic of dysplasia, though atypical metaplasia can be a precursor.",
+            "past_paper": true
+          },
+          {
+            "question": "True erosion of uterine cervix is characterized by: 1. Desquamation of multilayer squamous epithelium of the vaginal part of the cervix 2. Formation of the wound surface 3. Inflammatory reaction 4. Contact bleeding 5. All the mentioned",
+            "options": [
+              "All the mentioned",
+              "Desquamation only",
+              "3, 4",
+              "2, 4"
+            ],
+            "correct": 0,
+            "explanation": "True cervical erosion (from chronic cervicitis) involves all four features. Alkaline discharge from cervicitis causes maceration and desquamation of the squamous epithelium. The denuded area becomes a raw wound surface (raw red area around the external os). The underlying inflammatory state (chronic cervicitis with pus and mucus discharge) drives the epithelial damage. The raw vascular surface bleeds easily on gentle swabbing \u2014 contact bleeding.",
+            "past_paper": true
+          },
+          {
+            "question": "Pseudoerosion of the cervix is characterized by: 1. Uterine bleeding 2. Expression (development) of glandular passage 3. Formation of Nabothian cysts 4. Quick growth of cylindrical epithelium 5. Slow growth of multilayer squamous epithelium",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 3, 4",
+              "2, 3, 4, 5",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "Pseudoerosion (ectopy/ectropion) involves: development of glandular (racemose) glands extending beyond the external os; Nabothian cyst formation (regenerating squamous epithelium occludes gland mouths, which then fill with secretion); rapid columnar (cylindrical) epithelium growth covering the denuded area; and slow squamous metaplasia (epidermisation) where multilayer squamous epithelium gradually grows back under the columnar layer. Uterine bleeding refers to bleeding from the endometrial cavity \u2014 pseudoerosion causes cervical surface bleeding (blood-stained discharge/contact bleeding), not uterine bleeding.",
+            "past_paper": true
+          },
+          {
+            "question": "Formation of ectropion of the cervix is promoted by: 1. Chronic inflammation of the cervix 2. Delivery of big-size fetus 3. Delivery of extensor presentation 4. Rigidity of cervical tissue in delivery 5. Manual assisted delivery",
+            "options": [
+              "1, 2, 4",
+              "1, 2, 3, 4",
+              "2, 3, 4, 5"
+            ],
+            "correct": 2,
+            "explanation": "Ectropion is primarily formed by obstetric trauma and cervical lacerations. Delivery of a big-sized baby overstretches and injures the birth canal causing cervical tears. Delivery in extensor (posterior occiput) presentation causes severe cervical lacerations. Rigid cervical tissue (cervical dystocia) prevents smooth dilation causing tearing. Manual assisted delivery (forceps rotation, vaginal breech extraction) frequently results in cervical lacerations. Chronic inflammation typically accompanies ectropion as a sequela of obstetric trauma rather than being its cause.",
+            "past_paper": true
+          },
+          {
+            "question": "Indication for cervical biopsy: 1. Erosion of the cervix 2. Interstitial fibromyoma of the uterus 3. Absence of the fern phenomenon 4. Cyanosis of the uterine cervix 5. Intraepithelial cervical neoplasia 6. Cervical cancer",
+            "options": [
+              "1, 3, 4",
+              "1, 4",
+              "1, 5, 6"
+            ],
+            "correct": 2,
+            "explanation": "Cervical biopsy is indicated for: erosion of the cervix (to rule out syphilitic ulcers, tuberculosis, carcinoma in situ, or cervical cancer \u2014 Pap smear and biopsy are required to confirm simple erosion); CIN (abnormal areas identified colposcopically are biopsied to detect cancer and determine grade); and cervical cancer (biopsy is fundamental for confirmation \u2014 acetowhite areas on colposcopy are targeted). Interstitial fibromyoma requires ultrasound, not cervical biopsy. Absence of the fern phenomenon assesses ovulation status, not tissue pathology. Cyanosis of the cervix is a sign of early pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Indications for colposcopy are: 1. Extrauterine pregnancy 2. Uterine pregnancy 3. Bartholinitis 4. Climacteric bleeding 5. Suspicion for cancer of the uterine cervix 6. Cervical intraepithelial neoplasia",
+            "options": [
+              "5, 6",
+              "3, 4, 5",
+              "1, 2, 5",
+              "6 only"
+            ],
+            "correct": 0,
+            "explanation": "Colposcopy is indicated for suspicion of cervical cancer (to locate abnormal areas and obtain directed biopsies) and CIN (to map abnormal areas for biopsy and guide ablative therapy for CIN II and III). Ectopic pregnancy is diagnosed with laparoscopy, ultrasound, and pregnancy tests. Normal pregnancy is confirmed by immunological tests and ultrasound. Bartholinitis is managed with antibiotics or surgical drainage. Climacteric bleeding is investigated with ultrasound, Pap smear, and endometrial study (an abnormal smear during this workup might then lead to colposcopy, but the bleeding itself is not a direct indication).",
             "past_paper": true
           }
         ],
@@ -19859,6 +20107,64 @@
             "correct": 3,
             "explanation": "~90\u201395% of fibromyomas arise from the uterine myometrium (corpus uteri). They may very rarely arise from smooth muscle of the round ligament, broad ligament, or uterosacral ligament, but these are uncommon extrauterine locations. The uterus is by far the most common origin.",
             "past_paper": true
+          },
+          {
+            "question": "The common characteristic features of the uterine fibroma: 1. Myoma often develops from the smooth muscle fibres 2. Myoma often develops on the background of hyperestrogenemy 3. Myoma often occurs before puberty 4. In menopause is often noted myoma growth",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "2, 4",
+              "1, 2, 4"
+            ],
+            "correct": 0,
+            "explanation": "Uterine fibroids originate from smooth muscle cell rests (from uterine musculature or vessel walls) and their growth is dependent on oestrogen and progesterone \u2014 they are associated with hyperoestrogenism. Myomas are rarely found before puberty (requiring hormonal stimulation). In menopause, fibroids typically shrink or undergo atrophy due to diminished oestrogen; new ones rarely appear and existing ones generally do not grow.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is typical for the uterine fibroma: 1. Hypermenorrhea 2. Amenorrhea 3. Dysuric phenomenon 4. Inhibition (compression) of the small pelvic organs",
+            "options": [
+              "1, 4",
+              "1, 3",
+              "1, 3, 4",
+              "2, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Uterine fibroids typically cause hypermenorrhoea (progressive menorrhagia from increased endometrial surface area, especially intramural and submucous types), dysuretic phenomenon (urinary frequency or acute retention from bladder compression by large fibroids), and compression of pelvic organs (bladder, ureters \u2014 potentially causing hydroureter and hydronephrosis; broad ligament fibroids compress ureters). Amenorrhoea is not a feature \u2014 fibroids cause excessive bleeding and women with fibroids often experience late menopause.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is typical of submucous myoma: 1. Constipation and difficulty in defecation 2. Spasmodic pains and cramps in the lower part of the abdomen 3. Posthemorrhagic anemia 4. Hyperpolymenorrhea",
+            "options": [
+              "1, 3, 4",
+              "2, 3",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 3,
+            "explanation": "Submucous myoma typically presents with spasmodic dysmenorrhoea (the uterus treats the intracavitary tumour as a foreign body and contracts to expel it), posthemorrhagic anaemia (from progressive menorrhagia \u2014 heavy bleeding leads to fatigue and pallor), and hyperpolymenorrhagia (frequent and heavy cycles due to significantly increased bleeding surface). Constipation is not typical of submucous myoma \u2014 it is more characteristic of large posterior wall or cervical fibroids that compress the rectum.",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of polymenorrhea in the uterine fibroma: 1. Enlargement of menstruating surface 2. Decrease in contracting ability of myometrium 3. Hyperprolactinemia 4. Necrosis of endometrium",
+            "options": [
+              "1, 2, 3",
+              "1, 2, 4",
+              "2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Polymenorrhoea in uterine fibroma results from enlargement of the menstruating surface (tumour growth increases bleeding area), decreased contracting ability of the myometrium (impaired haemostasis from inefficient 'living ligature' contraction of the middle myometrial layer), and endometrial necrosis (overlying endometrium in submucous/fibroid polyp cases is thin and susceptible to ulceration, causing persistent bleeding). Hyperprolactinaemia suppresses the pituitary-ovarian axis, causing amenorrhoea or oligomenorrhoea \u2014 not polymenorrhoea.",
+            "past_paper": true
+          },
+          {
+            "question": "For conservative treatment of the uterine leiomyoma are used the following methods: 1. Copper and zinc electrophoresis 2. Analog of Releasing Hormone 3. Anticoagulant's use 4. Anemia treatment",
+            "options": [
+              "1, 2, 3, 4",
+              "2, 3",
+              "1, 2, 4"
+            ],
+            "correct": 2,
+            "explanation": "GnRH analogues cause preoperative shrinkage of fibroids by reducing their size and vascularity and may avoid hysterectomy in some cases. Iron therapy for anaemia is a standard part of medical management to restore haemoglobin levels before surgery. Anticoagulants are contraindicated in fibroid management as fibroids cause menorrhagia \u2014 anticoagulants would worsen bleeding. Copper and zinc electrophoresis is included in some clinical protocols for conservative management.",
+            "past_paper": true
           }
         ],
         "Endometrial & Uterine Pathology": [
@@ -19934,6 +20240,113 @@
             ],
             "correct": 1,
             "explanation": "Brenner tumor is a surface epithelial tumor composed of transitional (urothelial-like) cells \u2014 usually benign. Choriocarcinoma (produces \u03b2-hCG), dysgerminoma, and malignant teratoma are all germ cell tumors. Brenner tumor does not arise from germ cells.",
+            "past_paper": true
+          },
+          {
+            "question": "The largest ovarian tumour is seen with:",
+            "options": [
+              "Pseudomucinous cystadenoma",
+              "Serous cystadenoma",
+              "Papillary cystadenoma",
+              "Dysgerminoma"
+            ],
+            "correct": 0,
+            "explanation": "Pseudomucinous (mucinous) cystadenomas can enlarge to mammoth proportions \u2014 one documented case weighed 50 kg \u2014 causing cardiorespiratory distress, dyspnoea, and palpitations. They can fill the entire abdomen. Dysgerminomas are of usually moderate size. Serous and papillary cystadenomas are the most common epithelial tumours but do not reach the same extreme dimensions as the mucinous variety.",
+            "past_paper": true
+          },
+          {
+            "question": "Which ovarian cyst does not undergo malignancy: 1. Mucinous 2. Papillary 3. Dermoid 4. Granulosa Theca",
+            "options": [
+              "Mucinous",
+              "Papillary",
+              "Dermoid",
+              "Granulosa Theca"
+            ],
+            "correct": 3,
+            "explanation": "All neoplastic cysts carry some malignant potential: papillary (serous) cystadenomas become malignant in ~50% if untreated; mucinous cysts undergo malignant change in 5\u201310%; dermoid cysts undergo secondary malignant change in ~1.7%. Functional cysts (such as granulosa lutein and theca lutein cysts) are non-neoplastic physiological structures that do not undergo malignant change. If 'Granulosa Theca' refers to functional theca lutein cysts, they are the correct answer.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is the germ cell tumor of the ovary: 1. Follicular cyst 2. Yellow body cyst 3. Endometriosis 4. Dermoid cyst",
+            "options": [
+              "Follicular cyst",
+              "Yellow body cyst",
+              "Endometriosis",
+              "Dermoid cyst"
+            ],
+            "correct": 3,
+            "explanation": "Dermoid cysts (mature cystic teratomas) are germ cell tumours, accounting for ~95% of all germ cell tumours and are the most common ovarian tumour in prepubertal girls. Follicular cysts and corpus luteum (yellow body) cysts are non-neoplastic functional cysts. Endometriosis is a metaplastic condition (endometriomas/chocolate cysts) \u2014 not a germ cell tumour.",
+            "past_paper": true
+          },
+          {
+            "question": "The following are benign epithelial tumours of ovary: 1. Serous cystadenoma 2. Mucinous cystadenoma 3. Endometrial cystadenoma 4. Lipocellular tumour 5. Granulosa-cell tumor",
+            "options": [
+              "Granulosa-cell tumor only",
+              "1, 2, 3, 4",
+              "1, 2, 3",
+              "All the mentioned"
+            ],
+            "correct": 2,
+            "explanation": "The WHO classification categorises serous cystadenoma, mucinous cystadenoma, and endometrioid (endometrial) cystadenoma under Common Epithelial Tumours (Group I). Lipocellular (lipid cell) tumours are Group III and granulosa-cell tumours are Group II (Sex cord/gonadal stromal tumours) \u2014 neither is epithelial.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment of patients with borderline tumour of ovaries: 1. Radical surgery 2. Hormonal 3. Antibacterial 4. Observation is possible 5. Surgical 6. Chemotherapy",
+            "options": [
+              "Radical surgery",
+              "Hormonal",
+              "Antibacterial",
+              "Surgical"
+            ],
+            "correct": 3,
+            "explanation": "Borderline ovarian tumours (low malignant potential, Grade 0) are managed surgically. In young women, conservative ovariotomy or cystectomy preserves fertility. In older/parous women, TAH and BSO is recommended. No adjuvant chemotherapy or radiotherapy is required \u2014 these tumours have an indolent course with >90% survival. Observation of peritoneal implants may occur as spontaneous regression is known, but surgery remains the primary treatment.",
+            "past_paper": true
+          },
+          {
+            "question": "Urgent operations in case of benign tumour of ovaries should be performed in: 1. Crus cyst torsion 2. Rupture of tumour capsule 3. Big sizes of the tumour 4. Fluid content of the tumour",
+            "options": [
+              "1, 2",
+              "3, 4",
+              "All the mentioned",
+              "None"
+            ],
+            "correct": 0,
+            "explanation": "Urgent surgery is indicated for torsion (occlusion of pedicle veins causing severe acute abdominal pain \u2014 an emergency requiring urgent laparotomy) and rupture of the capsule (sudden severe pain from peritoneal contamination requiring immediate surgery). Large tumour size alone is an elective surgical indication unless acute cardiorespiratory distress is present. Fluid content is a descriptive feature, though haemorrhage within a cyst causing acute symptoms may also require emergency surgery.",
+            "past_paper": true
+          },
+          {
+            "question": "Complications of benign tumours of ovaries are: 1. Tumour crus torsion 2. Capsule rupture 3. Hemorrhage inside the capsule 4. Tumour suppuration 5. All the mentioned",
+            "options": [
+              "1, 2, 3",
+              "2, 3, 4",
+              "All the mentioned",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "All four are recognised complications: torsion (~12% of cases; veins in the pedicle occlude causing congestion and severe pain), capsule rupture (spontaneous or traumatic, discharging contents into the peritoneum), haemorrhage inside the capsule (often follows torsion/rupture; large haemorrhages may cause haemorrhagic shock), and suppuration/infection (uncommon; can occur as ascending infection or after torsion with adherence to the bowel). The standard complication list also includes pseudomyxoma peritonei and malignancy.",
+            "past_paper": true
+          },
+          {
+            "question": "The volume of surgical treatment in benign tumour of ovaries in young women: 1. Adnexectomy 2. Tumour removal 3. Ovary resection, keeping as large part of healthy tissue as possible 4. Supravaginal amputation of the uterus with adnexectomy on the affected side",
+            "options": [
+              "2, 3",
+              "1, 2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 2,
+            "explanation": "In young women, conservation of the healthy ovary is the priority. Preferred approaches are ovarian cystectomy/tumour enucleation (removing the tumour while preserving healthy ovarian tissue) or, if cystectomy is not possible, unilateral adnexectomy. Supravaginal amputation of the uterus with adnexectomy is reserved for older or perimenopausal women \u2014 it is not appropriate for young women as it compromises fertility.",
+            "past_paper": true
+          },
+          {
+            "question": "Women with the following belong to the risk group of ovary tumours: 1. Impairment of the menstrual cycle 2. Primary infertility 3. Myoma of the uterus 4. Endometriosis 5. White color race 6. Black color race 7. All the mentioned",
+            "options": [
+              "3, 4",
+              "1, 2",
+              "White color race only",
+              "All the mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All listed factors confer risk for ovarian tumours. Menstrual dysfunction (including PCOS with chronic anovulation) and primary infertility (low parity) increase risk of both borderline and malignant tumours. Uterine myoma and endometriosis frequently coexist and share hormonal risk factors; endometriosis is directly linked to endometrioid ovarian tumours. White race has higher incidence of epithelial ovarian cancer (high incidence in the West). Black/Afro-American race has a threefold higher incidence of malignant germ cell tumours.",
             "past_paper": true
           }
         ],
@@ -20081,6 +20494,30 @@
             "correct": 2,
             "explanation": "The classic triad of endometriosis is dysmenorrhoea (progressive, severe \u2014 from cyclical ectopic bleeding and prostaglandins), dyspareunia (deep, from uterosacral ligament/pouch of Douglas involvement), and infertility (from adhesions, distorted anatomy, inflammatory mediators, ovulatory dysfunction). Dyskinesia refers to abnormal involuntary movements \u2014 it is a neurological term unrelated to endometriosis.",
             "past_paper": true
+          },
+          {
+            "question": "Symptoms and signs of endometriosis: 1. Dysmenorrhea 2. Premenstrual spotting 3. Bleeding and pain with defecation, urination 4. During bimanual examination \u2013 pain and tenderness on uterine motion 5. All",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "All are features of endometriosis. Dysmenorrhoea is the most common symptom (dull, grinding, or colicky pain beginning before menstruation). Premenstrual spotting is associated with anovulation, abnormal follicular development, and luteal insufficiency. Bladder involvement causes dysuria, frequency, and haematuria; rectal involvement causes painful defecation, diarrhoea, and melaena at menstruation. Bimanual examination reveals a fixed tender uterus with cervical motion tenderness, thickened nodular uterosacral ligaments, and tenderness in the lateral fornices.",
+            "past_paper": true
+          },
+          {
+            "question": "Heavy forms of endometriosis are characterized: 1. Exhausting pains 2. Bloody stool 3. Long bloody discharge 4. Infertility 5. All",
+            "options": [
+              "1, 2, 3",
+              "1, 3, 4",
+              "2, 3, 4",
+              "All"
+            ],
+            "correct": 3,
+            "explanation": "Heavy (Stage IV) endometriosis is characterised by all listed features. Debilitating chronic pelvic pain and severe dysmenorrhoea (grinding, colicky pain intensifying before menstruation). Bloody stool (melaena) from rectal/sigmoid involvement. Menorrhagia (long heavy discharge) as a manifestation of menstrual irregularity. Infertility (30\u201340% incidence) from dense peritubal and periovarian adhesions restricting reproductive organ mobility.",
+            "past_paper": true
           }
         ],
         "Reproductive Medicine & Infertility": [
@@ -20202,6 +20639,101 @@
             ],
             "correct": 1,
             "explanation": "Uterine causes of infertility: Asherman's syndrome (intrauterine adhesions causing endometrial destruction and impaired implantation) and myoma (especially submucous and cavity-distorting intramural fibroids, interfering with implantation and sperm transport). Peritubal adhesions are a tubal factor. PCOD is an ovarian factor causing anovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "The term 'infertile marriage' means: 1. Conception inability in the couple 2. Carriage inability in women 3. Both",
+            "options": [
+              "Conception inability",
+              "Carriage inability",
+              "Both"
+            ],
+            "correct": 0,
+            "explanation": "Infertility is defined as the failure of a couple to achieve pregnancy (conception) after one year of regular unprotected intercourse. The inability to carry a pregnancy (habitual abortion) is a separate entity \u2014 certain uterine causes (incompetent os, malformations) cause habitual abortion more than infertility. The term 'infertile marriage' therefore refers specifically to conception inability.",
+            "past_paper": true
+          },
+          {
+            "question": "Marriage is considered infertile if pregnancy doesn't occur in regular sexual life without using contraceptives during:",
+            "options": [
+              "0.5 year",
+              "1 year",
+              "2.5 years",
+              "5 years"
+            ],
+            "correct": 1,
+            "explanation": "A couple is considered infertile after 1 year of regular unprotected intercourse without conception. Approximately 80% of normal couples conceive within 1 year \u2014 about 50% by 3 months and 75% by 6 months. Investigations are initiated after this 1-year period.",
+            "past_paper": true
+          },
+          {
+            "question": "Causes of infertility in married woman: 1. Inflammatory diseases of the female genital organs 2. Infantilism and hypoplasia of genital organs 3. Common exhausting diseases and intoxication 4. All the mentioned",
+            "options": [
+              "1, 2, 3",
+              "2, 3",
+              "1, 3",
+              "All the mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All listed factors cause infertility. PID and genital tuberculosis cause tubal damage, adhesions, and blockage. Infantilism and hypoplasia (underdeveloped or rudimentary organs including a small hypoplastic uterus) lead to menstrual disorders and infertility. Systemic diseases (tuberculosis, diabetes, renal disease), malnutrition, anaemia, and intoxication (tobacco, alcohol, drugs, chemicals) disrupt hormonal and reproductive function.",
+            "past_paper": true
+          },
+          {
+            "question": "In infertility, it's preferable to carry out hysterosalpingography on the:",
+            "options": [
+              "7\u20138th day of menstrual cycle",
+              "9\u201312th day of menstrual cycle",
+              "13\u201315th day of menstrual cycle",
+              "16\u201320th day of menstrual cycle"
+            ],
+            "correct": 1,
+            "explanation": "HSG in infertility is best performed at the 9th or 10th day of the cycle (the pre-ovulatory phase). This timing ensures a fertilized ovum cannot be disturbed, avoids risks of oil/gas embolism and induction of pelvic endometriosis associated with premenstrual or post-ovulatory timing, and avoids thick premenstrual endometrium that may obstruct dye flow at the cornual end of the tubes.",
+            "past_paper": true
+          },
+          {
+            "question": "Postcoital test is used to assess: 1. Cervical factor 2. Vaginal factor 3. Uterine factor 4. None",
+            "options": [
+              "Cervical factor",
+              "Vaginal factor",
+              "Uterine factor",
+              "None"
+            ],
+            "correct": 0,
+            "explanation": "The postcoital test (Sims' or Huhner's test) primarily assesses the cervical factor in infertility. It evaluates sperm-cervical mucus interaction, the oestrogenic effect on mucus (which should be thin and profuse at ovulation), the presence of antisperm antibodies causing sperm immobilisation, and cervicitis (leucocytes in mucus). It also assesses whether the cervix is correctly positioned to reach the seminal pool.",
+            "past_paper": true
+          },
+          {
+            "question": "After ovulation the ovum keeps the capability of fertilization during:",
+            "options": [
+              "6 hours",
+              "12\u201324 hours",
+              "3\u20135 days",
+              "10 days"
+            ],
+            "correct": 1,
+            "explanation": "After ovulation, the ovum is potentially fertilisable for approximately 12 hours, rarely up to 24 hours. Beyond this window, it degenerates in the fallopian tube without leaving any trace. The ovum's survival period is shorter than that of a spermatozoon (~24 hours). Therefore coitus must occur within the 24-hour window surrounding ovulation for fertilisation to occur.",
+            "past_paper": true
+          },
+          {
+            "question": "Spermatozoa penetrate into the uterine tubes and the abdominal cavity after coitus within:",
+            "options": [
+              "5 minutes",
+              "10\u201315 minutes",
+              "30\u201360 minutes",
+              "2\u20133 hours"
+            ],
+            "correct": 2,
+            "explanation": "Spermatozoa typically reach the uterine tubes and abdominal cavity within 30\u201360 minutes of coitus, covering ~20 cm from ejaculation site to the ampulla. During ovulation, increased uterine peristalsis can facilitate more rapid transport. The vaginal environment (pH 4.5) is lethal to sperm within 2\u20134 hours, while the alkaline cervical medium supports their migration against the ciliary current.",
+            "past_paper": true
+          },
+          {
+            "question": "In fertile period: 1. Estrogen decreases 2. Estrogen increases 3. Progesterone increases 4. Progesterone decreases",
+            "options": [
+              "2, 3",
+              "1, 4",
+              "2, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "During the fertile period (surrounding ovulation), oestrogen (oestradiol) rises significantly, peaking at 300\u2013600 mcg about 48 hours before ovulation (rising from 100\u2013200 pg/mL in the follicular phase to 300\u2013500 pg/mL at ovulation). This oestrogen surge triggers the LH surge and renders cervical mucus thin, profuse, and alkaline for sperm penetration. Progesterone remains low (~1 ng/mL) until after ovulation when the corpus luteum forms.",
             "past_paper": true
           }
         ],
@@ -20543,6 +21075,17 @@
             "correct": 1,
             "explanation": "Dyspareunia is defined as painful sexual intercourse. It may be superficial (introital \u2014 from vaginitis, vulvodynia) or deep (pelvic \u2014 from endometriosis, PID, pelvic adhesions). Dysphasia is a speech disorder. Dysuria is painful urination. Dystrophia refers to abnormal tissue development or degeneration.",
             "past_paper": true
+          },
+          {
+            "question": "Diagnostic methods often used in the primary reveal of benign tumours of women's genitals: 1. Gynaecological examination 2. Ultrasound investigation 3. X-Ray 4. All the mentioned",
+            "options": [
+              "1, 2",
+              "1, 3",
+              "All the mentioned"
+            ],
+            "correct": 0,
+            "explanation": "Gynaecological examination (careful history and bimanual examination palpating the uterus for size, shape, mobility, and adnexal pathology \u2014 many asymptomatic fibroids are first detected at check-up) and ultrasound (the first-line and gold standard imaging modality for pelvic pathology \u2014 easy, cost-effective, and capable of revealing unsuspected pathology) are the primary tools. X-ray has a minor role in modern gynaecological practice and is not a standard primary method for detecting benign tumours, though incidentally it may show a calcified fibroid.",
+            "past_paper": true
           }
         ],
         "Endocrinology & Hormones": [
@@ -20655,14 +21198,647 @@
             "past_paper": true
           }
         ],
-        "PCOS & Adrenal/Hormonal Disorders": [],
-        "Menopause & Climacteric": [],
+        "PCOS & Adrenal/Hormonal Disorders": [
+          {
+            "question": "Polycystic ovarian syndrome is characterized by: 1. Hyperandrogenaemia 2. Low FSH/LH ratio 3. High FSH/LH ratio 4. Raised LH level",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 3,
+            "explanation": "PCOS is characterised by hyperandrogenaemia (raised testosterone, androstenedione, DHEA in ~50% of patients), raised LH level (excess inhibin stimulates LH and suppresses FSH), and a low FSH/LH ratio (LH is disproportionately high relative to FSH, so FSH/LH falls). A high FSH/LH ratio would imply the opposite of the PCOS hormonal profile.",
+            "past_paper": true
+          },
+          {
+            "question": "Woman with polycystic ovarian syndrome complains of: 1. Oligomenorrhea 2. Abdominal pain 3. Amenorrhea 4. Infertility",
+            "options": [
+              "1, 3, 4",
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "PCOS classically presents with oligomenorrhoea (~87% of cases), amenorrhoea (~26% of cases), and anovulatory infertility (~20% of infertility cases). Abdominal pain is not a characteristic complaint; dysmenorrhoea is notably absent in PCOS. Occasional acute pain can occur if a cyst undergoes torsion or rupture, but chronic abdominal pain is not a standard feature.",
+            "past_paper": true
+          },
+          {
+            "question": "Polycystic ovarian syndrome is: ",
+            "options": [
+              "Ovarian cancer",
+              "Internal disease",
+              "Endocrinopathy",
+              "Endometrial cancer"
+            ],
+            "correct": 2,
+            "explanation": "PCOS is defined as a heterogeneous, multisystem endocrinopathy characterised by metabolic disturbances and a wide clinical spectrum including hyperandrogenism, raised LH, increased LH/FSH ratio, oligomenorrhoea, hirsutism, obesity, and infertility. While women with PCOS have increased risk of endometrial cancer due to unopposed oestrogen, the syndrome itself is an endocrinopathy.",
+            "past_paper": true
+          },
+          {
+            "question": "Much of the testosterone in polycystic ovarian syndrome is secreted by:",
+            "options": [
+              "Adrenal glands",
+              "Paraovarian glands",
+              "Ovarian stroma",
+              "Ovarian cortex"
+            ],
+            "correct": 2,
+            "explanation": "Testosterone and androstenedione in PCOS are primarily secreted by the ovarian stromal cells (theca cells), stimulated by LH. In PCOS, insulin resistance and hyperinsulinaemia induce LH to cause thecal and stromal hyperplasia, leading to excess androgen secretion. Approximately 50% of total testosterone comes from the ovaries, specifically from the stromal tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgical treatment for polycystic ovarian syndrome is:",
+            "options": [
+              "Multiple puncture of ovaries",
+              "Ablation of endometrium",
+              "Ovarectomy",
+              "Hysterectomy"
+            ],
+            "correct": 0,
+            "explanation": "The surgical treatment for PCOS when medical therapy fails is laparoscopic ovarian drilling \u2014 puncture of cysts (follicles) using cautery or laser. No more than 4 cysts should be punctured in each ovary to avoid adhesions or ovarian destruction. This improves response to hormonal ovulation stimulation and fertility rates. Endometrial ablation is for abnormal uterine bleeding; oophorectomy and hysterectomy are not indicated for PCOS itself.",
+            "past_paper": true
+          },
+          {
+            "question": "The infertility or subfertility during polycystic ovarian syndrome results from which of the following?",
+            "options": [
+              "Hirsutism",
+              "Anovulatory cycles",
+              "Obesity",
+              "Insulin resistance"
+            ],
+            "correct": 1,
+            "explanation": "Infertility in PCOS is directly due to anovulatory cycles. PCOS is a major cause of anovulatory infertility, accounting for approximately 20% of such cases. The endocrine disturbances (high LH, increased LH/FSH ratio) lead to non-ovulation. Hirsutism, obesity, and insulin resistance are features or contributing pathogenic factors of PCOS, but the direct mechanical cause of infertility is the failure to ovulate.",
+            "past_paper": true
+          },
+          {
+            "question": "Anovulation in women with polycystic ovarian syndrome is characterized by which of the following?",
+            "options": [
+              "Inappropriate gonadotropin secretion",
+              "Surge of FSH",
+              "Hyperprolactinemia",
+              "High FSH/LH ratio"
+            ],
+            "correct": 0,
+            "explanation": "PCOS is associated with inappropriate gonadotropin secretion \u2014 an increased LH/FSH ratio often exceeding 3:1. Excess inhibin causes low FSH but high LH, which is present even in the pre-ovulatory phase, preventing dominant follicle development and causing anovulation. FSH/LH ratio therefore falls (not rises). Hyperprolactinaemia is seen in ~15\u201320% of PCOS cases but is not the primary characterisation of anovulation.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following leads to development of Sheehan's syndrome:",
+            "options": [
+              "Cardiac stroke",
+              "Preeclampsia",
+              "Postpartum haemorrhage",
+              "Diabetes mellitus"
+            ],
+            "correct": 2,
+            "explanation": "Sheehan's syndrome is pituitary necrosis resulting from severe postpartum haemorrhage (PPH) and obstetric shock. Vascular thrombosis of the pituitary vessels causes panhypopituitarism. Clinical features include failure to lactate, lethargy, and signs of cortisol and thyroid deficiency.",
+            "past_paper": true
+          },
+          {
+            "question": "Which syndrome is characterized as a panhypopituitarism:",
+            "options": [
+              "Chiari\u2013Frommel syndrome",
+              "Turner's syndrome",
+              "Savage syndrome",
+              "Sheehan's syndrome"
+            ],
+            "correct": 3,
+            "explanation": "Sheehan's syndrome is panhypopituitarism resulting from pituitary necrosis caused by vascular thrombosis after severe PPH. Chiari\u2013Frommel is a hypopituitary state but not explicitly equated with panhypopituitarism. Turner's syndrome is hypergonadotropic hypogonadism due to 45 XO karyotype. Savage syndrome is gonadotropin-resistant ovary syndrome.",
+            "past_paper": true
+          },
+          {
+            "question": "Following are specific for Sheehan's syndrome: 1. Low blood sugar 2. High blood sugar 3. Low thyroid function 4. High thyroid function",
+            "options": [
+              "1, 3",
+              "2, 4",
+              "3, 4",
+              "1, 2"
+            ],
+            "correct": 0,
+            "explanation": "Sheehan's syndrome is panhypopituitarism from pituitary necrosis after severe PPH. It causes low blood sugar and low thyroid function (leading to lethargy) due to failure of pituitary hormone secretion. High blood sugar or high thyroid function are opposite findings and would suggest pituitary overactivity rather than failure.",
+            "past_paper": true
+          },
+          {
+            "question": "Sheehan's syndrome is:",
+            "options": [
+              "Hypogonadotropic primary amenorrhea",
+              "Hypergonadotropic primary amenorrhea",
+              "Secondary amenorrhea",
+              "Eugonadotropic primary amenorrhea"
+            ],
+            "correct": 2,
+            "explanation": "Sheehan's syndrome is secondary amenorrhoea because it occurs after childbirth \u2014 the woman has previously menstruated before the event causing pituitary necrosis. Primary amenorrhoea is the failure of menstruation to begin by age 16, which is inapplicable here. While Sheehan's is hypogonadotropic in its hormonal profile, it is classified as a pituitary cause of secondary amenorrhoea.",
+            "past_paper": true
+          },
+          {
+            "question": "Chiari\u2013Frommel syndrome is a:",
+            "options": [
+              "Hypogonadotropic primary amenorrhea",
+              "Hypergonadotropic primary amenorrhea",
+              "Eugonadotropic primary amenorrhea",
+              "Secondary amenorrhea"
+            ],
+            "correct": 0,
+            "explanation": "Chiari\u2013Frommel syndrome is listed under hypogonadotropic primary amenorrhoea, specifically as a pituitary cause alongside Simmond's disease and Forbes\u2013Albright syndrome. It is characterised as a hypopituitary state with elevated prolactin.",
+            "past_paper": true
+          },
+          {
+            "question": "Savage syndrome (Gonadotropin-resistant ovaries) is a:",
+            "options": [
+              "Secondary amenorrhea",
+              "Eugonadotropic primary amenorrhea",
+              "Hypogonadotropic primary amenorrhea",
+              "Hypergonadotropic primary amenorrhea"
+            ],
+            "correct": 3,
+            "explanation": "Savage syndrome (gonadotropin-resistant ovary syndrome) is hypergonadotropic primary amenorrhoea. FSH levels are raised above 40 mIU/mL. The ovaries are histologically normal with primordial follicles, but granulosa cells fail to respond to FSH due to a receptor defect. It is classified under hypergonadotropic primary amenorrhoea in the standard classification.",
+            "past_paper": true
+          },
+          {
+            "question": "The diagnostic values of adrenogenital syndrome are: 1. High 17-hydroxyprogesterone 2. High 17-ketosteroids 3. Low 17-hydroxyprogesterone 4. Low 17-ketosteroids",
+            "options": [
+              "1, 3",
+              "2, 3",
+              "1, 2",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Adrenogenital syndrome (congenital adrenal hyperplasia) is diagnosed by elevated 17\u03b1-hydroxyprogesterone (very high values are diagnostic of 21-hydroxylase deficiency) and elevated 17-ketosteroids (values above 25 mg in 24 hours indicate adrenal hyperplasia; normal is 5\u201315 mg/24h). Low values of these markers would exclude the diagnosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Types of adrenogenital syndrome are: 1. Congenital 2. Latent 3. Postnatal 4. Acute",
+            "options": [
+              "1, 2",
+              "2, 4",
+              "2, 3",
+              "1, 3"
+            ],
+            "correct": 3,
+            "explanation": "Adrenogenital syndrome is classified as congenital (intrauterine) \u2014 due to a primary enzyme defect (21-hydroxylase) blocking conversion of 17-hydroxyprogesterone into hydrocortisone, causing excess androgens and masculinisation \u2014 and postnatal \u2014 developing after birth due to excess ACTH from a pituitary adenoma or an adrenal tumour, presenting with virilism. 'Latent' and 'acute' are not recognised clinical types.",
+            "past_paper": true
+          },
+          {
+            "question": "Which substance is increased in adrenogenital syndrome?",
+            "options": [
+              "17-hydroxyprogesterone",
+              "Insulin",
+              "Aldosterone",
+              "Thyrotropin"
+            ],
+            "correct": 0,
+            "explanation": "In adrenogenital syndrome, a 21-hydroxylase deficiency blocks conversion of 17-hydroxyprogesterone into hydrocortisone. The resulting cortisol deficiency drives excess ACTH secretion, causing adrenal cortical hyperplasia and accumulation of 17-hydroxyprogesterone. Plasma levels rise above 8 ng/mL (>800 ng/dL) and are the diagnostic hallmark. Aldosterone is deficient in the salt-wasting variety, not increased.",
+            "past_paper": true
+          },
+          {
+            "question": "Failure of which enzyme is a cause of adrenogenital syndrome development?",
+            "options": [
+              "Pepsin",
+              "Trypsin",
+              "21-hydroxylase",
+              "19-hydroxylase"
+            ],
+            "correct": 2,
+            "explanation": "The congenital form of adrenogenital syndrome is caused by 21-hydroxylase deficiency, which blocks conversion of 17-hydroxyprogesterone to hydrocortisone. Cortisol deficiency leads to excess ACTH, adrenal cortical hyperplasia, and excess androgen output. This deficiency also underlies the salt-wasting variety causing hyperkalaemia and hyponatraemia in neonates.",
+            "past_paper": true
+          },
+          {
+            "question": "The chromosomal pattern in girls with adrenogenital syndrome is:",
+            "options": [
+              "XX",
+              "XXY",
+              "XXX",
+              "XY"
+            ],
+            "correct": 0,
+            "explanation": "In congenital adrenogenital syndrome, the primary defect is biochemical (21-hydroxylase deficiency causing androgen excess), not chromosomal. The chromosomal pattern is XX \u2014 these are genetic females who develop masculinisation of the external genitalia due to excess androgens, making them female pseudohermaphrodites.",
+            "past_paper": true
+          },
+          {
+            "question": "The treatment of adrenogenital syndrome consists in the administration of:",
+            "options": [
+              "Estrogens",
+              "Progesterone",
+              "Corticosteroids",
+              "Vitamins"
+            ],
+            "correct": 2,
+            "explanation": "The treatment of adrenogenital syndrome is corticosteroids (cortisone, hydrocortisone, prednisone, or prednisolone). Administering these restores reciprocal feedback between hydrocortisone and the pituitary, suppressing excess ACTH and reducing adrenal hyperplasia. Maintenance dose in adults is 2.5 mg prednisone twice daily; children receive 0.15 mg/kg in divided doses. In the salt-losing variety, fludrocortisone 50\u2013100 mcg daily with IV saline is added.",
+            "past_paper": true
+          },
+          {
+            "question": "Dysfunction of which organ leads to development of adrenogenital syndrome:",
+            "options": [
+              "Pituitary",
+              "Adrenal gland",
+              "Ovaries",
+              "Endometrium"
+            ],
+            "correct": 1,
+            "explanation": "Adrenogenital syndrome is fundamentally a disorder of the adrenal cortex. In the congenital type, an enzyme block (21-hydroxylase deficiency) prevents hydrocortisone synthesis, leading to excess ACTH drive and adrenal cortical hyperplasia with excess androgen output. In the postnatal type, an adrenal tumour or a pituitary adenoma causing excess ACTH results in adrenal hyperplasia. The pituitary is involved in the feedback loop but is not the primary organ of dysfunction.",
+            "past_paper": true
+          },
+          {
+            "question": "Level of which hormone is elevated in adrenogenital syndrome?",
+            "options": [
+              "ACTH",
+              "Noradrenaline",
+              "Progesterone",
+              "E2"
+            ],
+            "correct": 0,
+            "explanation": "In adrenogenital syndrome, cortisol deficiency (due to the 21-hydroxylase enzyme block) disrupts normal negative feedback, causing the pituitary to secrete excess ACTH in an attempt to stimulate the adrenal cortex. This excess ACTH drives adrenal cortical hyperplasia and excess androgen production. In the postnatal type, a pituitary adenoma directly causes excess ACTH secretion.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is true for adrenogenital syndrome? Typical findings: 1. Hypokalaemia 2. Hyperkalaemia 3. Hyponatraemia 4. Hypernatraemia",
+            "options": [
+              "2, 4",
+              "1, 3",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "In the salt-wasting type of adrenogenital syndrome (congenital adrenal hyperplasia), aldosterone deficiency leads to sodium loss and potassium retention \u2014 causing hyponatraemia and hyperkalaemia. This can lead to rapid dehydration in neonates. Hypokalaemia and hypernatraemia are opposite findings and are not characteristic.",
+            "past_paper": true
+          },
+          {
+            "question": "Diagnostic procedures for polycystic ovarian syndrome are: 1. MRT (MRI) 2. Ultrasound 3. Hormonal tests 4. Urine test",
+            "options": [
+              "1, 4",
+              "2, 4",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "Ultrasound is the gold standard investigation for PCOS \u2014 it identifies ovaries containing 12 or more follicles (2\u20139 mm) arranged in a necklace appearance with increased ovarian stroma. Hormonal assays confirm the diagnosis: raised LH (often >10 IU/mL), high LH/FSH ratio (\u22653:1), and elevated androgens. MRI is not a standard primary diagnostic tool for PCOS; urine tests are not used for PCOS diagnosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Which medications are used for the treatment of polycystic ovarian syndrome? 1. Oral contraceptives 2. Clomiphene 3. Corticosteroids 4. Vitamin E",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 2, 3",
+              "1, 3, 4"
+            ],
+            "correct": 2,
+            "explanation": "Low-dose combined oral contraceptives control menstruation, reduce acne, and prevent hirsutism progression in PCOS; fourth-generation pills with drospirenone are most effective. Clomiphene is the first-line treatment for anovulatory infertility in PCOS, inducing ovulation in ~80% of cases. Glucocorticoids (dexamethasone or prednisolone) combined with clomiphene are used in PCOS with elevated androgens (DHEA-S) to lower androgen levels and improve conception rates. Vitamin E is not listed as a primary PCOS treatment.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following are additional features of polycystic ovarian syndrome? 1. Obesity 2. Pulmonary disease 3. Uterine myoma 4. Hirsutism",
+            "options": [
+              "1, 4",
+              "2, 3",
+              "1, 2",
+              "3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Obesity (~50% of PCOS women, typically central) and hirsutism (masculine distribution of coarse hair; PCOS accounts for 80% of cases of hirsutism, due to excess ovarian stromal androgen production) are hallmark additional features of PCOS. Pulmonary disease and uterine myoma are not characteristic features of PCOS.",
+            "past_paper": true
+          },
+          {
+            "question": "Excess testosterone secretion in polycystic ovarian syndrome derives from:",
+            "options": [
+              "Thyroid hyperplasia",
+              "Theca cell hyperplasia",
+              "Adrenal hyperplasia",
+              "Endometrial hyperplasia"
+            ],
+            "correct": 1,
+            "explanation": "In PCOS, insulin resistance and hyperinsulinaemia induce LH to cause thecal hyperplasia. These hyperplastic theca cells secrete excess testosterone and androstenedione. The increase in ovarian volume in PCOS is attributed to theca cell and stromal hyperplasia. Adrenal hyperplasia causes androgen excess in adrenogenital syndrome, not PCOS. Endometrial hyperplasia is a consequence of PCOS (from unopposed oestrogen), not a source of testosterone.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned should be considered for differential diagnosis of polycystic ovarian syndrome, EXCEPT:",
+            "options": [
+              "Androgen-secreting tumor",
+              "Cushing's syndrome",
+              "Turner's syndrome",
+              "Hyperthecosis"
+            ],
+            "correct": 2,
+            "explanation": "Androgen-secreting ovarian tumours (causing virilisation and high testosterone), Cushing's syndrome (especially in obese women with virilism), and hyperthecosis (causing hirsutism and virilism with testosterone often >6 nmol/L) are all in the differential diagnosis for PCOS. Turner's syndrome is the exception: it presents with short stature, absent secondary sexual characteristics, streak ovaries, and hypergonadotropic hypogonadism \u2014 the opposite of the PCOS hormonal and ovarian profile.",
+            "past_paper": true
+          },
+          {
+            "question": "Medication used for the treatment of hyperprolactinaemia:",
+            "options": [
+              "Paracetamol",
+              "Bromocriptine",
+              "Mastodinone",
+              "Clomiphene"
+            ],
+            "correct": 1,
+            "explanation": "Bromocriptine is a synthetic ergot derivative and potent dopamine agonist that suppresses prolactin secretion while promoting gonadotropin secretion. It restores normal menstrual cycles and induces ovulation in 70\u201390% of cases. It is used for anovulatory infertility due to hyperprolactinaemia and for pituitary microadenomas. Cabergoline (Dostinex) is an alternative for intolerant patients. Clomiphene induces ovulation but does not treat the underlying prolactin elevation.",
+            "past_paper": true
+          },
+          {
+            "question": "Diagnostic procedures in case of hyperprolactinaemia: 1. X-ray of pituitary fossa 2. Chest CT scan 3. EEG 4. Hormonal tests",
+            "options": [
+              "2, 3",
+              "2, 4",
+              "1, 4",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "X-ray of the pituitary fossa is required when prolactin is elevated (especially >25 ng/mL) to exclude a pituitary neoplasm such as a prolactinoma. Hormonal assays establish the diagnosis: normal prolactin is up to 25 ng/mL; levels up to 100 ng/mL indicate hyperprolactinaemia; levels >100 ng/mL often suggest a pituitary tumour. Chest CT is not the relevant modality (CT of skull/brain is appropriate if imaging is needed). EEG is not used in hyperprolactinaemia investigation.",
+            "past_paper": true
+          }
+        ],
+        "Menopause & Climacteric": [
+          {
+            "question": "Late sequels of menopause are: 1. Osteoporosis 2. Arthritis 3. Alzheimer disease 4. Parkinson disease",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 3",
+              "1, 3, 4",
+              "1, 2, 4"
+            ],
+            "correct": 1,
+            "explanation": "The late sequelae of menopause due to chronic oestrogen deficiency include osteoporosis (progressive bone loss), arthritis (menopausal arthropathy and osteoarthritis), and Alzheimer's disease (oestrogen deficiency can precipitate it, and HRT given early may delay onset). Parkinson's disease is not a listed late sequel of menopause.",
+            "past_paper": true
+          },
+          {
+            "question": "Severe symptoms developed later in menopause are: 1. Increased libido 2. Dysuria 3. Dry vagina 4. Dyspareunia",
+            "options": [
+              "2, 3, 4",
+              "1, 2, 4",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "Later menopausal symptoms include dysuria (urethral syndrome from oestrogen deficiency), dry vagina (atrophic changes in the vaginal mucosa), and dyspareunia (thinning of vaginal epithelium and reduced secretions). Increased libido is not a standard late severe symptom; a characteristic development is decreased libido, though a minority of women may experience increased libido after menopause.",
+            "past_paper": true
+          },
+          {
+            "question": "Most common signs of menopause are: 1. Hot flashes 2. Sweating 3. Hypothermia 4. Depression",
+            "options": [
+              "1, 2, 4",
+              "1, 3, 4",
+              "2, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 0,
+            "explanation": "The hallmark symptoms of menopause are hot flashes (affecting ~85% of women, lasting 2\u20135 minutes), profuse sweating (follows hot flushes), and depression (a common early psychological feature, related to disturbed sleep or as a primary neurological symptom). Hypothermia is not a feature; hot flushes involve inappropriate heat loss mechanisms causing a sensation of heat.",
+            "past_paper": true
+          },
+          {
+            "question": "Late sequels of menopause are: 1. Retinopathy 2. Ischemic heart disease 3. Atherosclerosis 4. Tooth decay",
+            "options": [
+              "1, 2, 4",
+              "2, 3, 4",
+              "1, 3, 4",
+              "1, 2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Ischaemic heart disease and atherosclerosis are late sequelae because oestrogen normally maintains high HDL and lowers LDL and triglycerides; oestrogen deficiency reverses this cardioprotective effect. Tooth decay is also explicitly listed as a late sequel of oestrogen deficiency. Retinopathy is a side effect of toremifene (a SERM) rather than a direct sequel of menopause.",
+            "past_paper": true
+          }
+        ],
         "Prolapse & Displacement": [],
-        "Gynaecological Oncology": [],
+        "Gynaecological Oncology": [
+          {
+            "question": "Which is true for Stage I vulvar cancer: 1. Paget's disease 2. Microinvasive cancer 3. Vulval dystrophy with atypia 4. Lesions less than 2 cm",
+            "options": [
+              "1, 4",
+              "2, 4",
+              "1, 3",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Stage I vulvar cancer is characterised by microinvasive cancer (Stage IA is superficially invasive vulval cancer) and lesions \u22642 cm confined to the vulva or perineum with stromal invasion \u22641.0 mm (Stage IA) or lesions >2 cm still confined to the vulva (Stage IB). Paget's disease is a pre-invasive/intraepithelial lesion (VIN), not an invasive stage. Vulval dystrophy with atypia is a precursor condition, not a stage of invasive cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is true for Stage II vulvar cancer:",
+            "options": [
+              "Microinvasive cancer",
+              "Lesions more than 2 cm",
+              "Lesions less than 2 cm",
+              "Bowen's disease"
+            ],
+            "correct": 1,
+            "explanation": "Stage II vulvar cancer involves tumours between 2 and 4 cm (requiring total vulvectomy) and is formally defined as a tumour of any size with extension to adjacent perineal structures (lower 1/3 urethra, lower 1/3 vagina, anus) with negative nodes. Microinvasive cancer and lesions <2 cm describe Stage IA. Bowen's disease is an intraepithelial carcinoma (Stage 0).",
+            "past_paper": true
+          },
+          {
+            "question": "Which is true for Stage III vulvar cancer:",
+            "options": [
+              "Lesions less than 2 cm",
+              "Lesions extending beyond the vulva",
+              "Distal metastases",
+              "Microinvasive cancer"
+            ],
+            "correct": 1,
+            "explanation": "Stage III vulvar cancer is defined by a tumour of any size with positive inguino-femoral lymph nodes, frequently with extension to adjacent perineal structures beyond the vulva (lower urethra, lower vagina, anus). Lesions <2 cm are Stage I. Distal metastases characterise Stage IVB. Microinvasive cancer is Stage IA.",
+            "past_paper": true
+          },
+          {
+            "question": "Which is true for Stage IV vulvar cancer:",
+            "options": [
+              "Microinvasive cancer",
+              "Lesions extending beyond the vulva",
+              "Distal metastases",
+              "Lesions less than 2 cm"
+            ],
+            "correct": 2,
+            "explanation": "Stage IVB vulvar cancer is defined by any distant metastasis including pelvic lymph nodes. Stage IVA involves tumour invasion of upper regional structures (bladder mucosa, rectal mucosa, or tumour fixed to pelvic bone). Microinvasive cancer is Stage IA; lesions <2 cm are Stage IA; extension beyond the vulva begins at Stage II.",
+            "past_paper": true
+          },
+          {
+            "question": "In which stage of vulvar cancer only radiotherapy and/or chemotherapy are indicated for treatment? 1. Stage III 2. Stage IV 3. Stage I 4. Stage II",
+            "options": [
+              "2, 4",
+              "1, 2",
+              "1, 3",
+              "2, 3"
+            ],
+            "correct": 1,
+            "explanation": "Stage III is treated with megavoltage radiotherapy (4000\u20135000 rads over 5 weeks), which shrinks the tumour to allow simple local excision, eliminating the need for exenteration. Stage IV is treated by chemotherapy or radiotherapy (e.g. 5-FU and mitomycin-C with radiotherapy for anal involvement) to avoid exenteration. Stage I is treated surgically with partial/unilateral vulvectomy and inguinal node dissection. Stage II requires total vulvectomy and bilateral groin lymph node dissection.",
+            "past_paper": true
+          }
+        ],
         "Paediatric & Adolescent Gynaecology": [],
         "Congenital Malformations": [],
         "Contraception": [],
-        "Acute Abdomen in Gynaecology": []
+        "Acute Abdomen in Gynaecology": [
+          {
+            "question": "Termination of tubal pregnancy by tubal abortion is often carried out in the following terms of pregnancy:",
+            "options": [
+              "11\u201312 weeks",
+              "9\u201310 weeks",
+              "7\u20138 weeks",
+              "4\u20136 weeks"
+            ],
+            "correct": 3,
+            "explanation": "About 75% of patients with ectopic pregnancy present with amenorrhoea of less than 6 weeks. Some ectopics rupture around the expected period (4 weeks from LMP). This contrasts with interstitial pregnancy, which terminates in the third month (9\u201312 weeks), and rudimentary horn pregnancy, which terminates in the fourth month (12\u201316 weeks). The 4\u20136 week window is the most common timeframe for tubal abortion or rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "Progressing extrauterine pregnancy is diagnosed. It is indicated to carry out:",
+            "options": [
+              "Conservative anti-inflammatory treatment",
+              "Urgent surgical treatment",
+              "Ultrasonography investigation"
+            ],
+            "correct": 1,
+            "explanation": "A diagnosed ectopic pregnancy requires urgent surgical treatment \u2014 all patients with acute ectopic pregnancy should be operated upon at the earliest once diagnosis is made. Even unruptured cases are managed laparoscopically (salpingostomy or salpingectomy) to preserve reproductive potential. Anti-inflammatory treatment is for red degeneration of fibroids in pregnancy, not ectopic pregnancy. Ultrasonography is a diagnostic step already completed if the diagnosis is established.",
+            "past_paper": true
+          },
+          {
+            "question": "In severe condition the patient with terminated tubal pregnancy should undergo:",
+            "options": [
+              "Immediate blood transfusion",
+              "Urgent removal of the source of bleeding (pregnant tube)",
+              "All the mentioned",
+              "None of the mentioned"
+            ],
+            "correct": 2,
+            "explanation": "In a terminated (ruptured) tubal pregnancy with haemorrhagic shock, both urgent surgical removal of the affected tube (salpingectomy) and immediate blood transfusion are required. Surgery controls the bleeding source; resuscitation (blood grouping, cross-matching, and transfusion \u2014 including potential autotransfusion of peritoneal blood) restores circulating volume. Both are required concurrently.",
+            "past_paper": true
+          },
+          {
+            "question": "Tubal abortion should be differentiated from: 1. Early spontaneous miscarriage 2. Exacerbation of chronic salpingo-oophoritis 3. Dysfunctional uterine bleeding 4. All the mentioned",
+            "options": [
+              "All the mentioned",
+              "1, 3",
+              "2, 3",
+              "1, 2"
+            ],
+            "correct": 0,
+            "explanation": "Tubal abortion shares features with: early spontaneous miscarriage (similar history of amenorrhoea, pain, vaginal bleeding; septic abortion nearly identical clinically), chronic salpingo-oophoritis/pyosalpinx (history of amenorrhoea, pain, pelvic mass resembling chronic ectopic), and dysfunctional uterine bleeding (irregular bleeding after a period of amenorrhoea, though DUB is usually painless \u2014 Metropathia Haemorrhagica may simulate ectopic). All three are part of the differential diagnosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Apoplexia of the ovary is: 1. Acute occurrence of ovarian bleeding 2. Ovarian rupture 3. Acute occurrence of ovary blood-supply impairment 4. All the mentioned",
+            "options": [
+              "Acute occurrence of ovarian bleeding",
+              "All the mentioned",
+              "Ovarian rupture",
+              "Acute occurrence of ovary blood-supply impairment"
+            ],
+            "correct": 1,
+            "explanation": "Ovarian apoplexy encompasses acute ovarian bleeding (haemorrhage inside a cyst or into the peritoneal cavity, potentially causing haemorrhagic shock), ovarian rupture (spontaneous or traumatic rupture of an ovarian cyst discharging into the peritoneum), and acute blood-supply impairment (as in torsion, where pedicle twisting occludes veins causing congestion and haemorrhage). All three components together define the condition.",
+            "past_paper": true
+          },
+          {
+            "question": "For ovarian apoplexy is typical: 1. Pains in the lower part of the abdomen 2. Absence of external bleeding 3. Negative biological reaction to pregnancy (negative test) 4. Sharp increase of the WBC 5. Not sharply expressed symptoms of peritoneal irritation",
+            "options": [
+              "1, 2, 3, 5",
+              "1, 2, 3, 4, 5",
+              "1, 3, 5"
+            ],
+            "correct": 2,
+            "explanation": "Ovarian apoplexy typically presents with acute lower abdominal pain, a negative pregnancy test (distinguishing it from ectopic pregnancy), and not sharply expressed peritoneal irritation (tenderness but rigidity is not well marked, unlike perforated ulcer). Absence of external bleeding is incorrect \u2014 a ruptured corpus luteal haematoma presents with vaginal bleeding, making it clinically indistinguishable from ectopic pregnancy. Sharp WBC increase is more characteristic of PID.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is typical for ovarian tumour torsion: 1. Severe pains in the lower part of the abdomen after physical investigation 2. In bimanual examination defining immobile, awfully painful tumour 3. Positive symptoms of peritoneum irritation on the tumour side 4. All the mentioned",
+            "options": [
+              "1, 2",
+              "2, 3",
+              "All the mentioned",
+              "1, 3"
+            ],
+            "correct": 2,
+            "explanation": "Ovarian torsion is characterised by all three features: severe acute lower abdominal pain (from congestion and interstitial haemorrhage due to venous occlusion at the pedicle), an immobile, extremely tender mass on bimanual examination (the twisted cyst is tense and tender), and positive peritoneal irritation signs on the affected side (extreme tenderness on palpation, guarding, abdominal distension). It is a surgical emergency requiring urgent laparotomy.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical picture in ovarian apoplexy depends on: 1. The character of bleeding 2. Presence of accompanying diseases 3. Expressiveness of the pain syndrome 4. All the mentioned is true",
+            "options": [
+              "1, 3",
+              "2, 3",
+              "All the mentioned is true",
+              "1, 2"
+            ],
+            "correct": 2,
+            "explanation": "The clinical picture of ovarian apoplexy is shaped by all three: the character of bleeding (quantity determines severity \u2014 minor leak causes localised pain; profuse haemorrhage causes haemorrhagic shock), accompanying diseases (pre-existing PID or endometriosis alters the presentation and adds symptoms), and the expressiveness of the pain syndrome (severity and location of pain is the dominant feature differentiating it from appendicitis or ectopic pregnancy).",
+            "past_paper": true
+          },
+          {
+            "question": "For the terminated tubal pregnancy is typical: 1. Increase of temperature 2. Syncope state 3. Decrease in blood pressure 4. Vaginal bleeding",
+            "options": [
+              "2, 3",
+              "2, 3, 4",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "A terminated (disturbed) tubal pregnancy presents with syncope (fainting from internal haemorrhage and shock), decreased blood pressure (with tachycardia and thready pulse from haemorrhagic shock), and vaginal bleeding (from decidual shedding as pregnancy hormone levels fall). Temperature is subnormal in acute cases due to shock; it is exceptional for temperature to rise above 37.4\u00b0C unless the haematocele becomes secondarily infected.",
+            "past_paper": true
+          },
+          {
+            "question": "Differential diagnosis between acute appendicitis and terminated pregnancy \u2013 for the latter is typical: 1. Ischomenia (ischemia) 2. Increase of temperature 3. Dizziness, syncope 4. Positive Rovsing's symptom",
+            "options": [
+              "1, 2, 3",
+              "1, 3",
+              "1, 2, 3, 4"
+            ],
+            "correct": 1,
+            "explanation": "Features typical of terminated ectopic pregnancy (distinguishing it from appendicitis): ischomenia/amenorrhoea (~75% of ectopic cases have <6 weeks amenorrhoea) and dizziness/syncope from internal haemorrhage and shock. Temperature increase is more characteristic of appendicitis or PID \u2014 in acute ectopic pregnancy the temperature is often normal or subnormal. Rovsing's sign is a clinical sign of appendicitis, not ectopic pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Medical treatment of progressive tubal pregnancy of short-term could be: 1. Laparotomy operation 2. Waiting tactics, observation 3. Conservative treatment by cytostatics 4. Laparoscopy",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 3, 4",
+              "1, 4"
+            ],
+            "correct": 0,
+            "explanation": "All four approaches may be used for early short-term tubal pregnancy. Laparotomy remains necessary for acute cases with severe bleeding or adnexal mass >5 cm. Expectant management (observation) is possible if the gestational sac is <2 cm, hCG <2000 mIU/mL and declining, and minimal bleeding is present. Methotrexate (cytostatic folate antagonist) has ~90% success in properly selected stable unruptured cases. Laparoscopic salpingostomy or salpingectomy is now the gold standard for early unruptured ectopic pregnancy.",
+            "past_paper": true
+          },
+          {
+            "question": "Prevention of ectopic pregnancy: 1. Abortion prevention 2. Complete treatment of pelvic inflammatory disease 3. Infertility's treatment 4. Due time treatment of genital tumours",
+            "options": [
+              "1, 2, 3, 4",
+              "1, 2",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "All four measures prevent ectopic pregnancy by addressing known risk factors. Abortion prevention avoids septic abortion-related salpingitis and tubal damage. PID treatment (especially chlamydia and gonorrhoea) prevents the tubal damage that is the most common cause of ectopic pregnancy. Treating underlying infertility addresses prolonged infertility, itself a risk factor. Timely treatment of genital tumours (e.g. cornual fibroids narrowing the tubal lumen) removes physical obstruction to normal ovum transport.",
+            "past_paper": true
+          },
+          {
+            "question": "Etiology of ectopic pregnancy: 1. Inflammatory process in the tubes 2. Oral contraceptive use 3. Endometriosis of the tube 4. Uterine myoma in the tube angle",
+            "options": [
+              "1, 2",
+              "2, 3, 4",
+              "1, 3, 4",
+              "2, 4"
+            ],
+            "correct": 2,
+            "explanation": "Inflammatory tubal disease (PID from chlamydia/gonorrhoea) causes tubal damage, luminal narrowing, and impaired peristalsis \u2014 a major aetiological factor. Tubal endometriosis attracts premature implantation or kinks the tube. Cornual fibroids narrow the tubal lumen and prevent the fertilised egg reaching the uterus. Combined oral contraceptives reduce ectopic pregnancy risk by suppressing ovulation; progestogen-only pills increase risk by reducing tubal motility, but 'oral contraceptive use' generically is not a definitive aetiological factor.",
+            "past_paper": true
+          },
+          {
+            "question": "The following signs are typical of all the forms of ectopic pregnancy: 1. Suspicious signs of pregnancy 2. Roughness (engorgement) of mammary glands 3. Frequent and painful urination 4. Cyanosis of vaginal mucosa",
+            "options": [
+              "1, 2, 4",
+              "1, 2, 3, 4",
+              "1, 2, 3",
+              "2, 3, 4"
+            ],
+            "correct": 0,
+            "explanation": "Ectopic pregnancy produces the same hormones as intrauterine pregnancy, so early pregnancy signs occur: amenorrhoea (~75% present with <6 weeks amenorrhoea), breast engorgement (from oestrogen and progesterone), and cyanosis of vaginal mucosa (venous congestion from pregnancy hormones). Frequent and painful urination is not a typical sign of ectopic pregnancy \u2014 dysuria is more characteristic of infections. Urinary retention can occur in subacute ectopics from haematocele pressure on the bladder neck.",
+            "past_paper": true
+          },
+          {
+            "question": "Histological investigation of endometrium for ectopic pregnancy shows: 1. Presence of chorion villi 2. Endometrium regeneration condition 3. Presence of decidual tissue 4. Endometrium proliferation",
+            "options": [
+              "3, 4",
+              "1, 3",
+              "3"
+            ],
+            "correct": 0,
+            "explanation": "In ectopic pregnancy, oestrogen and progesterone convert the uterine endometrium into decidua (decidual tissue), mimicking normal pregnancy. The Arias-Stella reaction shows intense adenomatous and hypersecretive activity with enlarged cells and mitotic figures \u2014 a form of endometrial proliferation. Chorionic villi are conspicuously absent from the uterine endometrium in ectopic pregnancy (their presence would indicate an intrauterine pregnancy). Endometrial regeneration is not a specific histological finding for ectopic pregnancy.",
+            "past_paper": true
+          }
+        ]
       }
     }
   }
