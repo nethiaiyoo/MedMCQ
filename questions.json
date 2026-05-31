@@ -19603,6 +19603,330 @@
             "correct": 3,
             "explanation": "Vaginal candidiasis presents with: dyspareunia (from vulval inflammation), thick white curdy 'cottage cheese' discharge (characteristic, usually odorless), and vulval soreness, erythema, edema, and intense pruritus. Fishy odor is the hallmark of bacterial vaginosis \u2014 caused by amines from anaerobic bacteria. Candida discharge is odorless.",
             "past_paper": true
+          },
+          {
+            "question": "The principles of postpartum inflammatory diseases treatment are:",
+            "options": [
+              "Choosing antiseptic according to form and localisation of disease",
+              "Local influence on the nidus of infection",
+              "Increase of non-specific reactivity of the organism",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "The principles of treatment of postpartum inflammatory diseases include all three measures: choosing the appropriate antiseptic/antibiotic based on the type and localisation of infection ensures adequate drug concentration at the infected site; local treatment of the infection focus (drainage of abscesses, local antiseptic treatment, removal of infected tissues or retained products) prevents spread; and increasing non-specific reactivity through adequate nutrition, fluid therapy, correction of anaemia, and immunostimulatory support enhances the body's general resistance.",
+            "past_paper": true
+          },
+          {
+            "question": "The way of sexual transmission of infection is characteristic for:",
+            "options": [
+              "Chlamydia only",
+              "Herpes simplex virus only",
+              "Trichomonad only",
+              "All three"
+            ],
+            "correct": 3,
+            "explanation": "All three pathogens are sexually transmitted infections. Chlamydia trachomatis is one of the most common STIs, transmitted through sexual contact, commonly causing cervicitis, PID, and infertility due to tubal damage. Herpes simplex virus (especially HSV-2) is spread via direct mucocutaneous contact during sexual activity, causing painful genital vesicles and ulcers. Trichomonas vaginalis is a protozoal STI transmitted almost exclusively through sexual intercourse, causing trichomoniasis with frothy yellow-green vaginal discharge and strawberry cervix.",
+            "past_paper": true
+          },
+          {
+            "question": "According to the existing classification gonorrhoea is differentiated into: 1. Recent gonorrhoea  2. Chronic gonorrhoea  3. Latent gonorrhoea  4. Gonococcus carriage",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "The clinical classification of gonorrhoea includes all four forms. Recent (acute/fresh) gonorrhoea: infection of short duration (up to 2 months) with pronounced symptoms \u2014 purulent discharge, dysuria, acute inflammation. Chronic gonorrhoea: infection persisting longer than 2 months with mild or intermittent symptoms, potentially leading to PID and infertility. Latent gonorrhoea: infection present without obvious clinical symptoms but Neisseria gonorrhoeae can be detected by bacteriological tests. Gonococcus carriage: the individual harbours N. gonorrhoeae without clinical manifestations but can transmit the infection.",
+            "past_paper": true
+          },
+          {
+            "question": "The most appropriate method for diagnostics of inflammatory formations of uterine adnexa is: 1. Transabdominal ultrasound  2. Transvaginal ultrasound  3. Computer tomography  4. Culdoscopy",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods are appropriate for diagnosing inflammatory adnexal formations. Transabdominal ultrasound: non-invasive first-line imaging detecting adnexal masses, tubo-ovarian abscesses, and pelvic fluid collections. Transvaginal ultrasound: more sensitive and accurate, providing better visualisation of adnexa. CT: used when diagnosis is uncertain or complications are suspected, assessing extent of inflammation. Culdoscopy: endoscopic examination through the posterior vaginal fornix to visualise pelvic organs \u2014 historically used, now largely replaced by laparoscopy but still a recognised diagnostic method.",
+            "past_paper": true
+          },
+          {
+            "question": "In the development of gardnerellosis the following has big significance: 1. Hypo-oestrogenism  2. Shift of pH of vaginal content into alkaline  3. Lactobacillus death  4. Anaerobe rise",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four factors contribute to the development of gardnerellosis (bacterial vaginosis). Hypo-oestrogenism: reduced oestrogen decreases glycogen in vaginal epithelium, reducing the growth of protective lactobacilli. Shift of vaginal pH to alkaline: normal vaginal pH is 3.8\u20134.5 due to lactic acid from lactobacilli; in bacterial vaginosis pH increases above 4.5, favouring pathogenic bacteria. Lactobacillus death: their reduction leads to loss of protective vaginal flora. Rise of anaerobic bacteria (Gardnerella vaginalis, Mobiluncus, Bacteroides): proliferate and produce amines causing the characteristic fishy odour.",
+            "past_paper": true
+          },
+          {
+            "question": "Acute Bartholin gland abscess: body temperature 38\u00b0C, skin hyperaemia, fluctuation, acute pain. Which is the most appropriate tactics?",
+            "options": [
+              "Antibiotics therapy",
+              "Antibiotics and sulfonamides",
+              "Surgical opening, drainage",
+              "Surgical opening, drainage, antibiotics"
+            ],
+            "correct": 3,
+            "explanation": "The clinical presentation (fever 38\u00b0C, skin hyperaemia, fluctuation indicating pus, severe pain) confirms a Bartholin abscess requiring both surgical drainage and antibiotics. Incision and drainage is the main treatment because antibiotics alone cannot penetrate the abscess cavity effectively. Antibiotic therapy is added to treat surrounding infection, prevent spread, and address possible STI organisms. Drainage without antibiotics is insufficient when fever is present.",
+            "past_paper": true
+          },
+          {
+            "question": "The development of endometritis is most likely:",
+            "options": [
+              "After intrauterine intervention",
+              "After influenza",
+              "After supercooling",
+              "During tuberculosis"
+            ],
+            "correct": 0,
+            "explanation": "Endometritis most commonly develops after intrauterine interventions (abortion/curettage, IUD insertion, hysteroscopy, postpartum uterine procedures) because these procedures breach the cervical barrier and allow ascending infection into the uterine cavity. Influenza is a respiratory viral infection and does not directly cause endometritis. Exposure to cold may predispose to some infections but is not a direct aetiological factor. Tuberculosis can cause tuberculous endometritis but is not the typical cause in general clinical practice.",
+            "past_paper": true
+          },
+          {
+            "question": "The most important differential-diagnostic sign of acute inflammatory process of uterine adnexa and acute appendicitis is:",
+            "options": [
+              "Clinical blood analysis",
+              "Blumberg's sign",
+              "Promptov's symptom",
+              "Sitkovsky's symptom"
+            ],
+            "correct": 2,
+            "explanation": "Promptov's symptom \u2014 pain in the pouch of Douglas during rectal or vaginal examination \u2014 indicates inflammation of the pelvic organs, especially the uterine adnexa, and is the most important differential-diagnostic sign. Clinical blood analysis shows leukocytosis in both conditions and is not specific. Blumberg's sign (rebound tenderness) can occur in both appendicitis and severe PID. Sitkovsky's symptom (pain in the right iliac region when lying on the left side) and Rovsing's symptom are both typical for appendicitis.",
+            "past_paper": true
+          },
+          {
+            "question": "One of the most permanent symptoms of genital tuberculosis is:",
+            "options": [
+              "Pain in the lower abdomen",
+              "Menstrual cycle disorder",
+              "Profuse caseous leucorrhoea",
+              "Burning sensation in the area of uterine adnexa"
+            ],
+            "correct": 1,
+            "explanation": "Menstrual cycle disorder is the most constant and characteristic manifestation of genital tuberculosis. The infection damages the endometrium and ovarian function, leading to oligomenorrhoea, amenorrhoea, or irregular menstruation due to endometrial destruction and fibrosis. Pelvic pain may occur but is not a constant symptom and may even be mild or absent. Profuse caseous discharge and burning sensation in the adnexa are not typical or constant clinical manifestations.",
+            "past_paper": true
+          },
+          {
+            "question": "Most often the following is viewed during genital tuberculosis:",
+            "options": [
+              "Amenorrhoea",
+              "Oligomenorrhoea",
+              "Metrorrhagia",
+              "Induration of uterus"
+            ],
+            "correct": 1,
+            "explanation": "Oligomenorrhoea (infrequent menstruation) is the most commonly observed menstrual disorder in genital tuberculosis, occurring due to endometrial atrophy, destruction of the endometrium, and hormonal disturbances. Amenorrhoea may occur in advanced cases when the endometrium is severely damaged, but it is less common than oligomenorrhoea. Metrorrhagia may occur occasionally but is not the most frequent manifestation. Genital tuberculosis primarily affects the tubes and endometrium, not causing characteristic uterine induration.",
+            "past_paper": true
+          },
+          {
+            "question": "The following statement is erroneous for chlamydiosis:",
+            "options": [
+              "Is sexually transmitted",
+              "Is treated with tetracycline or erythromycin",
+              "Is frequently recurrent",
+              "Is characterised by profuse purulent discharge from vagina"
+            ],
+            "correct": 3,
+            "explanation": "Chlamydial infection is often asymptomatic or mild \u2014 vaginal discharge is usually scanty or mucopurulent, not profuse purulent discharge. Profuse purulent discharge is more typical of gonorrhoea. All other statements are correct: Chlamydia trachomatis is primarily transmitted through sexual contact; it is treated with tetracyclines (doxycycline) or macrolides (erythromycin, azithromycin); it may recur frequently due to untreated sexual partners, reinfection, or persistent asymptomatic infection.",
+            "past_paper": true
+          },
+          {
+            "question": "Trichomonas colpitis: which statement is correct?",
+            "options": [
+              "Arises by mycoplasmas",
+              "Doesn't require a specialised clinic observation",
+              "Is diagnosed easily and doesn't require bacterioscopic examination",
+              "The criteria of recovery is the triple negative result of bacterioscopic examination"
+            ],
+            "correct": 3,
+            "explanation": "The criteria of recovery from Trichomonas colpitis is confirmed by three consecutive negative microscopic (bacterioscopic) examinations of vaginal smears. Trichomonas colpitis is caused by the protozoan Trichomonas vaginalis, not by mycoplasmas. Because it is an STI, patients require medical supervision, treatment of sexual partners, and follow-up examinations. Diagnosis requires microscopic examination to detect motile trichomonads; laboratory confirmation is important.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical signs which always precede the perforation of pyoinflammatory formation of adnexa are:",
+            "options": [
+              "Chills",
+              "Liquid stool",
+              "Colics during urination",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All three symptoms can appear as warning signs before perforation of a purulent adnexal mass. Chills indicate systemic intoxication and bacteraemia preceding rupture. Liquid stool (diarrhoea) results from irritation of the rectum and sigmoid colon by the adjacent inflamed adnexal mass. Colics during urination occur from irritation of the urinary bladder or ureters by the pelvic inflammatory process.",
+            "past_paper": true
+          },
+          {
+            "question": "The criteria of recovery among the patients with gonorrhoea is rated after the treatment therapy during:",
+            "options": [
+              "1 month",
+              "2 months",
+              "3 months",
+              "4 months"
+            ],
+            "correct": 2,
+            "explanation": "After completion of gonorrhoea treatment, patients undergo a 3-month follow-up observation period with repeated bacteriological or bacterioscopic examinations to confirm eradication of Neisseria gonorrhoeae. During this time, provocation tests may be used to detect latent infection. The 3-month control period is used to confirm complete elimination of gonococci, detect latent or chronic infection, and prevent further transmission.",
+            "past_paper": true
+          },
+          {
+            "question": "The vaginal discharge during gardnerellosis is usually:",
+            "options": [
+              "Profuse",
+              "Slightly viscous and sticky",
+              "Light-grey or yellow-green",
+              "B and C are right"
+            ],
+            "correct": 3,
+            "explanation": "The typical vaginal discharge in gardnerellosis (bacterial vaginosis) is slightly viscous/sticky (thin, homogeneous, sticky, coating the vaginal walls) and light-grey or yellow-green in colour. It is usually moderate in quantity \u2014 not profuse. Profuse discharge is more typical of trichomoniasis.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical signs of true abscess of Bartholin's gland are: 1. Increase of body temperature to 39\u201340\u00b0C, chill  2. Probable enlargement of inguinal lymph nodes on the affected side  3. Detection of fluctuation in the area of enlarged and painful Bartholin's gland  4. Painful formation in the depth of upper third of labia majora",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four features are typical clinical signs of a true Bartholin gland abscess. High fever (39\u201340\u00b0C) with chills: systemic inflammatory response. Enlargement of inguinal lymph nodes: regional lymphadenopathy from spreading infection. Detection of fluctuation: presence of pus inside the abscess cavity \u2014 a key diagnostic sign. Painful formation in the lower third of the labia majora: the Bartholin gland is located in the posterolateral labial area.",
+            "past_paper": true
+          },
+          {
+            "question": "Pointed condyloma is characterised as follows: 1. Formation of pink colour resembling a cauliflower  2. Often located in the area of vulva, vagina, and cervix  3. The base is always wide, infiltrated  4. The consistency of condyloma is friable",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 1,
+            "explanation": "Condyloma acuminata (caused by HPV types 6 and 11) are soft, pink or flesh-coloured papillomatous growths with a characteristic cauliflower-like appearance. Common locations include vulva, vagina, cervix, perineum, and perianal area. The base is always wide and infiltrated is incorrect \u2014 condyloma acuminata usually have a narrow pedicle or thin base; a wide infiltrated base is more typical of condyloma lata (secondary syphilis). They are generally soft and elastic, not typically friable.",
+            "past_paper": true
+          },
+          {
+            "question": "During urogenital trichomoniasis the following is mainly affected: 1. Vagina  2. Urethra  3. Cervical duct  4. Urinary bladder",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "Trichomonas vaginalis primarily infects the lower urogenital tract. The vagina is the most commonly affected site (trichomonal vaginitis with frothy yellow-green discharge, vaginal itching, and strawberry cervix). The urethra may also be involved, producing dysuria and urethral irritation. The cervical duct (endocervical canal) can be involved leading to cervicitis. The urinary bladder is rarely directly affected \u2014 urinary symptoms usually result from urethral involvement.",
+            "past_paper": true
+          },
+          {
+            "question": "The principle of treatment of patients with genital candidosis is: 1. Antiprotozoal and antimicrobial sanation of the nidus of infection  2. Treatment of candidal infection  3. Treatment of the sex partner  4. Abstinence from sexual life during treatment",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four principles apply to the management of genital candidosis. Antiprotozoal and antimicrobial sanation: mixed vaginal infections are common \u2014 local cleansing and restoration of normal vaginal flora eliminates associated microorganisms. Treatment of candidal infection: antifungal drugs (nystatin, clotrimazole, fluconazole) are the main treatment. Treatment of the sexual partner: in recurrent or persistent cases, partners may require treatment to prevent reinfection. Abstinence from sexual intercourse during treatment: prevents reinfection, reduces mucosal irritation, and allows effective therapy.",
+            "past_paper": true
+          },
+          {
+            "question": "The generative dysfunction among women suffering chronic salpingo-oophoritis is manifested by the development of: 1. Infertility  2. Ectopic pregnancy  3. Miscarriage  4. Non-progressive pregnancy",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "Chronic salpingo-oophoritis leads to all four types of reproductive dysfunction. Infertility: tubal obstruction, adhesions, and impaired ovum transport are common outcomes. Ectopic pregnancy: damage to fallopian tube mucosa and motility increases risk of tubal implantation. Miscarriage: hormonal disturbances and endometrial inflammation increase risk of spontaneous abortion. Non-progressive pregnancy: inflammation and impaired uterine environment may lead to arrested embryonic development.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is a method of prophylaxis of inflammatory diseases of female genitals of non-specific aetiology: 1. Abortions prevention  2. Carrying out rehabilitation after abortions  3. In-time diagnostics and treatment of subacute endometritis after delivery  4. Count of contraindications for the insertion of IUD",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four measures are important for preventing non-specific inflammatory diseases of the female genital organs. Abortion prevention: frequent abortions increase risk of endometritis and PID. Rehabilitation after abortions: proper post-abortion care detects and treats early inflammatory complications. In-time diagnosis and treatment of postpartum subacute endometritis: early recognition prevents spread and development of chronic adnexal inflammatory disease. Considering contraindications before IUD insertion: IUD insertion in women with existing genital infection increases the risk of ascending infection and PID.",
+            "past_paper": true
+          },
+          {
+            "question": "The chronic nonspecific endometritis is characterised by:",
+            "options": [
+              "Recurrent clinics and menstrual function disorder",
+              "Recurrent clinics only",
+              "Menstrual function disorder only",
+              "Hyperandrogenaemia and hyperprolactinaemia"
+            ],
+            "correct": 0,
+            "explanation": "Chronic nonspecific endometritis is characterised by a recurrent or relapsing course (repeated episodes of pelvic discomfort, abnormal discharge, and mild pain) and menstrual function disorders (irregular menstruation, menorrhagia, intermenstrual bleeding, and sometimes infertility). Hyperandrogenism is associated with PCOS. Hyperprolactinaemia is related to pituitary or endocrine disorders. Neither is characteristic of chronic nonspecific endometritis.",
+            "past_paper": true
+          },
+          {
+            "question": "During chronic endometritis the patients often have: 1. Metrorrhagia  2. Disposition to miscarriage  3. Pains in the lower abdomen during menstruation  4. Disturbance of general condition; euphoria or lethargy",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "The typical manifestations of chronic endometritis include metrorrhagia (chronic endometrial inflammation disrupts normal cyclic endometrial regeneration, resulting in irregular uterine bleeding), disposition to miscarriage (chronic endometrial inflammation impairs implantation and endometrial receptivity, leading to repeated early miscarriages), and pains in the lower abdomen during menstruation (persistent inflammatory changes cause pelvic pain or dysmenorrhoea). Psychological/mood disturbances such as euphoria or lethargy are not characteristic of chronic endometritis.",
+            "past_paper": true
+          },
+          {
+            "question": "Criteria of diagnostics of uterine adnexa inflammation (differential diagnosis with appendicitis): 1. Often presence of adnexa inflammation in anamnesis  2. Gradual development of the disease  3. Pain in the area of Douglas' cul-de-sac during rectal examination (Promptov symptom)  4. Quick increase of leucocytosis in peripheral blood in the first hours",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "The diagnostic criteria supporting adnexal inflammation rather than appendicitis include: history of adnexal inflammation in the anamnesis (patients frequently have previous history of PID); gradual development of the disease (adnexal inflammation usually develops gradually, whereas acute appendicitis often has a more abrupt onset); and Promptov's symptom (tenderness in the pouch of Douglas during rectal/vaginal examination \u2014 indicates pelvic inflammatory involvement). Rapid leucocytosis early in the disease is more typical of acute appendicitis \u2014 in adnexal inflammation, leucocytosis is usually moderate and develops more gradually.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is referred to the methods of endocervicitis treatment:",
+            "options": [
+              "Antibacterial treatment",
+              "Local anti-inflammatory treatment",
+              "General health improving treatment",
+              "All the listed methods"
+            ],
+            "correct": 3,
+            "explanation": "All four methods are used in the treatment of endocervicitis. Antibacterial treatment: the main aetiological treatment \u2014 antibiotics chosen according to the causative microorganism (chlamydia, gonococcus, or mixed infection). Local anti-inflammatory treatment: vaginal antiseptic solutions, anti-inflammatory suppositories, and topical antimicrobial agents reduce local inflammation. General health-improving treatment: vitamins, immunomodulatory therapy, and treatment of associated diseases improve the body's resistance. Diathermocoagulation (and cryotherapy or laser therapy): used in chronic endocervicitis after controlling infection to treat persistent cervical lesions.",
+            "past_paper": true
+          },
+          {
+            "question": "In the diagnostics of postpartum mastitis, as a rule, the following matters:",
+            "options": [
+              "Characteristic complaints of the patient",
+              "Results of examination and palpation of mammary glands",
+              "Presence of predisposing factors",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "Diagnosis of postpartum mastitis is primarily clinical and depends on all three factors. Characteristic complaints: breast pain and tenderness, localised swelling or redness, fever and chills, malaise. Clinical examination and palpation: localised erythema and warmth, tender indurated area, possible fluctuation if abscess develops. Predisposing factors: milk stasis, cracked nipples, improper breastfeeding technique, poor breast emptying, and maternal fatigue or lowered immunity.",
+            "past_paper": true
+          },
+          {
+            "question": "For the patients with matured septic inflammatory growth of the uterine adnexa (in the 'cold' period) the following is indicated:",
+            "options": [
+              "Growth puncture through rear fornix with evacuation and introduction of antiseptics",
+              "Surgical treatment",
+              "Pyrogenal treatment",
+              "Gonovaccine treatment"
+            ],
+            "correct": 1,
+            "explanation": "In the cold (chronic/quiescent) period, when acute inflammation has subsided and a chronic tubo-ovarian abscess has become encapsulated and organised, conservative measures are ineffective. Definitive surgical management (salpingo-oophorectomy or removal of the inflammatory mass) is indicated. Puncture through the rear fornix is mainly used in the acute stage of a pelvic abscess. Pyrogenal therapy was historically used to stimulate immune response in chronic infections but is not indicated for mature septic adnexal masses. Gonovaccine therapy is related to gonococcal infection management.",
+            "past_paper": true
           }
         ],
         "Premalignant & Benign Cervical/Vaginal/Vulvar Disease": [
@@ -20165,6 +20489,42 @@
             "correct": 2,
             "explanation": "GnRH analogues cause preoperative shrinkage of fibroids by reducing their size and vascularity and may avoid hysterectomy in some cases. Iron therapy for anaemia is a standard part of medical management to restore haemoglobin levels before surgery. Anticoagulants are contraindicated in fibroid management as fibroids cause menorrhagia \u2014 anticoagulants would worsen bleeding. Copper and zinc electrophoresis is included in some clinical protocols for conservative management.",
             "past_paper": true
+          },
+          {
+            "question": "Urinary bladder dysfunction is most often observed in case of:",
+            "options": [
+              "Submucous uterine fibromyoma",
+              "Cervical fibromyoma",
+              "Interstitial myoma",
+              "Subserous myoma"
+            ],
+            "correct": 1,
+            "explanation": "Cervical fibromyoma is most associated with urinary bladder dysfunction because the urinary bladder lies directly anterior to the cervix and lower uterine segment. A fibroid arising from the cervix grows within the limited pelvic space, making compression of the bladder or urethra more likely \u2014 causing urinary frequency, urgency, or urinary retention. Submucous fibroids mainly cause menorrhagia and infertility. Interstitial fibroids mainly cause uterine enlargement and menstrual disturbances. Subserous fibroids can compress pelvic organs if large, but bladder dysfunction is less characteristically associated than with cervical fibroids.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is NOT an indication for surgical treatment of fibromyoma:",
+            "options": [
+              "Submucous fibroma",
+              "Long (more than 10 years) existence of fibromyoma",
+              "Tumour sizes larger than 12-week pregnancy",
+              "Rectum dysfunction"
+            ],
+            "correct": 1,
+            "explanation": "The duration of a fibroid alone (>10 years) is not a reason for surgery \u2014 many fibroids remain stable and asymptomatic for years and can be managed conservatively with observation. Surgical indications include: submucous fibroma (causes severe menorrhagia, infertility, and recurrent miscarriage); tumour size larger than 12-week pregnancy (large fibroids may cause pelvic pressure, compression of adjacent organs, and raise suspicion of rapid growth); and rectum dysfunction (fibroids compressing the rectum causing constipation are a recognised indication).",
+            "past_paper": true
+          },
+          {
+            "question": "The uterine fibromyoma most often occurs in:",
+            "options": [
+              "Round ligament",
+              "Corpus uteri",
+              "Broad ligament",
+              "Cervix"
+            ],
+            "correct": 1,
+            "explanation": "Uterine fibromyomas (leiomyomas) most commonly arise from the myometrium of the uterine body (corpus uteri), which contains the largest amount of myometrial tissue. Fibroids in this region may present as intramural (interstitial), submucous, or subserous tumours. Round ligament fibroids are very rare. Broad ligament fibroids are rare and usually represent parasitic or secondary fibroids. Cervical fibroids occur in only 1\u20132% of cases.",
+            "past_paper": true
           }
         ],
         "Endometrial & Uterine Pathology": [
@@ -20214,6 +20574,156 @@
             ],
             "correct": 3,
             "explanation": "Bimanual examination assesses position (anteverted/retroverted), size (estimated in weeks), and mobility (restricted mobility suggests endometriosis, adhesions, or malignancy). The condition of the endometrium CANNOT be assessed by palpation \u2014 it requires ultrasound, endometrial biopsy, or hysteroscopy.",
+            "past_paper": true
+          },
+          {
+            "question": "The main way of metastasis during endometrium cancer is:",
+            "options": [
+              "Haematogenic",
+              "Lymphogenous",
+              "Implantation",
+              "Contact"
+            ],
+            "correct": 1,
+            "explanation": "Endometrial carcinoma commonly spreads through lymphatic channels \u2014 from the uterus to pelvic lymph nodes and then para-aortic lymph nodes. Lymphatic dissemination is the main pathway. Haematogenic spread occurs later, commonly to lungs, liver, and bones. Implantation spread within the peritoneal cavity may occur in advanced cases. Direct contact extension to adjacent structures may occur but is not the main metastatic route.",
+            "past_paper": true
+          },
+          {
+            "question": "The prophylaxis of endometrium cancer development is:",
+            "options": [
+              "Elimination of ovulation disorders",
+              "Timely treatment of diabetes, obesity, and hypertensive disease",
+              "Use of hormonal contraception",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All three measures prevent endometrial cancer. Elimination of ovulation disorders: chronic anovulation leads to prolonged unopposed oestrogen stimulation promoting endometrial hyperplasia and carcinoma. Timely treatment of diabetes, obesity, and hypertensive disease: obesity increases peripheral androgen-to-oestrogen conversion via aromatase; these metabolic disorders are well-known risk factors. Use of hormonal contraception: combined OC pills contain progesterone which counteracts oestrogen stimulation and has a long-term protective effect.",
+            "past_paper": true
+          },
+          {
+            "question": "It is possible to detect hyperplastic processes and endometrium cancer on the basis of: 1. Cytological examination of aspirate from uterine cavity  2. Hysterosalpingography  3. Hysteroscopy  4. Separate diagnostic curettage of uterus",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods can detect endometrial hyperplasia and carcinoma. Cytological examination of uterine aspirate can detect abnormal or malignant endometrial cells. HSG may show irregular filling defects or distortion of the uterine cavity. Hysteroscopy allows direct visualisation with identification of suspicious areas for targeted biopsy. Separate (fractional) diagnostic curettage provides tissue for histopathological examination and is the definitive diagnostic method.",
+            "past_paper": true
+          },
+          {
+            "question": "The main symptoms of endometrium cancer are: 1. Bloody discharge in menopause  2. Acyclic bleeding in reproductive age  3. Pains in the lower abdomen  4. Mucous discharge from genital tract",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned"
+            ],
+            "correct": 2,
+            "explanation": "All four are symptoms of endometrial carcinoma. Postmenopausal bleeding is the most important and common symptom \u2014 any bleeding after menopause must be considered malignant until proven otherwise. In premenopausal women, acyclic (irregular or intermenstrual) bleeding is a presenting feature. Pelvic/lower abdominal pain usually appears in advanced disease. Mucous or serosanguineous vaginal discharge may also be present.",
+            "past_paper": true
+          },
+          {
+            "question": "The methods of treatment of endometrium cancer are: 1. Combined  2. Surgical  3. Radiation  4. Hormonal",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four modalities are used in endometrial cancer management. Combined treatment (surgery + radiotherapy, surgery + hormonal therapy, or surgery + chemotherapy) improves outcomes. Surgical treatment (total hysterectomy, bilateral salpingo-oophorectomy, sometimes lymph node dissection) is the main treatment. Radiotherapy is used as adjuvant therapy after surgery or as primary treatment in inoperable patients. Hormonal therapy (progestins) is used in early-stage disease in young women, advanced or recurrent cases, and hormone-sensitive tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "The female diseases bringing to hyperoestrogeny are: 1. Obesity  2. Hepatocirrhosis  3. Pancreatitis  4. Gastritis",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All",
+              "4 only"
+            ],
+            "correct": 1,
+            "explanation": "Obesity and hepatocirrhosis cause hyperoestrogeny. Adipose tissue contains aromatase which converts androgens to oestrogens \u2014 obese women have increased peripheral oestrogen production. The liver normally metabolises oestrogens; in cirrhosis, oestrogen breakdown is impaired causing accumulation. Pancreatitis does not influence oestrogen metabolism. Gastritis is a gastrointestinal inflammatory condition and has no effect on oestrogen levels.",
+            "past_paper": true
+          },
+          {
+            "question": "The hyperplastic processes and endometrium cancer most often develop on the background of: 1. Anovulation  2. Obesity  3. Diabetes  4. Hypertonic disease",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four conditions create a hyperoestrogenaemic environment promoting endometrial hyperplasia and carcinoma. Anovulation: no progesterone produced, resulting in prolonged unopposed oestrogen stimulation. Obesity: aromatase in adipose tissue increases circulating oestrogen levels. Diabetes: associated with metabolic syndrome and obesity, contributing to hormonal imbalance. Hypertension: part of the classic metabolic triad (obesity, diabetes, hypertension) associated with endometrial cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "The following refers to endometrium precancer: 1. Adenomatous polyp  2. Atypical hyperplasia  3. Recurrent glandular hyperplasia in climacteric period  4. Atrophic endometrium",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "Adenomatous polyps may contain proliferative glands with atypia and may undergo malignant transformation. Atypical hyperplasia is the most significant precancerous endometrial lesion showing architectural glandular proliferation with cellular atypia. Recurrent glandular hyperplasia in the climacteric period indicates persistent oestrogen stimulation with increasing risk of malignant transformation. Atrophic endometrium is a degenerative post-menopausal condition and does not represent a precancerous process.",
+            "past_paper": true
+          },
+          {
+            "question": "The volume of radical surgical interference during endometrium cancer is: 1. Total hysterectomy with adnexa  2. Hysterectomy with adnexa  3. Hysterectomy without adnexa  4. Subtotal hysterectomy",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 1,
+            "explanation": "The standard radical surgical treatment for endometrial cancer is total hysterectomy with bilateral salpingo-oophorectomy. Both options 1 and 2 describe this same procedure. Hysterectomy without adnexa is not radical enough because the ovaries may contain metastases and produce oestrogens that can stimulate tumour growth. Subtotal hysterectomy retains the cervix, which is not appropriate for malignant disease.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical presentations of hyperplastic processes among women of reproductive age are:",
+            "options": [
+              "Acyclic bleedings",
+              "Premenstrual spotting",
+              "Menorrhagia",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "All three bleeding patterns occur in endometrial hyperplastic processes due to prolonged unopposed oestrogen stimulation. Acyclic bleedings: endometrial hyperplasia causes irregular intermenstrual uterine bleeding. Premenstrual spotting: hormonal imbalance and uneven endometrial shedding. Menorrhagia: hyperplastic endometrium becomes thick and unstable, resulting in heavy and prolonged menstrual bleeding.",
+            "past_paper": true
+          },
+          {
+            "question": "Is the bloody discharge in menopause always the result of endometrium cancer?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "correct": 1,
+            "explanation": "Postmenopausal bleeding must always be investigated but is not always caused by endometrial cancer. Common causes include endometrial atrophy (most common cause), endometrial hyperplasia, endometrial polyps, hormonal therapy effects, inflammatory conditions, and endometrial carcinoma. Any postmenopausal bleeding must always be evaluated because endometrial carcinoma is an important possible cause.",
+            "past_paper": true
+          },
+          {
+            "question": "Is the separate diagnostic curettage necessary in case of spotting in the period of menopause?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "correct": 0,
+            "explanation": "Any bleeding or spotting after menopause requires investigation. Fractional curettage (separate diagnostic curettage) \u2014 involving endocervical curettage followed by endometrial curettage \u2014 allows collection of tissue samples for histological examination to rule out endometrial hyperplasia, polyps, or carcinoma. Because endometrial carcinoma may present with minimal spotting, histological evaluation is mandatory.",
+            "past_paper": true
+          },
+          {
+            "question": "Do the adenomatous polyps refer to precancerous conditions of the endometrium?",
+            "options": [
+              "Yes",
+              "No",
+              "Not always"
+            ],
+            "correct": 0,
+            "explanation": "Adenomatous (glandular) polyps of the endometrium are considered precancerous lesions, particularly when cellular atypia is present. They contain proliferative endometrial glands with varying degrees of atypia and may progress to endometrial carcinoma, especially in postmenopausal women, those with hyperoestrogenaemia, and when polyps are large or multiple. They reflect excess oestrogen stimulation leading to glandular proliferation and potential malignant transformation.",
             "past_paper": true
           }
         ],
@@ -20347,6 +20857,76 @@
             ],
             "correct": 3,
             "explanation": "All listed factors confer risk for ovarian tumours. Menstrual dysfunction (including PCOS with chronic anovulation) and primary infertility (low parity) increase risk of both borderline and malignant tumours. Uterine myoma and endometriosis frequently coexist and share hormonal risk factors; endometriosis is directly linked to endometrioid ovarian tumours. White race has higher incidence of epithelial ovarian cancer (high incidence in the West). Black/Afro-American race has a threefold higher incidence of malignant germ cell tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment of patients with benign ovarian tumours: 1. Radiation  2. Hormonal  3. Antibacterial  4. Observation is possible",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 3,
+            "explanation": "Treatment for benign ovarian tumours is primarily surgical, but for some functional cysts, expectant observation with periodic ultrasound follow-up is appropriate as they may resolve spontaneously. Radiotherapy is not used for benign ovarian tumours. Hormonal treatment does not treat established benign ovarian tumours. Antibacterial therapy is used for infectious pelvic diseases, not for benign ovarian tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "The following refers to neoplastic processes in ovaries: 1. Follicular cyst  2. Corpus luteum cyst  3. Endometriosis  4. Dermoid cyst",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 3,
+            "explanation": "Dermoid cyst (mature cystic teratoma) is a true benign ovarian tumour arising from germ cells, containing tissues such as hair, teeth, and sebaceous material \u2014 a true neoplastic process. Follicular cysts are functional ovarian cysts caused by failure of follicle rupture \u2014 non-neoplastic. Corpus luteum cysts result from haemorrhage or persistence of the corpus luteum \u2014 functional, non-neoplastic. Ovarian endometriosis (endometrioma) is a metaplastic condition, not a true tumour.",
+            "past_paper": true
+          },
+          {
+            "question": "Most often the following is met among benign ovarian tumours:",
+            "options": [
+              "Mature teratoma",
+              "Serous and mucinous cystomas",
+              "Fibroma",
+              "Thecoma"
+            ],
+            "correct": 1,
+            "explanation": "Serous and mucinous cystadenomas (cystomas) are the most commonly encountered benign ovarian tumours, arising from the surface coelomic epithelium and constituting the majority of benign epithelial ovarian tumours. Mature cystic teratoma is common especially in young women, but overall less frequent than epithelial cystadenomas. Fibroma and thecoma are benign stromal tumours that occur much less frequently.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is indicated in case of detection of corpus luteum cyst:",
+            "options": [
+              "Surgical treatment",
+              "Physiotherapeutic treatment",
+              "Chemotherapy",
+              "Observation"
+            ],
+            "correct": 3,
+            "explanation": "A corpus luteum cyst most often regresses spontaneously within 1\u20132 menstrual cycles, therefore the preferred initial management is expectant observation with clinical follow-up and repeat ultrasound monitoring. Surgery is indicated only if complications occur such as torsion, rupture with internal bleeding, or a persistent or suspicious mass. Physiotherapy has no role. Chemotherapy is used only for malignant tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "Can the corpus luteum cyst be observed during pregnancy?",
+            "options": [
+              "Yes",
+              "No",
+              "Can be observed only in case of ectopic pregnancy"
+            ],
+            "correct": 0,
+            "explanation": "The corpus luteum persists during early pregnancy and may form a corpus luteum cyst. During pregnancy, hCG from the trophoblast stimulates the corpus luteum causing it to persist and sometimes enlarge. It is commonly detected on ultrasound, is usually physiological, and regresses spontaneously after placental progesterone production begins at around 10\u201312 weeks of gestation. Corpus luteum cysts can occur in both normal intrauterine and ectopic pregnancies.",
+            "past_paper": true
+          },
+          {
+            "question": "The most common type of benign breast tumour is:",
+            "options": [
+              "Lipoma",
+              "Fibroadenoma",
+              "Adenoma"
+            ],
+            "correct": 1,
+            "explanation": "Fibroadenoma is the most frequent benign tumour of the breast, especially in young women aged 15\u201335 years. It is a fibroepithelial tumour presenting as a firm, well-circumscribed, mobile mass (often called a 'breast mouse') that is usually painless and slow-growing. Lipoma is a benign tumour of adipose tissue but is much less common in the breast. Breast adenomas are rare benign glandular tumours and occur far less frequently than fibroadenomas.",
             "past_paper": true
           }
         ],
@@ -20517,6 +21097,292 @@
             ],
             "correct": 3,
             "explanation": "Heavy (Stage IV) endometriosis is characterised by all listed features. Debilitating chronic pelvic pain and severe dysmenorrhoea (grinding, colicky pain intensifying before menstruation). Bloody stool (melaena) from rectal/sigmoid involvement. Menorrhagia (long heavy discharge) as a manifestation of menstrual irregularity. Infertility (30\u201340% incidence) from dense peritubal and periovarian adhesions restricting reproductive organ mobility.",
+            "past_paper": true
+          },
+          {
+            "question": "Most characteristic sign of endometriosis is:",
+            "options": [
+              "Dysmenorrhoea",
+              "Infertility",
+              "Irregular menstrual cycle",
+              "Miscarriage"
+            ],
+            "correct": 0,
+            "explanation": "Dysmenorrhoea is the most characteristic clinical feature of endometriosis \u2014 classically congestive, starting a few days before menstruation and progressively worsening. Ectopic endometrial tissue bleeds during menstruation causing inflammation and prostaglandin release. Infertility occurs in 30\u201340% of cases but is not the most characteristic symptom. Irregular menstrual cycle and miscarriage are not classical hallmark features.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometriosis:",
+            "options": [
+              "Is a true tumor",
+              "Is a virus disease",
+              "Can be genital and extragenital",
+              "Duration as a rule without pain"
+            ],
+            "correct": 2,
+            "explanation": "Endometriosis occurs in both pelvic (genital) and distant (extragenital) sites. Genital sites include ovary (most common), pouch of Douglas, uterosacral ligaments, fallopian tubes, and pelvic peritoneum. Extragenital sites include appendix, intestine, umbilicus, surgical scars, and lungs. It is not a true neoplasm. The aetiology involves retrograde menstruation, coelomic metaplasia, and immunological factors, not viral infection. Pain, especially dysmenorrhoea, is a major symptom.",
+            "past_paper": true
+          },
+          {
+            "question": "Ovarian endometriosis regards to:",
+            "options": [
+              "External endometriosis",
+              "Internal endometriosis",
+              "Extragenital endometriosis"
+            ],
+            "correct": 0,
+            "explanation": "External endometriosis refers to endometrial tissue outside the uterus in the pelvis or other genital sites. The ovary is the most common site, forming endometriomas (chocolate cysts). Internal endometriosis (adenomyosis) refers specifically to endometrial tissue within the uterine myometrium. Extragenital endometriosis refers to sites entirely outside the genital tract (umbilicus, lung, intestine, surgical scars). Since the ovary is a genital structure, ovarian endometriosis is external, not extragenital.",
+            "past_paper": true
+          },
+          {
+            "question": "The most frequently occurring endometriosis is:",
+            "options": [
+              "Ovary",
+              "Fallopian tube",
+              "Vagina",
+              "Uterus"
+            ],
+            "correct": 0,
+            "explanation": "The ovary is the commonest site of endometriosis, forming chocolate cysts (endometriomas). It is followed by the pouch of Douglas and uterosacral ligaments. Fallopian tube involvement is less common. Vaginal endometriosis is rare. When endometrial tissue is in the uterine myometrium it is called adenomyosis (internal endometriosis), a separate entity.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment for endometriosis is:",
+            "options": [
+              "Surgical",
+              "Hormonal therapy",
+              "Physiotherapy",
+              "A and B are correct"
+            ],
+            "correct": 3,
+            "explanation": "Treatment of endometriosis includes both surgical and hormonal therapy. Surgical treatment is used for severe pain, associated infertility, large endometriomas, or failed medical therapy. Hormonal therapy (combined OC pills, progestogens, GnRH agonists, danazol) suppresses ovarian hormone production and induces atrophy of ectopic endometrium. Physiotherapy is not a standard treatment for endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following is NOT a synonym of endometriosis?",
+            "options": [
+              "Endometrioid heterotopia",
+              "Adenomyosis",
+              "Adenomatous hyperplasia",
+              "Chocolate cyst of the ovary"
+            ],
+            "correct": 2,
+            "explanation": "Adenomatous hyperplasia refers to endometrial hyperplasia \u2014 a precancerous condition of the endometrium due to excess oestrogen stimulation. It is not related to ectopic endometrial tissue and is therefore not a synonym of endometriosis. Endometrioid heterotopia describes endometrial tissue outside the uterus. Adenomyosis is historically used interchangeably with internal endometriosis. Chocolate cyst of the ovary is a manifestation of ovarian endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Which method should be used for diagnosis of early forms of external genital endometriosis?",
+            "options": [
+              "Hysteroscopy",
+              "Laparoscopy",
+              "Hysterosalpingography",
+              "Fractional diagnostic curettage"
+            ],
+            "correct": 1,
+            "explanation": "Laparoscopy is the gold standard for diagnosing endometriosis, especially early lesions. It allows direct visualisation of pelvic endometriotic implants and biopsy for histological confirmation. Hysteroscopy examines the uterine cavity only. HSG is used for tubal patency evaluation and cannot detect early endometriotic implants. Fractional curettage is used for endometrial pathology, not endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "The term adenomyosis is used:",
+            "options": [
+              "In all cases of endometriosis irrespective of localisation",
+              "Only with focal growth of endometrial tissue in internal layer of uterus",
+              "In case of endometriosis associated with cyst development",
+              "Only in cases when invasion of myometrium is associated with muscular hyperplasia"
+            ],
+            "correct": 3,
+            "explanation": "Adenomyosis (internal endometriosis) is defined as endometrial glands and stroma invading the myometrium, characteristically associated with hypertrophy and hyperplasia of the surrounding uterine muscle. It leads to an enlarged uterus, dysmenorrhoea, and menorrhagia. Myometrial invasion with surrounding muscular hyperplasia is the defining feature. Endometriosis associated with cysts refers to ovarian endometrioma, not adenomyosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Definition of the term endometriosis: a) Dishormonal hyperplasia of ectopic endometrium  b) Tumor process  c) Benign growth of tissue morphologically and functionally similar to endometrium",
+            "options": [
+              "a only",
+              "b only",
+              "c only",
+              "a and c are true"
+            ],
+            "correct": 3,
+            "explanation": "Endometriosis is hormone-dependent (ectopic endometrial tissue responds to cyclical ovarian hormones leading to proliferation and bleeding). The ectopic tissue resembles normal endometrium both structurally and functionally and undergoes cyclic changes. Endometriosis is NOT a true neoplasm \u2014 it is a benign ectopic growth, although it may form tumour-like lesions such as ovarian endometriomas.",
+            "past_paper": true
+          },
+          {
+            "question": "Obvious algomenorrhoea among patients with internal endometriosis of uterus corpus is closely connected with:",
+            "options": [
+              "The spread of endometriosis",
+              "The age of the woman",
+              "The presence of extragenital pathology",
+              "All of the above mentioned"
+            ],
+            "correct": 0,
+            "explanation": "In adenomyosis, the severity of algomenorrhoea (dysmenorrhoea) correlates with the extent and depth of endometriotic invasion of the myometrium. As the depth and spread of invasion increases, there is more cyclic bleeding inside the uterine muscle, increased myometrial pressure, and greater prostaglandin release, resulting in more severe pain. Age may influence incidence but does not directly determine severity.",
+            "past_paper": true
+          },
+          {
+            "question": "Evident pain is observed in all mentioned localisations of genital endometriosis, EXCEPT:",
+            "options": [
+              "Isthmico-cervical part of the uterus",
+              "Ovaries",
+              "Cervix",
+              "Uterine tubes"
+            ],
+            "correct": 2,
+            "explanation": "Cervical endometriosis is usually painless because the cervix has fewer sensory nerve endings \u2014 it may present with postcoital bleeding or intermenstrual spotting. All other listed sites cause significant pain: the isthmico-cervical part (severe dysmenorrhoea), ovaries (chronic pelvic pain, dysmenorrhoea, dyspareunia from endometriomas), and uterine tubes (pelvic pain and infertility from inflammation and adhesions).",
+            "past_paper": true
+          },
+          {
+            "question": "Which of the following is the localisation of internal genital endometriosis? 1. Ovary  2. Fallopian tube  3. Serosa of rectum and sigmoid colon  4. Uterosacral, round, broad ligaments",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All the above mentioned",
+              "None of the mentioned"
+            ],
+            "correct": 3,
+            "explanation": "Internal genital endometriosis refers specifically to adenomyosis \u2014 endometrial glands and stroma within the uterine myometrium. None of the listed structures represent internal endometriosis. The ovary and fallopian tube are sites of external genital endometriosis. The serosa of the rectum represents extragenital endometriosis. Uterosacral, round, and broad ligaments are pelvic peritoneal sites of external genital endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristic signs of internal genital endometriosis are: 1. Development of significant pelvic adhesions  2. Development of large cysts (5\u20136 cm)  3. Muscular fibre atrophy surrounding endometriotic foci  4. Absence of menstrual cycle disorders",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All the above mentioned",
+              "None of the above"
+            ],
+            "correct": 3,
+            "explanation": "None of the listed options are characteristic of adenomyosis. Significant pelvic adhesions are characteristic of external endometriosis, not adenomyosis. Large cysts occur in ovarian endometriosis. In adenomyosis the surrounding myometrial muscle undergoes hypertrophy and hyperplasia \u2014 not atrophy. Adenomyosis typically causes menorrhagia, dysmenorrhoea, and chronic pelvic pain \u2014 menstrual disorders are present, not absent.",
+            "past_paper": true
+          },
+          {
+            "question": "What is the most useful method of diagnosing endometriosis of the corpus of the uterus (adenomyosis)? 1. Hysterosalpingography  2. Ultrasound examination  3. Hysteroscopy  4. Computer tomography",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All the above mentioned",
+              "4 only"
+            ],
+            "correct": 0,
+            "explanation": "HSG can show contrast penetrating myometrial glands producing a honeycomb/sawtooth irregularity. Transvaginal ultrasound is the most practical first-line method showing enlarged uterus, heterogeneous myometrium, myometrial cysts, and fan-shaped shadowing. Hysteroscopy can detect openings of endometrioid tracts and strawberry-like endometrium, and excludes polyps/hyperplasia. CT lacks the resolution to visualise myometrial structural changes and is not routinely used for adenomyosis.",
+            "past_paper": true
+          },
+          {
+            "question": "The following method of examination should be done for diagnosing cervical endometriosis: 1. Colposcopy  2. Biopsy of uterine cervix  3. Hysteroscopy  4. Diagnostic curettage of cervical canal",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All the above mentioned",
+              "4 only"
+            ],
+            "correct": 1,
+            "explanation": "Colposcopy allows magnified visualisation of the cervix, identifying cervical endometriosis as bluish, reddish, or dark spots. Cervical biopsy provides definitive histological confirmation \u2014 demonstrating endometrial glands and stroma in cervical tissue. Hysteroscopy examines the uterine cavity and is not useful for cervical surface endometriosis. Diagnostic curettage of the cervical canal is used for endocervical pathology, not for diagnosing cervical endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Cervical endometriosis should be differentiated from: 1. Cervical cancer  2. Endocervicitis  3. Erythroplakia  4. Pseudoerosion",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All the above mentioned",
+              "4 only"
+            ],
+            "correct": 2,
+            "explanation": "Cervical endometriosis presents as bluish-red or dark haemorrhagic spots that may bleed during menstruation and must be differentiated from all four conditions. Cervical cancer: irregular/ulcerated lesions may resemble malignancy \u2014 biopsy required to exclude carcinoma. Endocervicitis: red, oedematous areas with contact bleeding. Erythroplakia: bright red patches due to epithelial thinning. Pseudoerosion (cervical ectropion): exposure of columnar epithelium producing red areas similar to endometriotic spots.",
+            "past_paper": true
+          },
+          {
+            "question": "Essential problems in treatment of patients with genital endometriosis: 1. Hormonal suppression of clinically active endometriosis  2. Cure of pelvic adhesion process  3. Normalisation of reproductive function  4. Normalisation of psycho-neurological reaction",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All above mentioned",
+              "4 only"
+            ],
+            "correct": 2,
+            "explanation": "Treatment of genital endometriosis must address all four objectives. Hormonal suppression induces atrophy of ectopic endometrial tissue. Treating pelvic adhesion complications via surgical adhesiolysis and removal of endometriotic lesions. Normalisation of reproductive function addresses the 30\u201340% infertility rate through surgical correction, ovulation induction, or ART. Normalisation of psycho-neurological reactions addresses the psychological stress, anxiety, and depression from chronic pelvic pain and infertility.",
+            "past_paper": true
+          },
+          {
+            "question": "Cervical endometriosis occurs after:",
+            "options": [
+              "Abortion",
+              "Diathermocoagulation of cervix of the uterus",
+              "Hysterosalpingography",
+              "All mentioned are true"
+            ],
+            "correct": 3,
+            "explanation": "Cervical endometriosis develops after trauma or procedures involving the cervix that allow implantation of endometrial cells on the cervical surface. After abortion: D&C causes mechanical trauma allowing endometrial cells to implant on injured cervical tissue. After diathermocoagulation: cauterisation damages cervical epithelium, and during healing endometrial tissue may implant. After HSG: endometrial cells may be displaced toward the cervical canal, and mechanical irritation facilitates implantation.",
+            "past_paper": true
+          },
+          {
+            "question": "All mentioned are characteristic for adenomyosis, EXCEPT:",
+            "options": [
+              "Muscular hyperplasia",
+              "Proportional enlargement of uterus before menstruation",
+              "Irregular enlargement of uterus before menstruation",
+              "Development of firm nodes in myometrium surrounded by capsule"
+            ],
+            "correct": 3,
+            "explanation": "Encapsulated firm nodules surrounded by a capsule are typical of uterine fibroids (leiomyomas), not adenomyosis. Adenomyosis produces diffuse infiltration of the myometrium without encapsulation. Muscular hyperplasia (hypertrophy of surrounding myometrial muscle fibres) is characteristic. Proportional and irregular enlargement of the uterus before menstruation are both characteristic of adenomyosis from cyclic bleeding in ectopic tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Following clinical symptoms are characteristic for endometrioid cyst of ovary: a) Acute pain with acute abdomen syndrome  b) Progressive algomenorrhoea  c) Dysfunction of intestines and urinary bladder",
+            "options": [
+              "a and b are true",
+              "b and c are true",
+              "a and c are true",
+              "All the mentioned symptoms are true"
+            ],
+            "correct": 3,
+            "explanation": "All three symptoms may occur with ovarian endometrioid cysts. Acute pain with acute abdomen occurs when the cyst ruptures or undergoes torsion. Progressive algomenorrhoea (worsening dysmenorrhoea) is one of the most typical symptoms, from cyclic bleeding in endometriotic tissue, prostaglandin release, and adhesions. Dysfunction of intestines and urinary bladder occurs when large endometriomas or pelvic adhesions compress adjacent organs, causing painful defecation, constipation, urinary frequency, or dysuria.",
+            "past_paper": true
+          },
+          {
+            "question": "Endometrioid cyst of ovary should be differentiated from:",
+            "options": [
+              "Adnexitis",
+              "Ovarian cystoma",
+              "Subserous myoma",
+              "All the above mentioned"
+            ],
+            "correct": 3,
+            "explanation": "Ovarian endometrioid cysts must be differentiated from all three conditions. Adnexitis (salpingo-oophoritis): chronic PID can present with pelvic pain, adnexal tenderness, and inflammatory mass mimicking endometrioma. Ovarian cystoma: serous or mucinous cystadenoma also presents as ovarian cystic masses. Subserous myoma: a subserous uterine fibroid projecting outward from the uterus may be mistaken for an ovarian mass during pelvic examination or imaging.",
+            "past_paper": true
+          },
+          {
+            "question": "Influence of pregnancy on endometriosis development: a) Enlargement of endometrioid heterotopia during first 2\u20133 months, after which regression  b) Greater regression during postpartum period among lactating women  c) Activation of endometriosis throughout all period of pregnancy",
+            "options": [
+              "a only",
+              "b only",
+              "a and b are true",
+              "All the above mentioned"
+            ],
+            "correct": 2,
+            "explanation": "In early pregnancy, decidual changes in endometriotic implants may cause temporary enlargement in the first 2\u20133 months. Later, due to high progesterone levels and anovulation, endometriotic tissue undergoes atrophy and regression. During lactation, prolactin suppresses ovulation and oestrogen production, further promoting regression. Activation of endometriosis throughout the entire pregnancy is incorrect \u2014 pregnancy generally suppresses endometriosis.",
+            "past_paper": true
+          },
+          {
+            "question": "Characteristic clinical signs of internal endometriosis of the uterus are: 1. Infertility  2. Spotting before and after menstruation  3. Hyperpolymenorrhoea  4. Secondary anaemia",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "All above mentioned",
+              "None of the mentioned"
+            ],
+            "correct": 2,
+            "explanation": "All four features are characteristic of adenomyosis (internal endometriosis). Infertility: adenomyosis can interfere with implantation and uterine contractility. Spotting before and after menstruation: ectopic endometrial tissue within the myometrium bleeds cyclically. Hyperpolymenorrhoea: adenomyosis commonly causes heavy and prolonged menstrual bleeding from increased endometrial surface area and myometrial dysfunction. Secondary anaemia: chronic heavy menstrual blood loss leads to iron-deficiency anaemia.",
+            "past_paper": true
+          },
+          {
+            "question": "At what time is it normal to perform daily measurement of basal body temperature?",
+            "options": [
+              "In the morning, just after waking up",
+              "In the morning, after defecation and urination",
+              "Any time of the day"
+            ],
+            "correct": 0,
+            "explanation": "Basal body temperature (BBT) must be measured immediately after waking, before getting out of bed, before eating, urinating, or any activity. This ensures the reading reflects the true basal metabolic state. Physical activity such as walking to the bathroom can increase temperature and make the reading inaccurate. Body temperature varies throughout the day due to activity, food intake, and circadian rhythm. BBT rises by ~0.3\u20130.5\u00b0C after ovulation due to progesterone.",
             "past_paper": true
           }
         ],
@@ -20735,6 +21601,160 @@
             "correct": 2,
             "explanation": "During the fertile period (surrounding ovulation), oestrogen (oestradiol) rises significantly, peaking at 300\u2013600 mcg about 48 hours before ovulation (rising from 100\u2013200 pg/mL in the follicular phase to 300\u2013500 pg/mL at ovulation). This oestrogen surge triggers the LH surge and renders cervical mucus thin, profuse, and alkaline for sperm penetration. Progesterone remains low (~1 ng/mL) until after ovulation when the corpus luteum forms.",
             "past_paper": true
+          },
+          {
+            "question": "Point out a postcoital oral contraceptive:",
+            "options": [
+              "Denovis",
+              "Postinor",
+              "Gynophase"
+            ],
+            "correct": 1,
+            "explanation": "Postinor contains levonorgestrel, a progestin used for emergency (postcoital) contraception. It works by inhibiting or delaying ovulation, altering cervical mucus, and preventing fertilisation and implantation. It is taken within 72 hours of intercourse. Emergency contraceptive options include levonorgestrel (Postinor), ulipristal acetate, the combined oestrogen-progestin Yuzpe method, and copper IUCD (most effective if within 5 days). Denovis and Gynophase are combined oral contraceptive pills used for regular contraception, not specifically for postcoital use.",
+            "past_paper": true
+          },
+          {
+            "question": "Infertility refers to couple's inability to conception. It can also include:",
+            "options": [
+              "Women's disability for carrying of pregnancy",
+              "Both conception inability and carrying inability",
+              "None of the mentioned"
+            ],
+            "correct": 1,
+            "explanation": "Infertility refers to the inability of a couple to conceive after 1 year of regular unprotected sexual intercourse. This problem may arise due to female factors (~40%: ovulatory disorders, tubal blockage, uterine abnormalities, endometriosis), male factors (~40%: low sperm count, poor motility, abnormal morphology), combined causes (~10\u201320%), or unexplained infertility. Therefore infertility can involve both conception inability and carriage inability in a broader clinical sense.",
+            "past_paper": true
+          },
+          {
+            "question": "The spermatozoon penetrates into the uterine cavity in ........... after intercourse:",
+            "options": [
+              "5 minutes",
+              "10\u201315 minutes",
+              "30\u201360 minutes",
+              "2\u20133 hours"
+            ],
+            "correct": 0,
+            "explanation": "After ejaculation in the vagina, spermatozoa rapidly migrate through the cervix and uterine cavity due to sperm motility, uterine contractions stimulated by prostaglandins in semen, and cervical mucus channels (especially during ovulation). Sperm can reach the uterine cavity within about 5 minutes after intercourse. Note the distinction: sperm reach the uterine cavity at ~5 minutes, but reach the fallopian tubes and abdominal cavity at 30\u201360 minutes.",
+            "past_paper": true
+          },
+          {
+            "question": "The spermatozoon can retain the moving ability in the crypts of the cervical canal during:",
+            "options": [
+              "6\u201312 hours",
+              "24\u201348 hours",
+              "3\u20135 days",
+              "10 days"
+            ],
+            "correct": 2,
+            "explanation": "After ejaculation, spermatozoa stored in the crypts of the cervical canal can remain viable and motile for 3\u20135 days. The cervical mucus (especially during the ovulatory phase) provides nutrients, protection from vaginal acidity, and channels that allow sperm survival. Under favourable conditions, sperm retain motility and fertilising ability for about 3\u20135 days in the female genital tract. This is distinct from their fertilising capacity once in the uterus and tubes, which is considered 24\u201348 hours. Ovum survival after ovulation is ~12\u201324 hours.",
+            "past_paper": true
+          },
+          {
+            "question": "After getting into the uterus and tubes, the spermatozoa retain the possibility of insemination during:",
+            "options": [
+              "6\u201312 hours",
+              "24\u201348 hours",
+              "3\u20135 days",
+              "10 days"
+            ],
+            "correct": 1,
+            "explanation": "After spermatozoa enter the uterus and fallopian tubes, they undergo capacitation \u2014 a physiological process enabling the acrosome reaction necessary for ovum penetration. Once capacitated, sperm have a limited window of optimal fertilising ability of approximately 24\u201348 hours. While sperm may biologically survive in cervical crypts for up to 3\u20135 days, their effective fertilising capacity after reaching the uterus and tubes is 24\u201348 hours. This distinction between biological survival (3\u20135 days in cervical crypts) and fertilising capacity (24\u201348 hours after reaching the tubes) is important for exam purposes.",
+            "past_paper": true
+          },
+          {
+            "question": "During the revelation of ovarian hyperstimulation syndrome it is necessary to: 1. Stop the use of medicine that stimulates ovulation  2. Ensure physical and psycho-emotional rest  3. Replace the medicine stimulating ovulation  4. Urgent laparotomy, removal or resection of abnormal ovary",
+            "options": [
+              "1 and 2",
+              "1 and 3",
+              "3 and 4",
+              "All four"
+            ],
+            "correct": 0,
+            "explanation": "Ovarian hyperstimulation syndrome (OHSS) is a complication of ovulation-induction therapy (e.g. gonadotropins, clomiphene). Management is mainly conservative in mild-moderate cases. The first step is to discontinue ovulation-stimulating drugs to prevent further ovarian enlargement. Bed rest, monitoring, fluid balance, and supportive care help reduce complications such as ovarian torsion and fluid imbalance. Replacing stimulating drugs is incorrect \u2014 they must be stopped, not substituted. Urgent laparotomy is not standard treatment for OHSS; surgery is only considered in rare acute complications such as ovarian torsion or rupture.",
+            "past_paper": true
+          },
+          {
+            "question": "The most common reasons of tubal infertility are: 1. Non-specific inflammatory diseases of uterine adnexa  2. Specific inflammatory diseases of uterine adnexa  3. Endometriosis of uterine tubes  4. Uterine tube malformations",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "2, 3, 4",
+              "All four"
+            ],
+            "correct": 0,
+            "explanation": "Tubal infertility results from damage or obstruction of the fallopian tubes. Non-specific inflammatory disease (PID from Chlamydia, Gonococcus, or mixed flora) is the most common cause, leading to adhesions, fibrosis, and tubal obstruction. Specific inflammatory diseases such as genital tuberculosis cause severe tubal damage and blockage. Endometriosis can cause adhesions and distortion of tubal anatomy, impairing ovum pickup and transport. Congenital uterine tube malformations are rare and therefore not a common cause. Tubal/peritoneal factors account for ~30\u201340% of female infertility.",
+            "past_paper": true
+          },
+          {
+            "question": "The most informative method of diagnosing minor forms of endometriosis is:",
+            "options": [
+              "Hysterosalpingography",
+              "Hysteroscopy",
+              "Kimopertubation",
+              "Laparoscopy"
+            ],
+            "correct": 3,
+            "explanation": "Laparoscopy is the gold standard for diagnosis of endometriosis, especially minor forms (minimal or mild). Small lesions, implants, or adhesions are not visible on imaging studies. Laparoscopy allows direct visualisation of pelvic organs and endometriotic implants, and biopsy can be taken for histological confirmation. Hysterosalpingography assesses uterine cavity and tubal patency but cannot reliably detect small endometriotic lesions. Hysteroscopy allows visualisation of the uterine cavity only; endometriosis occurs outside the cavity. Kimopertubation evaluates tubal patency by passing gas but does not detect endometriotic implants.",
+            "past_paper": true
+          },
+          {
+            "question": "Surgical treatment of tubal infertility is indicated: 1. In all cases if mechanical tubal infertility has been detected  2. In case of often recurring inflammatory processes in uterine adnexa  3. In case of detection of obstruction of one of the uterine tubes  4. In case of no effect from conservative treatment and persistent desire of the woman to have children",
+            "options": [
+              "1 and 2",
+              "3 and 4",
+              "2 and 3",
+              "4 only"
+            ],
+            "correct": 3,
+            "explanation": "Surgical treatment for tubal infertility is indicated only in selected situations. Surgery is not indicated in all cases of mechanical tubal infertility \u2014 in severe tubal damage, IVF is preferred. Active or recurrent inflammation is a contraindication to surgery as it worsens tubal damage and adhesion formation. Obstruction of one tube alone is generally not an indication for surgery if the other tube is patent and functional, as natural conception remains possible; surgery may be considered only if the blocked tube forms a hydrosalpinx or causes pain. The most appropriate indication is when conservative treatment fails and the patient strongly desires pregnancy. Common procedures include salpingolysis, fimbrioplasty, tuboplasty, and tubal recanalization.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is characteristic for Stein\u2013Leventhal syndrome: 1. Menstrual irregularities starting from menarche  2. Pathological hair growth 1.5\u20132 years after start of menstruation  3. Infertility  4. Normal development of mammary glands",
+            "options": [
+              "1, 2, 3 only",
+              "1, 3, 4 only",
+              "2, 3, 4 only",
+              "All four"
+            ],
+            "correct": 3,
+            "explanation": "Stein\u2013Leventhal syndrome (PCOS) is characterised by hyperandrogenism, chronic anovulation, and polycystic ovaries. Menstrual irregularities (oligomenorrhoea or amenorrhoea) starting from menarche are common due to chronic anovulation. Hirsutism (pathological hair growth) appears 1.5\u20132 years after menarche due to increased androgen levels. Infertility occurs from anovulation or irregular ovulation. Breast development is usually normal because oestrogen production is still present despite impaired ovulation. All four features are therefore characteristic of Stein\u2013Leventhal syndrome.",
+            "past_paper": true
+          },
+          {
+            "question": "The reasons of female infertility are: a. Inflammatory diseases of genitals  b. Infantilism and hypoplasia of genitals  c. Total debilitating diseases and intoxication",
+            "options": [
+              "a only",
+              "a and b only",
+              "b and c only",
+              "All the mentioned"
+            ],
+            "correct": 3,
+            "explanation": "Female infertility can result from multiple factors. Inflammatory diseases (PID, salpingitis, endometritis) lead to tubal obstruction, adhesions, and impaired ovum transport. Infantilism and hypoplasia of the genital organs (underdeveloped uterus, ovaries, or tubes) prevent normal ovulation, implantation, or pregnancy maintenance \u2014 hypoplastic fallopian tubes are also long, thin, and tortuous, predisposing to ectopic pregnancy. General debilitating diseases (tuberculosis, diabetes, renal disease), severe malnutrition, and toxic exposures (tobacco, alcohol, drugs, chemicals) disturb hormonal balance and ovulation. All three are major categories of female infertility.",
+            "past_paper": true
+          },
+          {
+            "question": "Tubal infertility may be conditioned with: a. Sclerotic changes in the muscular wall of the uterine tube  b. Uterine tube reception abnormality  c. Infantilism",
+            "options": [
+              "a and b only",
+              "b and c only",
+              "a and c only",
+              "All three"
+            ],
+            "correct": 3,
+            "explanation": "All three can cause tubal infertility. Sclerotic changes (fibrosis from chronic inflammation) impair tubal peristalsis and ovum transport. Uterine tube reception abnormality (impaired fimbrial function) prevents the ovum from entering the tube after ovulation. Infantilism \u2014 though often considered a uterine/endocrine cause \u2014 causes long, thin, narrow, and tortuous fallopian tubes with impaired peristalsis and ovum transport, predisposing to either infertility or ectopic pregnancy. All three mechanisms are therefore valid causes of tubal infertility.",
+            "past_paper": true
+          },
+          {
+            "question": "Factors conditioning tubal infertility during chronic salpingo-oophoritis are: 1. Stricture or obliteration of uterine tubes  2. Damage of ciliary epithelium of uterine tube mucous membrane  3. Development of peritubal commissures  4. Local hyperthermy",
+            "options": [
+              "1, 2, 3",
+              "1, 2",
+              "2, 3, 4",
+              "All four"
+            ],
+            "correct": 0,
+            "explanation": "Chronic salpingo-oophoritis leads to structural and functional tubal damage through three main mechanisms. Stricture or obliteration: chronic inflammation causes fibrosis and scarring, leading to narrowing or complete blockage of the tubes. Damage of ciliary epithelium: the ciliated epithelium normally moves the ovum toward the uterus \u2014 inflammation destroys these cilia, impairing ovum transport. Peritubal commissures (adhesions): inflammatory processes cause adhesions around the tubes, distorting their position and interfering with fimbrial ovum pickup. Local hyperthermy is not a primary mechanism of tubal infertility in chronic salpingo-oophoritis.",
+            "past_paper": true
           }
         ],
         "Trophoblastic Disease": [
@@ -20917,6 +21937,77 @@
             "correct": 2,
             "explanation": "Recognized complications of hydatidiform mole include: embolization (trophoblastic tissue entering circulation, pulmonary involvement), infection (retained molar tissue causing endometritis/sepsis), and hemorrhage (most common, from enlarged vascular uterus). Bowel perforation is NOT a complication \u2014 uterine perforation may occur in invasive mole, but bowel involvement is not typical.",
             "past_paper": true
+          },
+          {
+            "question": "For the patient with uterine choriocarcinoma the availability of lutein cysts influences the outcome:",
+            "options": [
+              "Favourably",
+              "Unfavourably",
+              "Doesn't have influence",
+              "Is not known"
+            ],
+            "correct": 1,
+            "explanation": "The presence of theca-lutein cysts in patients with uterine choriocarcinoma is associated with unfavourable prognosis. Lutein cysts develop due to excessive stimulation of the ovaries by very high levels of beta-hCG produced by the trophoblastic tumour. Their presence indicates high tumour activity, large tumour mass, and higher risk of metastasis. They are therefore considered a poor prognostic sign in gestational trophoblastic disease.",
+            "past_paper": true
+          },
+          {
+            "question": "Following methods are used in the diagnosis of trophoblastic disease: 1. Ultrasound  2. X-ray  3. Histological  4. Laboratory (detection of hCG)",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods are used in diagnosing gestational trophoblastic disease. Ultrasound: primary imaging method \u2014 in hydatidiform mole shows the snowstorm appearance with absence of a normal fetus in complete mole. X-ray: chest X-ray detects pulmonary metastases, common in malignant trophoblastic disease. Histological examination: of evacuated uterine tissue confirms the diagnosis and differentiates the specific type. Laboratory detection of beta-hCG: the most important laboratory test, used for diagnosis, monitoring treatment response, and detecting recurrence.",
+            "past_paper": true
+          },
+          {
+            "question": "Modern methods of treatment of patients with trophoblastic disease are: 1. Surgical  2. Chemotherapeutical  3. Radiation  4. Hormonal",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 1,
+            "explanation": "Treatment of gestational trophoblastic disease mainly involves surgery and chemotherapy. Surgical treatment: suction evacuation of the uterus for hydatidiform mole, or hysterectomy in selected patients. Chemotherapy: main treatment for malignant trophoblastic disease \u2014 methotrexate and actinomycin-D. Radiotherapy is not a standard treatment. Hormonal therapy has no role in the treatment of trophoblastic tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "The detection of which substance is most effective for trophoblastic disease diagnostics?",
+            "options": [
+              "Chorionic gonadotropin",
+              "Trophoblastic beta-globulin",
+              "Chorionic somatotropin",
+              "A and B are right"
+            ],
+            "correct": 0,
+            "explanation": "Beta-hCG (chorionic gonadotropin) is the key and most effective laboratory marker for trophoblastic disease \u2014 markedly elevated in hydatidiform mole and very high in choriocarcinoma. It is used for diagnosis, monitoring treatment response, and detecting recurrence. Trophoblastic beta-globulin is not routinely used or as sensitive as beta-hCG. Chorionic somatotropin (human placental lactogen) is produced by the placenta but is not useful for diagnosing trophoblastic tumours.",
+            "past_paper": true
+          },
+          {
+            "question": "The bilateral lutein cysts in case of hydatidiform mole require:",
+            "options": [
+              "Immediate surgical treatment",
+              "Observation",
+              "Hormonal treatment"
+            ],
+            "correct": 1,
+            "explanation": "Bilateral theca-lutein cysts associated with hydatidiform mole usually regress spontaneously after evacuation of the mole as beta-hCG levels fall, therefore observation is recommended. Surgical intervention is required only if complications occur (torsion or rupture). Hormonal therapy has no role in the management of lutein cysts associated with trophoblastic disease.",
+            "past_paper": true
+          },
+          {
+            "question": "After a spontaneous abortion at 14 weeks a 34-year-old patient has had bleeding for 3 months. Twice she has undergone uterine cavity curettage but with no effect. She began also coughing. The most probable diagnosis is:",
+            "options": [
+              "Dysfunctional uterine bleeding",
+              "Placental polyp",
+              "Chorionepithelioma",
+              "Chronic endometritis"
+            ],
+            "correct": 2,
+            "explanation": "The clinical presentation is classic for choriocarcinoma: history of a pregnancy event (spontaneous abortion at 14 weeks), persistent uterine bleeding for 3 months despite two curettages (curettage does not stop bleeding from choriocarcinoma), and new onset of cough (lung metastases \u2014 the most common metastatic site). The classic triad: persistent bleeding after pregnancy event, very high beta-hCG, and pulmonary symptoms from lung metastases. Placental polyp may cause persistent bleeding but usually improves after curettage and does not cause metastasis.",
+            "past_paper": true
           }
         ],
         "Diagnostic Methods": [
@@ -21085,6 +22176,109 @@
             ],
             "correct": 0,
             "explanation": "Gynaecological examination (careful history and bimanual examination palpating the uterus for size, shape, mobility, and adnexal pathology \u2014 many asymptomatic fibroids are first detected at check-up) and ultrasound (the first-line and gold standard imaging modality for pelvic pathology \u2014 easy, cost-effective, and capable of revealing unsuspected pathology) are the primary tools. X-ray has a minor role in modern gynaecological practice and is not a standard primary method for detecting benign tumours, though incidentally it may show a calcified fibroid.",
+            "past_paper": true
+          },
+          {
+            "question": "The followings are methods of treatment of patients suffering malignant tumours:",
+            "options": [
+              "Surgical",
+              "Radiation",
+              "Chemotherapy",
+              "Hormonal therapy",
+              "All the above mentioned"
+            ],
+            "correct": 4,
+            "explanation": "Management of malignant tumours involves multiple treatment modalities. Surgery: often the primary treatment for many gynaecological malignancies. Radiotherapy: used as primary treatment, adjuvant therapy after surgery, or palliative treatment. Chemotherapy: for advanced or metastatic cancers, gestational trophoblastic tumours, and adjuvant therapy. Hormonal therapy: for hormone-sensitive tumours such as endometrial or breast cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "Malignant tumour of mucous tissue is:",
+            "options": [
+              "Leiomyoma",
+              "Carcinoma",
+              "Osteosarcoma",
+              "Myosarcoma"
+            ],
+            "correct": 1,
+            "explanation": "Carcinoma is a malignant tumour arising from epithelial tissue, which includes mucous membranes, glandular epithelium, and surface epithelium. Examples include cervical carcinoma, endometrial carcinoma, and gastric carcinoma. Leiomyoma is a benign tumour of smooth muscle tissue. Osteosarcoma is a malignant tumour of bone-forming tissue. Myosarcoma is a malignant tumour of muscle tissue, not epithelial tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "The malignant tumour from connective tissue is:",
+            "options": [
+              "Sarcoma",
+              "Myosarcoma",
+              "Lymphosarcoma",
+              "Fibrolipoma"
+            ],
+            "correct": 0,
+            "explanation": "Sarcoma is the general term for malignant tumours originating from connective (mesenchymal) tissue, including fibrous tissue, bone, cartilage, muscle, and fat. Examples include osteosarcoma, fibrosarcoma, liposarcoma, and leiomyosarcoma. Myosarcoma is a specific subtype of sarcoma arising from muscle tissue. Lymphosarcoma is a malignant tumour of lymphoid tissue. Fibrolipoma is a benign tumour of fibrous and adipose tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "In which age does breast cancer most often develop?",
+            "options": [
+              "Before 30",
+              "45\u201350 years",
+              "After 60"
+            ],
+            "correct": 2,
+            "explanation": "Breast cancer incidence rises progressively with age and is most common after 60 years (postmenopausal women). Risk increases due to prolonged oestrogen exposure, accumulation of genetic mutations, and age-related hormonal changes. Breast cancer is rare in women younger than 30 years \u2014 most breast lesions in this age group are benign. Incidence begins to increase around perimenopause (45\u201350 years) but the peak frequency is after 60.",
+            "past_paper": true
+          },
+          {
+            "question": "The breast cancer is, as a rule, a unilateral process. Is that right?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "correct": 0,
+            "explanation": "In most patients, breast cancer arises in a single breast (unilateral), usually developing in one quadrant \u2014 most commonly the upper outer quadrant. Bilateral breast cancer is relatively uncommon, occurring in approximately 2\u20135% of cases. Therefore breast cancer is, as a rule, a unilateral process.",
+            "past_paper": true
+          },
+          {
+            "question": "Is only surgical treatment sufficient for the treatment of breast cancer?",
+            "options": [
+              "Yes",
+              "No"
+            ],
+            "correct": 1,
+            "explanation": "Breast cancer treatment requires a multimodal approach \u2014 surgery alone is not sufficient in most cases. Treatment typically combines surgery (lumpectomy or mastectomy), radiation therapy (commonly after breast-conserving surgery), chemotherapy (for locally advanced or high-risk disease), hormonal therapy (for hormone-receptor-positive tumours), and targeted therapy (for HER2-positive tumours). Because breast cancer may have microscopic systemic spread, surgery alone cannot eliminate all malignant cells.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is a benign tumour from angienchyma:",
+            "options": [
+              "Lipoma",
+              "Glioma",
+              "Hemangioma",
+              "Adenoma"
+            ],
+            "correct": 2,
+            "explanation": "Hemangioma is a benign tumour originating from blood vessels (vascular endothelium), representing a tumour of angiogenic tissue (angienchyma). It presents as a red or bluish vascular mass that is often soft and compressible. Lipoma is a benign tumour of adipose tissue. Glioma arises from glial cells of the nervous system. Adenoma is a benign tumour of glandular epithelium, not vascular tissue.",
+            "past_paper": true
+          },
+          {
+            "question": "Benign tumour from muscular tissue is:",
+            "options": [
+              "Leiomyoma",
+              "Glioma",
+              "Lipoma",
+              "Teratoma"
+            ],
+            "correct": 0,
+            "explanation": "Leiomyoma is a benign tumour originating from smooth muscle tissue, most commonly occurring in the uterus as uterine fibroids, composed of proliferating smooth muscle cells arranged in bundles. Glioma is a tumour of glial cells found in the central nervous system, not muscle tissue. Lipoma is a benign tumour of adipose tissue. Teratoma is a germ cell tumour containing tissues from multiple embryonic layers.",
+            "past_paper": true
+          },
+          {
+            "question": "The most frequently occurring benign disease of the uterus is:",
+            "options": [
+              "Endometriosis",
+              "Cervical canal polypus",
+              "Fibromyoma"
+            ],
+            "correct": 2,
+            "explanation": "Fibromyoma (uterine leiomyoma) is the most common benign tumour of the uterus, arising from the smooth muscle cells of the myometrium. It is very common in women of reproductive age, presenting with menorrhagia, pelvic pressure, and reproductive problems. Endometriosis is not a tumour \u2014 it is a condition characterised by ectopic endometrial tissue outside the uterine cavity. Cervical polyps are benign mucosal growths but are less common than uterine fibroids.",
             "past_paper": true
           }
         ],
@@ -21659,10 +22853,371 @@
             "correct": 1,
             "explanation": "Stage III is treated with megavoltage radiotherapy (4000\u20135000 rads over 5 weeks), which shrinks the tumour to allow simple local excision, eliminating the need for exenteration. Stage IV is treated by chemotherapy or radiotherapy (e.g. 5-FU and mitomycin-C with radiotherapy for anal involvement) to avoid exenteration. Stage I is treated surgically with partial/unilateral vulvectomy and inguinal node dissection. Stage II requires total vulvectomy and bilateral groin lymph node dissection.",
             "past_paper": true
+          },
+          {
+            "question": "In case of suspecting vulval melanoma the following methods are used:",
+            "options": [
+              "Knife biopsy",
+              "Scarification biopsy",
+              "Taking Pap smears",
+              "Punction biopsy"
+            ],
+            "correct": 0,
+            "explanation": "Knife biopsy (incisional or excisional) is the recommended method for suspected vulval melanoma. It allows adequate tissue sampling with intact architecture, essential for histopathological diagnosis and determining tumour thickness and depth of invasion \u2014 critical prognostic factors in melanoma. Scarification biopsy removes only superficial tissue. Pap smear is used for cervical cytology screening. Punction (needle) biopsy is avoided in suspected melanoma because it may miss the deepest invasive portion and can distort staging assessment.",
+            "past_paper": true
+          },
+          {
+            "question": "All the following clinical signs are characteristic for kraurosis vulvae, EXCEPT:",
+            "options": [
+              "Shrinkage of labia minora and majora",
+              "Itching in the area of clitoris",
+              "Dryness of mucocutaneous integument of vulva",
+              "Constriction of vaginal orifice",
+              "Oedema of vulva tissues"
+            ],
+            "correct": 4,
+            "explanation": "Kraurosis vulvae (associated with lichen sclerosus) is an atrophic condition \u2014 the vulval skin becomes thin, wrinkled, and atrophic rather than oedematous. All other features are characteristic: shrinkage and atrophy of the labia (with possible fusion and narrowing of introitus); severe pruritus (itching) is the chief symptom; dryness of the vulval skin; and constriction of the vaginal orifice.",
+            "past_paper": true
+          },
+          {
+            "question": "The treatment of patients with leukoplakia and kraurosis vulvae includes all the following EXCEPT:",
+            "options": [
+              "Medicamental treatment",
+              "Hormonal treatment",
+              "Surgical treatment",
+              "Procaine blocks",
+              "Radiotherapy"
+            ],
+            "correct": 4,
+            "explanation": "Radiotherapy is not used for leukoplakia or kraurosis vulvae because these are benign dystrophic conditions. Radiation may worsen tissue damage and atrophy and is reserved for malignant vulvar lesions. All other options are used: medicamental treatment (topical steroids, emollients, vitamins), hormonal treatment (topical oestrogen or testosterone ointment), surgical treatment (when suspicious lesions need biopsy), and procaine blocks (to relieve severe pruritus in resistant cases).",
+            "past_paper": true
+          },
+          {
+            "question": "Cancer of the vulva often occurs in women of:",
+            "options": [
+              "Reproductive age",
+              "In premenopause",
+              "In post-menopause",
+              "Irrespective of age"
+            ],
+            "correct": 2,
+            "explanation": "Vulvar cancer is mainly a disease of older women, usually after 60\u201365 years of age (post-menopause). It is commonly associated with chronic vulvar dystrophies such as lichen sclerosus (kraurosis vulvae). It is rare in reproductive-age women. Incidence markedly increases in postmenopausal women and is therefore not irrespective of age.",
+            "past_paper": true
+          },
+          {
+            "question": "The clinical course of micro-invasive cervical cancer is similar to:",
+            "options": [
+              "Severe dysplasia",
+              "Intraepithelial cancer",
+              "Invasive cancer",
+              "A and B are right"
+            ],
+            "correct": 3,
+            "explanation": "Micro-invasive carcinoma (Stage IA) behaves clinically closer to preinvasive lesions. Its course is similar to severe dysplasia (CIN III \u2014 very low metastatic potential) and intraepithelial cancer (carcinoma in situ \u2014 minimal stromal invasion, very low lymphatic spread, excellent prognosis). It does not resemble invasive cervical cancer, which shows extensive stromal invasion, higher lymphatic metastasis, and a more aggressive clinical course.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of intraepithelial cervical cancer among women of age 50 and after, it is preferred to perform:",
+            "options": [
+              "Total hysterectomy with adnexa",
+              "Hysterectomy without adnexectomy",
+              "Cryodestruction",
+              "Electroconisation"
+            ],
+            "correct": 0,
+            "explanation": "In women aged 50 and over, fertility preservation is not required. Total hysterectomy with removal of adnexa is preferred \u2014 it removes the primary lesion completely, eliminates risk of recurrence or progression, and adnexal removal is appropriate in postmenopausal women. Cryodestruction and electroconisation are used in younger women where fertility preservation is desired and lesions are localised.",
+            "past_paper": true
+          },
+          {
+            "question": "The main clinical signs of uterine tube cancer are: 1. Enlargement of abdomen sizes  2. Constipation  3. Difficulties while urination  4. Discharge from genitals",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 3,
+            "explanation": "The classical symptom of primary fallopian tube carcinoma is intermittent watery or serosanguinous vaginal discharge (hydrops tubae profluens) \u2014 occurring due to periodic emptying of fluid from the distended fallopian tube into the uterine cavity and vagina. Abdominal enlargement, constipation, and urinary difficulties appear only in late stages due to pressure effects. The Latzko triad of fallopian tube carcinoma is: intermittent profuse watery discharge, pelvic pain, and palpable pelvic mass.",
+            "past_paper": true
+          },
+          {
+            "question": "The following refers to cervical precancer: 1. Leukoplakia with atypia  2. Dysplasia  3. Papilloma  4. Retention cysts",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 1,
+            "explanation": "Leukoplakia with atypia: when associated with cellular atypia it is considered precancerous and may progress to carcinoma in situ or invasive carcinoma. Dysplasia (CIN I, II, III): well-recognised precursor of cervical cancer. Papilloma: generally a benign epithelial growth, not classified as precancerous. Retention cysts (Nabothian cysts): benign mucus retention cysts with no malignant potential.",
+            "past_paper": true
+          },
+          {
+            "question": "The cervical cancer diagnostics is carried out with the help of: 1. Gynaecological examination  2. Cytological examination of scraping from cervix and cervical duct  3. Colposcopy  4. Histological examination of a part of the cervix",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods are used in cervical cancer diagnosis. Gynaecological examination: detects visible cervical lesions, ulceration, or bleeding. Cytological examination (Pap smear): screening method to detect abnormal cervical cells. Colposcopy: magnified visualisation and identification of suspicious areas for biopsy. Histological examination (biopsy): provides the definitive diagnosis of cervical cancer.",
+            "past_paper": true
+          },
+          {
+            "question": "Cervical endoscopy has the following forms: 1. Simple colposcopy  2. Broad colposcopy  3. Colpomicroscopy  4. Colpocervicoscopy",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four forms are recognised. Simple colposcopy: direct examination under magnification without reagents. Broad (extended) colposcopy: acetic acid or Lugol's iodine applied to highlight abnormal epithelium. Colpomicroscopy: high-magnification examination allowing microscopic evaluation of epithelial cells in vivo. Colpocervicoscopy: endoscopic examination of both the cervix and cervical canal.",
+            "past_paper": true
+          },
+          {
+            "question": "The material for histological examination of cervix is taken by: 1. Biopsy  2. Conisation  3. Amputation  4. Cervical canal curettage",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods provide tissue for histological examination. Biopsy: the most common method for obtaining tissue from a suspicious cervical lesion. Conisation (cone biopsy): removes a cone-shaped portion \u2014 both diagnostic and therapeutic for CIN III or carcinoma in situ. Amputation: removal of a larger cervical portion provides tissue for histological examination. Cervical canal curettage: scraping of tissue from the endocervical canal, useful for detecting lesions inside the canal.",
+            "past_paper": true
+          },
+          {
+            "question": "Treatment of cervical precancerous conditions can be performed by: 1. Electrocoagulation  2. Laser therapy  3. Cryodestruction  4. Knife amputation",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four methods are used for treating cervical precancerous lesions. Electrocoagulation (diathermy): local destructive method to destroy abnormal cervical epithelium in CIN. Laser ablation: removes abnormal cervical tissue with high precision. Cryotherapy: destroys abnormal cervical cells using extreme cold; widely used for low-grade and selected high-grade precancerous lesions. Knife amputation or conisation: surgical excision for severe dysplasia (CIN III), carcinoma in situ, and lesions extending into the cervical canal.",
+            "past_paper": true
+          },
+          {
+            "question": "The international TNM-system classification means: 1. T \u2014 tumor  2. N \u2014 regional pelvic lymphatic nodules  3. M \u2014 distant metastasis  4. G \u2014 tumor differentiation",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "The TNM staging system comprises T (tumour) \u2014 size and local extent of the primary tumour; N (nodes) \u2014 involvement of regional lymph nodes (e.g. pelvic lymph nodes in gynaecological cancers); and M (metastasis) \u2014 presence or absence of metastases in distant organs. G (grading) describes histological differentiation of tumour cells but is NOT part of the TNM staging system \u2014 it is a separate histopathological grading parameter.",
+            "past_paper": true
+          },
+          {
+            "question": "The cervical cancer prophylaxis includes: 1. Repeated examination using cytological and colposcopic methods  2. Regular prophylactic examinations with cytological smear  3. Improving the services of examining rooms  4. Continuous training of personnel",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 2,
+            "explanation": "All four measures are part of effective cervical cancer prophylaxis. Repeated examination with cytology and colposcopy: women with abnormal findings undergo regular follow-up to detect precancerous lesions early. Regular prophylactic Pap smear screening: cornerstone of prevention, enabling detection of CIN before invasive cancer develops. Improving examining room services: well-equipped screening facilities improve access. Continuous training of personnel: ensures proper sampling, accurate interpretation, and early detection.",
+            "past_paper": true
+          },
+          {
+            "question": "The Wertheim operation is performed in case of:",
+            "options": [
+              "Uterine sarcoma",
+              "Ovarian cancer",
+              "Chorionepithelioma",
+              "Cervical cancer"
+            ],
+            "correct": 3,
+            "explanation": "The Wertheim operation (radical hysterectomy) is the standard surgical treatment for early-stage invasive cervical cancer (Stage IB\u2013IIA). It includes removal of the uterus, parametrium, upper third of the vagina, and pelvic lymph nodes. Uterine sarcoma is treated by total hysterectomy with bilateral salpingo-oophorectomy. Ovarian cancer requires cytoreductive surgery. Chorionepithelioma (choriocarcinoma) is treated primarily with chemotherapy.",
+            "past_paper": true
+          },
+          {
+            "question": "The most valuable method for cervical cancer diagnosis is:",
+            "options": [
+              "Speculum examination",
+              "Colposcopy",
+              "Cytological examination of smears",
+              "Biopsy"
+            ],
+            "correct": 3,
+            "explanation": "Biopsy with histopathological examination provides the definitive and most valuable diagnosis of cervical cancer \u2014 confirming malignancy, determining tumour type and grade, and differentiating between precancerous lesions and invasive carcinoma. Speculum examination may reveal visible lesions but cannot confirm malignancy. Colposcopy helps identify suspicious areas and guides biopsy but does not provide definitive diagnosis. Pap smear cytology is a screening method, not a confirmatory diagnostic test.",
+            "past_paper": true
+          },
+          {
+            "question": "Severe dysplasia is characterised by structural changes in epithelium of:",
+            "options": [
+              "All layers",
+              "Only in superficial layer",
+              "Only in separate cells",
+              "In all the layers, except superficial one"
+            ],
+            "correct": 3,
+            "explanation": "In severe dysplasia (CIN III), atypical cells occupy most of the epithelial thickness but the superficial layer may still show some degree of differentiation. CIN I: abnormal cells in the lower 1/3; CIN II: lower 2/3; CIN III: almost full thickness, sparing the superficial layer. Involvement of all layers including superficial corresponds to carcinoma in situ, not severe dysplasia. Dysplasia begins in the basal layers and involves structural changes throughout multiple layers, not just isolated cells.",
+            "past_paper": true
+          },
+          {
+            "question": "Severe dysplasia of cervical epithelium is:",
+            "options": [
+              "Precancer",
+              "Early stage of cancer",
+              "Background process",
+              "Dyshormonal hyperplasia"
+            ],
+            "correct": 0,
+            "explanation": "Severe dysplasia (CIN III) is classified as a precancerous (premalignant) lesion. It is characterised by marked cellular atypia, loss of normal epithelial maturation, and involvement of most of the epithelial thickness. Although the basement membrane remains intact, the lesion has a high risk of progression to invasive carcinoma if untreated. Early invasive cancer requires invasion through the basement membrane. Background processes do not have malignant potential. Dyshormonal hyperplasia refers to hormone-related proliferative changes, not the cellular atypia of dysplasia.",
+            "past_paper": true
+          },
+          {
+            "question": "The cervical dysplasia can be: 1. Mild  2. Moderate  3. Severe  4. Mixed",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 0,
+            "explanation": "Cervical dysplasia is classified into three grades. Mild dysplasia (CIN I): atypical cells in the lower one-third of the epithelium. Moderate dysplasia (CIN II): abnormal cells extend into the lower two-thirds. Severe dysplasia (CIN III): atypical cells involve almost the full thickness, approaching carcinoma in situ. 'Mixed dysplasia' is not a recognised histological classification \u2014 dysplasia is classified strictly into mild, moderate, and severe forms.",
+            "past_paper": true
+          },
+          {
+            "question": "In case of which disease is omentum resection carried out during surgery?",
+            "options": [
+              "In case of uterine sarcoma",
+              "In case of ovary cancer",
+              "In case of cervical cancer",
+              "In case of uterine carcinoma"
+            ],
+            "correct": 1,
+            "explanation": "Omentectomy is routinely performed during surgery for ovarian cancer. Ovarian cancer commonly spreads within the peritoneal cavity, and the greater omentum is a frequent site of metastasis (omental cake). Staging or cytoreductive surgery includes total hysterectomy, bilateral salpingo-oophorectomy, omentectomy, peritoneal biopsies, and lymph node assessment. Uterine sarcoma and cervical cancer do not routinely require omentectomy. Endometrial cancer surgery generally does not include omentectomy except for certain aggressive histological types.",
+            "past_paper": true
+          },
+          {
+            "question": "The following is in the first place among the mentioned malignant tumours of female genitals:",
+            "options": [
+              "Cervical cancer",
+              "Uterine carcinoma",
+              "Uterine sarcoma"
+            ],
+            "correct": 0,
+            "explanation": "Historically and in many developing regions without widespread screening, cervical cancer is the most common malignant tumour of the female genital tract. High incidence is associated with HPV infection, early onset of sexual activity, multiple sexual partners, and lack of regular screening. Endometrial carcinoma is common particularly in postmenopausal women, but overall it is less frequent than cervical cancer in many populations. Uterine sarcomas are rare.",
+            "past_paper": true
+          },
+          {
+            "question": "The ascites is most common for:",
+            "options": [
+              "Uterine sarcoma",
+              "Cervical cancer",
+              "Uterine carcinoma",
+              "Ovary cancer"
+            ],
+            "correct": 3,
+            "explanation": "Ascites is a classic feature of advanced ovarian cancer, developing due to peritoneal dissemination of tumour cells, peritoneal irritation, and obstruction of lymphatic drainage. Ovarian tumours frequently spread within the abdominal cavity leading to ascites, omental metastases, and abdominal distension. Uterine sarcoma may metastasise haematogenously but ascites is uncommon. Cervical cancer typically spreads locally or via lymphatics. Ascites in endometrial cancer is rare even in advanced disease.",
+            "past_paper": true
+          },
+          {
+            "question": "The following refers to the precancerous disease of external genitals:",
+            "options": [
+              "Fibroma of vulva",
+              "Hydroadenoma",
+              "Vulvitis",
+              "Leukoplakia of vulva"
+            ],
+            "correct": 3,
+            "explanation": "Vulvar leukoplakia is characterised by white keratinised plaques on the vulvar epithelium. When associated with epithelial atypia, it is considered a precancerous condition because it may progress to vulvar carcinoma. Fibroma of the vulva is a benign connective tissue tumour with no premalignant potential. Hydroadenoma is a benign tumour of sweat glands and is not classified as a precancerous lesion. Vulvitis is inflammation of the vulva and is not a precancerous disease.",
+            "past_paper": true
+          },
+          {
+            "question": "Does the serous cystoma refer to precancerous diseases?",
+            "options": [
+              "Yes",
+              "No",
+              "Sometimes"
+            ],
+            "correct": 1,
+            "explanation": "Serous cystoma (serous cystadenoma) is a benign epithelial ovarian tumour and is not considered a precancerous condition. It is a thin-walled cyst of clear serous fluid arising from the surface coelomic epithelium. Although serous cystadenocarcinoma exists as its malignant counterpart, the benign serous cystoma itself is not a precancerous lesion \u2014 malignant tumours usually arise de novo rather than by transformation of a benign serous cystoma.",
+            "past_paper": true
+          },
+          {
+            "question": "The choriocarcinoma most often occurs after:",
+            "options": [
+              "Abortions",
+              "Cystic mole",
+              "Normal labour",
+              "Preterm labour"
+            ],
+            "correct": 1,
+            "explanation": "The majority of choriocarcinoma cases develop after a hydatidiform (cystic) mole, where trophoblastic tissue undergoes malignant transformation and beta-hCG levels remain persistently elevated. Approximately 50% of choriocarcinomas occur after a hydatidiform mole. Choriocarcinoma can develop after abortion or normal term pregnancy, but less commonly. Preterm labour is a rare preceding event.",
+            "past_paper": true
+          },
+          {
+            "question": "The following refers to ovarian cancer:",
+            "options": [
+              "All the malignant tumours of ovaries",
+              "Only the germinogenic tumours",
+              "Only stromal tumours",
+              "Only the tumours of epithelial origin"
+            ],
+            "correct": 3,
+            "explanation": "In clinical practice, 'ovarian cancer' most commonly refers to malignant tumours of epithelial origin \u2014 approximately 90% of ovarian cancers originate from the surface epithelium, including serous cystadenocarcinoma, mucinous cystadenocarcinoma, endometrioid carcinoma, and clear cell carcinoma. Germ cell tumours and sex cord-stromal tumours also exist but are much less common and are classified separately.",
+            "past_paper": true
           }
         ],
         "Paediatric & Adolescent Gynaecology": [],
-        "Congenital Malformations": [],
+        "Congenital Malformations": [
+          {
+            "question": "Imperforation of hymen is called:",
+            "options": [
+              "Hymen atresia",
+              "Hymen gynatresia",
+              "Hymen agenesis",
+              "Hymen aplasia"
+            ],
+            "correct": 0,
+            "explanation": "Imperforate hymen is a congenital condition where the hymenal membrane fails to perforate during fetal development (failure of canalisation), leading to obstruction of the vaginal opening. It is therefore termed hymen atresia. Gynatresia refers to acquired obstruction of the genital tract (e.g. cervical/vaginal stenosis due to surgery, burns, or infection). Agenesis means complete absence of the hymen \u2014 the opposite of imperforation. Aplasia indicates failure of development (the hymen would not form at all). Clinically, imperforate hymen causes haematocolpos and primary amenorrhoea with cyclic pain after menarche.",
+            "past_paper": true
+          },
+          {
+            "question": "Congenital absence of the uterus and vagina is called:",
+            "options": [
+              "Rokitansky\u2013K\u00fcster\u2013Hauser syndrome",
+              "Asherman's syndrome",
+              "Meigs' syndrome",
+              "Turner's syndrome"
+            ],
+            "correct": 0,
+            "explanation": "Rokitansky\u2013K\u00fcster\u2013Hauser (MRKH) syndrome is a congenital condition characterised by agenesis of the uterus and upper vagina, with normal ovaries, normal secondary sexual characteristics, and a normal 46,XX karyotype. It results from failure of M\u00fcllerian duct development. Patients present with primary amenorrhoea and absent or rudimentary uterus and vagina on examination. Asherman's syndrome is acquired intrauterine adhesions after curettage or infection, causing secondary amenorrhoea. Meigs' syndrome is the triad of benign ovarian tumour (usually fibroma), ascites, and pleural effusion. Turner's syndrome (45 XO) has streak ovaries but the uterus is usually present though underdeveloped.",
+            "past_paper": true
+          },
+          {
+            "question": "The reason of development of gonadal dysgenesis is: 1. Chromosome anomalies on early stages of oogenesis and spermatogenesis  2. Impact of unfavourable factors on the fetal gonads in the period of their differentiation  3. Impact of radiation in reproductive age  4. Impact of inflammatory process in genitals in the period of starting of menstrual function",
+            "options": [
+              "1, 2, 3 is right",
+              "1, 2 is right",
+              "All the above mentioned",
+              "4 is right"
+            ],
+            "correct": 1,
+            "explanation": "Gonadal dysgenesis refers to abnormal development of the gonads due to defects during embryonic development. Chromosomal abnormalities such as Turner syndrome (45 X) or mosaicism originating from errors during gametogenesis or early embryonic division cause failure of normal gonadal development. Exposure to harmful factors (toxins, drugs, endocrine disruptors) during the fetal period of gonadal differentiation can also interfere with gonadal development. Radiation exposure during reproductive age damages existing gonads but does not cause congenital gonadal dysgenesis. Genital infections at onset of menstruation affect fertility but do not cause congenital gonadal dysgenesis.",
+            "past_paper": true
+          },
+          {
+            "question": "The reason of infertility during gonadal dysgenesis is the absence of: 1. Uterus or its acute hypoplasia  2. Production of gonadotropin  3. Sensibility of receptor apparatus of the ovary towards gonadotropins",
+            "options": [
+              "1 and 2",
+              "2 and 3",
+              "1 and 3",
+              "All three"
+            ],
+            "correct": 2,
+            "explanation": "In gonadal dysgenesis, infertility results from uterine absence or marked hypoplasia (due to lack of oestrogen production from dysgenetic gonads \u2014 without a normally developed uterus pregnancy cannot occur) and lack of ovarian receptor response to gonadotropins (streak gonads lack functional follicles and cannot respond to FSH/LH, preventing ovulation). Gonadotropin production is NOT absent \u2014 in gonadal dysgenesis, FSH and LH are typically elevated (hypergonadotropic state) because the pituitary produces them normally but the gonads fail to respond.",
+            "past_paper": true
+          }
+        ],
         "Contraception": [],
         "Acute Abdomen in Gynaecology": [
           {
