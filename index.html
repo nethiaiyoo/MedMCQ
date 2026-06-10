@@ -30,6 +30,7 @@
     --nephrology: #2D7A4F;        --nephrology-bg: #EAF5EF;
     --obstetrics: #C4477A;        --obstetrics-bg: #FAEAF1;
     --gynaecology: #7A3030;       --gynaecology-bg: #F9EAEA;
+    --new_questions: #1F4E79;     --new_questions-bg: #D6E4F0;
   }
   body.dark {
     --bg: #141210;
@@ -418,6 +419,7 @@ const TOPIC_META = {
   nephrology:       { icon: '🫘', desc: 'Kidneys, electrolytes' },
   obstetrics:       { icon: '🤱', desc: 'Pregnancy, labour, delivery' },
   gynaecology:      { icon: '🌸', desc: 'Menstrual, oncology, fertility' },
+  new_questions:    { icon: '🆕', desc: 'YSMU June 2026 exam paper' },
 };
 
 // ── STATE ──
@@ -466,6 +468,15 @@ async function init() {
     const res = await fetch('questions.json');
     const data = await res.json();
     bank = data.topics || {};
+    // Inject a combined "All New Questions" subtopic into new_questions
+    if (bank.new_questions && bank.new_questions.subtopics) {
+      const allNew = Object.values(bank.new_questions.subtopics).flat();
+      // Prepend so it appears first in the list
+      bank.new_questions.subtopics = {
+        '⭐ All New Questions': allNew,
+        ...bank.new_questions.subtopics
+      };
+    }
   } catch(e) { bank = {}; }
   renderHome();
 }
